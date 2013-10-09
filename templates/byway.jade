@@ -43,9 +43,7 @@ block body
     )
     a.dsq-brlink(href="http://disqus.com") comments powered by <span class="logo-disqus">Disqus</span>
 
-block scripts
-  script(src='/build/build.js')
+block append scripts
   script.
-    var boot = require('boot'),
-      bounds = JSON.parse('#{JSON.stringify(page.metadata.bounds)}');
+    var bounds = JSON.parse('#{JSON.stringify(page.metadata.bounds)}');
     boot.panoramio(document.querySelector('.byway .photos'), bounds);

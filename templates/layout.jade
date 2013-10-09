@@ -9,7 +9,7 @@ html(lang='en')
     block description
       meta(name="description", content="#{locals.siteDescription}")
     link(rel='stylesheet', type='text/css', href='http://fonts.googleapis.com/css?family=Arbutus+Slab|Capriola')
-    link(rel='stylesheet', type='text/css', href='/style/screen.css')
+    link(rel='stylesheet', type='text/css', href='/style/screen.css?v=#{locals.version}')
   body
     header
       hgroup
@@ -25,3 +25,6 @@ html(lang='en')
         li Powered by <a href="http://wintersmith.io" rel="external" target="_blank">Wintersmith</a>
 
     block scripts
+      script(src='/build/build.js?v=#{locals.version}')
+      script.
+        var boot = require('boot');

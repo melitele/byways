@@ -4,7 +4,8 @@
     "siteTitle": "America's Scenic Byways",
     "siteDescription": "Descriptions, maps and links to related information for over 800 America's most scenic roads.",
     "url": "http://scenicbyways.info",
-    "furkotUrl": "https://trips.furkot.com"
+    "furkotUrl": "https://trips.furkot.com",
+    "version": "1.0.0"
   },
   "plugins": [
     "./node_modules/wintersmith-stylus/",
