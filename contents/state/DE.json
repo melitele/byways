@@ -1,0 +1,9 @@
+{
+  "template": "state.jade",
+  "name": "Delaware",
+  "byways": [
+    "57779",
+    "61897",
+    "2334"
+  ]
+}
