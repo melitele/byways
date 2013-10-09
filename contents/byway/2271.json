@@ -1,0 +1,49 @@
+{
+  "template": "byway.jade",
+  "id": "2271",
+  "name": "Baltimore's Historic Charles Street",
+  "distance": "12",
+  "duration": "30 minutes",
+  "description": "The grandest of routes into or out of Baltimore, Historic Charles Street follows the city's best known artery through fashionable cultural, residential, and commercial districts. Visit Charles Street, and you’ll want to stay a while.",
+  "fullDescription": "<p>A trek along Charles Street is an all-inclusive way to experience the heart of Baltimore. It’s an adventure that captures 400 years of historic transformations, including the exciting urban renewal of the Inner Harbor and Charles Center that grew into a phenomenon and spread to cities around the world. Linking the Inner Harbor and its attractions to many of Baltimore’s world-renowned destinations, the byway travels through an eclectic mix of urban and suburban neighborhoods; great places to sight-see, shop, and dine. Visit Charles Street, and you’ll want to stay a while.</p>",
+  "path": "{ktnFbsrrMkLRkpAnDwC[_A?o_@bBkMRuQr@{HFmCNAY}DFA?AACEGGCEECA?EAI@]RC?iDRY^}DJefAzCesAbDuZbAeS`@y@@a@AC@YDuBLwb@dAk@DkGNcBBQIgBtEw@|A}@|AcArAmAvAkAnAANsn@dG}c@rFwN`AqOv@oE^sc@lCmKx@wTjAyo@fE[O_DiA{C}AwA_AcAy@iAkAmDqEEEc@Y_@Q]MYIQEm@Ks@Ae@F_@Lq@Z]Vc@`@WZKTQ`@_@vAwAnHSt@KVS`@U\\Y^UTSLYPg@P_@Hq@FgAAmGQsACuBEm@EuAQgAWu@[g@[}AmAm@g@g@a@i@Yk@QwA]o@I}B[}Cc@gAKYAc@@_@B_AT[Lm@\\_@XIJe@x@i@vA[dA_@~@Yf@W`@a@b@ML}@v@k@b@i@f@Y\\e@n@Q\\[n@Uj@m@hB]~@Yp@c@v@_@h@[`@_@\\a@Vg@Vg@PYHc@J]DS@Q?Y?c@?QA]Ee@IiEsAuDeAsBq@SGu@U}A]_AQ]Io@KmASoAKmC]iGu@sC_@c@GuFcAoBi@m@Q_Ba@[IqA]q@QQG",
+  "websites": [
+    {
+      "url": "http://www.charlesvillage.org/",
+      "name": "Charles Village"
+    },
+    {
+      "url": "http://www.baltimorecity.gov/",
+      "name": "City of Baltimore"
+    },
+    {
+      "url": "http://www.charlesstreet.net/",
+      "name": "Historic Charles Street Association"
+    },
+    {
+      "url": "http://www.mvcd.org/default.aspx",
+      "name": "Mount Vernon Cultural District"
+    },
+    {
+      "url": "http://baltimore.org/",
+      "name": "Visit Baltimore"
+    }
+  ],
+  "states": [
+    "MD"
+  ],
+  "ll": [
+    -76.61377700010843,
+    39.267348999556646
+  ],
+  "bounds": [
+    [
+      -76.63267,
+      39.267348999556646
+    ],
+    [
+      -76.61377700010843,
+      39.41683
+    ]
+  ]
+}

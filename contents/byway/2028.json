@@ -1,0 +1,30 @@
+{
+  "template": "byway.jade",
+  "id": "2028",
+  "name": "Angel Lake Road",
+  "distance": "11.69",
+  "duration": "0.5 hour",
+  "description": "This route proceeds through the Humboldt-Toiyabe National Forest to reach an alpine lake nestled in the Ruby Mountains.",
+  "fullDescription": "<p>If this isn't the highway to heaven, it sure bears a strong likeness.  The road winds upward through sagebrush and pinon pine, then mountain mahogany, quaking aspen and limber pine.  The lake is in a glacial cirque in the East Humboldt, a young, craggy and visually spectacular range.  Its scarps and spires have a character that changes with the season and the light, like the wizened face of a Basque bartender.</p>",
+  "path": "}~zyFt{v|TcCpVw@vYZtR`Ax^bAb[TrCh@hD~@bE~AlEbNxY~@`BbCpClBrAdBx@`Er@xZv@pAC`Hs@nHuCjCo@dAGpCDhCj@bCrA~@~@xOdTnCdD\\Xz@`@x@TrEChAJhCdA~@fA|DlHl@r@|BlBxBjAvIrChAl@dHdFlKbHxAv@fFfBbAx@xCxCt[bUtAj@nARlBLpE_@hHaA|E?j|@nK|Bf@~BxAtN`Kx@v@nC`Ev@l@rAd@nB^n@`@`EdEj@x@l@zATdAXfHN~AhCfPh@tDN`LbB|QrAdGzMrf@~@dETzBKnEOx@i@jBoAxBqElEcAdBUfAsBtPGdAJn@PPf@Ad@e@x@yAz@m@f@ObCOlBJ~@Zp@`@|ElDr@bA|AxCt@f@v@J`AKlDqBx@BpBl@hAv@dA~A|BnCrEhIrAnBr@TdDRfBGjB_@v@G~@LbCrAf@p@f@nApAd@~@dA^Rt@LnAOl@FrCxAd@`@\\~@VhBzArE^`BNlACx@[lB@p@L^Z^`@JjAOd@b@Fx@QfCHl@Tb@v@Rd@Kr@k@bBuB`@]r@Sl@@n@Tn@n@Rp@d@xDr@lCCl@S`@a@Nc@Q]y@u@{CYY_@?e@`@kF`Ka@j@o@f@gFjBi@Fi@Mo@y@MsAKmH_@kAo@a@mEYwCwAe@g@Is@PyHQs@SMoDwA_@?kD^uAVy@XiDlCMl@Bp@rChNTlBKzRT`F~AvMvC~M`@lCAtK",
+  "websites": [
+    {}
+  ],
+  "states": [
+    "NV"
+  ],
+  "ll": [
+    -114.97418199999998,
+    41.103351999999916
+  ],
+  "bounds": [
+    [
+      -115.08528899999993,
+      41.01734900000008
+    ],
+    [
+      -114.97418199999998,
+      41.104290000000105
+    ]
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "template": "byway.jade",
+  "id": "59473",
+  "name": "Naat' tsis' aan - Navajo Mountain Scenic Road",
+  "distance": "58",
+  "description": "From Page, AZ to US 160, the Naat' tsis' aan - Navajo Mountain Scenic Road offers travelers the chance to come closer to inspiring rock formations and culture of the Navajo people. Your journey will take you past the myth-shrouded Navajo Mountain.",
+  "path": "c|h`F`vggTSa@n@w@l@sAh@uH^gBx@cAx@ST?x@J\\NtBbCx@lAlB`EdA~D^tBdE{AtDy@pHaAvZeDbC_@lD_AjAg@zGyDjB_BdA{Aj@QpBsBnAqBrCgFbCgGhBgH~@{FNgCH{HEsJsAmKaSmmAkDeUc@mF?_GfJq`ApAaLhDg`@nCoWjBkSxGmo@hCkYvGgq@~A{NTyA`BaH`Le\\|x@oyB~AqDrA{BfDmDxBuAbCeAtwBqf@|EsAlCmA|UsMrl@w\\|DiCbD{Cj}@yiAbDmD|UsYtBmB`CyAnAg@|Bk@vJaBb}@{P`CQ~CBvTdBhGLdDSdDk@hCs@zB_AtDqBvsDusBlCmArEmA~BYpDSzeCqB`_@Qv`A{@`DYdASbCq@`DsAjs@_^vYuNzMgGpx@}`@z^wPj{BcgA|Bo@fDe@hDAlBNnBb@d\\nKrDr@bFDlDc@bCs@bB_A`E{CdR}PbEgDf~@ux@vEgElDgE~B_Ep{@grB~CoG|B_DfmAmpA|FyE`WkPbH_FhAeAfCaDvGoJrEsHnC_FhN}Rbz@ipAxoCgfEvEmHlA{BhBsEhBoHj]s|B\\}E@eFIaB[qDq@{C{AmEs@yAe^yo@cFiImCmDcDoDyz@{t@eX}T}a@i^uBgCeBaDi@yAiRsl@cGcLyPqZwBeGe@mCe@{F?_DpGecIAcEU_G}HykAwCub@eAsLe@{K}B_ZoAuSoIsmAUaFOgLHsHdMo`Eh@mIzAqQRkDn@iFXyDXyFr@gFXoA^qAz@aBhAiBzF}G~AyAnA_AbAe@lCs@`LeBzL_C~CiA|@k@hCsCbPcXxAmBrDgD~NkIdBgB`BgCf@kAfAaEjMqv@bBsIvF}R~@kENaBNaFh@qf@NgCR_CdCqSjH_k@lAuH~@aEhAeDvEyKn`@s{@dC_Jj@oD`@mEJyCBgESqFaJe|@}Ioy@]iEiFkdASeF?uIRaD`OoyA`Fgf@~AgMxAoP`DwZvMosAXaB^wBlAaEh@_B`BeD`BiCbe@mq@po@y`A`B_Dr@sBf@sBZmCT_EGuDM_BU_BsAaFqMee@_@yAc@gDY_FB{ErF}v@r@sGjAuHbBgHbDsJxn@w`BvC{G~@{AdBwBhDmC`CgAxBq@hAMrCKpL@dcAjAbe@^bDLnQjBxuBvUfG^nH?|PYrz@m@n_@q@nF_AjFgB`n@eYdr@c\\hRoIhRyI",
+  "websites": [
+    {}
+  ],
+  "states": [
+    "AZ"
+  ],
+  "ll": [
+    -111.455849,
+    36.91474199999999
+  ],
+  "bounds": [
+    [
+      -111.45617699999997,
+      36.46112800000009
+    ],
+    [
+      -110.69210099999998,
+      36.91484800000006
+    ]
+  ]
+}

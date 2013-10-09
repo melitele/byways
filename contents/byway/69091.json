@@ -1,0 +1,33 @@
+{
+  "template": "byway.jade",
+  "id": "69091",
+  "name": "Old Main Streets",
+  "distance": "111",
+  "duration": "Allow 3 hours to drive the byway.",
+  "description": "On this tour, you will explore the quaint towns and villages of Carroll and Frederick counties, paying particular attention to the old Main Streets, that were the hub of activity for each town and the surrounding countryside.",
+  "fullDescription": "<p>White picket fences. Quiet, tree-lined streets. Rocking chairs on the front porch. These are the sights associated with small-town U.S.A. They're still available for you to see as you step back into a bygone era along this charming byway. Drive past wide-open fields, window-shop for antiques, dine with \"locals\" at the eatery on the corner, and then drift off to sleep on a four-poster bed inside a quaint country inn.</p>",
+  "path": "e_zpFrmnwMhEcXp@mCvIaWlEoKrAyBtBmCfB_D~BmChBuAzGcEh@iB|@iRx@iUtB_c@SgE_@_DcDmPy@Ge@S]c@Oo@gE_^KoBB}Ed@_ExRuy@^aDHaDKmQ@oCNgDXeDnAoIxBuMfEia@XiDBkEgAaSE{AD_ApEwVZy@pDeFn@yAvAoEdA_Bt@y@pBmAhLyFbAs@\\q@Nu@@q@KeB_@mBi@_FScDq@mS?{@l@mKRaJb@cZ?gEe@gDwDoRqB{M{AaMg@iGQeED_C|Bk\\h@mCd@{@r@w@rQ}OnAqAtBaDf@mA|@mEJ_CBqBGoAgLoyBcA{Pc@eAiFaI_@aAi@aCgAaQoAmM}Ekb@Ey@h@gB|KaQ|@gCrBsIbGyO\\kCTaD?eAA_@cAsEYqBCiABy@~AsNrAmDpE}JdAeFjBoHv@_B|@sAxG_I`K{Gr@kAXuAbD_Qd@}ClF{{@?_CkCeTWmNBk@^sBhAmE^u@lB_C~@eCl@oDP_C?mHYyYn@ej@_AiG_CgYe@}DaGg]s@gGIcEEmJs@k`@eAuN}@aIu@gEsDuNSkAOyA_AoPi@iGY_C_@gBsByGUyAmAuLK{FZgG|@sIT_EEyCc@iIi@sGEaAHi@Xu@tI_LrH}PpL}ZzFqVIcm@??@?`IfClTlD~PdEzNbHtL`F`Cl@nBJtLu@tCR~M~ArB?zJeBnN{ExFmAlAKdERzHKtJaC^YjJgLpJgGlDeBt@m@LW~@oGnB{J^sAT]jCsAhG{AtAWLDbAlB??|CsC`p@ae@~@lCV`@^Dj@MzPiGv@k@vF{F|FwFfMgGpBs@vCYzG?fUoFbAQpBAdBRlFfA~A`@hBr@rTdMfg@jXxBxAlClCrDrEfAdB`@tA^jBlRhqA^jBvF|P~@dCx@rArA~AxCrBbGxCl@`@h@v@Tr@NtBNfIYrB_BvGSnBUjIZtCtCtHdApA|@`@hEpAtVrGrZvGjAbA|@tBdTl{@RhBDvCeFnl@?zE`BtKFlBCdFSrBmId^aC`Re@rHY`LNjPYjFkA|G_@~FJrCfEp[DrEUbEn@zUTlCvClQrCbOhDvNlBjLrAhDrCjEtAnEVvBFzB?fSHnCfEbb@n@hEvIp]r@`Bz@hBlGtJp@r@~Al@??eArEoF|Pa@jB?~A^bMkQbA_MbHiARoIUwRiBsUsDoLoAsCK}GRoJj@yc@aJg[kFgXoFiTmDySyDkEkAaL{EsIsBsLaGaEyA_E_Ak@Es@VwFlE}MeGyM}LcEsEi@s@]_AsDcOIq@AkATiBlCyIh@_CD_AcEiU]yCKoEToJh@iBn@}@bB}A^k@\\mAj@iQ\\cGh@mGdAsJN_CEeFY{EQ{@a@}@s@u@wImHi@qAy@uKyBgHcGgP}DcI{K{Mu@sAmDgJyAgDoFmOm@oAWW_Ae@o@GoYj@wM`@ew@cWoWcIeCq@n@oRh@iFXeBdAaEfAiChE}Gx@mBr@qBx@oDt@eFXsDHmECaCu@aKIcDJcEReCReBh@sCh@mBz@aCtKqV|BaGj@sBl@oCb@{CtAoObAoIbA_FdAoDhCyGz[_p@bAcCnCkIrAiFbAmFzAsKzDud@^_Dh@gD`AyD|A{DrAcClCmD",
+  "websites": [
+    {
+      "url": "http://www.sha.maryland.gov/Index.aspx?PageId=97&d=54",
+      "name": "Maryland State Scenic Byways"
+    }
+  ],
+  "states": [
+    "MD"
+  ],
+  "ll": [
+    -77.41161300033968,
+    39.62371099996267
+  ],
+  "bounds": [
+    [
+      -77.41161300033968,
+      39.48347900015568
+    ],
+    [
+      -77.10178400003156,
+      39.62371099996267
+    ]
+  ]
+}

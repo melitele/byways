@@ -1,0 +1,32 @@
+{
+  "template": "byway.jade",
+  "id": "81451",
+  "name": "Western Vistas Historic Byway",
+  "distance": "102",
+  "description": "Visitors to the Western Vistas Historic Byway will experience the ”badlands” of Kansas and wide-open scenic views, where limestone formations reach to the sky.  ",
+  "fullDescription": "<p>Visitors to the Western Vistas Historic Byway will experience the ”badlands” of Kansas and wide-open scenic views, where limestone formations reach to the sky.  There are numerous national historic sites and various museums relaying the stories of the early settlers to the area as well as various recreational opportunities.  Keep on the watch for the wildlife native to the area – pronghorn, bison, deer, turkey, pheasant, or prairie dog, to name just a few.   </p>",
+  "path": "qb{iFhk{fRsyAR_d@GoVJy^C{sALoMH}nAFgpNrAwH[iFw@}Cs@g@fCi@fBq@pAcArA_BzAuMpJeFbDuBx@ob@dIyC^gFJgJs@_PkBmG]kqAyAuIg@sCDsCPmD~@_Al@cAfA{AxCwCzIy@xA_AjAwBzA_Bv@oBt@qC\\mB?uDc@cD{A}CgBqFwDsC{BeLiLeA_AsAq@iB_@aMe@gEyBs@O_B?iCT}DNcD]kCq@u@u@[_A[sGWgAi@qAe@m@g@Y}IyCwBqAiB}Be@oAe@gBSiB_Do|AJgsB_fAPiZI{yBgB_TYmIm@_`Ego@qLsAcNs@oaDcAwFGsBMyDk@wDeA}DeBgGiE_VwReCiBiBaAoB_AsGgBmB]wFYmkA_@szGaDiIDmDJaFZiu@rGwKDm{AuL{EYojAq@omCyB{{EeCwiD}@icAQoVFenFuBk|C}@y~@m@kpEuBw|@WJv_Fl@diBJvElTtoD`ZtaFBjDSdDmFl\\_@xDO`HNlHXfD^~BpIr_@~@jFx@lF~@`KfFpz@TbC~@lFtEtP~@xEd@~DXfFBzl@^`VJzBfGfdAxP|nCtClg@HfE?`Ju@fj@H`Hd@lKzFnp@pA`MfExe@XhKd@xFbQ`mBlBzK|@rItQ`oBxBjWjGfq@tBtS~@`Fb@fDlCnYd@lHDzCRrDpJzcA~@rH|f@jjC~BbL`Gt[|BlLnBzIjoA|cE`[rgAjn@zrBxDtIrCxEvE`GtDvDlDhCrs@bb@`F`EnCfDbBjC|CtGhBrFnA|Fn@hFp_AtvHjF|a@~AtJfB`IxChKneAtbDnCfK|BxJpCbOnWhkBxBxK|AlFlBrFpAzClDfHtpA~uBjKbQ|EfJlEtJpr@paB`DfHrGbMrg@~kAlNj\\xDnL~AdEbuAjbDhEtLhBfGbBlGlCzLxCzPh@`EbEda@l@`F~BlNbBrIf`BxvGrCbL~@`D|D`L|BrE~DrF~bA|pAfC~Dx@dBn@~A|A`FhA`GhBfSnTtgCbBlSn@|KHpHUbIYrEaDr][pFEzJRxFt@nIxTnrBXrDd@pIFtDDn_DLnwBLrg@t@~|H",
+  "websites": [
+    {
+      "url": "http://www.westernvistashistoricbyway.com/",
+      "name": "Western Vistas Historic Byway"
+    }
+  ],
+  "states": [
+    "KS"
+  ],
+  "ll": [
+    -100.90692899999999,
+    38.48249099999998
+  ],
+  "bounds": [
+    [
+      -101.75160999999997,
+      38.48249099999998
+    ],
+    [
+      -100.849289,
+      39.119221000000096
+    ]
+  ]
+}

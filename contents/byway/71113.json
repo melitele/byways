@@ -1,0 +1,32 @@
+{
+  "template": "byway.jade",
+  "id": "71113",
+  "name": "Indian River Lagoon - Treasure Coast Scenic Highway",
+  "distance": "42",
+  "description": "What makes the Indian River Lagoon - Treasure Coast Scenic Highway extraordinary is the view from the sandy, coastal dunes that drift out into the Atlantic Ocean to the mangrove-covered banks of the Indian River Lagoon.",
+  "fullDescription": "<p>Facilities such as one-of-a-kind military and historical museums to environmental education centers will be easily identified as part of the 42-mile corridor that makes up the Indian River Lagoon - Treasure Coast Scenic Highway.  But the corridor’s best feature isn’t its bricks and mortar.  What makes the Indian River Lagoon - Treasure Coast  Scenic Highway extraordinary is the view from the sandy, coastal dunes that drift out into the Atlantic Ocean to the mangrove-covered banks of the Indian River Lagoon – home to more than 4,000 species of plants and animals, including 50 species that are endangered or threatened.</p><p>This corridor is more than a paved path that takes you from Point A to Point B.  It’s an educational experience designed to enhance St. Lucie County’s remarkable historical, cultural, and environmental resources.</p><p>Even though you are surrounded by Florida’s natural beauty, it’s the things you can’t see that make this Scenic Highway truly unique, from the ghosts of World War II veterans, who stormed the beaches of Hutchinson Island before arriving in Normandy, to artists such as landscape painter A.E. Backus, Highwaymen Alfred Hair, and Harlem Renaissance author Zora Neale Hurston.  It’s the trace remnants of pineapple farms, fishing villages, Indian mounds, and military forts that rest along the banks of the Indian River that make this corridor worth designation.  This watershed has been, and always will be, the lifeline of the community that surrounds it in the present and for the future generations to come.</p>",
+  "path": "ikjeDhtnhNg@Du^fNwJtCuG|BgqA`g@oeBtn@seAn[uO`Faw@pWkRbI}IbE}rBfy@ky@|b@gWnMgG`Bgk@tMkO~Daa@fNe|CjgAaEhBmtAts@}BdAyFdBk_Bxb@kDzAcCbBsGzGaMhNuBjBmBfAmCjAwCx@}B^cBJs_B\\qCDiD^mBb@aZbIgf@fN}[fIsC`AlAtTf@xBtAlE|@~AnBfCxApC|@lDjCzMf@n@rAj@nHe@jBj@hAjAx@fBRlAB`BmApGOxBFxAZbBxElOfH|Sz[b~@`A~DRzB????dQyEtKgDpAEjB^z@EfFyApF{@xBEfIk@~L{B|IcCbDm@bLgDtRsGzJ{AbL_CdIyBdGyChVcGjWgJrJwDlt@eWnVsH`Z{J`G{BdJkCpBsAtEyBjFsB|SyGtz@_[pF_Bhi@cUjLiFhm@mUnHaDvKgEbCkAxAe@hEyBjImCnOuGjFsBdEmAtBkAlEyAbOgGnLaEvCyAbI{C~HmDdKeDpB}@jBcApKwCbBsApC_AfQ{H`TgGxHmCzCqAlASjDuA~Cu@|DoBrGgC|JmFxGyC|JyCfHeC|UmKtTqI~Co@jCmBzIgEbNiFt]oPdF}B`LmE`BiAp]aM|LyGtFmCpM{EpOyEdD_BjHyBx_@kQnDwA~KmDtT}NtFeEfCqBdGuF~BkBnBmA|[cPjBk@nHgAxGmCnGsBzNgEdBW",
+  "websites": [
+    {
+      "url": "http://www.floridascenichighways.com/indian-river-lagoon-treasure-coast-scenic-higway/",
+      "name": "Indian River Lagoon - Treasure Coast Scenic Highway "
+    }
+  ],
+  "states": [
+    "FL"
+  ],
+  "ll": [
+    -80.19796800042286,
+    27.25573899985494
+  ],
+  "bounds": [
+    [
+      -80.32511188950207,
+      27.250771000081556
+    ],
+    [
+      -80.19796800042286,
+      27.469418999886898
+    ]
+  ]
+}

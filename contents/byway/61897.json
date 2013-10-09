@@ -1,0 +1,38 @@
+{
+  "template": "byway.jade",
+  "id": "61897",
+  "name": "Red Clay Valley Scenic Byway",
+  "distance": "27",
+  "duration": "1 hour",
+  "description": "The Red Clay Valley Scenic Byway includes 27 secondary roads that form a network closely linked to the Red Clay Creek. Found in the piedmont province, it is characterized by rolling hills, ridges, and valleys that sculpt the surrounding landscape.",
+  "fullDescription": "<p>The Red Clay Valley Scenic Byway includes 27 secondary roads that form a network closely linked to the Red Clay Creek. Found in the piedmont province, it is characterized by rolling hills, ridges, and valleys that sculpt the surrounding landscape.</p>",
+  "contact": "**The Delaware Nature Society**  \n 302-239-2334, ext. 132  \n [Send E-mail](mailto:eileen@dnsashland.org )  \n\n",
+  "path": "}azqFx{|lMQ\\]^gK`Hm@z@aA~Eq@~@kA\\iC@aDaF}CeEeSkVgGeGkLcKqAq@q@S_IyA{MoGiBq@_B?{HpB_AE_Ak@??i@gAqHgJIW??K[C_@Hy@nC{HpBiEX{BCgCS_D\\{GPm@??p@_@~@KrBJlEe@nA]bAg@lEcGlHmJ~@mE??r@`ARlBTr@vH`OjJtOjCdF|EhKlAlElB`GvFzIrCxChNfMdEfFvF`JpFfIt@rA?@??xD}G\\c@rBoAn@q@f@mA`@kBlAkNjDwWhBiL??AA}NkQkAmDWqCq@mAw@y@a@q@yAaFqAyBgCmB}C_ByAuBMWmB{BgCkCc@SgH_Cm@GeBL}Cj@oAKsAe@i@s@i@kAmB{G??yA_@kMsEu@?a@Yk@yAa@a@]E??mCuIe@}CScKHy@Xw@`BmD??`BiDlCeBvByBzCsEr@oBnBwAtKaErEk@rAsAz@eBl@aJ^eD|@qDXi@r@s@nCs@d@e@??~@{@h@K|AzAr@^`BX??AAcCoJw@_H??a@eHO{@Sm@o@w@y@{@sA}@??uAOy@e@kD_FiAsAcMuG????fJuJfBqKdCkL??Dw@~AoJjDoRzCmJ??B?l@PlBOv@PlBpDhA~@rANrBBn@d@x@zBr@jAx@d@hC`CfEnF~@VpIkD??hDMt@XjEdCrGnJPLdGs@rAEjLBtI_B~CkA`Be@bC_@nBB~Or@??bC|JtBjHr@`HX`EYrB}DfMcCbJ??mB~EoAvAeNbS{AtCg@|A_@z@e@RqKl@wDHwATqXvL??yGvC}CxBi@~@QjAg@tKuEvNmAvBqGlI}FnGaHdGyBtAmD~AkPxIs@RoFf@sJrF",
+  "websites": [
+    {
+      "url": "http://www.deldot.gov/information/community_programs_and_services/byways/redclay.shtml",
+      "name": "Delaware DoT: Red Clay Valley Scenic Byway"
+    },
+    {
+      "url": "http://www.delawarenaturesociety.org/red_clay.html",
+      "name": "Delaware Nature Society"
+    }
+  ],
+  "states": [
+    "DE"
+  ],
+  "ll": [
+    -75.68332837480466,
+    39.787992240949166
+  ],
+  "bounds": [
+    [
+      -75.6869810000731,
+      39.76734200003324
+    ],
+    [
+      -75.61798197298964,
+      39.81010099966136
+    ]
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "template": "byway.jade",
+  "id": "10352",
+  "name": "Camp Allegheny Backway",
+  "distance": "10.58",
+  "duration": "Allow 30-45 minutes.",
+  "description": "This gravel roadway follows the original alignment of the Staunton-Parkersburg Turnpike from the top of Allegheny Mountain down the mountainside to Bartow.",
+  "fullDescription": "<p>This gravel roadway follows the original alignment of the\r\nStaunton-Parkersburg Turnpike from the top of Allegheny Mountain down the mountainside to Bartow. Winding through dense forests, past abandoned homesteads and rolling meadows, the traveler is treated to breathtaking views of distant valleys and high-mountain ridges. The Civil War Confederate Camp Allegheny sits at the top of the mountain along with the dramatic remains of the fortifications on the facing knoll. At the bottom of the drive down the mountain,\r\nwatch for the earthworks of the Confederate Camp Bartow, most visible on the hill between the backway and the main highway. The private house on the bottom intersection is Traveller's Repose, a famous 19th-century inn on the Turnpike.</p>",
+  "contact": "**[West Virginia Division of Tourism](http://www.wvtourism.com)**  \n 800-225-5982  \n\n",
+  "path": "o}ejFvw{eNxC{Hh@mCnAqEr@aApA}@`FMd@[rDmDfCwJhAuBjFmCxEi@bBoAvA_Bp@sANaAEYOKgCd@u@Tc@^eBd@cAQSm@l@uCEk@O_@sBe@i@_@e@s@Gs@R_@r@YdFJpA_@n@wAbCEhAm@bAGj@Rb@j@jA^\\Ob@g@n@mBHw@Sg@gA_@kAsBSsAk@qAD{@fA_Aj@y@T}@Bm@OmCPoAb@q@x@c@R[T_AHkBSuBL}Ad@aATeAKmAW_AW[qBwA[eASoCuAmBSiD_BiCc@kBKiGSkDmAmB\\sI?oCn@eB^gBNc@r@_@r@Np@h@vA{@rAYhBd@h@?n@cA`AaAp@SdA`@fBMnAl@^SxAaEtAe@zKr@l@Xx@dArAdEZLv@Qt@DjA~@h@PlBeAfBm@F_AGsCJqA\\s@p@Y`BQdB_@fBaD`B[v@?d@c@r@E~@Lr@?hBaAr@GnALvGxE^]n@iBRqBHuCTy@b@]nBd@`F~BrBj@z@w@x@qBdAc@fDr@n@iAfBuBd@kD|@_BnCuDbAm@fKkBhAErALx@IlBwCdDDlB[lAw@hEDnAm@rADl@Zn@`BbCGjAkAlC{A|BYhAa@nEyGr@i@|A?|FbArQtGbBpCdA_@rD_EhBsDbAmAlD_ArB?dDm@dDRd@Ln@Mn@e@r@gBIsB_@}BUaDXsAb@a@d@_ATqBUaBsA}C?Sn@Od@fAl@r@~@rDBfAIr@c@r@Kb@?`@j@jCl@`Bn@dAh@VnCNhARvAbBf@fAp@fCr@hAfAz@|@~@ZpAVhCjAvCRt@xB\\t@_@v@cA^u@j@s@|@eBZkCLiGo@sDAyF]mBI{Ab@iBd@sEvAcCZ_AOsEJqAx@gDrBmEx@e@p@AjBz@`HBXWOaBs@sEs@aD_@qD?yAb@m@|CmIt@eClBiBNc@Fo@?qEjAiPM{IDeAN_Ah@eBTaBFmBlEsINg@Dk@Ee@O[sAwAs@uBE_AHgGJy@`CkCZm@Be@Cg@O_@cB_COa@Ee@TsAlBkFrAgBtAyA",
+  "websites": [
+    {}
+  ],
+  "states": [
+    "WV"
+  ],
+  "ll": [
+    -79.77355199999994,
+    38.538009999999986
+  ],
+  "bounds": [
+    [
+      -79.77355199999994,
+      38.46635800000007
+    ],
+    [
+      -79.693939,
+      38.538009999999986
+    ]
+  ]
+}

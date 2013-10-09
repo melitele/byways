@@ -1,0 +1,33 @@
+{
+  "template": "byway.jade",
+  "id": "52865",
+  "name": "Wild Horse Trail Scenic Byway",
+  "distance": "48.3",
+  "description": "The Wild Horse Trail Scenic Byway is part of the International Selkirk Loop.  The byway follows the Kootenai Tribe's historic path to fishing grounds at Lake Pend Oreille.",
+  "fullDescription": "<p>The Wild Horse Trail Scenic Byway is part of the International Selkirk Loop.  The byway follows the Kootenai Tribe's historic path to fishing grounds at Lake Pend Oreille.</p>",
+  "contact": "**[Greater Bonners Ferry Chamber of Commerce](http://www.bonnersferrychamber.com)**  \r\n 208-267-5922  \r\n\r\n**[Greater Sandpoint Chamber of Commerce](http://www.sandpointchamber.org)**  \r\n 208-263-0887  \r\n\r\n**[International Selkirk Loop](http://www.selkirkloop.org)**  \r\n 888-823-2626  \r\n 208-267-0822  \r\n [Send E-mail](mailto:selkirkloop@verizon.net )  \r\n\r\n**Sandpoint Visitor Center**  \r\n 800-800-2106  \r\n\r\n",
+  "path": "stohHh_xdUgLqGgCaAcDi@ob@wBea@XsBTiBb@y@^aJnEqOtJ{EjCqWtK{BzAmCjCmDrE[VeErC_Cn@oAR{HNwe@UsY\\kHnCsE|EcA`BeBxDu\\hy@}H~Qwl@`yAqAzB_ApAwCdD{@l@mG~BmRLaEEoGHe^?ie@q@cBFwKlDyIxEmG`CuBjAcAx@iAlAgKzM}DfCcBv@mCl@wFj@kLl@oABsCOsCy@gj@kTeP{GmCy@cEYgEx@y`@|M}l@~IuNrAmYtB_B^gA^uQhMuK`NcBlAyCvAFrDCx@Sr@Yl@s@j@wIfGwFfDiBj@sFnAwB~@qI~EeBzA}BrDsU|f@mGbLq\\je@}@l@iAf@iG|AgCzEiAjEw@hBk@x@y@r@gqBl}@yPfGgsAhk@mDdBaEhDeB|B@?cKdNa[pc@sB`D_AdBqA~C{@lCeMnn@iBjI}@bCmBpEsD`FuEdEmEhCyxA`l@}CpBcDrCy_@p`@cDbFwk@nbA_BfDgBlEyCbOwJpkBBlE`ArEnBfC~HxBdAdAlKpPvBzEbAdF^xFDnD[lEy@dFsBbFoNfZaJ|QaJ|RaJp[y@~Ay@~@_MfIkDhBaD|CuB~CsAnAoAx@}Ad@gLLgEbB}BxBe@|@I^KH",
+  "websites": [
+    {
+      "url": "http://www.idahobyways.gov/byways/wild-horse.aspx",
+      "name": "Wild Horse Trail Scenic Byway"
+    }
+  ],
+  "states": [
+    "ID"
+  ],
+  "ll": [
+    -116.29060399967472,
+    48.74586899995455
+  ],
+  "bounds": [
+    [
+      -116.49954699979406,
+      48.74586899995455
+    ],
+    [
+      -116.28809399993798,
+      48.999861000085275
+    ]
+  ]
+}

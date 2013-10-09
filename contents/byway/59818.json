@@ -1,0 +1,42 @@
+{
+  "template": "byway.jade",
+  "id": "59818",
+  "name": "Grand View Scenic Byway",
+  "distance": "3",
+  "duration": "It only takes 10 minutes to whiz along Grand View Scenic Byway but to thoroughly enjoy your trip, plan on spending at least an hour.",
+  "description": "With its beautiful, sweeping urban vistas, rolling green hills, and sparkling rivers, the byway provides an opportunity for residents and visitors, alike, to appreciate the beauty and excitement of the dynamic growth and progress in Pittsburgh. Selected as America's second most beautiful scenic location by <cite>USA Weekend</cite> in 2004, the Grand View Scenic Byway has something for everyone, from its rich historical past to its four star restaurants and lively business districts.</p>",
+  "fullDescription": "<p>The Grandview Scenic Byway is a local, regional and national asset. The Grandview Overlook Park extends across the hillside between the Mount Washington and Duquesne Heights neighborhoods of Pittsburgh. Walking along the park and seeing the city framed by the three rivers is an opportunity for Pittsburghers and visitors, alike, to appreciate the beauty of the rivers, the history of the region, and the excitement of the dynamic growth and progress in the city.  </p><p>  </p><p>Beloved by locals and visitors alike, the byway serves as</p><p>Pittsburgh's \"front porch\" and is a major regional destination for tourists and residents, who consider it one of the most special places in the city.  </p><p>This impressive urban presence has found a balance with the preservation of natural beauty, creating a unique combination of urban architecture and green space. Views of the beautiful rivers, lush green hills, and rolling vistas of the city meet a shining skyline that demonstrates Pittsburgh's renewal. Steep slopes and</p><p>open green space combine with rich natural landscaping, massive rock retaining walls, and unique tunnel facades. Additionally, the view from below, looking up at thebyway, reveals a neighborhood that, itself, is constantly maturing. It is for these reasons *USA Weekend* named the scenic beauty from the byway the</p><p>second best in the country in 2004.  </p><p>  </p><p>Traveling up either PJ McArdle Roadway or E. Sycamore Street slowly introduces visitors to the scenic wonder of the byway. Each ascent is a winding, tree-lined road, and the view over the slope gives a changing glimpse of Downtown and the scenery below.  </p><p>  </p><p>Upon arriving at the top, either from one the roadways or one of the inclines, visitors are greeted by a vibrant neighborhood full of architectural treasures and the awe inspiring grand views of the city below.  </p><p>  </p><p>Businesses, restaurants, and unique historic architecture</p><p>throughout the corridor offer plenty for visitors, but it is the scenery that has become the true destination. Utilized as a backdrop for photos -- including weddings, graduations, proms, and other events -- the unique vista also serve as a wonderful prop in the various movies filmed in the city and as an economic engine for</p><p>restaurants along \"Restaurant Row,\" who offer not only fine food but also the best views in town.  </p><p>  </p><p>Visitors gazing out across the city can make a series of</p><p>historical connections between Pittsburgh and US history. Visitors see the remains of Fort Pitt and Fort Duquesne on the Point, as well the launch site for Lewis and Clark's westward expedition. In Duquesne Heights and Mt. Washington, there were two Civil War forts. The byway is also home to the most diverse availability</p><p>of transit options in the city, from cars and buses, to light rail, boats, and inclines.  </p><p>  </p><p>As Pittsburgh has grown and evolved, so, too, have its symbols of evolution. The skyline below boasts several unique, marquee skyscrapers. Recent examples of the continuing metamorphosis of the Pittsburgh area include the evolution of industry Downtown; clean and clear skies replacing the \"perpetual darkness\" of the old; and</p><p>the demolition of Three Rivers Stadium and the subsequent</p><p>construction of two world-class facilities -- Heinz Field and PNC Park. Thus, the everchanging views, both of Mt. Washington and from Mt. Washington, ensure this unique urban location will remain a treat for returning visitors for years to come.</p><p></p>",
+  "contact": "**Mount Washington Community Development Corporation**  \r\n 412-481-3220  \r\n [Send E-mail](mailto:mwcdcgv@aol.com )  \r\n\r\n",
+  "path": "ajwuF~qggNSlAi@zBw@bDwE`ReBfHkDjGo@hA{T`a@Q^p@nE??gAfDu@pCEL_AfDiAhDoAhEc@tA]|Aw@jC{@hCcBzEe@nAUdASr@q@jBiBbFoCnH",
+  "websites": [
+    {
+      "url": "http://www.pittsburgh.net/",
+      "name": "Pittsburgh.Net"
+    },
+    {
+      "url": "http://www.visitpa.com/grand-view",
+      "name": "Visit PA - Grand View"
+    },
+    {
+      "url": "http://www.visitpittsburgh.com/",
+      "name": "Visit Pittsburgh"
+    }
+  ],
+  "states": [
+    "PA"
+  ],
+  "ll": [
+    -79.99792,
+    40.429296
+  ],
+  "bounds": [
+    [
+      -80.024576,
+      40.429296
+    ],
+    [
+      -79.99792,
+      40.440976
+    ]
+  ]
+}

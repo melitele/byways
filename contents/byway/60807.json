@@ -1,0 +1,62 @@
+{
+  "template": "byway.jade",
+  "id": "60807",
+  "name": "George Washington Memorial Parkway",
+  "distance": "25",
+  "duration": "One hour without stopping or one full day to visit places along the way. ",
+  "description": "This scenic grand gateway and greenway to our Nation’s Capital offers the opportunity to experience the historic story of the birth of our Nation. See Mount Vernon where George Washington lived, sweeping views of our Nation's Capital, and the breathtaking Great Falls of the Potomac.",
+  "fullDescription": "<p>This scenic grand gateway and greenway to our Nation’s Capital offers the opportunity to experience the historic story of the birth of our Nation. See Mount Vernon where George Washington lived, sweeping views of our Nation's Capital, and the breathtaking Great Falls of the Potomac.</p>",
+  "contact": "**National Park Service - George Washington Memorial Parkway**  \r\n 703-289-2500  \r\n [Send E-mail](mailto:gwmp_superintendent@nps.gov )  \r\n\r\n",
+  "path": "oygkFhdouMNm@hAwBb@k@JYB[Gw@Qg@SS[QaAEq@\\gDZqNkCcDcA}BiBcBoCi@eBSgAKkAIoBXiEXyAn@aBlF}JpEqHjPqUrBoEnAeE~@sGVaCPsE\\aNHqNIgPW_MWiIc@{F_AoHi@qC}@yCuAmDsAmC}G_LmEuF{HiHyDsCs@_@I@cDiA_Dw@mAGcHFaESyCy@aHyDgDmAkB_@gBKgDFoB\\iBf@gClAkA|@mCrCgBrC{ChGIBiAnB{DxEsCzBu@b@IRsEfAsE\\qFEuCWwQgC_BM}E?aFXis@fJkDZ{CAuBSuKkCyDu@iCU}E?kCPoB\\aExA_CzAaLtK_CdBcAZ}FpC{Cr@UP_BFaDSoDm@yT_FMMgK}AwE_@iCGgDFcFbAoA^wBx@}HhFwDpBYXoDd@gFLsAEcC[iGwB_J{EmJ{GwHsEwH_CgE}@gnB}VsTiC_Bg@yAQyhAgHaGLwEp@mHfCuMhGiBb@iBZoJJoCVo@RgExB{LrHsElB}Cr@gCXcFD_KkAm]{GiNsAkNKsHg@aB_@oEyAeF_CsHaGuMgOcCyBuA{@mDqAcC[qD?eBTkDxAeCdBsB~BkQ~V}ApBwDlDuO|MiCpC}BrCmDnFsBxDcEdJ_AfAwErEiF|GcAr@mD|A{GhD{BdB}AdB}AxByA~CsChLe@`AwB|B_Bt@kI~A_FxAwEfBqJpEaFxAyGfAaA\\kA`Ag@p@eAxBeAzDS~AEhBHxIG`B[pDcCpMm@xDa@~IMdUKjF_@tGyA`NwAlHsAlF{@`DcDrIwFnLwElIqGzI_FlFmBfCeJnMoAxA}BdBuCxAqVzJmH~DqEfDsDhE{MfScCxCuMtMgGrH}DzF}EhImGfLsFrLwCnJuAxHa@vDk@pLc@`Es@fCuAlC_B~AiAp@sBf@oADwAE{@Q_KuCiAEyAJyAXuAn@cChBuJfImCxAeBl@wB`@sBPa`@dAsDl@wDjAyB`AgBdAkA~@{BbCmFfHcI~LaGnJuAxCsAlDqB~GwHze@eBxGgGnRm@`Ck@jEUbE@jDHfBrCjZR`F?|AOxD}A~POrC?`FN~CXjDbCzOb@nFCdCSlCaA`H",
+  "websites": [
+    {
+      "url": "http://www.nps.gov/arho/",
+      "name": "Arlington House, The Robert E. Lee Memorial"
+    },
+    {
+      "url": "http://www.arlingtoncemetery.org",
+      "name": "Arlington National Cemetery"
+    },
+    {
+      "url": "http://www.nps.gov/clba/",
+      "name": "Clara Barton National Historic Site"
+    },
+    {
+      "url": "http://www.1771.org/",
+      "name": "Claude Moore Colonial Farm"
+    },
+    {
+      "url": "http://www.nps.gov/gwmp/",
+      "name": "George Washington Memorial Parkway "
+    },
+    {
+      "url": "http://www.nps.gov/glec/index.htm",
+      "name": "Glen Echo Park"
+    },
+    {
+      "url": "http://www.nps.gov/grfa/",
+      "name": "Great Falls Park"
+    },
+    {
+      "url": "http://www.mountvernon.org/",
+      "name": "Mount Vernon Estate and Gardens"
+    }
+  ],
+  "states": [
+    "VA"
+  ],
+  "ll": [
+    -77.08756999999997,
+    38.71144900000007
+  ],
+  "bounds": [
+    [
+      -77.18299899999994,
+      38.71015900000003
+    ],
+    [
+      -77.03999299999998,
+      38.964642000000026
+    ]
+  ]
+}

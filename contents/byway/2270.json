@@ -1,0 +1,37 @@
+{
+  "template": "byway.jade",
+  "id": "2270",
+  "name": "National Historic Seaport",
+  "distance": "5",
+  "duration": "15 minutes",
+  "description": "This byway connects Baltimore's many historic waterfront communities, whose rich heritage enhances today's vital and thoroughly modern seaport.",
+  "fullDescription": "<p>This byway connects Baltimore's many historic waterfront communities, whose rich heritage enhances today's vital and thoroughly modern seaport.</p>",
+  "path": "y{snFhjlrMaC|JuU|~@mBtIcLdd@aG_DsA~E_CxHSLoBlDgClFuAzBYPqIXoORc@Jk@d@Wf@Gx@T`MHvQM~@iHTmPt@eAG}@e@cBmBo@eA_@mAi@ed@KmESqAjLoGbCmBoAsu@dPUOmMKaAIwDqIV_@kYdUcc@vCwGoAeAi@kb@_@Be@oc@m@m\\",
+  "websites": [
+    {
+      "url": "http://www.sha.maryland.gov/Index.aspx?PageId=97&d=54",
+      "name": "Maryland State Scenic Byways"
+    },
+    {
+      "url": "http://www.mdisfun.org/",
+      "name": "Maryland Tourism"
+    }
+  ],
+  "states": [
+    "MD"
+  ],
+  "ll": [
+    -76.58164199999999,
+    39.26477099999994
+  ],
+  "bounds": [
+    [
+      -76.61309799999998,
+      39.26477099999994
+    ],
+    [
+      -76.56204200000002,
+      39.286967999999945
+    ]
+  ]
+}

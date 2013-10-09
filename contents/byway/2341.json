@@ -1,0 +1,32 @@
+{
+  "template": "byway.jade",
+  "id": "2341",
+  "name": "Muddy Creek Historic Backway",
+  "distance": "25",
+  "duration": "About 1 hour",
+  "description": "The Muddy Creek Historic Backway provides access to locations well off the beaten path. Twenty-five miles of back roads will lead you from a real western ghost town of Piedmont to Muddy Creek, one of the most famous camping spots of the western migration.",
+  "path": "{sd{Fzlv`Tnn@EzYDtSEApu@ItGIxo@AlFQ`EBvCHr@`AlEtKx`@x@xBXZ^J|fAAfMFvAWhCM|Dv@zP@dl@QDdm@^vcACl|@Nb~@Q|eB??ChCLpAnBdCx@tAhArCx@jETbBBbAo@tVjApNNfDAxASdCoAzF[lA]p@wBdCkLf[cCpFu@dAoBRcPSgIHqIdF_A`AgA~F[rCyCpu@MjCUdAe@rAkTda@_j@pfA[lBS~SSxHEfLiAhm@YzCcBrLElBFjAnAhJ@l@OfS?fKk@zm@kBtQcCbSQxCMlDb@xDbE|MhAjClErFlC`ElJzOl@`Dh@|U?fDmDj]sBtTmEjXS~DXtErC`SfC|Rn@rDd@fBh@dAbA`A??hAgAbWuMxEeAjEYxD?pEd@lD`AvM`Gjn@`ZvVbLtS`KrOzGbE|BbTtJ~Bn@lEh@z^e@pUk@bd@y@`cA~BbBRbEjA|Bz@tOjIpGtExCpDj@x@`GbLf\\`m@hKbS",
+  "websites": [
+    {
+      "url": "http://www.wyomingtourism.org/thingstodo/detail/Muddy-Creek-Historic-Backway/31257",
+      "name": "Muddy Creek Historic Backway - Wyoming Tourism"
+    }
+  ],
+  "states": [
+    "WY"
+  ],
+  "ll": [
+    -110.38429299999996,
+    41.31662
+  ],
+  "bounds": [
+    [
+      -110.62712899999991,
+      41.215519000000086
+    ],
+    [
+      -110.38426199999998,
+      41.31662
+    ]
+  ]
+}

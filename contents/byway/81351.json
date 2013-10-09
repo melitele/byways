@@ -1,0 +1,32 @@
+{
+  "template": "byway.jade",
+  "id": "81351",
+  "name": "Scenic Highway 30-A",
+  "distance": "28.5",
+  "description": "Explore Scenic Highway 30-A for an exciting time on sugar-white sand beaches and coastal dune lakes. See a variety of Florida architecture along this byway, as well as hot Caribbean colors and soft pastels.",
+  "fullDescription": "<p>Scenic Highway 30-A is a 28.5-mile corridor that hugs the Gulf of Mexico coastline in Northwest Florida’s Walton County. Along this breath-taking drive you will see sugar-white sand beaches and some very rare coastal dune lakes. Scenic Highway 30-A is a tourist attraction of major proportions. It is an exciting and eclectic mix of hot Caribbean colors and soft pastels, with architecture to match each community’s charm, whether it be Old Florida’s traditional two to three story homes, the cottages of Seaside with white picket fences and pedestrian pathways to New Urbanism, or its miles of greenway trails connecting state parks, preserves and residential areas.</p>",
+  "path": "{|xwD|v}kO`A~@j@fBCfJCrA_@jCkn@j_Co@rDe@tEKjD?bNa@lGSdAeA`FaX`fAcBlEc@v@gB~Bw@t@yCvB{ZbPkBvAqAnAmA`BiArBaAxByIvX_DrIoD`L_ApDmn@rnByCzJ}@fFO`DOjXJxDf@tCz@dC`JlPx@`Bj@jB`@xD?`Eu`@lpBwGhf@q@pD??wXxmAsBpEwCjDwBfB_IlFEN}TbOwBlBiBxB{AdCmAlCeRza@sIrPsFvLqAxEi@~EClASjPDdAa@~hAQv^K`D_@dE{@hFkLrc@gAbFYfC[zEIp^??EfPMhEy@xCmArBiB~AqBx@kBXaAFsTs@aAD_BXuB|@eB`BmA`Ci@lBWxDlAvWf@zF`A~DrCzGtA|Dl@`DVzCDdJe@hs@??abAyAmf@e@a|@kAOfMaAbdBDpW_Av{AWzMqAjXStNJ\\ZX\\DpAe@lrB}gBbCmClByCdAuB`A_D|@mE|ZyhBpKye@l@gF?y@??B??m@",
+  "websites": [
+    {
+      "url": "http://www.floridascenichighways.com/scenic-highway-30a/",
+      "name": "Scenic Highway 30A"
+    }
+  ],
+  "states": [
+    "FL"
+  ],
+  "ll": [
+    -86.00958300015532,
+    30.279349999902536
+  ],
+  "bounds": [
+    [
+      -86.2755430000094,
+      30.27879000015838
+    ],
+    [
+      -86.00958300015532,
+      30.375210000341212
+    ]
+  ]
+}

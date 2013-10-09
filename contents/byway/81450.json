@@ -1,0 +1,34 @@
+{
+  "template": "byway.jade",
+  "id": "81450",
+  "name": "Door County Coastal Byway",
+  "distance": "58.3",
+  "duration": "3 hours to drive the byway, 3 days to enjoy it (or a lifetime!)",
+  "description": "Door County Coastal Byway has many scenic vistas of Lake Michigan and the Niagara Escarpment bluffs. You can also enjoy orchards and areas of dense forests.",
+  "fullDescription": "<p>You'll marvel at Door County Coastal Byway's natural beauty. With scenic vistas of Lake Michigan and the Niagara Escarpment bluffs, dense forest areas and shore-side towns, this byway is the perfect choice for a relaxing scenic drive. You can also stop at three state parks and several lighthouses.</p>",
+  "contact": "**[Door County Visitor Bureau](http://www.doorcounty.com)**  \r\n800-52-RELAX (800-527-3529)  \r\n[Email](mailto:info@doorcounty.com)  \r\n",
+  "path": "}kmqGz~`tO~uCBdJXnOfAjGLfaBoBta@Yzu@QlkAR~r@{At`@Elk@CFJjHBIqn@i@coBOyCs@sDs@sB_AkByAgBwoA_mAyA{Aqo@an@arAymAgBuDk@mCSeCEgDDe_@EyBQqAu@sCoAmC_AuAwD_EiAeA}A{@kgA_c@wUmK_BwAoSyU{WaZiA{@eSiMw@w@wF{Hci@{v@mi@gx@eBkBgFeDiB{AyPcWqFuK_CgFm@wBcCcLo@wBk@eAiPgWoRg[aZ{f@gDiG}@wBq@aDY{Cs@_KSyA]mAq@eA_BuA{T{NwNqIwEaDwFuE{OaTwIuMqHoKsBkBuDsBkIaDuJmCyEk@}MDcBMo@QeBeAqHoJgBqBuBmBsCuAmEeAqHoEsCqB_@_@_BsCwFmKiAgCuKm\\gC_H_DuHm@yBeB_Ko@iCm@kA[c@_Ai@ge@iRkJkD_BYcCGko@DcQKeXRqAWu@YsAgAiE{FgFmHwv@weAoBuAcAYkAKkKG}@Q_Ac@eAu@gKuKgByB_A}AwCcJe@_Am@g@oAYkERkAEaf@sJ{AOc@C_BVwDzAgIlBoAByBQmAe@yD{CsA_BiCgEaAeAg@SwASgMDmBFcAZ_Aj@gC~CyFxFeJ`GyBlA{FzBmLjIyCfBqC~@kKrBeEpAgCfBgLtKy@f@y@X}APyQMiDFeXA{b@_@sj@KuRYmd@d@uoAFqrBMegA_@gSd@}IF_AGyA_@gAy@cCgDuRa\\aJeNyB_CyCkB}C{AyBq@wBY}Za@}@Fy@Xk@l@cBfDm@p@oB`A_@^??mDgEqWsVyBw@cCG{KCyWPqZMyPHoBMy@a@{J{JoIkFeIaG}M{KuJoHu^iW_h@e_@kKgH}QiNqd@ya@wz@ax@mC{C_@w@mFiN}EoL}HuP}BgEkKuP_F_G_HoHiAyBu@eCgAy_A[sf@Eq}BMib@e@oDs@gCiEmKsA_ByBmAw@KmbAqAgJAwf@dAiCTa[~HwExB{Ck@a@A}EhAgBV_A?Oq@KsBCkLJqBl@gApEmGT_AHqBOctAEmBs@cLDw@^gBNiBUma@H}PIkDDcFKyADwCNaC?y@W{BHkBIeDFuAI}E@aHQmB_@aA",
+  "websites": [
+    {
+      "url": "http://www.doorcountycoastalbyway.org/",
+      "name": "Door County Coastal Byway"
+    }
+  ],
+  "states": [
+    "WI"
+  ],
+  "ll": [
+    -87.33693700000003,
+    44.96591899999993
+  ],
+  "bounds": [
+    [
+      -87.33751699999999,
+      44.871349000000066
+    ],
+    [
+      -86.979919,
+      45.290580999999975
+    ]
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "template": "byway.jade",
+  "id": "2312",
+  "name": "Route 156--Monterey County",
+  "distance": "4",
+  "duration": "10 minutes",
+  "description": "This scenic highway offers views of the agricultural area famous for artichoke production.",
+  "fullDescription": "<p>Situated between the Gabilan mountain range on the east and the Santa Lucia range on the west, the Salinas Valley includes the city of Salinas and extensive agricultural land, with a number of smaller, but rapidly growing, towns along the length of the valley. The Salinas Valley is known as the \"Salad Bowl of the World\" because it produces so many fruits and vegetables, including lettuce, broccoli, artichokes, strawberries and carrots.  As one drives along Route 156, this beautiful agricultural vista opens up before your eyes.  </p>",
+  "path": "a`l_FrsafVyB_Fw@mCyDiS}CoLKKcb@{xBmIsa@uLwo@sDaRqDwR{Mgr@cB{GoSum@}A_Gu@uEwE_i@E{FXaJOgEi@sDqBkI",
+  "websites": [
+    {}
+  ],
+  "states": [
+    "CA"
+  ],
+  "ll": [
+    -121.74665099999993,
+    36.76689900000014
+  ],
+  "bounds": [
+    [
+      -121.74665099999993,
+      36.76689900000014
+    ],
+    [
+      -121.66755699999993,
+      36.78957000000008
+    ]
+  ]
+}

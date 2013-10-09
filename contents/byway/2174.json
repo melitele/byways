@@ -1,0 +1,42 @@
+{
+  "template": "byway.jade",
+  "id": "2174",
+  "name": "Mirror Lake Scenic Byway - WY Section",
+  "distance": "20",
+  "duration": "Approximately 20 minutes",
+  "description": "Ancestral tracks, footprints and wheels from wildlife, Native Americans, mountain men, pioneers and countless forms of transportation have been imprinted on the land adjacent to this byway.",
+  "fullDescription": "<p>The Mirror Lake Highway, SR 150, runs from Kamas, UT to Evanston, WY, bisecting the western portion of the Uinta Mountains. Both Wyoming and Utah have designated this entire stretch of</p><p>highway, approximately 78 miles, as a State Scenic Byway. The Wyoming segment of the byway is 20 miles long. To fully enjoy the scenic nature of the byway in its entirety, travelers should plan for 2-3 hours . The  Scenic Byway status acknowledges the spectacular scenery and historic significance of the highway.</p><p> </p><p>Much of the byway (42 miles) runs through the Wasatch-Cache National Forest. The Mirror Lake area encompasses approximately 320 square miles of the National Forest. The area is highly diverse and is characterized by sagebrush flats, aspen and coniferous forests, high mountains, grassy meadows, alpine tundra, and an abundance of lakes, streams, and wetlands.</p>",
+  "contact": "**Wyoming Travel & Tourism**  \r\n 800-225-5996  \r\n\r\n",
+  "path": "yjfyF~itcTmLhFkGdDks@~f@md@j\\_ClCkLnP{^jZuCdBsDtAeCp@us@rMok@`KqAFqCCcDi@wBcA{A_AqBuB{@mAwAmCk@eBaAsEMmASeEHokAXsGxBwT?sEM_Cq@eFoAcEcBmDsC_DcAs@uXsO{PcLksAov@}mAse@cDw@sB[qDMk{BXcv@?e`AfEgECaAEqB_@oEiAyLaFgi@eIeDScDFcCPmDv@mFrBuLzHcD`BqFpAsCT{XEuBN_Dh@yOjFoExBiErCoG~FgDlD{FfHkAvByCxHsN`m@oCfKgChGkMtWuAvDcApDo@|Cm@tF[jF_@tJYlCw@lE_@rAy@zBsAjC_C~CqAxAwe@d_@qSvPuE~CwC`B{e@`S}PrHsS`LwFlC_P|Dy`@xIeBj@mEnB}EjC_CzAuKxJydAjfAmK`LgDbEkG~IyFfHon@zn@}FlFsjAhs@aInEsBhAiDzAkOxFuElByE`C}W`O_FdDsQ|P}@~AgE|Ky@|CQlAGdDA??tB?zBLfFOdCu@hDa@vBIV{BlEgCfE{AdCm@`AmCfEgCbEsCfE?V_ChD",
+  "websites": [
+    {
+      "url": "http://www.utah.com/byways/mirror_lake.htm",
+      "name": "Mirror Lake Scenic Byway"
+    },
+    {
+      "url": "http://www.publiclands.org/explore/site.php?id=1796&PHPSESSID=23cfeb7c9",
+      "name": "Mirror Lake Scenic Byway, Wyoming"
+    },
+    {
+      "url": "http://www.fs.usda.gov/uwcnf",
+      "name": "Uinta-Wasatch-Cache National Forest"
+    }
+  ],
+  "states": [
+    "WY"
+  ],
+  "ll": [
+    -110.86511200000001,
+    40.99773000000005
+  ],
+  "bounds": [
+    [
+      -110.9640115744213,
+      40.99773000000005
+    ],
+    [
+      -110.84059899999994,
+      41.267500041770944
+    ]
+  ]
+}

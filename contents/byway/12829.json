@@ -1,0 +1,30 @@
+{
+  "template": "byway.jade",
+  "id": "12829",
+  "name": "Meteor Lakes Byway",
+  "distance": "39",
+  "duration": "45 minutes",
+  "description": "The byway leads to several lakes believed to have been formed by ancient meteor showers.",
+  "fullDescription": "<p>Thousands of years ago, a meteor shower pocked the surface of what is now eastern North Carolina.  The result is a series of lakes that are popular recreation sites today.  Most of these lakes are located in the Bladen Lakes State Forest and surrounded by areas of swamp, forest, and peat beds. Stories from the colonial days of North Carolina scatter the byway just as the meteor lakes it is named for.  Many of the byway communities like Elizabethtown and Roseboro are named after dignitaries of the past.  </p>\r\n\r\n<p>Explore this North Carolina wetland and the recreational opportunities it has to offer.  All the Meteor Lakes are located in Bladen Lakes State Forest with the exception of Lake Waccamaw, located on the Green Swamp Byway. State Parks allow camping and exploring in the area.  Drive through fields and pocosins throughout the entire byway.  A <dfn>pocosin</dfn> is a swamp that is located in an elevated area.  Usually swamps are found in the lowlands, so a swamp on a hill is known as a pocosin.  Learn more about the natural features of eastern North Carolina on the Meteor Lakes Scenic Byway.</p>",
+  "path": "wvmrEbiu~MqFwCgH{Bca@cPeFiBaKiA{W}BeNcAoDCwDj@}Bx@ow@l[_IbCcIlBqI`AcXfBoGGmOr@mEv@uGlBkAf@kG~DaElDkR`T{NxQgZlXcCxAaFhAqEAgq@gEuIt@yGb@w`@lA{SEiSk@kDSeDSmDk@gCu@uVkKeEmBmEeCoE[}OK_HL}DbAmU|MuHtFeAn@sBr@iBd@wCZ{R`BmC?yAYsCgAwHaJgCmD}HoJyCkBmA[cCEkH^eRfB}ETcCGmBa@iBq@u@a@aDqCyc@qd@kAoAwJoNaZoYqAs@mNyFqSmHoCi@uOkAk]{TgG{H{GwKwLgQ}DyGyCgG{H}T_BmEaAkBoCiCqj@oYcKaEwDk@sBL{OjDwDp@iA@cAAaK_Ao\\tA_F?i@_@mGoByB_@wSn@iC?gIcBwTsFyDc@yVaBcCYmBe@wAm@yBgB}U}SiBqC_AmC[eBqD{^u@}Cs@{A_s@un@}[uXwPuLus@ye@iAmAiVk[m@_@kJgEkCw@wGa@omArA}]r@yBKsBM{aAwYcE_@eD?wIYcG?u]tGwUm@uBYyAs@wJkF}WiO{j@`OiDr@yAPgCeByBYcTeA}Ae@q@m@aIcJcB}IsDgU{JzC}WrHmEf@sPr@gJVyBIqBMoFeAc_@iLcGaB_BWaWyBsDm@iDw@aEiBwK_HmDmBsEeAyBYeGSsEEcg@Rwj@?id@PyEY_LsAcGcAge@oGeC^y@?u\\sEkI{@}LiBoJs@{]gB}x@{EyWqBwCg@sDy@mGsBuGgCaOcFw[eLs_@mNoBe@udA}^mH}AkZ_EmFsAuHeC_Bm@iG_D{ViK}VkLqF{A{Dm@{kB@_CUcB_@eAi@aTuOaNkKyRaPqJaHwEyDyDkCmHiEmFmCw{Aap@",
+  "websites": [
+    {}
+  ],
+  "states": [
+    "NC"
+  ],
+  "ll": [
+    -78.59361299999995,
+    34.64572100000004
+  ],
+  "bounds": [
+    [
+      -78.60991699999994,
+      34.64572100000004
+    ],
+    [
+      -78.45677199999994,
+      35.145031000000074
+    ]
+  ]
+}

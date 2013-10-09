@@ -1,0 +1,14 @@
+{
+  "locals": {
+    "title": "America's Scenic Byways",
+    "siteTitle": "America's Scenic Byways",
+    "siteDescription": "Descriptions, maps and links to related information for over 800 America's most scenic roads.",
+    "url": "http://scenicbyways.info",
+    "furkotUrl": "https://trips.furkot.com"
+  },
+  "plugins": [
+    "./node_modules/wintersmith-stylus/",
+    "./node_modules/wintersmith-component/"
+  ],
+  "port": 3060
+}

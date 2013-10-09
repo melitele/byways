@@ -1,0 +1,34 @@
+{
+  "template": "byway.jade",
+  "id": "13245",
+  "name": "Monticello Crossroads Scenic Byway",
+  "distance": "28.79",
+  "duration": "Allow at least one hour for driving and a visit in Monticello",
+  "description": "The route passes through woodlands, pastures, pecan groves and rolling grasslands.",
+  "fullDescription": "<p>Pine forests and rolling pastures dominate the views along the\r\nMonticello Crossroads Scenic Byway as it runs through Jasper\r\nCounty. This 29-mile byway emphasizes the rural and historic\r\nqualities of the area as it follows State Highways 11 and 83\r\nheading north from the town of Monticello. Native Americans, as\r\nwell as evangelical Methodist Circuit Riders, once used these\r\nroutes as they crossed the state. Highway 83 was also part of the\r\nSeven Island Stagecoach Road that ran from Augusta to New Orleans\r\nand the Natchez Trace. Several individual structures as well as the\r\ncentral business district of Monticello have been listed on the\r\nNational Register of Historic Places.</p>\r\n",
+  "contact": "**Chattahoochee-Oconee National Forests**  \r\n 770-297-3000  \r\n\r\n",
+  "path": "uogkEtbe~Nlj@y@zYSrF^bl@fOjGzAvHpAvPtErH`BrUbGnC^fB@jUkBbCGdCXrBr@fJ~ElEnBrBv@nCr@hC`@pF^bSpBrE^xBDjGMbCQlJkA~YmCpA_@|CyAhA{@fHaIdFgElFY`PHrEd@lCf@vH|B~DxAfARlBLdAGlCk@~Ay@rAmArYe^~[c`@bN{OpAi@bB]bAGlBLjAb@n@`@zClDrHfKvChD~Tb[fBxAdCbAlDf@hPJnCKfBYhDkAhE_CfC{@lDy@fFe@~D_AbBs@~JsFrDgBzMeEbCeA~AmAV[`AoBb@wATkANkCvAcZfH{bBl@kEjAyEfAsCdBsCtTcUnG{FhEgBzpAmf@lIwDlBuAlDgDzKkNfHiIzPcTxMqQhT}XtNiQxOcShCsD~AkBh@]zJIlFD~M`@d@Yb@kApCqK??x@wC??wLuE?KqAqAq@mAk@_COu@a@_AkD_Gi@e@oD}EaCyBeHkCiX{IkFqBsMuGkFeDkdAufAs@_AoBqD_LkTyByCyBuBw}@au@gEaCe`@aPgImCoUsGaAa@yCiC_AsAcAyBs@mBOaA_@{CiBoYKeAs@aDgC{EmO}UwCwCiNyIo@g@i@m@sAyBoDsKcBgCmDuE_FsFqDkDqEmCsEaDmB{AwCmDyYo_@_SwW_HuLsCuEuByCyTaXsByBs@a@_AY}AY}HJyBq@}_@uRuAaAeBsByIaN[{EeBwIkBuH_A{CeBeDup@}_AaEoEoP}OaLaKsEeFo@oAe@wAmRio@_A_CwB{BiDyBsBcAsCy@cBYsDMm`@q@gC_@{CaBaAeAeCeDu@s@}Am@eCg@wm@sHqDWiDJ",
+  "websites": [
+    {
+      "url": "http://www.n-georgia.com/monticello-crossroads-scenic-tour.htm",
+      "name": "Monticello Crossroads Scenic Byway"
+    }
+  ],
+  "states": [
+    "GA"
+  ],
+  "ll": [
+    -83.75354799974036,
+    33.46699900040352
+  ],
+  "bounds": [
+    [
+      -83.76293199991187,
+      33.30465330640493
+    ],
+    [
+      -83.55066700038174,
+      33.46699900040352
+    ]
+  ]
+}

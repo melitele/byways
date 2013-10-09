@@ -1,0 +1,46 @@
+{
+  "template": "byway.jade",
+  "id": "11287",
+  "name": "Sedona-Oak Creek Canyon Scenic Road",
+  "distance": "14.5",
+  "duration": "Take about an hour to fully enjoy this road. ",
+  "description": "This scenic road offers a rare opportunity to study a variety of elements within a short distance. The road traverses seven major plant communities as a result of elevation changes, temperature variation, and precipitation.",
+  "fullDescription": "<p>The Sedona-Oak Creek Canyon Scenic Road was designated by the Arizona Department of Transportation on August 24, 1984. This route follows US 89A through the scenic canyon, made popular in the 1920s when it was discovered by Hollywood. This scenic road offers a rare opportunity to study a variety of elements within a short distance. The road traverses seven major plant communities as a result of elevation changes, temperature variation, and precipitation. It begins near the town of Sedona, and runs in a northerly direction through Oak Creek Canyon to the top of the Mogollon Rim, traveling areas rich with geologic formations similar to the Grand Canyon.</p>",
+  "contact": "**Red Rock Scenic Byway Committee**  \r\n 928-284-0714  \r\n\r\n",
+  "path": "kp|sEzt_iT@aEv@oLCsBSgCaAkDaG{LcBeD_AaAg@WaASm@EiAJoAr@mC|By@Z_A?yCm@gGgBmCwAeCgBwBy@mCc@iEGgG_A}DGmBYoBk@gC_BsF{FoNuHaFyAuBQoAFmAh@sChBo@V{AVkBFkNeBcCKkEXuD[c@FmBrAwFrFq@b@wD`@kBj@sJ`FkAlAo@rA}@dCk@`Aw@x@oPrI_DDwCk@sGaCwA_@u@D}@^k@r@Of@g@zFsAjLKr@q@xB{@~@kAz@qHzD}GrBkKdEgCrCk@pA}BbI}CjIqJhIwHlFyAxAmBtCyBrAaMxF_KpAoDKm@P_BhA}Av@eCj@cBFsLk@uBBcGlAgAAsBWyFtBmBVwB?eCe@qH{CcGqAcCgAs@KiM`@oBImEiAWI_EqFyDs@iBaAyAk@gFmAu@?i@LoCrBkAXu@BoAQgAe@yEgG_A{AwBqAaLaEeLcCyFs@cBEo@Jm@VcBjAeBlB}@f@yAXiAEqNiD_KwCoD_By@m@gA_C_BgBoAaAmAk@qB_B}@gBSw@SuARkC|@sAxAwAZi@^wAb@{BBe@Sw@o@uAaGgIcCmEYY[KwCD_AJ_@NsCvCcDjBaWnG_BLyAQy@i@sC_DqAeAyEkCeBi@mAw@wAaB_AkB_BmBs@e@k@QeAGw@Ay@HuAd@aH`FeFrEaApA_BrAcAf@gC~@eKj@}Js@iB_@wB@oCo@{ASuIc@kDYeB_@oIiCeBc@wBS}EWcFg@uA_A]?e@Ve@r@?d@n@`C?d@c@nBCv@RxBCzAOn@a@x@Ir@?`AHr@x@xAF^Gb@g@Xe@QOS[gHPyAAi@]aESYq@_@sCPYCs@i@[I]DUVAZRj@tEd@z@~@XdBUxBC`Ba@rASlB]p@aAj@gGhBSV[dBYTOBYOM]?c@`@gAjA_Ax@SnBmA`Bo@JSh@mDEm@Ye@cBm@e@Eq@J_@f@aA~CSrAU^mAxAk@XiAEuCsAEm@LWnB{@V]Fm@c@mIGwQc@yAe@y@mAeA_BYgFX",
+  "websites": [
+    {
+      "url": "http://www.arizonascenicroads.com",
+      "name": "Arizona Scenic Roads"
+    },
+    {
+      "url": "http://az.gov/",
+      "name": "Arizona's Official Web Site "
+    },
+    {
+      "url": "http://www.arizonatourism.com",
+      "name": "The Ultimate Arizona Vacation Guide"
+    },
+    {
+      "url": "http://where2camp.tripod.com/sedona.html",
+      "name": "Where 2 Camp"
+    }
+  ],
+  "states": [
+    "AZ"
+  ],
+  "ll": [
+    -111.74237099999993,
+    34.885349000000076
+  ],
+  "bounds": [
+    [
+      -111.75479099999995,
+      34.88505900000007
+    ],
+    [
+      -111.727821,
+      35.03205100000008
+    ]
+  ]
+}

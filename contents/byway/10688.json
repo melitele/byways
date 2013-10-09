@@ -1,0 +1,49 @@
+{
+  "template": "byway.jade",
+  "id": "10688",
+  "name": "Route 395--Mono County",
+  "distance": "20",
+  "duration": "20 minutes",
+  "description": "The route cuts through the Owens River Valley with the high mountain ranges of the eastern Sierra Nevada as a backdrop.",
+  "fullDescription": "<p>This State Scenic Highway cuts through the beautiful high-country of the Sierra Nevada mountain range.  From the byway one can see some of California's highest mountain peaks, such as Red Slate Mountain at 13,163 feet.  They highway follows the Owens River to Crowley Lake and beyond.  The whole byway is contained in the beautiful Inyo National Forest.  </p>",
+  "path": "ypidFhevsU?~CUpF_@nDU|@sBzSmDtX}Dv]_BpJi@|Bwd@z`BgErNsLp]kI~VoLn]cFnLsFlIqBzBs`Av`AsCdCcBnAgGpDqh@bWsDxB}DlEeAzA}BzD}@xBu@~CmKxk@iLhq@cd@neCcHr`@iBhLwJdi@sBjMgEzTaHra@gFhXmGv^_B|Ki@dGaKbyAsCzd@q@dI{@lFoA`FwArEoC|GcCdF}GnMkErHkBfCwDrDyClBaD|AwErAoC^gCLsSAaEL",
+  "websites": [
+    {
+      "url": "http://www.nps.gov/depo/",
+      "name": "Devil's Postpile National Monument"
+    },
+    {
+      "url": "http://junelake.com/",
+      "name": "June Lake"
+    },
+    {
+      "url": "http://www.monocounty.org/",
+      "name": "Mono County California"
+    },
+    {
+      "url": "http://www.monolake.org/",
+      "name": "Mono Lake Home Page"
+    },
+    {
+      "url": "http://www.395.com/",
+      "name": "Route 395"
+    }
+  ],
+  "states": [
+    "CA"
+  ],
+  "ll": [
+    -118.73892999999993,
+    37.573410000000024
+  ],
+  "bounds": [
+    [
+      -118.92407199999997,
+      37.573410000000024
+    ],
+    [
+      -118.73892999999993,
+      37.653819999999996
+    ]
+  ]
+}

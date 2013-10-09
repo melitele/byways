@@ -1,0 +1,32 @@
+{
+  "template": "byway.jade",
+  "id": "2468",
+  "name": "Route 102 (Ten Rod Road)",
+  "distance": "7.3",
+  "description": "In Exeter, from Route 2 to Route 3.",
+  "fullDescription": "<p>In Exeter, from Route 2 to Route 3.</p>",
+  "path": "qrz|F`qhtLnT_iA|@aGZ_EBwNhAc`@ZgF|@iJx@uE^yA`@qAbBmDvC{DbDqCzYaT~BwBbBqC~AyD|@{D^sCJmGaAkb@DaMIsFYcIXkVo@iUH{SCiKe@gp@Y{L?oMOgOg@oMNiTAgFYgJyAiQH}WNmCz@mFdGoQhAuDbBsHXkDDeBCmBOaB}AmJGs@CsCXuCd@qB|@aCh@mBXqB^iFj@{Mr@mFX}CDiEy@iKByCZeCfC_K`AcFb@yDTaEyAwj@",
+  "websites": [
+    {
+      "url": "http://www.dot.ri.gov/programs/",
+      "name": "Rhode Island Department of Transportation"
+    }
+  ],
+  "states": [
+    "RI"
+  ],
+  "ll": [
+    -71.64704099999994,
+    41.592899000000045
+  ],
+  "bounds": [
+    [
+      -71.64704099999994,
+      41.575600000000065
+    ],
+    [
+      -71.5174869999999,
+      41.592899000000045
+    ]
+  ]
+}

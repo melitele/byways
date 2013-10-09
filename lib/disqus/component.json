@@ -1,0 +1,9 @@
+{
+  "name": "disqus",
+  "local": [
+    "load"
+  ],
+  "scripts": [
+    "index.js"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "template": "byway.jade",
+  "id": "64115",
+  "name": "Brandywine Valley Scenic Byway",
+  "distance": "20",
+  "description": "The Brandywine Valley Scenic Byway traverses Pennsylvania's birthplace, where British authorities agreed to let William Penn move northward into the Brandywine Valley.  ",
+  "fullDescription": "<p>The Brandywine Valley Scenic Byway traverses Pennsylvania's birthplace, where British authorities agreed to let William Penn move northward into the Brandywine Valley.  </p>",
+  "path": "eswrFrmslMoHbGq@V_Fd@_ARcAf@uDxC}FvHyAzA}Bj@_Ah@gCrEmAh@cCX{A~@iDfDcCzC{A|BuD`HyBxCsDtDmBlA}FzC}DdBkKxD_PmcAYeCEmAPsFpDgk@bAgSDgCEwKTw^hVoQtMgJ|@y@dOaL`GaEpJoHdCcBbBi@l@CpAPpCfAn@^lDdD|@n@j@Pd@Bf@KdDeBrCKv@JbDlBrClCrFjDt@LzB?n@Lx@|@~BtDlAxAfJlIlBjAvFlCvItC`EpC??A?u@bNMp@[t@m@|@kAhAyCvAeKrHsPtKuL`KKTE~@Jp@b@tADp@Ad@}@rDwDfFcElD^rB\\`GrAxH??bFIhCv@jKjAbAl@hEbWBdA?zHNrDZdB\\r@dArAdJxDbCfBzBlAdEjC`Ad@nGrAbCxAhErAhBTlBGpHyAn@_@h@g@nA_EbCaErA_HXgAjAsC`CuExAiENaBc@sFSmEl@gE@s@iAaIE_AfCgLdCaF\\gAF?J?Z?tK_B@???B?hAq@??rDoERc@J{@h@yAfFaJ|@sA~AsArA]t@Bl@LhCrAt@FhBUnBs@XY\\s@X_DbAmD`@k@x@a@l@KbD@rCUzA?jBe@hAKt@DlDf@fF?t@MrCkA|E{AC_@HwAfBwHrAeCnA_DnAaClAyA`@cBVg@tAmArA_B|CqBhB{BfEmD^SvE_A~ARlDPhDYr@c@rE{FlHaKvBiBZo@vAgEXg@t@s@|Ak@XY~@uDnBeF^e@|As@bAeAt@kArBiEh@_@bBWbBm@hBa@j@Y|BcCbDwE|AqAlDsB~@eAhH}LdGmP~AoGl@eAd@_@n@gAhBiAdA[fEQlGDe@aFr`@mBbHdWrC|CrQjOzJxHZDdASdDwAxSuMTEvJdEr@RtA?r@MfAs@hD}E~@aA|@k@n@ShEAbCZvAl@lJ`HjKdJzM`Hl@D`@K~HsDlEwAnAG|DPnAC",
+  "websites": [
+    {
+      "url": "http://www.visitpa.com/brandywine-valley/",
+      "name": "Visit PA - Brandywine Valley "
+    }
+  ],
+  "states": [
+    "PA"
+  ],
+  "ll": [
+    -75.63497899999993,
+    39.93923200000006
+  ],
+  "bounds": [
+    [
+      -75.64981799999993,
+      39.83694800000006
+    ],
+    [
+      -75.5897599999999,
+      39.96057100000007
+    ]
+  ]
+}

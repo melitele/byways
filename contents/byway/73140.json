@@ -1,0 +1,36 @@
+{
+  "template": "byway.jade",
+  "id": "73140",
+  "name": "Bronx River Parkway",
+  "distance": "13.2",
+  "description": "Running north and south this parkway highlights some of the Bronx's most scenic areas. Follow the route through the summer green of Bronx Park and hedge the expansive Woodlawn cemetery. The parkway was originally built as part of a river conservation effort and continues to transport city dwellers through a piece of New York nature.",
+  "contact": "**[Westchester County Department of Planning](http://www.westchestergov.com/index.htm)**   \r\n148 Martine Avenue  \r\nWhite Plains, NY, 10601   \r\n(914) 995-2548   \r\nFax: (914) 995-4479  ",
+  "path": "uldxFne{aMoHx@aP^sEj@sRzCiCPwGDwBEgFe@uJ_CsYoE{P}BaIm@mS?cFJoPdBuMxBsFZgEGcBSqIcBkJi@yD?yU`BcCDcP]}I{@qGeAk[aHgWoG}W_IqXgJgI{CuDyBgB_BqGgHsEyCiA_@uBWsAHeHxA}CJoDq@qCyA_FkDyCaCmFsFsAgAcBsAmCeBwCuAcGuAeA]aAk@qAiAqIcKaF{Da[iUwGsDiEmBsDgAeKwBoBw@{A{@{DgEmCaEwBwCaGiGiByAiFmD}EmC}EkAmDmA_BqAkDsDkCsBsCmAmB_@gCWyBJuB\\mBr@sCfBmApAsDbDyB~@cDj@eJLiBGoCq@iCgAqAy@oBaBiAsAi@oAe@uAy@eBiAmA_As@mBgA}Bq@iFm@qCk@yAm@}IgFcEkBcRoFo@c@}@aA{@gCMq@K{Ho@_FaCoHy@mDu@cCu@iAcBqBgEgDmCyA}DsAgKeCsCaAaFgDmKgGkC}A_DuAyAYgKeAyJaDgI}A_Cu@}FkDmBm@mF}@yBo@_A?}BLgE~@cCRo@?mBS_BEcCJi@KyR{KgCgAcC_BiByAsKaGo@k@c@q@s@cB}@_Dk@w@_As@aJsEsDaCgHkCuIaEsBm@cHqAyAm@oI{EmIkFoByAwFcFaFyCcAy@wE}FiAaAoHgEoHuFiFkCiBmAkLiLgEsDoBqAwDgD}AkBuAgCiC{DwEyEmB_CsG{KiAgAgAc@u@G_@Di@L_CbCs@Z_AAq@_@uDaHwG}FsDcF}AiB_@i@oB_Fm@eAu@{@y@k@qAa@uF?}@HcHrCuEjCgFtBaCNkFy@iFeBwCm@oCWoFKiE{B}F_AyDgBaC_AkAYs@E}GP{Jw@sA?cD`@iE|AgBPu@EsA]cAe@yBgBiB{@aCw@yAWiCOmIIwE[y@?mCRyEdAiC`@qDViCEsAa@iBkAs@YoDq@y@s@i@_AMk@GuGSaBc@}@u@s@aC{Aa@_ACYYi@?o@a@}Bg@u@a@]iAmBcCmCy@q@cAoAsC{F",
+  "websites": [
+    {
+      "url": "http://www.nycgovparks.org/parks/X004/",
+      "name": "NYC Department of Parks and Recreation--Bronx River Parkway"
+    },
+    {
+      "url": "http://www.westchestergov.com/index.htm",
+      "name": "Westchester County Website"
+    }
+  ],
+  "states": [
+    "NY"
+  ],
+  "ll": [
+    -73.87239099999994,
+    40.82395200000008
+  ],
+  "bounds": [
+    [
+      -73.87396199999995,
+      40.82395200000008
+    ],
+    [
+      -73.76450299999993,
+      41.07104100000004
+    ]
+  ]
+}

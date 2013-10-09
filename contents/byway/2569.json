@@ -1,0 +1,70 @@
+{
+  "template": "byway.jade",
+  "id": "2569",
+  "name": "Mount Greylock Scenic Byway",
+  "distance": "16.3",
+  "duration": "Allow 2.5 hours with stops at the visitor center, summit, and Western Gateway Heritage State Park.  Plan for 5 hours if your tour involves light hiking.",
+  "description": "At 3,491 in elevation, Mount Greylock is the highest point in Massachusetts and southern New England. A paved road system extends up to the summit which features a fantastic panorama offering a view into five states, upwards to 70 miles distant.",
+  "fullDescription": "<p>At 3,491 in elevation, Mount Greylock is the highest point in Massachusetts and southern New England. A paved road system extends up to the summit which features a fantastic panorama offering a view into five states, upwards to 70 miles distant.</p>",
+  "contact": "**[Berkshire Visitors Bureau](http://www.berkshires.org)**  \r\n 1-800-237-5747  \r\n\r\n",
+  "path": "udubGt~|}LRad@ZsHCe@[uBiAcFoAiH{@{A{B}AeAM_@DuJbCiDHgBIu@o@Oi@Y}EWeCK_@_@Qa@?wC~@g@Bi@QWw@UuCW_@uBGgER{@GuEkDyAe@yAMoAFu@PeFjBu@CqFsFgG_C}GwFeA_@iBKs@SiQyJs@KcWmAaE{@oAiAoBaCcA{Ai@qAgBsAoBSs@@_Dd@u@?}_@gDe@KsBgAaJyFmHmDsCmDoAyBmCyCs@k@iA[iAD}DGuATmBFYNe@hAC~CUdAo@~BcAtAyC|@S?gCeAm@JaAp@u@RcCEyBz@mBdBeAj@aAL{B?eLaAcEh@sABaGm@}IcBmFGc@EcBg@iBC_CUgBDyBh@eDTwBi@gERwGAiBMiBL_Ly@uB@{Ba@iBDcJmAs@q@wAoC{@kAk@i@mA{A_AgBOg@a@eEk@sBe@sDCq@HmA?uA_AsC}@wA}AaDG}@T_BAaAm@yBgAgCaAsAwEmEqG{HcBgCsF_FsAmCy@sCgB}Ey@iEa@g@uBkBS}@KiASk@{CuEEo@\\AzB~AvD`BVGMe@iA}@sBuCu@yBcBaLDm@h@gADe@{@gCCkAHyBC_@Wk@a@[eDsA??c@l@sAd@yAfBmA~@iBp@y@f@_BJ}C?iE^aACw@O_Bo@gAs@s@mAUk@_AgE]eAe@yBCgALsHO{Bs@sBsA{Ba@qDeAoC]eBYe@mAsA{@e@eCe@oCScBs@iGmD{BkBu@[iAQ{FRoD[_ARmDxBiAZiADaDWq@H[NeF~Eu@bBY`BIbLSxBo@dCiBlCy@l@m@EeEiAcA}@_AqByAiGsDgGy@eC}@uA_BqAyB_@mE_DmAuAcCqAo@K[Bc@TSh@En@DvDHd@h@t@Nx@UdCSl@o@l@i@VuBXs@l@I^?d@P~DO`A[b@e@XyDfAyLzAyFnAeFNu@Gs@WYg@Kq@i@aGg@gEWgA]w@iB_BcC{@iBkB_Am@y@a@kFeAa@_@Wm@Ee@L_AhB{Dt@kAb@yBEyDTiFCiCUaCy@sCIsAToDJqCZqB^aFb@eBnDcGHm@Ee@]]_@Bk@XqDhC_CjDSL_@MYs@?gEl@_BhBkCX_AN{ACkCH_BSUYEuARe@A[KmAqASYYaAYWo@MsAVOKASJk@|@wBnCaDx@eBX_@dBy@n@g@bBqBhA{Bh@Yl@Md@WRk@DaADyDS{@[Q@{AQsI?kFIo@O]}IyAgAg@cC}AwG{CwDaDoEgDcAk@oC_@wDmAcDEyA]kCuBk@Q}HgAmC{AiC_AcAw@_C{CiA_CcAkCcBiM_C_HqB{EmAiF}@sCw@iAkBmBwAgCsA{AgI_Gm@_@yA]_EqCwAc@eCW",
+  "websites": [
+    {
+      "url": "http://www.town.adams.ma.us/",
+      "name": "Adams, MA"
+    },
+    {
+      "url": "http://www.mass.gov/dcr/parks/western/appl.htm",
+      "name": "Appalachian National Scenic Trail, MA"
+    },
+    {
+      "url": "http://www.berkshires.org/ ",
+      "name": "Berkshire Visitor Bureau"
+    },
+    {
+      "url": "http://www.northadams-ma.gov/index.php?nav_id=8",
+      "name": "Events in North Adams"
+    },
+    {
+      "url": "http://www.surfwiz.com/mount-greylock.htm",
+      "name": "Mount Greylock-A Berkshire County Attraction"
+    },
+    {
+      "url": "http://www.go-massachusetts.com/Mount-Greylock-Scenic-Byway/",
+      "name": "Mount Greylock Scenic Byway"
+    },
+    {
+      "url": "http://www.mass.gov/dcr/parks/western/mgry.htm",
+      "name": "Mt. Greylock State Reservation (Park)"
+    },
+    {
+      "url": "http://www.mass.gov/dcr/parks/western/nbdg.htm ",
+      "name": "Natural Bridge State Park"
+    },
+    {
+      "url": "http://www.mass.gov/dcr/parks/western/wghp.htm",
+      "name": "Western Gateway Heritage State Park"
+    },
+    {
+      "url": "http://www.williamstown.net/ ",
+      "name": "Williamstown, MA"
+    }
+  ],
+  "states": [
+    "MA"
+  ],
+  "ll": [
+    -73.22618900012225,
+    42.54811099972284
+  ],
+  "bounds": [
+    [
+      -73.22618900012225,
+      42.54787799976987
+    ],
+    [
+      -73.11519599969563,
+      42.697398999863935
+    ]
+  ]
+}

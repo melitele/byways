@@ -1,0 +1,42 @@
+{
+  "template": "byway.jade",
+  "id": "2139",
+  "name": "Garnet Back Country Byway",
+  "distance": "12",
+  "duration": "Allow 45 minutes.",
+  "description": "The Garnet Back Country byway lies in the midst of the mountainous wilderness punctuated by the Garnet ghost town. Picnic, cross-country ski, snowshoe, horseback ride, hike, snowmobile, camp, and stop by the ghost town visitor center to take advantage of all this scenic byway has to offer.",
+  "fullDescription": "<p>If you are looking for year-round outdoor adventures, you’ve come to the right byway. The Garnet Back Country byway lies in the midst of the mountainous wilderness punctuated by the Garnet ghost town. Although gold miners weren’t successful here, you’ll find golden opportunities aplenty. Picnic, cross-country ski, snowshoe, horseback ride, hike, snowmobile, camp, and stop by the ghost town visitor center to take advantage of all this scenic byway has to offer.</p>",
+  "contact": "**Bureau of Land Management Missoula Field Office**                           \r\n3255 Fort Missoula Road                                  \r\nMissoula, MT 59801                                      \r\n406-329-3914                                             ",
+  "path": "u_e}GjjosTtBeAlBWxAd@hAlA~DlHvAjB~@RrC_BnJ~Bx@y@G}@Ks@i@yA?gCxBgDhCgBl@w@~@g@fJi@hBAbBw@RiAYkCo@gDIyBwA{DFqBTaC|FyI|ByChAa@xCF~Bs@rAsCfCyAjAGjD`BrBb@`CiApA_CfAoA`AYnARbDfCpBp@`BnAx@Nv@YbAeAzCgGBeBu@{EmA}V_AeEc@mDBgGo@sHn@_[XmECuJJ}BVuA|FmNr@aFSqB_EwPQ{APcBzAgChAsA^mAToHk@}HR{C?mC~@{Cx@wAfGgAlDwCdCgBbF{A`CmCt@o@vANhEzA`G{@xAkBhBuD@_DRaCxAk@rA?zK{QvC_BtAmA|@yBhGeGTa@\\k@R{Ij@oAnAo@fDMbCj@fAlCj@lCbDjE|@`@nCd@lBk@d@{BQkBq@mAKeBx@yFo@cBeA_AG}Ab@mB~@aBhEsBvJLzAmBnA{IJcBAu@YoHYwDOg@cAgASk@Ek@HgFH{@No@Za@`@Qj@JhBfAr@SPk@Nu@VyC?mAMiAu@{Bn@sB`@e@v@G|@LdExA|@KlBg@fHuDr@OnE{Ch@SlBCh@Ih@]NWTiAHyDOgAOk@cAqAUg@OsDIyEUgCm@gDKeB~@aHDaA_@mGk@iBg@s@e@_BcAaHOg@_AeAsCgFWs@Am@PyCGyA]}@_@a@{AkCc@iEOc@iAaAM_@UuAb@sHd@yAbAeA^_A|AoJ?sBJyARk@dB_Al@gAJs@JmBGiAsAuEYyA?mCZgANK|EsAf@qAXiCn@yDx@sDlCsDdB}Cr@cDSgDEqC|AwP@sBiBqF_AoDOmDHwBd@uEOqA_@aBcBmDwB_DLkBn@o@hEeCfCmBr@mA_@gIJkAn@sA~@_AbDrBzAJb@mAh@KtE`E|AGDqCdAaCnAgBf@_@NqAmAgB_AgC}@s@uAwDhAm@t@MRkBvBsAZuAXiDb@uC}AyAyAa@}@q@_Be@mBeAuAoD_BwH]wBl@k@~A?l@w@ZoBEyDi@sD?}B^uEXmA~@KbB?b@e@ScCDcEXaCb@kA|CmAPkAHwCYwCKeDDgBh@eBDuD\\kEC{DNaDd@kBkAgAc@qBEiDh@eBbBmAj@}Bx@aCNqAeAg@",
+  "websites": [
+    {
+      "url": "http://www.blm.gov/mt/st/en/fo/missoula_field_office/byway.html",
+      "name": "BLM Garnet Back Country"
+    },
+    {
+      "url": "http://www.visitmt.com/categories/moreinfo.asp?IDRRecordID=7008&siteid=1",
+      "name": "Garnet Back Country Byway"
+    },
+    {
+      "url": "http://www.blm.gov/mt/st/en/fo/missoula_field_office/ghost_town.html",
+      "name": "Garnet Ghost Town"
+    }
+  ],
+  "states": [
+    "MT"
+  ],
+  "ll": [
+    -113.46101399999992,
+    46.88907999999998
+  ],
+  "bounds": [
+    [
+      -113.46343199999995,
+      46.82624800000008
+    ],
+    [
+      -113.29895799999991,
+      46.88907999999998
+    ]
+  ]
+}

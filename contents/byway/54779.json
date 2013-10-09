@@ -1,0 +1,34 @@
+{
+  "template": "byway.jade",
+  "id": "54779",
+  "name": "Whidbey Island Scenic Byway",
+  "distance": "48",
+  "duration": "Allow 1 hour and 15 minutes, plus a 20 minute ferry ride.",
+  "description": "Visit Whidbey's Island Route, the only designated Washington State Scenic Byway on an island. It's easy to get to Whidbey Island, but difficult to leave. ",
+  "fullDescription": "<p>Visit Whidbey's Island Route, the only designated Washington State Scenic Byway on an island. It's easy to get to Whidbey Island, but difficult to leave. </p>",
+  "contact": "**Central Whidbey Chamber & Visitor Information Center**  \n 360-678-5434  \n 360-678-5664  \n [Send E-mail](mailto:cwcc@centralwhidbeychamber.com )  \n\n",
+  "path": "cemfHp_qkV`D?hEdBnBNfAU|D_BxA]hBAhAJz@R|KnEnD|@~BJjJ@fBP~TfEvK~BvDlBfGzErCdA`IdAtMhAxCHrOI~BVbC~@hAv@xPdNrCjB~@^xAXrBGdAU`A]li@c\\xCmCt@iAzAwCx@cCdU}v@v@_E`@cDR_DJeC\\shBTsEZeCbAiEb@kA~A_Dx@gArAyAbCuA`Bi@`CYlAAd`@RbCd@rCnAh@b@xB~B|BnEhA~DTlArEpY~@tE~@jC`BxCrB~BxQhRbJnInBpAlC~A|FtBtE~@tCVlCFfCE|D_@l\\uHlAIbFJj^rDbCb@jHnEdBrAfCjCfIhKrb@~g@`OhRtQjTvYn^vC|CjM~L~KrJjA~@fClAnCf@r`@J~BbKvF`S|C`MT`BFxA@zIZzB\\z@d@n@bAf@rCZ`^FjIl@zKpAjRtCxM~DdAj@|@t@vBpCpAnCxIvUd@~AXbDNtJ|Hl`@vBj_@bK~c@|@rDdAxCr@lAt@z@`F~DdAlAz@vAz@tBpGrRr@hBlJ`OvTv\\tBfChBjAbAZfCVrh@?~AXx@^x@|@b@l@^dArAzGZ~@`Yhe@fC~Cj@rAXjAt@hFLbBDhBSlKWjG[hCKrCB`JFr@f@pBbFrJvCfHtB`G~@rAx@r@`Br@tAJfFQhF_A|By@jEcCxl@_d@b^{V~CmCvBeCtAuBrA_Ct@aB|@}BbBgFz@_Ev@{Eh@{FTgGDeEI{FUuE_AkIy@sEmFqRcAmFe@mDYsDYsFEoECwgCZqQp@eKtA}MrCyOfFqRhAaFlA_J^iGH_C@mIKqd@DwAbCcZrA}\\_@mQw@cg@?qARmCL{@f@_Cl@_B~A_ClAeAlCgAz`@GxBWxBmAbBqBhAaDb@uBTqDByEDgBXsBb@mBp@eB|@uAbByAv@_@rB]x_@?pIWz[BlBQnAg@nAsAt@_BdIaVx@cB`@q@tEgEdQoNbCgChB}ClTod@tBqDlBeBfCmAl\\aFbCg@lFyAxDqB~GaFvJ_IvB{BhAeB`AiBjIoSt@kApAyAtQgLfDiBxBk@~h@gE`C]ta@oHxOgCzmAyQnXgEvCm@hCeA~A{@hCiBrBgBzDoBzNeFfEmBzRmO~KkJ~AcBxT}PlCyAdIsDnXiLbPmGlI{CzIwDhDeA|CObDf@~NtHrBj@`I`@`KPjKsAfCs@`BeA~GoFdE_BhQkDhBQreAPz{ABtAW`A_@bLgG~@Wz\\oBhCi@~bAmY|C_BzM{KhAqApBoCzAyCdQ_g@lBuDhb@gk@rBeDj@yAd@kB\\{BrC}XZ{B\\yA|E{NnAqFb@{Cj@oFLeBTuHCeHMyDyHe{@]uFK_HLmIXuE^gDbG{\\b@gDd@iFXqHlCujA?yCSuHu@{HqDoYa@oHIwETqr@HsCXsD^_Ch@{Bn@qB~@mB|AaC~BgCfWeRvA{AnB{CjByEvAgGTcCXoF?gEUyEi@oEcAsFyBuJmDyK}HcRcAyCy@{DUmBa@{GBwDTaF~QeiCBG`Cw[j@eGjAiHhBkGlDqJzDmH??vAgB??zBuC|I}ItTeTvIcI|PePxE_F|CgF`CwElGcQlP_c@vDwKlA{FVuCSmE_@{FcB{USqEOuEK_F?eISwTGwE?aO`@sCn@{Bv@mAbBqBh@y@hFyFzC_DrFgDl@_@Vi@@k@[wA",
+  "websites": [
+    {
+      "url": "http://www.experiencewa.com/",
+      "name": "Experience Washington"
+    }
+  ],
+  "states": [
+    "WA"
+  ],
+  "ll": [
+    -122.64456199999995,
+    48.40546000000012
+  ],
+  "bounds": [
+    [
+      -122.73992199999992,
+      47.974717000000055
+    ],
+    [
+      -122.35156599999993,
+      48.40546000000012
+    ]
+  ]
+}

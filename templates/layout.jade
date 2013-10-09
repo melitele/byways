@@ -1,0 +1,27 @@
+!!! 5
+html(lang='en')
+  head
+    meta(charset='utf-8')
+    meta(name="viewport", content="width=device-width, initial-scale=1.0")
+    title
+      block title
+        = locals.siteTitle
+    block description
+      meta(name="description", content="#{locals.siteDescription}")
+    link(rel='stylesheet', type='text/css', href='http://fonts.googleapis.com/css?family=Arbutus+Slab|Capriola')
+    link(rel='stylesheet', type='text/css', href='/style/screen.css')
+  body
+    header
+      hgroup
+        a(href="/")
+          h1= locals.title
+    #main
+      block body
+    footer
+      ul.flat-list
+        li: a(href="http://code42day.com", target="_blank") code42day
+        li: a(href="https://trips.furkot.com", target="_blank") Plan trip with Furkot
+        li: a(href="mailto:byways@code42day.com") E-mail us
+        li Powered by <a href="http://wintersmith.io" rel="external" target="_blank">Wintersmith</a>
+
+    block scripts

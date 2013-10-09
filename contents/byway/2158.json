@@ -1,0 +1,46 @@
+{
+  "template": "byway.jade",
+  "id": "2158",
+  "name": "Mount Magazine Scenic Byway",
+  "distance": "24.9",
+  "duration": "Take 1 to 2 hours to fully enjoy this byway. ",
+  "description": "Located in the north/central portion of the state, the Mt. Magazine Scenic Byway includes a 20.4 mile segment of Arkansas State Highway 309 from the Magazine District forest boundary south of Paris to just north of Havana.",
+  "fullDescription": "<p>The Mt. Magazine Scenic Byway includes a 20.4 mile segment of Arkansas State Highway 309 from the Magazine District forest boundary south of Paris to just north of Havana. Situated in the western/central portion of Arkansas on the south side of the Arkansas River Valley, this unique scenic byway leads the visitor across the top of Mt. Magazine, the highest mountain in Arkansas. Mt. Magazine Scenic Byway and the adjoining developed forest roads provide the visitor with an exquisite winding mountain drive with sharp curves and \"hairpin\" switchbacks leading the traveler over this flat-topped mountain.</p>\r\n\r\n<p>At an elevation of 2,753 feet, Mt. Magazine is the highest point in the state. It provides many vistas along the north and south slopes. Spectacular views of timber covered mountains, rugged rock bluffs, and beautiful lakes await the mountain visitor. Mt. Magazine also supports a long history of mountain-top homesteads. Most of the land was acquired by the Federal Government during the Great Depression under programs such as the Resettlement Administration. Many of the mountain-top picnic areas are actually located on old home sites.</p>\r\n\r\n<p>The Forest Service operates Cove Lake and Mt. Magazine Recreation Areas which lie along the byway and serve visitors who are seeking extended recreational experiences. Boating, camping, hiking and horse trails, fishing, swimming, and picnic opportunities are available on both Cove Lake and throughout the recreation area.</p>",
+  "contact": "**Magazine Ranger District**  \n 479-963-3076  \n\n",
+  "path": "irluE|y}yPaAdBcAjAkAt@mAd@yBJeZAqQWaEy@yA{@cDqDu@_@}@D[^OfCDrAz@jEYrAkAfBDjAh@xArBfCb@~A?zBS~CuAfIJzCK~AY~Bs@jA]~@iAtFq@lAqDrKiE`Hi@l@i@PcB@wCaBqAKmAl@iD~Do@d@i@Ji@CcCeBi@D_@b@Ml@B`@bBpJRlCm@`\\IdAYbBk@tA{@l@uF|AcDhAo@nAm@bEeA~BqDpFyBnBUfAY~DAzEZjCnBzIDl@E|@[x@_@`@iPzJw@|@_@lAEr@BdEOz@}ArDOdAIrATrArBzEv@xBhAxDHr@SjDr@hFOjCOrLTfHd@hIDdGApL[rGJjCG`AQX]DYKQUIc@_B}So@kFi@gD}@cEm@eEa@mEYaBiC_HwDiQ_AmBy@EMJKZ?r@hBdIb@fDbB|XdAzMKxGy@rTc@hDy@zCeAzCoN~\\sBxC{EbDo@`AW~@mAnIIfBBdATrArBlKH`AIvAYd@o@ZwIYsASiSmHiAm@cA_A_CaD??{HoMsA}De@iCi@_Io@cOgAae@AsFNkCxDm^nCwYKmEo@sLIaAe@qBsC{KyAoMg@wCa@oAqG{IgAY[Fq@d@SXSjAOhOOdBiBnLOtBMxHKrAeO|q@w@jCiBxDUz@Ev@Dx@nAnFVdB@rAEdAc@pBoD~Km@~BEbAJzBAdAk@tECr@T`G]bB{AbEGp@?xA`@`MtA`GBp@I`AUj@i@p@uDfCq@z@c@~Au@fJYjAs@rAk@l@mAl@u@PkDRoA`@iAv@o@~@iBrEuNda@qB`F{C`FgH~JiBbCy@p@gBv@cBLoeA}@aZHeAKsBeAqLcLmDkCgAQeDj@i@?mAk@aC}BaAi@sAMcF@_Bb@s@x@c@jAg@tCa@jA{@fAkCrAsDfDiAr@kNbDiBz@cDdCy@fCYf@o@^i@Di@Gu@]eAu@m@cAYsBMoFHwALaAx@aDPeCBaEWeBa@y@c@a@cIeGe@Qi@PeIxLy@`BiAxDy@hGe@pByBbEmAbBoAlAqClBgn@ha@oAlAi@fA[zAMvAs@pw@IdB_@~AoD`LcAhGmBdGkA~BcD`Do@tAgB`ROl@]|@iH`I}@zAQrA?xIM`AoAdFeAfJC~Aj@hNBrB_@~Ae@r@}@f@iAJ",
+  "websites": [
+    {
+      "url": "http://www.arvtripeaks.com/",
+      "name": "Arkansas River Valley Tri-Peaks Rgion"
+    },
+    {
+      "url": "http://www.arkansas.com/things-to-do/scenic-drives/mount-magazine.aspx",
+      "name": "Mount Magazine Scenic Byway"
+    },
+    {
+      "url": "http://www.butterflyfestival.com/",
+      "name": "Mt. Magazine International Butterfly Festival"
+    },
+    {
+      "url": "http://www.fs.usda.gov/osfnf",
+      "name": "Ozark-St. Francis National Forests"
+    }
+  ],
+  "states": [
+    "AR"
+  ],
+  "ll": [
+    -93.54670699999997,
+    35.13141999999999
+  ],
+  "bounds": [
+    [
+      -93.67636099999999,
+      35.13141999999999
+    ],
+    [
+      -93.54634899999996,
+      35.254608000000076
+    ]
+  ]
+}

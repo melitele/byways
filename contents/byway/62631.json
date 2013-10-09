@@ -1,0 +1,38 @@
+{
+  "template": "byway.jade",
+  "id": "62631",
+  "name": "Pend Oreille Valley Scenic Byway",
+  "distance": "50",
+  "duration": "3-5 hours to enjoy this byway",
+  "description": "The Pend Oreille Valley Scenic Byway follows the Pend Oreille River from Newport, Washington north to Tiger along Highway 20. The route travels through beautiful river valleys and goes by the small communities of Usk and Cusick.",
+  "fullDescription": "<p>The Pend Oreille Valley Scenic Byway follows the Pend Oreille\r\nRiver from Newport, Washington north to Tiger along Highway 20. The\r\nname <dfn>Pend Oreille</dfn> is said to have come from a French\r\ntrapper's description of the dangling earring pendants worn by a\r\nlocal Indian tribe. The route travels through beautiful river\r\nvalleys and goes by the small communities of Usk and Cusick. This\r\nsparsely populated roadway offers several accesses to the river as\r\nwell as access to an off-road ATV Park north of Cusick and\r\nrecreational access for hiking and fishing into the Colville\r\nNational Forest from both the west side of the roadway as well as\r\nfrom the LeClerc Road on the east side of the river.</p>\r\n<p>Remnants of a bygone era can still be seen as evidenced by the\r\nriver pilings still standing as a reminder of the log boom holding\r\nareas that supplied the Diamond Match Companies Mill at Cusick.\r\nVast forests of western White Pine were harvested to supply this\r\nmill at the turn of the century.</p>\r\n",
+  "contact": "**[International Selkirk Loop](http://www.selkirkloop.org)**  \n 888-823-2626  \n 208-267-0822  \n [Send E-mail](mailto:selkirkloop@verizon.net )  \n\n",
+  "path": "y|aeHfhjiUCdZK~LS`Ao@vAwDnDa]vPwHpEcD~BsS|WoO|ScIbKwBpBqErCwKxF}EfByATaAA{ASiEyAmCGy@LyA`AyA~A}C`IcBzByDrCgDvCyEfEsB~BiCnEiAjCmA`Ey@rDi@pDoAjMsBx]iGvn@eG`k@mJtbAwAdNsCpZs@tBiR`vB}KzkAwHru@{Ip_AOxDEhHnAxa@J`RpAz_@ZdMsC`lA_@zJgAl_@QxMU`JyAvX}@lIyB|OcAlFiCxKsBzHeCbIkG`PqB~D{ChHyNtVsNvPyDrDiC~AwCdCiKpLiNrNiU~TmCbDeN|MeOhP{[h\\{NbN{YpQyO~I}]~SarCfaBmTpMiH~D}T|M{vCtdByCxAmCr@oC^{FRgY?exBf@gmAP_DRmA\\iw@t_@iHdD_IdEcW|LcExAgALmCJsDY{AYuJsDoBk@cBOsCLkHx@g\\lCmBMiC_@mT{EsF[oDHmAPmE`AqElBgC`BuCjCcAlAcIxKkBzB{B`B{CbAoERiDy@cCgAeKeHcAg@oAYiBYaENk`@dRwKnEcKxEiHrCoMfEiC`@cBKiAUmAq@uDaD}AaAs@We@EsSJ_@JiAz@sGrIw@x@oCjBgA^yV`FmJfA}C?mEQmEu@yC}@}w@cY_Ag@w@mAkBgGuFuS[{BMcBEoEKgAm@yEoAsFmBeGeAiEc@qCeA}KOeFGoFRyOCsAOcCkA{Hy@sDgGaRu@gDs@aEg@sGuBo^_A}LcBsLcC}LkFcR[kAeA_CcAeBy@gA}AsAkb@_\\gC}AiAc@sBi@e@G_\\mAkQe@iBLsFxBcARo@?mAQyC{@iBJy@Zo@j@i@x@gDfG_BjBoP|O}D`DoAr@sBv@uFx@{MxDyAl@}BlAiA|@}CtDeRvYeClEy@lBy^~dAiClNm@`C{@pCaBnDuBlC}A|AeSnRyCfBmCt@cCTwBIoAScCy@oPoJ}B_A_Cg@iCIyCRcCp@wShJeBjAgBdBmCrDiBfEcCpCaGdV{Rdu@w@jDaAtF}Cb\\mGzf@wBrRi@nDs@dDeAtDgCjG{ArCgZ~e@y@`Bs@fC{@jBaA`AkIpCiExDk@Zy@LcAA{JyBmAFq@n@gB|DsDdFmDxCk@LcAGsA]oQwHmCy@cC_@e]q@eBWkK{C}@E_EBq]zBk^nCgCh@gCtAi}@lv@kDzAsDfAqc@bGsAZaE~A_ElC}Ar@oCd@mAJwD]_FgAwG{@aFBwBVaOrDkeBh[eFfA{Af@iCdBcxAtnAo_Ahy@_EfDgJ~G{InFgK|EssA`f@uAj@u@l@",
+  "websites": [
+    {
+      "url": "http://www.fs.usda.gov/colville/",
+      "name": "Colville National Forest"
+    },
+    {
+      "url": "http://www.selkirkloop.org/",
+      "name": "International Selkirk Loop"
+    }
+  ],
+  "states": [
+    "WA"
+  ],
+  "ll": [
+    -117.039558,
+    48.18397100000004
+  ],
+  "bounds": [
+    [
+      -117.40534199999996,
+      48.18397100000004
+    ],
+    [
+      -117.039558,
+      48.68511999999993
+    ]
+  ]
+}

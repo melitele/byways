@@ -1,0 +1,38 @@
+{
+  "template": "byway.jade",
+  "id": "2140",
+  "name": "Missouri Breaks Back Country Byway",
+  "distance": "80",
+  "duration": "2-3 hours",
+  "description": "The Missouri Breaks National Back Country Byway runs through central Montana, encompassing an area of varied geography and historical importance.",
+  "fullDescription": "<p>The Missouri Breaks National Back Country Byway runs through central Montana, encompassing an area of varied geography and historical significance. Follow the byway loop beside the Missouri River, through the Charles M. Russell National Wildlife Refuge, past the Missouri Breaks, and alongside the historic steps of Lewis and Clark to learn about this fascinating region.</p>",
+  "contact": "**[BLM Montana Office](http://www.blm.gov/mt/st/en/fo/lewistown_field_office/UM/byway.html)**              \r\n5001 Southgate Drive                          \r\nBillings, MT 59101                      \r\nPhone: 406 896-5000                      \r\nFax: 406 896-5299                     \r\n[Send Email](mailto:MT_SO_Information@blm.gov)               \r\n \r\n \r\n",
+  "path": "ajhaHxjqzSYsGByA{C{FW{BDqGIid@U{][glAGgFc@eAiAuAk@_@y@Qma@DqAgCGkgDFwT?q~@SyCYq@eAs@k@EwqAFaAoAOe@Gq@Rq~BNwfEBidCCy_Au@_Ao@_@_KE_eAJeAGw@eAQc@S}A?q`G???sB?klCTgkDNuq@E_Ca@gISsAoBiHSeDMq@a@m@i@[_AQw]Eu@Y_@q@UaAAebCi@oAuQyYq@_BKs@_@oJc@yDuOq~@y@eFCy@AsA`A}XEcOLyCjBwVHgD?mEKuFSeBoCaPIsBHwNg@{z@E}PH_BTyApDsOX{AtFmg@l@mEj@_CfA_CbG{KnMuNbAcB~@}CRsANaEHsECmBM_EiAwSFmDPqB|@mEfAmB`A_AlA[nA?~PnA|BBj@MlAq@lE_Gv@uAj@_CTmB|AsPNaCB{GOsSwC}v@CsBBgA`@yBbPgh@h@mCOmFs@iMEyCDsAh@_F`D{QJ_TCsVH}FzKysAfFim@RgF]yEe@mBw@mBeA_B_T{VcDcEm@kA[sAKwAWwTIgAKk@}@eCoCaEqAu@eB]o@YUSg@y@Y_AoIsf@GgEH{RNeBrCeWHmDNiUYgE}Ioo@SqB?yCXcCr@kDzMsk@b@aCJsBEgCSyBgFo]_@sD{Bq}@OcDSmBc@iBy@yAo@u@mCkBy@_ASg@Qk@OsAC}KKoAYmAwC{Gg@k@}As@y@y@c@_AYaAKgBDeAhCaON_BGaC}@aJm@gD_@w@iAgAiAa@iHHqDY_QaEoAs@}@gAc@}@a@gBCkBFoDGmAe@kCmA{De@}@cAoAmIkJmAmCe@{BGmACqA@mB|D}_@JyAH_DKoBs@mEOgKSmAyAyDOy@?eC^aEGqAy@uDCkADmA?_DMoDKq@e@aB_AyB}BmEm@qAa@yAS{B_@sH?q@^cEE_BOg@sBkEoB_CSaA?k@^_E?mA?uAi@{LIyEP_Bj@aCnBsE\\kAVmBLqCA{BaAsGOyB?wHK_DOcBSi@]c@kAm@sDu@gC[{Aa@}@{@yEeGwCkBy@s@sCaDk@kA]mAk@iFg@wCUuGmB{OSs@[g@mCqBiAmBaGgLUk@i@aCKeASaGe@uCIkB\\eDz@}ED}B[mBm@uBiB_EmGaKcFaF}AyBsEsFSc@_@}AI_CReKHmBbBuKjAsFb@iCHqAJaHHw@b@gBJu@OyESgOB{A`AsKj@gFd@aKl@yDJuACq@Ge@Qe@SY]QoAH}@SiA}@[s@Gs@HkAvAgD^eBp@gHAuAO_ASe@OM}@@UGU]Ug@sAsGUeCi@oCIsADg@vDaSz@oI|A_GXkBh@eAjBaAf@e@t@oB`EaW~AoHx@{G^kA^kBBmAIkAC}CXyEFgBCwAK_ATsDAyBLuBBqD^cDD}A|@oEPeGRyB~AiHA}BP{Fh@oBAu@ScAu@kD@eDDcA|CeOjBiFVeB|ByH`DyX~BoQTeC",
+  "websites": [
+    {
+      "url": "http://www.fws.gov/refuges/profiles/index.cfm?id=61520",
+      "name": "Charles M. Russell National Wildlife Refuge"
+    },
+    {
+      "url": "http://www.visitmt.com/categories/moreinfo.asp?IDRRecordID=891&siteid=1",
+      "name": "Missouri Breaks National Back Country Byway"
+    }
+  ],
+  "states": [
+    "MT"
+  ],
+  "ll": [
+    -109.37532799968739,
+    47.56145900003281
+  ],
+  "bounds": [
+    [
+      -109.37532799968739,
+      47.56145900003281
+    ],
+    [
+      -108.6885680001131,
+      47.63380799993922
+    ]
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "template": "byway.jade",
+  "id": "73585",
+  "name": "Hilton Head Scenic Highway",
+  "distance": "7.85",
+  "description": "Hilton Head Scenic Highway provides a short but pretty drive past Two Bridqe Swamp toward the Okatie River.",
+  "path": "y|edE|wwmNeAuc@u@yTDoENgCTyBfAaFn@gBNO~@uBxB}CvA{ArCaCvZ{ThDsCbBeCdBaDlA{DbA{FTsBJqDAeDO{DqFgl@wGcv@uAcNuEmh@kCoXmCq\\oPujBMwBHaJViDn@yEtAgFrBeFd[gi@??jCsBnDqDhA{BjE_J|@qBpBiF~AaE?C`AeC`DoVl@wEbAmIvCoThBgJlEuTxCiNnFkLdByDhDiHxB{EdD_HJQfA_CrA{J",
+  "websites": [
+    {}
+  ],
+  "states": [
+    "SC"
+  ],
+  "ll": [
+    -81.06382799999994,
+    32.31197000000009
+  ],
+  "bounds": [
+    [
+      -81.06382799999994,
+      32.29096700000008
+    ],
+    [
+      -80.93757399999998,
+      32.31259200000005
+    ]
+  ]
+}

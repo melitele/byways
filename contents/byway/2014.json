@@ -1,0 +1,31 @@
+{
+  "template": "byway.jade",
+  "id": "2014",
+  "name": "Potash-Lower Colorado River Scenic Byway (U-279)",
+  "distance": "17",
+  "duration": "1 hour",
+  "description": "Attractions along this red rock canyon route include several Indian rock art petroglyph panels, a roadside display of dinosaur tracks and a number of delicate, naturally carved stone arches.",
+  "fullDescription": "<p>The Moab area is known for its abundance of Indian rock art. This byway features several petroglyph panels, with many individual carvings depicting symbolic animals and anthropomorphs. Other ancient traces include a roadside display of dinosaur tracks and a number of delicate, naturally formed stone arches.</p><p>There are also many opportunities for outdoor adventure and extreme sports.  Climb Wall Street, a popular stretch of cliffs just after JayCee Campground.  The Potash boat ramp allows you to cast off and raft the Colorado for a better view of the art on the cliffs.  For off-road vehicles, the Potash Road continues past the paved byway, and Long Canyon Road makes for an intense tour.  Both connect through to Canyonlands National Park and Dead Horse State Park.</p>",
+  "contact": "**Moab Information Center**  \r\n 435-259-1370 or 800-635-6622  \r\n 800-635-6622  \r\n\r\n",
+  "path": "}gsjFht}{SjQxH~@RrCP`AEhDw@hCiBvi@qi@rg@mXlD}BdKwH`n@eq@xAyAhDsBjLaClBSz@EjJ^|Cr@fXrJxFfBvClApHdEhBrAjl@zm@tBrCfDlFbBxB~DfEdCtBpLxHdQ`IhCdAfFtA|EdAbE~AnKdFpn@de@xChChAdBx@dBbAfCd@lBh@lFHrCI~CUrBYrBwHv\\wDhNgGtQ_CfFiAnBmCjDaIlHaGxDsClA}DlAwGpAcDd@yDZoBD}TkAmU{AcGWgFGsCPgGt@mDP_^KgELiKD_PjAqAR}Jp@}C^mWz@cC^eBp@iAr@s@p@kLtLcArAcBrDu@vDuAlSCzANpCp@zDvCrLt@hCzBlF|DjHtNnUnCtDxB~BzFzE~UnOpD~AxBl@zAb@pBXlDJpGq@pL_ClHyCfFaD|DmDzOiTfGuJvCeDnCmClDqBjIaDnA_@zBSlA?`BRbC|@xF`E|B~BrAxBt@zAjFlMdB`C|@r@zAx@pDrA|HfC|Dh@dLx@hEx@fK~CdEf@bC@tAGvDk@da@sJbEs@",
+  "websites": [
+    {}
+  ],
+  "states": [
+    "UT"
+  ],
+  "ll": [
+    -109.60212699999994,
+    38.60623199999998
+  ],
+  "bounds": [
+    [
+      -109.65897399999994,
+      38.52391800000004
+    ],
+    [
+      -109.58013899999997,
+      38.60623199999998
+    ]
+  ]
+}

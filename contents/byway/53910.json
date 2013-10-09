@@ -1,0 +1,38 @@
+{
+  "template": "byway.jade",
+  "id": "53910",
+  "name": "Cohutta-Chattahoochee Scenic Byway",
+  "distance": "54",
+  "duration": "1-2 hours, more if multiple stops are made.",
+  "description": "Beginning at historic Prater's Mill in Whitfield County, this byway rolls past pastoral lands, quiet country roads, views of the Cohutta Mountains, and the Chattahoochee National Forest.",
+  "fullDescription": "<p>Beginning at historic Prater's Mill in Whitfield County, this byway rolls past pastoral lands, quiet country roads, views of the Cohutta Mountains, and the Chattahoochee National Forest.</p>",
+  "contact": "**Chattahoochee-Oconee National Forests**  \n 770-297-3000  \n\n",
+  "path": "udjtEbuleOJcFKi}@H_D`GaB^mCRgFJyHbA{D~@y@zOuR|ScVdAgCjFuNrDmKN{A?mB@u}@VyVT]^QdHJtAa@N]NaAHsAAsBi@mHm@yFs@oLoAaJEyCB{HGyKRifACw\\H}Ah@oCx@EnBs@bAm@|F}EtDuDtDsGbAmClDeFf\\s`@hCgCzBsAtAkApLiPlD_DnC_BbBuC|C_Cj@k@pDyEn@oAjBmCxLkJ\\GNox@K_Dg@{CoAsFsT{l@gByDeAiBeBiCuFiGeCsDsA{CiBgFqDuPqLmh@}CuN_D_NqC}JiF_O_CiFeGmLeR_`@}AgD{AmE}@mDs@uFi@sJ_@oLOcA{McGuBsA{BcCe@u@gEgDkAk@_`@wMqHwBqHgAsAaI}@aIe@iQF{y@LaNVoA^iAzBoB`Ae@hBg@n@_BL}@FgYL}@nDiNbA{Ib@sBhCsEbIsL|AuCRw@DaBIsC_@mEFmDzCd@lBh@zB~@jHrD|T`K`[fOfG~DxAfBlFlIxAfB`CdBnBr@pGj@da@^fLCfCO~FcApWgFtn@_ChRd@tMfA`b@xKbOfDbBR~Kp@`P^vN~@vDEzx@~@vJl@rCj@lH~@bg@|HdFj@~FR^a`@KeJfGg@n@Q|FmFd@m@\\y@xBaCx@kA~AuCn@qBfBkBnCuAbCgBfDcBxAuAxAwDh@sCt@{BtIsKpLgMpIwCbBW|F_@pHXnTyArEmBfDs@bCYrDqBzKsEfD_C~WoIlBmAvF{@bA]bD_B~@q@b@u@n@]|BUb@WVg@l@gClAsDdDyGxAkDl@sBxAaCx@m@n@sBhA}MbA}E|BuEdAeAzBaFx@_AlC{DfAeAb@aB@oAEo@iAwEU{BDsBNg@|@sB|HsKzA_C`BmEFkBZaCdEoJpF{KTq@lBmEbCDnQWr@M|HUte@_GlCr@fDrB~@~@h@jBxA`CfCxCZdAh@^rDlGb@lADzBKjByBnJGrARxAX|@zKpQfBfD^bA??dAhEx@fMl@|Vn@hPt@xEdAtD`ClDnBpBrE`KfCrDlElEtJnNbJhJrMnPtBzDhAjFdAzCzHdHl@z@nEdFz@`CtAdBtDdD~LnIlCr@rCLtBh@rAz@z@XzEzEx@p@rDrBjHrHt@fBhB`IrC`HrAjBXJbErE^f@^dAb@l@|C`J~@pB|@z@hAj@`B@`DsAvHyBhB???aAzIm@rICpSPxLGnB?tc@",
+  "websites": [
+    {
+      "url": "http://ngeorgia.com/parks/fort.html",
+      "name": "Fort Mountain State Park"
+    },
+    {
+      "url": "http://www.dot.ga.gov/travelingingeorgia/scenicroutes/Pages/CohuttaCattahoochee.aspx",
+      "name": "Georgia Department of Transportation- Cohutta-Chattahoochee Scen"
+    }
+  ],
+  "states": [
+    "GA"
+  ],
+  "ll": [
+    -84.93921700016443,
+    34.95515099961892
+  ],
+  "bounds": [
+    [
+      -84.93921700016443,
+      34.765597999747854
+    ],
+    [
+      -84.6945110001825,
+      34.95758100016303
+    ]
+  ]
+}

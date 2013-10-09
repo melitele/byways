@@ -1,0 +1,5 @@
+{
+  "name": "byways",
+  "paths": ["lib"],
+  "local": ["boot"]
+}

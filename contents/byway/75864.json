@@ -1,0 +1,32 @@
+{
+  "template": "byway.jade",
+  "id": "75864",
+  "name": "Florida Black Bear Scenic Byway",
+  "distance": "123",
+  "description": "The Florida Black Bear Scenic Byway in north central Florida is filled with long, uninterrupted stretches of natural Florida and pine-scented air. See an array of wildlife, lush subtropical vegetation, and springs with clear, crystalline water. Be sure to take advantage of the many recreational opportunities like camping, hiking, biking, fishing, swimming, boating, kayaking, and canoeing.",
+  "fullDescription": "<p>Connecting Silver Springs with the city of Ormond Beach, the Florida Black Bear Scenic Byway is filled with long, undisturbed stretches of natural Florida and pine-scented air. See an array of wildlife in the Ocala National Forest, the centerpiece of the byway. Designated in 1908 by President Theodore Roosevelt, the forest is home to rare and endangered plants and animals found nowhere else. It is also home to huge springs that discharge incredible amounts of cool, crystalline water that feed clear streams lined with lush subtropical vegetation. Visitors often come to camp, swim, canoe, kayak, and even scuba dive.</p><p>Located west of the Ocala National Forest is the Silver Springs Park, one of the largest spring systems in the world. It is famous for its signature glass bottom boats, where you can ferry across the springs and take a look at the life below.</p><p>Catch a glimpse of the beautiful views given by the Ocklawaha, St. Johns, and Tomoka Rivers; motorcycle along with the cycling clubs that regularly use the byway for long distance rides; hike the Florida National Scenic Trail; or enjoy the 28 developed recreation sites in the Ocala National Forest.</p>",
+  "path": "aliqDl|ysN{AwAmAeBcAgDOeAPm^ImE[kCoC}M{Bge@GqCFgDVgCnB{JVwDDc@AeAUiFg@oMKaCGSWmF?{CrPstDd@uNAeFi@qJG}CNmFj@sF`Jgg@ZgCXoENcFRyf@`FueBhAk]P_EVsBp@_Ez@gD~BoFdDkF~F{H~GuJxAeC|Zap@zZom@r@yCd@mDJmEEyCa@uD_@iBiEoL]mAc@aDK_EJgBNqAl@}C`AcCv@sAh}@_aAvBuCtBeEbBeF|@gElGsj@|@}ErBgIbEyKbPeYnBmEx@wCnLcg@hAgIbAmKr@gDlBaFhQw\\lAsBdBkFl@uDRsD?sA_@{sAGiIYsF_AeGu@sC}Qgh@aA_F[gFgBqcEq@mnAm@{nByAswC}BkqFFuLRuGt@mI|AmJ~Q_aAbAgG^eHJmCUaGoIwz@SoHP_E|DqZtKcw@f@qCfBmFnTui@bFmNr@}FFeCG{DyGwg@??c@iDqNwyAiAgT?eEV}Ct@kEpAmD~MuTrByEf@aB^kBrCiSh@{B`AgC`AgBtVk`@hLoSt@aBlA_Eh@qDJ{AdEiuAZ{Fp@_Ef@mBdKuS`ByEn@oCpA_KlCoWHuFGmA??IsAk@eE_Uqv@oWkg@qAaDaAeE_@aDGsEqA_nBGiBc@eDw@eCaByC}AaBgIaHkCkDcBoDyIgVy@gDo@mGuDab@u@yLg@s`A_BawEKgFWeE}@iIu@eEos@mrDg@kCmBiHoBsFmBsEeCgFsDoGgCkDib@ec@kCuE_AsCi@sCa@yDkJkgAkAuFacAudEy@oEWgBYmHqAux@o@{EYkAmBmFgTka@mDiGkDgH{fAusBuHgOiAgDu@qEqOefCk@uE}^m_CsAuJ}\\}vBmJun@UyBS_IfD}m@PmIUkg@OmCWgCwAyFcA{BqL{Pm`@kj@EOIMqDkF}FwIi@y@mBwCy@kA_@e@[g@m@eAcA_CaA{D]sCU}He@iQcCmu@KgCi@uEs@kDwCgLwZohAoAmF_Mwc@m@_Cc@uCUcD?iCJmC\\yBn@wCt@sB|DoGbTeYjBwCxAcCpAwCbAoFpDso@nNu{B?yFg@wGcMut@cLkm@",
+  "websites": [
+    {
+      "url": "http://floridablackbearscenicbyway.org/",
+      "name": "Florida Black Bear Scenic Byway"
+    }
+  ],
+  "states": [
+    "FL"
+  ],
+  "ll": [
+    -82.05782299973163,
+    29.21681000018134
+  ],
+  "bounds": [
+    [
+      -82.05782299973163,
+      29.153480999848227
+    ],
+    [
+      -81.1159359998465,
+      29.262509999636734
+    ]
+  ]
+}

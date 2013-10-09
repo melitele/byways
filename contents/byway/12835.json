@@ -1,0 +1,54 @@
+{
+  "template": "byway.jade",
+  "id": "12835",
+  "name": "Pacolet River Byway",
+  "distance": "10",
+  "duration": "20 minutes",
+  "description": "This route passes over the Pacolet River several times, and also goes through the unique Tryon Thermal Belt microclimate.",
+  "fullDescription": "<p>The Pacolet River Byway begins at the South Carolina state line and traces its way through the Tryon Thermal Belt, an area with an unusual climate that is usually free from dew or frost. The route crosses the Pacolet River several times and runs parallel with the Saluda Grade, the steepest mainline railroad grade in the United States. Old railroad depots, log cabins and other historic buildings can be found in the towns of Saluda and Tryon, while Pearson Falls Natural Heritage Site is a 259 acre botanical wonderland where visitors can hike, bird watch or just enjoy the</p><p>outdoors. Tryon houses a 1906 train station, which was once the center of activity for the area.</p><p>The byway ends where US 176 crosses High Bridge in Henderson </p><p>County. You may travel on from here to Hendersonville or Flat</p><p>Rock (location of the Carl Sandburg National Historic Site and Flat</p><p>Rock Playhouse).</p><p></p>",
+  "contact": "**[Polk County Travel & Tourism](http://www.nc-mountains.org/)**  \r\n 800-440-7848  \r\n\r\n",
+  "path": "w`avEbxtuN?uDLiCK}ASsCBsELyDDeA@q@NoBj@_I?s@Ku@YcAg@eAYk@aAoBF]Ly@zA_E~AgDXq@Dg@eAoH]kIe@{AiAaFe@kD^_E~@aDT]\\O`IcCbDc@fH_ClCkAj@GxAi@bCUb@QNQ@u@O]{@m@w@mA_AaCsBcDAo@~@kDMyAPmATMn@IbCp@RWNiANQ|CmBZ?|ExAxCzAfDDbCl@R?h@St@oAn@UrBb@~AEv@f@nBd@|AxAdAJb@KJMXq@Ns@?y@UmBIaBBq@`@}ABu@Im@_A_C?_@N_AEa@m@_ByBeCOa@Dc@TS|Bg@^i@A_@y@iDDg@Ze@lAq@Te@Hm@Kq@s@g@Sq@Lm@rAaBf@mAVcAN_BZuALkCGaAW_AuIuOe@{AM_AAeI~@yGX_AxBuARe@@_@Am@qAsBQk@SsBlAiH?yBI}Ai@oDyAkDUgCf@iLrAmLBeEIu@k@_BImAp@eHGo@i@kBy@qBMs@OoGKiO]yEq@aDmCeJsByHi@iDlAy`@J{[IiEsAeIQuI?yFzAaf@{@k\\JyC`CiO~ByEdAmC^sA|AcIr@kB~AwC\\aAhAiHX}@hA{AhHaHl@w@n@sAfEcMhAkBvJeGrEiDzJ_AzKgBx@YT]jE{J`BeClAy@rAY`KMnK|@~CW~@W`CsArDiDhHaIxBkDzAmFbFkU^eC~@gC",
+  "websites": [
+    {
+      "url": "http://www.blueridgebbqfestival.com/",
+      "name": "Blue Ridge Barbeque Festival"
+    },
+    {
+      "url": "http://www.nps.gov/carl/",
+      "name": "Carl Sandburg Home National Historic Site"
+    },
+    {
+      "url": "http://www.flatrockplayhouse.org",
+      "name": "Flat Rock Playhouse "
+    },
+    {
+      "url": "http://www.visitnc.com/journeys/articles/scenic-drives/1/pacolet-river-byway-mountain-scenic-drives",
+      "name": "Pacolet River Byway (Visit NC)"
+    },
+    {
+      "url": "http://www.saluda.com/",
+      "name": "Saluda, North Carolina"
+    },
+    {
+      "url": "http://www.tryon-nc.com/",
+      "name": "Town of Tryon"
+    }
+  ],
+  "states": [
+    "NC"
+  ],
+  "ll": [
+    -82.35921299999995,
+    35.23612300000008
+  ],
+  "bounds": [
+    [
+      -82.35921299999995,
+      35.19675100000006
+    ],
+    [
+      -82.22759999999994,
+      35.23667100000006
+    ]
+  ]
+}

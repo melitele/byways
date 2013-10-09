@@ -1,0 +1,37 @@
+{
+  "template": "byway.jade",
+  "id": "2263",
+  "name": "Lower Susquehanna Scenic Byway",
+  "distance": "33",
+  "duration": "1 hour",
+  "description": "Named after the Susquehannock Indians who once roamed this area, the Susquehanna is the largest non-navigable river in the U.S.  This byway travels both sides of the river from Havre de Grace, up to U.S. 1 and back to Perryville.",
+  "fullDescription": "<p>Named after the Susquehannock Indians who once roamed this area, the Susquehanna is the largest non-navigable river in the U.S.  This byway travels both sides of the river from Havre de Grace, up to U.S. 1 and back to Perryville.</p>",
+  "path": "gmipF~floMgh@RiSXyDGqEnDaElCaAdAmB?a@Jg@S_@@yCjAgDpB_B`BNfM?zD{HJH~PSjDUvAu@zBs@jAoArAgA`As@~@aElHcIvP{@|Bs@nC[|BStDBzKIrIi@rD_CtISxAIxBNfD?tBGbFk@nGoA`GiAlDsPv]mAxByJvTwXtw@mChJiAtEo@jDiA`Iy@fJ[nFOpDIrFHlLTnHn@`JlEd^??`Gle@j@tGXpHBxDI`H_@hHc@xE_ArGw@zDuAnFq@|BeKdWwAlEcBlGmD_BgYuGoAaH_CyFiCuK_@mAmE{I}Pc[i@k@o@a@wFwCaB{AwBwCyCwG}EoMs@wAeEoHmNaUcDgFqEgGsF{IM_@GaAMeEeAmGmEwN]}@yD{Ey@qCy@{AaEgFk@Q]?_Gx@]G{A_BYk@Ss@s@uDo@mB_@]oASm@Do@RcC_GK_@NgBGeAWu@}@eBwB~BuF`HkKnPkHpNy@bA{OhOkNtJuH~DsFbFmCdDy@fBi@hCe@dI?jCNpDx@`DYzEM^e@l@cExCu@jAK^QtEeArFs@x@mA|@cInC_APsBx@wB~B}B`BUf@Kp@GjA|@tL^r@|AlALXt@dGIlAyA`Lc@`Go@d`@v@hN@xAIx@_@rA_Ad@cAf@iDdAcDxA{GxH_A`BsIpWuAdC??mH|MeMtS",
+  "websites": [
+    {
+      "url": "http://www.sha.maryland.gov/Index.aspx?PageId=97&d=54",
+      "name": "Maryland State Scenic Byways"
+    },
+    {
+      "url": "http://www.mdisfun.org/",
+      "name": "Maryland Tourism"
+    }
+  ],
+  "states": [
+    "MD"
+  ],
+  "ll": [
+    -76.08959200007075,
+    39.53892899957367
+  ],
+  "bounds": [
+    [
+      -76.20285800009663,
+      39.53892899957367
+    ],
+    [
+      -76.08959200007075,
+      39.63924000022581
+    ]
+  ]
+}

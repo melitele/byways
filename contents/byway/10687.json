@@ -1,0 +1,30 @@
+{
+  "template": "byway.jade",
+  "id": "10687",
+  "name": "Route 680--Alameda County",
+  "distance": "20",
+  "duration": "20 minutes",
+  "description": "This well-placed freeway features wooded hillsides and valleys.",
+  "fullDescription": "<p>This well-placed freeway features wooded hillsides and valleys.</p>",
+  "path": "occdFvjdgVyPaSaBuAyA_AcCgAiCq@sF_@mFQyB_@{HuCmHgDwF_CkHkDaJoGmJoHyA_B_AkAoA{BqA_DoA_FyDuQ}@oC_AkB}AeCuNwQoA_CcQm`@eTsf@sQyZi@iBsFkVqAsEqA{CqH_KkHgIcEcC_v@}[qBq@eBSyBMsCLsExAkCzAsH~FyBrAsDjAsBXmDR_D_@{HgCmEmBqBe@eCSmCJsBTgl@tPuRfHmh@pScCp@gFj@eHRwMJaG`@iDv@uFlByDxBsGzEyBxAcCrAgBf@oLhA_FSqD@gCJkB^wBn@y@\\_DrBaH`HeArAeG~FmObPgF`GoiAdlAcIlH}FvDiIbEcE~AwGnBmsE`rA",
+  "websites": [
+    {}
+  ],
+  "states": [
+    "CA"
+  ],
+  "ll": [
+    -121.92443800000001,
+    37.540562000000136
+  ],
+  "bounds": [
+    [
+      -121.92443800000001,
+      37.540562000000136
+    ],
+    [
+      -121.87000999999992,
+      37.700989000000106
+    ]
+  ]
+}

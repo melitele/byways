@@ -1,0 +1,37 @@
+{
+  "template": "byway.jade",
+  "id": "16496",
+  "name": "Cottage Grove Covered Bridge Tour Route",
+  "distance": "20",
+  "duration": "1-2 hours",
+  "description": "Visit seven of Oregon's beautiful covered bridges on this short loop south of Eugene, Oregon.",
+  "fullDescription": "<p>Visit seven of Oregon's beautiful covered bridges on this short loop south of Eugene, Oregon: Dorena, Stewart, Mosby Creek, Currin, Chambers Railroad, Centennial and Swinging.</p>",
+  "path": "gdijGv}anVuGJiWGy@Ke@Qm@_@_AmA_@s@aGaOEa@_@eA]wBeA}XE{BDuBjIqi@d@_Cd@{Ab@e@x@m@r@YtDy@lC_@xC_AtFeElG{FhAsAxBgDbCeC|B_AhB[pHmFdLgHn@q@hA{Bd@eBbCaPhEkVLwDI_ByDuj@i@yBmAyCc@cBUeDAq^hAcID_EEsAOkBgBaI_@qAm@gAa@e@aEoBs@q@g@qAcAkSMsMA{HD_DE{Cc@gGiByHo@aI?gEJsBvIuu@lBiQ|@aJ??sBi@y@e@yBmFq@kCWmC?gCf@gEx@yBjGgK^gAN}@EaERaBrGuQpF_Mt@{CNgAByAGeBa@{C_@cAgEiHm@_BW_BwAwOEaDNiCR{Ax@_DfLkZj@qCB{ESmBuB{EkE{E{@kBe@_DGaHFmCj@mBXe@x@e@jIgChAq@j@s@x@gBf@aCn@qBrDsF~@eCb@oDOyHDiCb@_D~@cCrAuBtBkAvHiAh`@qJrC{B~@mA|@kBx@{DNwD?wEcCmLSeB?gAb@qDzBoIfAeDhAgBfHuI~@gBvBaMbDmNx@mBx@{AnBsBfCeBnCm@xb@qCrCg@rAi@d@a@fHyDzPoNzWgRbDmBfC{@fGStCL`I~BxBKr@QrAs@hAuAbHgKfFuGxCcCnMcIxA]`EaBbBeA`AsAvAeDXURC??@ADh@??B`@?P???r@?PC^G^??Gb@Sr@??e@~@}ElGeJhPeGxJkJdP??cEpGiAtA??{DjC[^_@n@qEdKeB`Dg@l@oE~D}CzD}@~A}KpWiIpJcDnCsBxAuAdBo@~AcFzN??cAnBY^??ILcArA??_GlFaErEu@|BM`BHhIEhA_@bBs@pAe@p@wFzDmDxCiEzE}ExGgPpXe@rBOfBoCj_@SfGU`QIdBOfBm@lBy@fAyA|@q@L{G?}B~@kA~A}DlJ}@~@}Ah@}GbAcA^cBhAqAxAkGxKcAdCk@|Ci@nEDfBRnB^jAbAxAxClAtBfCb@nARtAjAzS`A|TG`CUxAy@vB_@`@gBpA_ZbK??mn@fU??o@Z??yAlA??eAlA??_ApB]tAaAfI",
+  "websites": [
+    {
+      "url": "http://www.tripcheck.com/Pages/SBcottageGrove.asp#a",
+      "name": "Cottage Grove Covered Bridges Tour"
+    },
+    {
+      "url": "http://traveloregon.com/trip-ideas/scenic-byways/cottage-grove-covered-bridge-tour-route/directions/",
+      "name": "Cottage Grove Covered Bridges Tour"
+    }
+  ],
+  "states": [
+    "OR"
+  ],
+  "ll": [
+    -123.05899799999992,
+    43.79732100000007
+  ],
+  "bounds": [
+    [
+      -123.0590519999999,
+      43.73762100000005
+    ],
+    [
+      -122.8835299999999,
+      43.80580900000007
+    ]
+  ]
+}

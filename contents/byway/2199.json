@@ -1,0 +1,32 @@
+{
+  "template": "byway.jade",
+  "id": "2199",
+  "name": "Governor Casey Byway",
+  "distance": "15",
+  "description": "The Governor Casey Byway highlights Pennsylvania's railroad and coal mining history near the city of Scranton.",
+  "fullDescription": "<p>The Governor Casey Byway highlights Pennsylvania's railroad and coal mining history near the city of Scranton.</p>",
+  "path": "{iw|F|dskMi@~@yArEs@hEO|AItFB`HXxFPrCf@xDn@tDrAlFzAzEbB~DvB~DlDfFnDxDlEhDlBjArH~CpCr@|WzBlEj@tE~@xHlCpLrFpZfOfFhDrC~BtDlDlEfFvD`G|DjIbCfG|CfKhAtElYtyAnAxEv@zBrB`Ft@jA|ArBlE`EbD`BvKpD|FnCtIpGjd@r_@bDdBpElBfCf@lE\\hEElg@_FrDa@fGkAtK{CfLgFnKmG|HcD|CaAvGsAlEg@lFStSChLLtBXzEhAbI`DxP`K`ExCnHfErO`Itp@~YhBdAlB~AdCdDrAfCxBtGl@xETrCNrEHzFXrEr@fFz@jD~@`CpBrDhDxDtBnAzBbApP`EhCt@zCnAhBrAhB`ChBlD`LvYrd@diAnSzh@vJbVfBrD`F`IrFfFrC`B|FbCfDr@|D`@lDJxFWpEu@nEmAzFiDxD}ClCeDbSeZvFmHzAgBlBsAvCwAzBk@vBUvBEdCT~AXrAb@~Az@jCpBrArAzOvRnCrD`DzEdCvHh@`D\\~CHzBx@xnA",
+  "websites": [
+    {
+      "url": "http://www.visitpa.com/governor-casey",
+      "name": "Visit PA - Governor Casey Byway"
+    }
+  ],
+  "states": [
+    "PA"
+  ],
+  "ll": [
+    -75.46974199999994,
+    41.576141000000064
+  ],
+  "bounds": [
+    [
+      -75.59992199999994,
+      41.42132200000009
+    ],
+    [
+      -75.46974199999994,
+      41.57719000000009
+    ]
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "template": "byway.jade",
+  "id": "10260",
+  "name": "Routes 5 & 580--West Side Freeway",
+  "distance": "60",
+  "duration": "1 hour",
+  "description": "This portion of Interstate 5 parallels the Delta-Mendota Canal and the California Aqueduct, which transformed semi-desert lands into a thriving agricultural area.",
+  "fullDescription": "<p>Route 5 in California's Central Valley parallels the Delta-Mendota Canal and the California Aqueduct, which transformed semi-desert lands into a thriving agricultural area.  Route 580 offers panoramic views of the San Joaquin Valley to the east and Coast Range to the west.</p>",
+  "path": "_knaFp{raVga@pZcS`Ma`Bd~@g\\hR{iDlnBgVlNcKnFia@zUgZpPwjBpeA}FlCaGxBeM~CovFd~@eCXiO`Cs@\\{wArUoMlBwj@pJgbHliAuShEkIxBu]rHuKjCgMfC}DdA}[tHqSfE_UnFwm@dNuIxB}SlEuJbCmLjCwFdAqIxBcF`Ay}@zSyc@nJwa@rJ{ItCgF|BqOpIuU`Oe{@fh@ga@`Wkb@~V{P~HugCzbA_NpGmJ|Fe_@lVe~@nm@}ErCyRnMyH~FyHbHupCjqCqIhIo\\h]gH|Iuv@xjAsQlUscDn`Eir@laAODoAdBoqFdzHeq@x_AgLtOwHlLaJvMys@~bA{y@zkAym@l{@iJbOeCnEaFjJam@nkAexAvqC{IjQwz@|`Bs{@vcBiXfh@uRx_@eBxC}BzEydDvpGuF~KuBtDqcB|dDmEfHmFhH}lA`uA}VpZkJhMoRfVsBfD",
+  "websites": [
+    {}
+  ],
+  "states": [
+    "CA"
+  ],
+  "ll": [
+    -121.01576999999997,
+    37.10656000000006
+  ],
+  "bounds": [
+    [
+      -121.56169099999994,
+      37.10656000000006
+    ],
+    [
+      -121.01576999999997,
+      37.7428020000001
+    ]
+  ]
+}

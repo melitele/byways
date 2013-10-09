@@ -1,0 +1,15 @@
+!!!xml
+urlset(
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0"
+)
+  url
+    loc= locals.url
+    changefreq weekly
+
+
+  - var byways = contents["byway"]._.pages;
+  for byway in byways
+    url
+      loc #{locals.url}#{byway.url}
+      changefreq weekly

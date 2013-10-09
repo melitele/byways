@@ -1,0 +1,33 @@
+{
+  "template": "byway.jade",
+  "id": "2328",
+  "name": "Palma Sola Scenic Highway",
+  "distance": "4",
+  "duration": "Allow 8 minutes.",
+  "description": "Water laps on both sides of the highway for most of the drive on this scenic route heading west from Bradenton City.",
+  "fullDescription": "<p>Palma Sola (the Solitary Palm) was named for a large solitary palm near the beach that became a beacon point for sailors. The large solitary palm beckoned many a sailor home and guided him safely into harbor.</p> \r\n\r\n<p>Many different groups of people have settled in this area, leaving their mark on the land and enriching the history of the area. The earliest known inhabitants were the Manasota Native Americans. After them came many other tribes, each culture adding to the story. Finally, the Spanish conquistadors showed an interest in the area as they searched for gold and the fountain of youth. Spanish colonists and later American settlers moved in to make Palma Sola their home. By the 1900s the area was awash in cultures.</p>\r\n\r\n<p>The Palma Sola Scenic Highway runs through evidence of early cultures while visitors experience the current ones. Travelers can enjoy the unique experience of water lapping on both sides of the highway for most of the drive on this scenic route.</p>",
+  "path": "epyfDxxxwN@s]nC_kA`@uL@mk@GkVRsGS{]Ja_AC{v@Neu@Lq@Hsf@",
+  "websites": [
+    {
+      "url": "http://www.floridascenichighways.com/palma-sola-scenic-higway/",
+      "name": "Palma Sola Scenic Highway"
+    }
+  ],
+  "states": [
+    "FL"
+  ],
+  "ll": [
+    -82.70748900000001,
+    27.497150000000033
+  ],
+  "bounds": [
+    [
+      -82.70748900000001,
+      27.49604000000005
+    ],
+    [
+      -82.63661999999994,
+      27.497150000000033
+    ]
+  ]
+}

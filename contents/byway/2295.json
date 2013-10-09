@@ -1,0 +1,38 @@
+{
+  "template": "byway.jade",
+  "id": "2295",
+  "name": "Blue Buck Knob Scenic Byway",
+  "distance": "24",
+  "duration": "45 minutes",
+  "description": "The Blue Buck Knob Scenic Byway travels through Missouri's Ozark hill country within the Mark Twain National Forest. It twists and turns through farmland, open pastures, and densely wooded hillsides.",
+  "fullDescription": "<p>The Blue Buck Knob Scenic Byway travels through Missouri's Ozark hill country within the Mark Twain National Forest. It twists and turns through farmland, open pastures, and densely wooded hillsides.</p>",
+  "contact": "**Ava-Cassville-Willow Springs Ranger District**  \r\nWillow Springs Office  \r\n417-683-4428  \r\n[Email](mailto: mailroom_r9@mark_twain@fs.fed.us)  \r\n\r\n",
+  "path": "uqdaFrjdqPnDdDrBr@pBVv_Al@bDLfBXtDlBdNlKtFxDzM|JfAhApBzD|CzHtAxAbAl@rA^zK^pAX|Ar@pBrBtI`RdCxD|CxBnBfA|PrFlBJtCEz@M`A_@lEeC`QmKfEmBfCYt@?bC^|D~@tKrC~E~AxBzAjCvDn@zAvD`LnC~EhDrEf@fAfDhNxE|Th@`BtA~BpO~N|@hA~@|BjIbXr@hAn@n@hAr@fD`A`\\f@xVNpCl@~D`Ch@gCz@_CtJuLhBmCfC{Ch@kAxAmF~@kBb@a@|BcAfGoDvAk@vB_@fFMpI?`GaB|FqB|AQdCDnIrAjAGfBm@z@q@~@sAlAsCXeBFaC\\eBx@yBT{AIeEFsBNs@|BuFFs@HgM[kBSiDDw@l@sDtBgKXuDEqB}B_Y_AyIm@gBmDoHk@oBa@uBWaCIsDBgF\\{w@jVLfBHbCr@rBzAtRhVlAx@vKfDnD~BpBdAd]vSdBdBnOiRhA}@~DmAf@[vAwAbL}OxAmArAk@hCa@hM}@dBWlBo@xBkAlImFfB_@vYiDfJKfBQ~W{Gr@EpGd@hAEh@St@s@fB}Cj@a@x@]l@BlJnCt@DfAGnBg@x@k@d@aAVuBBcKPsDhBgPXaAh@gAlCmChJsHbNmIfA{A`DwHl@aAvEuFxAq@zBWv@Yn@c@lGkHdAsBlAuHbCsI~@mB|CkExBcCvCmBtMyHbB_B|@yBfA_Gf@sAvM_XrBqDvBcBnAi@t@SfCKhUHfWIvEOhCe@bC_Ahg@eXfBq@tFyAzDsAne@cQ|Bq@dC_@dfCxBpCSrGeAlCR`HxChAVzBD`C_@lCUnBNxAl@bAArAQvJkCxCg@lQQdBMlBk@jKaGlBm@xDYlHQ|CSdUmEpBKrAJ`A^|AlAhAfBjJhQh@p@xAr@rBRhRB|CKdPmA",
+  "websites": [
+    {
+      "url": "http://www.go-missouri.net/Blue-Buck-Knob-Scenic-Byway/",
+      "name": "Blue Buck Knob Scenic Byway"
+    },
+    {
+      "url": "http://www.fs.usda.gov/marktwain/",
+      "name": "Mark Twain National Forest"
+    }
+  ],
+  "states": [
+    "MO"
+  ],
+  "ll": [
+    -92.10553000000004,
+    37.056430999999975
+  ],
+  "bounds": [
+    [
+      -92.14524799999998,
+      36.81050900000014
+    ],
+    [
+      -92.04972099999998,
+      37.056430999999975
+    ]
+  ]
+}

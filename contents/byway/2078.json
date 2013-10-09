@@ -1,0 +1,31 @@
+{
+  "template": "byway.jade",
+  "id": "2078",
+  "name": "Tunica Trace Scenic Byway",
+  "distance": "20",
+  "duration": "Take 1-2 hours to drive this byway.",
+  "description": "This charming, winding road passes through the Tunica Hills and ends at Louisiana's famous State Penitentiary at Angola. The name of the byway honors the aboriginal trail later used by Tunica Indians in this historic region.",
+  "fullDescription": "<p>This charming, winding road passes through the Tunica Hills and ends at Louisiana's famous State Penitentiary at Angola. The name of the byway honors the aboriginal trail later used by Tunica Indians in this historic region.</p>",
+  "contact": "**West Feliciana Tourist Commission**  \r\n 225-635-6330  \r\n\r\n",
+  "path": "e_|{Dbr{mPlCr@rEd@rB?x@JvJjC~NtAzKdDh@Xf@wA^oBJkADgDNmAf@wArBgDzH{JnIgNtB}CtMaObHyI|@_Bn@_Bt@uCnEe]PkBBoDMqB_@gCeHk]MaCKgLSeB_@sAeAyBsBmBeAk@_IsC{AeAqAaBqEuIyA_BiHyDgLuHmB_AsBc@iAC_Yt@mA?aBSoC_AaRcJ_CwAaA_@yASiC?iHdAyDLcAMiCy@aAm@gHeHoCyAuAYyW{CoBq@kBmAkAyAk@kAgHiSiB}Ne@sCwF{Oq@kAqBeCsP_QcEyEo@kAa@oAiDyOeA{CaAgBqAiBgO_Q_AyAyD{HcJuSqAmEsAyGg@_GAsCN{CVmBbA{CbAkB~AmBvViUdF{D~A}AfVkP|QyKrBkBpAcCh@sBrDc[\\sAf@kAfBaCjBmAtAi@p_@{J~E{Ah]uPz^mRbAs@fAoAvFmJjE{GlHmJxAyAxCqAlPcFdB}@pe@}Zh]cThAa@pAWbUuAbBW|Am@~FuDpDcDnAaBz[aj@~CgEfBaBfcAix@xBeAhBe@n^uF`Fe@vCk@lAe@zIsFzBgA|o@aTvF{CzLaJfAk@|Ae@bc@uDhEgAnc@aO~Bk@zB[rCQdE@fWbBhBEbBSvA_@rAk@~K_HdBm@lDu@l`@_H~CY~XsAdBs@|@eAh@_Bt@eSZkEl@mBxAaC|QgQjD_FrBmE~Q{f@jOqZdFlAfDXhDJtAE",
+  "websites": [
+    {}
+  ],
+  "states": [
+    "LA"
+  ],
+  "ll": [
+    -91.56913800000001,
+    30.950439000000017
+  ],
+  "bounds": [
+    [
+      -91.57173899999998,
+      30.830561000000046
+    ],
+    [
+      -91.38587999999999,
+      30.98267900000002
+    ]
+  ]
+}

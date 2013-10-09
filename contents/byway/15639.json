@@ -1,0 +1,33 @@
+{
+  "template": "byway.jade",
+  "id": "15639",
+  "name": "Heritage Corridors of Bath",
+  "distance": "38",
+  "description": "Originally part of the Connecticut Western Reserve, the Heritage Corridors of Bath include 12 rolling, scenic country roads in rural Bath Township in Summit County.",
+  "fullDescription": "<p>Originally part of the Connecticut Western Reserve, the Heritage Corridors of Bath include 12 rolling, scenic country roads in rural Bath Township in Summit County.</p><p>Visitors and residents alike will enjoy the serenity of the Cuyahoga Valley National Park, the Bath Nature Preserve, Hale Farm and Village and Bath's three nineteenth century hamlets. Early cemeteries, mills, and the working 1827 home and farm of pioneer Jonathan Hale provide a rare peek into the lifestyles of the early settlers.</p>",
+  "contact": "**Ohio Byway Links**  \r\n 330-665-5184  \r\n [Send E-mail](mailto:bkenrutland@cs.com )  \r\n\r\n",
+  "path": "ovgzF~jqqNsnAu@{j@O_AqCk@u@a@]sf@qRyA_A_DqCoBsAkC_AoYiH?_pA??a@yjDzCYt_@mHbD_@xg@V???~@RztD??d{BzA??CmhD???eA??BbY???npC??JvlAEtc@HbB~@lG??hQF~Al@lDl@|AGnCy@fAM`k@XgCuRI_BLmBbC{NZsED{k@Euk@??Kso@wCe@i@Se@e@c@gASmCOw@a@aAiCeE}@o@iA]y@GmBLu@MYMe@c@cCeEYu@Os@Cy@DkAf@aDh@yHnBoJbCcRxBqGx@}EDkAKgFn@aF@eG??uCG[H??wAb@??oBL??M?WC??d@B??T?xAM??hAYLI??~BuA|HiG??e@_CmAwCKmADaDr@mFHyBWoVXcO~@{URwHZgGzAgNrCaMD_AEuAOsBg@qDu@oBwIeJiBmAaEeB}@q@q@{@}@eBoAuDYeCOk@IScBgBQs@?wBd@wE??Ny@ZiAzByDNa@J_BIeB[oCyBsHq@_Do@{Ea@gBcAsCUyBSmHBgCTeBbBmEjAkF\\mBTuDKmEsBcRSsAeAyEs@KcAvCuAhH}AbUSzEYxAq@dA}FtEkIrHO\\_@~BOZgC`Di@dD_@pAoCnC_@v@Sr@OzBExI??JvRHp[Hv@XbAhAvAd@z@n@vC??yA~@??cAnBUv@OlAR`CCv@yA`HIjABrBHl@??t@rCDT??HZ@b@??Fd@@x@??Bn@@`E??Tt_C??BbM??B|V",
+  "websites": [
+    {
+      "url": "http://www.ohiobyways.com/heritage_corridors_of_bath.htm",
+      "name": "Ohio Byway Program - Heritage Corridors of Bath"
+    }
+  ],
+  "states": [
+    "OH"
+  ],
+  "ll": [
+    -81.68639399999995,
+    41.16856000000007
+  ],
+  "bounds": [
+    [
+      -81.68689699999993,
+      41.155369000000064
+    ],
+    [
+      -81.58155099999993,
+      41.20229000000006
+    ]
+  ]
+}

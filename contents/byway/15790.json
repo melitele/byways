@@ -1,0 +1,37 @@
+{
+  "template": "byway.jade",
+  "id": "15790",
+  "name": "Currier & Ives Trail",
+  "distance": "30",
+  "duration": "1 hour to drive the byway.",
+  "description": "The Currier and Ives Trail is quintessential New England. Experience the byway's small towns, specifically Hopkinton, Warner, Henniker, and Webster.",
+  "fullDescription": "<p>The Currier and Ives Trail is quintessential New England; what's more, New England can be experienced most accurately in its small towns, such as Hopkinton, Warner, Henniker, and Webster.</p><p>_Hopkinton_ showcases historical, agricultural and cultural assets that have a distinctive New England feel. Specifically, it prides in its two historic covered bridges, the Hopkinton State Fair, the Colonial homes that line Main Street, and the town hall that once served as the state capital. The Contoocook River runs shimmering through the heart of Hopkinton.</p><p>_Henniker_ is rich in the arts and culture of the region. It houses New England College, which gives it a close-knit, small-town aura.</p><p>_Warner_ contains Rollins State Park. Be sure to visit the park; while you're there, hike to the summit of Mt. Kearsarge. Also visit the Mt. Kearsarge Indian Museum Educational and Cultural Center, which displays American Indian traditions, philosophy, and art.</p><p>_Webster_ is filled with old farms and fields. It also features the Blackwater Dam and River, a popular white-water kayaking area that beckons both locals and visitors.</p>",
+  "path": "ojzgGzaqtLLPLTz@`A`D~B|FnDbAr@tFfCdAx@nApAx@fAbA`AnC|AfAfAfB|B|@lBp@lB`@zA~AlG`EdMfE`ORf@F`@JZ`IrXdBxGzChMpDrM|CnLBPjH|WfI`[rBtHVl@lAvE~Ir[~@dEv@|B|A`EpC`I`@vArAhGt@rC\\fAvAf@`MvDz@H~J|AnAGhEiAv@YbFyA|@UfACpKx@bIj@lABxAQpAa@vBeAv@k@|AoBv@kArC_GlE{K`EgJtCkF`CsDjHuItBoBnByA|BuAtKaGx]oShT{LpIaFnQwK`K{FlGwDX[vAqBPSRMTIf@Bj@Hl@Tx@z@pHvL`At@xMvEpI|CvARhDRfAGpBe@nASvCiAbIiDz@U|@EhKZbCIfKqAtEs@hAWxGoC|FeCbCyAhCcBnIcFfTiKrDe@|C{@tBWhF[~Fq@j@BnCj@`HdA`GhApDh@hB?nBM~@Ql@]bBgBpDcFtAuB^a@b@Dx@Vp@f@`@r@b@l@`EpIjChGlCdGrBxFdCjKjFrUZ|@pBbKrAjGdDOxABxAJLCvBTbRxD|@F|AUzFeBrAm@fLoLr@RfDz@jALhA@tAZnB~@bA`BzA|Dp@tAtD`EhA|@dAd@NJb@NfANbCx@xDxBbBrAtAtA|BlDp@n@dErChCzBh@`@lCdBnBfAfAd@pDnAj@Jt@Ff@DzEJbOJl@]h@aAdBuDfA}Aj@s@lB}BtAe@FGt@_@??_@nB",
+  "websites": [
+    {
+      "url": "http://www.nh.gov/dot/programs/scbp/tours/currierives.htm",
+      "name": "Currier & Ives Trail (NH-DOT)"
+    },
+    {
+      "url": "http://www.visitnh.gov/",
+      "name": "Visit New Hampshire!"
+    }
+  ],
+  "states": [
+    "NH"
+  ],
+  "ll": [
+    -71.6906909090909,
+    43.393845454545456
+  ],
+  "bounds": [
+    [
+      -71.74181818181819,
+      43.24976363636364
+    ],
+    [
+      -71.6906909090909,
+      43.393845454545456
+    ]
+  ]
+}

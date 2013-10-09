@@ -1,0 +1,34 @@
+{
+  "template": "byway.jade",
+  "id": "72938",
+  "name": "Delaware Crossing Scenic Byway",
+  "distance": "44",
+  "duration": "About 2 hours to enjoy the byway.",
+  "description": "The Delaware Crossing Scenic Byway is a 44-mile journey through old time, heartland America located in southern Delaware County.",
+  "fullDescription": "<p>Escape from a hectic day on the job to enjoy the natural tranquility of Delaware Crossing Scenic Byway in classic heartland America. Experience the rich architectural history of Lenox College and century-old churches with their hand-carved limestone.  Or learn about the Civil War with a visit to the Delaware County Historical Museum situated on the Lenox College Campus. </p>\r\n<p>Take a stroll through the rolling hills of Maquoketa River Valley where glacial outcroppings of limestone and boulders abound. Follow the byway as it gently curves and winds its way through massive fields of lush corn and forests of Balsam fir, white pine, paper birch, and aspen.  See anglers demonstrate their skills at Manchester State Trout Hatchery or simply pause to enjoy the calm country scenes that surround you on the Delware Crossing Scenic Byway.</p>",
+  "contact": "**Delaware County Historical Society**  \r\nPhone: 563-926-2639\r\n\r\n**Delaware County Conservation Department**  \r\nPhone: 563-927-3410  ",
+  "path": "e{ebGtyolPdd@RnO?vCs@xDaCxAiBpXk_@vEqF`FyE|\\{UdHmD~CaAfJkBjEWr]?xu@Tn@]h@aAH_AN{m@HkAjAuGnGwXd@qCnAmEpAmDhF{KvGaMrCyElKcOnCgEtAoDn@yC^}CJ{CG_GcAsULeEj@yExAuEt@cB|@oAxAyA~BeBrBk@jLyBxAa@rCmAhEsCtD_EnCgElJiSpC_DrA_AnB{@hA_@r@EtKGbIFvZmFfDe@j]SxBQ|EiBrC_D`FsJp`@yy@bAeBbD}ChC}AvDk@`_AQbCKvFaA|EkBbDgB`GmEfl@ue@xAcAfCsAnBq@nd@qM|E}AlF{DbCuDr@_C~QtKbO`InV|NlGvEnAtCRjCTr_@^dC^dBl@|AnA~BzE`HvHtL`ApCjEfQj@lEp@|MbHlf@]p_C?zt@e@vBy@fA{@f@kJJy@Jo@Zs@~@s@dCAllBClBi@vDcB|B}HpFwB~BsG~OY|@Y`Ck@zCy@~Ai@U_AI}@Ty@`@yCdCgAh@iBv@yEx@ebAXkHGmq@FupAp@giAt@Rrf@KrOIjAo@|Ce@lAwBxDmCbE_BnDi@rBgFv\\YfE?fG_P\\iECwWgGyBuAcA}AcCmHo@gAsAwAsAu@_B]{J{@cB?cARoAj@{HnF_EbBwItAJhQx@tIb@bAhAzAh@xArH~A~B~@zBl@ZRb@|Al@f@~Ap@^f@\\~EG`CMfAa@rAk@~Ds@`J}@xEu@nHIvACbHBpANr@Tr@vB|BnAbAjLJn@V?hQ[l@NjAJfBKd[GvaBy~AMce@PoeA@mEXcQpDeBLgAKuAa@_@CiCyCaFiJ{OxEmCl@qE^{ORgCR{Ap@sAfAkJzNyDtEgm@~p@aF`GgB~AuDzAiAPaRMyDRiA^oCfBy@`AaBlCeAsCUuAIyiCehAr@oPEYa@?{t@i@{_CCwbBSk_Az{A{@",
+  "websites": [
+    {
+      "url": "http://iowadot.gov/iowasbyways/delaware_crossing.pdf",
+      "name": "IA-DOT Delaware Crossing Scenic Byway"
+    }
+  ],
+  "states": [
+    "IA"
+  ],
+  "ll": [
+    -91.34506199999998,
+    42.46979900000014
+  ],
+  "bounds": [
+    [
+      -91.42418700000002,
+      42.328918000000044
+    ],
+    [
+      -91.25173999999993,
+      42.484650000000045
+    ]
+  ]
+}

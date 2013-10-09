@@ -1,0 +1,32 @@
+{
+  "template": "byway.jade",
+  "id": "2085",
+  "name": "Corrales Road",
+  "distance": "6.7",
+  "description": "NM Route 448",
+  "fullDescription": "<p>NM Route 448</p>",
+  "path": "oxhvErvviS``@__ArOcNnF_K~P_B`KqFnRn@b]aQpXoCpX`N~PpLpO~DpC~J`]b]pd@`WbQ?~P~MnL`K`H~S~JbTnCxRzY`f@|TjWfFf\\dYrX",
+  "websites": [
+    {
+      "url": "http://www.premiersystems.com/corrales/byway.html",
+      "name": "The Corrales Road Scenic and Historic Byway"
+    }
+  ],
+  "states": [
+    "NM"
+  ],
+  "ll": [
+    -106.61753636363636,
+    35.275763636363635
+  ],
+  "bounds": [
+    [
+      -106.6472,
+      35.20341818181818
+    ],
+    [
+      -106.5979,
+      35.275763636363635
+    ]
+  ]
+}

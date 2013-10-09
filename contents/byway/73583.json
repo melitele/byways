@@ -1,0 +1,28 @@
+{
+  "template": "byway.jade",
+  "id": "73583",
+  "name": "Cowpens National Battlefield Scenic Highway",
+  "distance": "8.73",
+  "description": "Beginning in the town of Cowpens in Spartanburg County, the Cowpens National Battlefield Scenic Highway guides visitors to  the Cowpens National Battlefield in Cherokee County, the site of General Daniel Morgan's victory over British forces during the American Revolution.",
+  "path": "_{vtEj`hrNoCDwEh@wGpAqB|@{RbOw[vWcO`KiGnDmBr@kKrCoPvG{X|M_E~@aHd@{MhDwAVk@?eeA{Gin@aLkCYkCE}FJuODmKLwFMiJyBw@YoM{Ky@k@_Bg@aEy@}EKuAYq@_@cGsFoAg@y@Ke@?}@ReAj@oPvNy@fAiAxBeHtUoApCgHpIyBjBcD`BmCp@sBPaNK{IR}EM}XyBaC_@wGgBgH}AmBGeAL_P~FoBj@mFr@}CJyBCaH_AwKgBmBs@}E_CsBy@oIaC_GkA{DWqELsAJqAPQBIBu@Lg@Lg@NoA`@sBt@e@Re@PsBv@e@RkAd@gE`Bg@ToAb@g@Rg@Ng@Rg@Ng@Lg@NmAVoARg@HuAN_@DuBLg@@g@@wB?uBIe@CmBQeAOcCc@]I]ImBi@YIWIq@Sa@Mc@Ks@U",
+  "websites": [
+    {}
+  ],
+  "states": [
+    "SC"
+  ],
+  "ll": [
+    -81.8024519999999,
+    35.02016100000009
+  ],
+  "bounds": [
+    [
+      -81.82164399999994,
+      35.02016100000009
+    ],
+    [
+      -81.8024519999999,
+      35.14303499999998
+    ]
+  ]
+}

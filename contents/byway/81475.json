@@ -1,0 +1,32 @@
+{
+  "template": "byway.jade",
+  "id": "81475",
+  "name": "North Ridge Scenic Byway",
+  "distance": "8.85",
+  "description": "The roadway follows the northernmost ancient beach ridge across Avon and Sheffield at a range of 670 to 690 feet above sea level, and is full of beautiful scenery. ",
+  "fullDescription": "<p>More than 12,000 years ago, when Lake Erie was larger than it is today, what is now SR 254 was the lake's shoreline. The roadway follows the northernmost ancient beach ridge across Avon and Sheffield at a range of 670 to 690 feet above sea level. The ridge rises about 30 feet above the relatively flat, former lake bottom to the north. The present shoreline of Lake Erie is three and a half to five miles to the north and lies at an elevation approximately 100 to 120 feet below the ridge.</p>",
+  "path": "irx{Ft{etNGaI_I}rAHeHyBeg@sD_WmC}TsFaYaKse@cBuHmA{DUe@aEcM}IuZmDuJsOs^sIsRoAoCwSq_@wh@}z@}IoMmCsDcGoHcEaG}g@_w@sO{b@_AsDu@sG?y@DyBb@uCxGa[nOiq@`Hm^|@sFz@mHXgFd@wU?{HQuQiBi[iAcN}BiPcAyFyRwu@",
+  "websites": [
+    {
+      "url": "http://www.dot.state.oh.us/OhioByways/Pages/NorthRidge.aspx",
+      "name": "North Ridge Scenic Byway"
+    }
+  ],
+  "states": [
+    "OH"
+  ],
+  "ll": [
+    -82.1191409999999,
+    41.41877000000005
+  ],
+  "bounds": [
+    [
+      -82.1191409999999,
+      41.41877000000005
+    ],
+    [
+      -81.96948199999991,
+      41.459629000000064
+    ]
+  ]
+}

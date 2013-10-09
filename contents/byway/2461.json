@@ -1,0 +1,32 @@
+{
+  "template": "byway.jade",
+  "id": "2461",
+  "name": "State Routes 49 & 14A",
+  "distance": "19.5",
+  "description": "This route is celebrated for its dramatic vistas viewed from large hilltop farms defined by stone walls, leisurely grazing cattle and corn tassels that stretch to touch the sky.",
+  "fullDescription": "<p>This route is celebrated for its dramatic vistas viewed from large hilltop farms defined by stone walls, leisurely grazing cattle and corn tassels that stretch to touch the sky.</p>",
+  "path": "gay{F|couLkLJ_IxBc]bM{IvCo@@Sg@UKmCa@u@]kG{Em@]k@A}@^kAlD_@`@w@XgGi@}C?uBR_BXgA`@uBpC_Aj@i@l@c@_@aKmCqDe@_By@uAKsHmAi[mHaDeAoEaGaH{HkDsFaBgGIaAKgDCoOIc@YS{KE{Pg@aHk@kDeAwAm@qDyB}HaG{@k@uAUkDCkJl@kI{AiFq@yOYyQf@oBAmCw@eN}IkA]gDh@{[`JiNfEe@DiBFwCGsFi@aHaA}GaBwMgCm@CgC^e@PmGzFmAjBcD|JSxA{ApDmBfC_BjAgHtD}Ad@yNbCkNvCaSzFgBVyBCkCm@_Bm@eToMw@_@_Be@oBYgA?kAJoOtCqCDoAMsCy@wFcCcVwIoAScDEkCt@yGxEsFdDiA`@mE\\aKtAqUxHgUtJgC~AcGfEyJfEmFrDm@xA_@xFoAtDmBvBcBfAmItE{F~D}B~@sF~A}BL{CvBsB~@qE`AiE^gFRiOrDoCdBsBhBqGpHmBdA_CFsB\\yAnAqLbNqGjFmBlA{@lAsD{DeE}Vq@yFc@sGOcEmYaE}Fr@eKhGwErBiARyCDiRy@{g@E{BGaGm@}Cy@qJyEyEsDaJoI{DwE_C{EwDgJqLqVmAmAqAq@}@W}TuA}IK{HDiF^qHv@yBHgEr@wFdBwHlD}D|B_K`H{Al@sDj@oK`@gCR}XvCoADcEW{LoCaIwB_BM_Nl@mWfB_C?aRg@_PrC_DXoM_@gLEyAGyCe@{XaH_AK_BFwDx@}e@rNeQ|IqJpEiBl@wEJmBQuBs@{IuDmGyBmAs@cGeCgEg@iBNqJdBsNvBfDrS|@xI~@`EhAlClBbCpM`HzItJ~@nBr@pB`@dCPxCSbJ?lCn@rIh@`EnCfT|@pFfIz_@hBtGb@`EC`CKhAsDd[c@zAmCdFoCfGm@nCSjJe@nKmEjf@iAbHcClLu@rCgBxE",
+  "websites": [
+    {
+      "url": "http://www.kurumi.com/roads/ct/ct14.html",
+      "name": "Connecticut Roads"
+    }
+  ],
+  "states": [
+    "CT"
+  ],
+  "ll": [
+    -71.844627,
+    41.421162000000095
+  ],
+  "bounds": [
+    [
+      -71.90553299999993,
+      41.421162000000095
+    ],
+    [
+      -71.83014700000001,
+      41.68890000000005
+    ]
+  ]
+}

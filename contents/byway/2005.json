@@ -1,0 +1,66 @@
+{
+  "template": "byway.jade",
+  "id": "2005",
+  "name": "Little Cottonwood Canyon Scenic Byway",
+  "distance": "8.6",
+  "duration": "About an hour, depending on traffic, weather conditions, and ammount of time spent at the different points of interest. ",
+  "description": "Beginning at the eastern border of the Salt Lake Valley, Little Cottonwood Canyon exposes the glory of the Wasatch Mountains, a recreational and scenic getaway draped in the Wasatch-Cache National Forest and crowned with views of peaks which rise to nearly 12,000 feet.",
+  "fullDescription": "<p>A haven for skiers, hikers, and sightseers alike, Little Cottonwood Canyon exhibits an awe-inspiring contrast between mountains and valleys, with diverse biological zones, each with its own microcosm of temperature, water,</p><p>geology, and sun aspect. The canyons are named for the enormous cottonwood trees that grew near the creek bottoms at the mouth of the canyon, and are known today for the aspen forests that change colors on the slopes each fall. Subalpine fir, Douglas fir, and Engelmann spruce are the main evergreens, while limber pine and bristlecone pine are found in the alpine zone. Cottonwood trees, willows, and dogwood shrubs give color to the riparian creek corridors. South facing slopes at lower elevations have a mix of gambel oak, rocky mountain and bigtooth maple, mountain mahogany, and sagebrush.</p><p>Amidst this staggering array of greenery resides an equally diverse population of animal life, including large mammals such as mule deer, elk, moose, mountain goat,</p><p>mountain lion, and bear. Small mammals include coyote, fox, beaver, badger, ferret, rabbit, mice, marmot, and others. Bird sightings include a range of raptors from hawks to eagles, as well as owls and migratory birds. Reptiles, amphibians, and fish live in and around areas with water. Visitors often spot canyon wildlife along the water’s edge at dusk or dawn.</p><p>In addition to the flora and fauna, geology is a major focus of interest in Little Cottonwood Canyon. Even the casual</p><p>tourist is struck by the dramatic Wasatch Mountains rising sharply from the valley floor. The Wasatch Mountain peaks</p><p>towering over the Little Cottonwood Canyon Scenic Byway reach over 11,000’ and the byway accesses the Town of</p><p>Alta, with elevations ranging from 8,500 to 10,000 feet.</p>",
+  "contact": "**Wasatch-Cache National Forest Recreation Information (Inside REI)**  \r\n801-466-6411",
+  "path": "}hsvFhgfiTVyAfCyWEgCy@sFCsCb@_Dh@{B?k@c@_Ek@gDSkC?aAbA{J?q@_@aH?{@d@eGKoAcAkHEuAHeAjA_GJ{ATyDLgJb@{GOeBuAyFs@iEWqCf@sB~@gCxA_C^y@NgCCsCQqC}@iCeBqDIk@EgANmDZ{Bf@wBJaBu@gHIgIMmCBsBn@gFB_AGs@qBsGIm@Jc@fB}DJeBCgBKiBQoA{CyDKWCaAl@gKxAsMNcHn@sDHkDd@aC?sBDm@r@yCN{AEsBo@eGCy@BmAt@yF\\sEjAsHEuB_AgCi@sBE}@NaDC{HXsCx@wD?u@e@}CYiAc@y@o@k@mGyCoCeAWYKa@Cq@XgDDyC_AmFe@_BMmBu@_EIaAN{JKuHc@_E_B{Eg@eCEgDRyGOgD_@gDs@}DcAaCYsAAu@J_Bb@sCBwAk@aEQmDWmAo@sBeA_CyDqCgBcBuAeB_@wACgA|AaFn@aDP_BBqFE{BSsBe@_CiAmC_AyAmB{Ai@}@_AkCIiAH}CUoC]sBy@yCUyDsBoIUkBYgAg@_AaAsAoIcSkByC}AqAcK}KgBwBm@oAuAgJiCaKYmBBsDk@{UeDaQ",
+  "websites": [
+    {
+      "url": "http://www.altahistory.org",
+      "name": "The Alta Historical Society"
+    },
+    {
+      "url": "http://www.discoveralta.com",
+      "name": "Alta Visitor's Bureau"
+    },
+    {
+      "url": "http://www.cottonwoodcanyons.org",
+      "name": "Cottonwood Canyons Foundation"
+    },
+    {
+      "url": "http://friendsofalta.org/",
+      "name": "Friends of Alta"
+    },
+    {
+      "url": "http://www.snowbird.com/index.html",
+      "name": "Snowbird Ski Resort"
+    },
+    {
+      "url": "http://www.alta.utah.gov",
+      "name": "Town of Alta"
+    },
+    {
+      "url": "http://www.fs.usda.gov/uwcnf",
+      "name": "Uinta-Wasatch-Cache National Forest"
+    },
+    {
+      "url": "http://utahavalanchecenter.org/",
+      "name": "Utah Avalanche Center"
+    },
+    {
+      "url": "http://www.commuterlink.utah.gov",
+      "name": "Utah Department of Transportation"
+    }
+  ],
+  "states": [
+    "UT"
+  ],
+  "ll": [
+    -111.776047,
+    40.57247899999999
+  ],
+  "bounds": [
+    [
+      -111.776047,
+      40.57056
+    ],
+    [
+      -111.63952963490117,
+      40.58993998403837
+    ]
+  ]
+}

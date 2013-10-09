@@ -1,0 +1,11 @@
+extends layout
+
+block body
+  include searchbox
+  section.searchresults
+    #cseSearchResults
+
+block scripts
+  script(src='/build/build.js')
+  script.
+    require('boot');

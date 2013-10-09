@@ -1,0 +1,38 @@
+{
+  "template": "byway.jade",
+  "id": "2465",
+  "name": "Bradenton Beach Scenic Highway",
+  "distance": "2.8",
+  "duration": "30 minutes",
+  "description": "This scenic shoreline byway starts at the south end of the seven-mile Anna Maria Island, and ends 2.8 miles to the north in historic Bradenton Beach.  Gulf Drive, as the natives call the throughway the byway is located on, offers fine views of the ocean.",
+  "fullDescription": "<p>This scenic shoreline byway starts at the south end of the seven-mile Anna Maria Island and ends 2.8 miles to the north in historic Bradenton Beach.  Gulf Drive, as the natives call the throughway, offers its travelers fine views of the Gulf of Mexico, Sarasota Bay, and Coquina Beach.  Swimming, sunbathing, wildlife viewing, and picnicking are just some of the recreational opportunities provided along the route.  The byway intersects Bridge Street in Bradenton Beach, which continues to historic Bridge Street Pier.  The pier is famous along the Intercoastal Waterway for its fishing, dining, and strolling.</p>",
+  "contact": "**City of Bradenton Beach**  \r\n 941-778-4520  \r\n\r\n",
+  "path": "epyfDxxxwNz_@]hF[lqAwUt@k@~@uBr@k@ts@aQvPmEfAMN@t@_@xDs@nVsGjK{BdAs@|B}BzEiCjo@c\\`HyCpLaEd_@iMhBQlLPzCKvE_ArAg@fCyA~ByBlKoLpMaPhA_B\\q@`C}HbByDd[oi@`CkDfi@mh@f`Ak~@fg@o[dB{@jI{CbAo@bNqJfVgPtAe@vKuB~Ak@|`@sQrDcD~GkFnPaLn]eUrQgMdEgDh@e@dLeSxc@_b@lcAejApg@kj@lBiChCaEfCkGdXybAl@sAx@sAhGsFdIsGpA_@lADfA`@~@v@rKzLbA^x@EjWsO`@IrDmBvXmPt@M",
+  "websites": [
+    {
+      "url": "http://scenichighway.cityofbradentonbeach.com/",
+      "name": "Bradenton Beach Scenic Highway"
+    },
+    {
+      "url": "http://www.cityofbradentonbeach.com",
+      "name": "City of Bradenton Beach"
+    }
+  ],
+  "states": [
+    "FL"
+  ],
+  "ll": [
+    -82.70748900000001,
+    27.497150000000033
+  ],
+  "bounds": [
+    [
+      -82.70748900000001,
+      27.318781000000058
+    ],
+    [
+      -82.57768199999998,
+      27.497150000000033
+    ]
+  ]
+}

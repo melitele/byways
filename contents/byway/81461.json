@@ -1,0 +1,32 @@
+{
+  "template": "byway.jade",
+  "id": "81461",
+  "name": "Scots-Welsh Heritage Byway ",
+  "distance": "10",
+  "description": "Trace the trade roads used by Native Americans and early back-country pioneers on the Scots-Welsh Heritage Byway.",
+  "fullDescription": "<p>Trace the trade roads used by Native Americans and early back-country pioneers on the Scots-Welsh Heritage Byway. Travel on roads dating back to 1770 through vistas of farmland. Enjoy local dairy products at one of  several farms along the byway. Take time to search out Civil War graves in the Cane Creek Baptist Church Cemetery and admire the enchanting brick buildings in Hillsborough, a small town three miles past the byway, which is also home to a clock given to the town by the king of England in the 1760s. </p>",
+  "path": "y_}zEfrwaN|AMrCC|EVhCXhAl@bA~@`@l@fB`En@~@x@|@`FxDx@x@^b@xBjEb@j@bDlCdBr@~BX~Hq@zBGjBDzAT|FvBlAP`EC`AJzJzBjh@bSlG|@nBPbACbC[|CcAx@MvKYtMMfEx@rALxA?rCWI~ODfg@HhOXrDx@`CbAjBhApAjS~QhOfLrAxArGlMhA`Dd@tCL|Ab@nMC`E_@`DqHlUYrAOzAyAvBe@fCOxCTfFbA`E^dDYzBwAjCk@rBe@jTOfNgA``@RjG?zBMpB_BnO{@tONlEZnBbBlR?jBOfBwD|Qo@lEyExl@ItANlDRVdBl@hBVfFEnCQpEVbEdAnBz@pBpA|n@lg@~H`GrCd@bBFhR_@lEq]JuEEaJCs@eAmJEyAFsA\\yAxBeGxRaf@hBaEb@}ATuAB_ACsAOmAo@mC}DwL_@}By@aHOqD@y@v@oPhAcSEsBWeBe@oBaJmWsDkMcDmO_BuEgBeEcEiLe@eBWyAKgCD_A\\gDrEsQyCaAqBgAu@cAi@oAu@qAgA{@ePqEsFa@qk@}A",
+  "websites": [
+    {
+      "url": "http://www.ncdot.org/travel/scenic/",
+      "name": "North Carolina Department of Transportation: Scenic Byways"
+    }
+  ],
+  "states": [
+    "NC"
+  ],
+  "ll": [
+    -79.09683199999995,
+    36.034691000000066
+  ],
+  "bounds": [
+    [
+      -79.19406099999992,
+      35.970619000000056
+    ],
+    [
+      -79.09674799999993,
+      36.034691000000066
+    ]
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "template": "byway.jade",
+  "id": "78512",
+  "name": "Journey Through Hallowed Ground Byway - Pennsylvania",
+  "distance": "14",
+  "duration": "About 30 minutes to drive the Pennsylvania section of the byway",
+  "description": "The Pennsylvania portion of the Journey Through Hallowed Ground Byway travels through monumental historical sites including the Gettysburg National Battlefield Park and affords views of a significant scenic landscape.",
+  "fullDescription": "<p>At the heart of the Journey Through Hallowed Ground Byway is its scenic landscape. In Pennsylvania, the stunning views from the byway provide the perfect setting for experiencing the monumental history and culture of this area. Travel from the downtown historic district of Gettysburg to the Gettysburg National Battlefield Park to witness the same fields bloodied in that epic Civil War battle. These fields also mark the place where Lincoln delivered his famous Gettysburg address and lie not far from the Eisenhower Farm, where President Eisenhower retreated and entertained foreign dignitaries.</p>",
+  "contact": "**Gettysburg Convention and Visitors Bureau**                  \r\n102 Carlisle Street                                    \r\nGettysburg, PA 17325                                        ",
+  "path": "aonrF|bcvMx]xV|HxEj`Bvz@pa@nSxL`IteAlt@`[xR~BbBlEtEjFfEdc@tXtFlD@tBD|G@tCrc@C???C?CBI?ABC@CBCDABAFAD@FB@@DD?B@B@B@B?B@B??xAEhe@GR^~gAnr@fFpDz^ze@nAdAlXvR~_Ab[|f@bO~StKhgAh{@z|@ns@~H~GdEzB|j@|Pjl@nR|BjAzAzAxAdC`DjGPd@DHxA|BlA|AhB`Cx@rAb@x@jJnZhB|E|BfEbBxBnCnChAdAnDxB`DxAng@zT`O|GxUbK",
+  "websites": [
+    {
+      "url": "http://www.nps.gov/history/nr/travel/journey/",
+      "name": "Historic Places Tour"
+    },
+    {
+      "url": "http://www.hallowedground.org/",
+      "name": "The Journey Through Hallowed Ground"
+    }
+  ],
+  "states": [
+    "PA"
+  ],
+  "ll": [
+    -77.18974300033904,
+    39.892490000313444
+  ],
+  "bounds": [
+    [
+      -77.30694300011919,
+      39.71990499961623
+    ],
+    [
+      -77.18974300033904,
+      39.892490000313444
+    ]
+  ]
+}

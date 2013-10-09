@@ -1,0 +1,38 @@
+{
+  "template": "byway.jade",
+  "id": "2325",
+  "name": "Great Divide Highway",
+  "distance": "29",
+  "duration": "Allow 3 to 5 hours to tour this byway.",
+  "description": "This byway takes State Route 77 through the Chequamegon-Nicolet National Forest.",
+  "fullDescription": "<p>Love nature? Then take the Great Divide National Scenic Highway</p><p>through the Chequamegon-Nicolet National Forest and revel in the</p><p>wonderful diversity of plant and animal life in the majestic</p><p>Northwoods. The byway passes through forests harboring black bear,</p><p>timber wolves and white-tailed deer. It crosses lakes, swamps and</p><p>bogs alive with beaver, loons and bald eagles. Lakes and rivers are</p><p>also abundant in the area, providing more scenery to capture on</p><p>film. If the weather is not to your taste or the wildlife proves</p><p>elusive, spend some time with nature of a different sort at the</p><p>National Freshwater Fishing Hall of Fame, a not-to-miss attraction</p><p>in the area.</p><p>Some of the most beautiful scenery in Northern Wisconsin occurs</p><p>during the fall foliage season, when the fiery reds and shimmering</p><p>golds of the sugar maples and red maples contrast against the deep</p><p>greens of pine and fir to the delight of travelers.</p>",
+  "contact": "**Great Divide Ranger District**  \r\n 715-264-2511  \r\n\r\n",
+  "path": "iudxGnunkPRmG^sD|BwNtB{JnBuMbKyi@t@cJRkE@eFu@eTiAmi@s@eHe@cMs@_IYiFOyD?aDi@{Po@gKi@oEiAyH}J_d@aA{EQmCkDox@eCc_@mE{jAIaDk@iLw@yJ{Egc@]aH{BkrBQwWDkW|@yoA^g}@IsCu@aK}@}Go@sDcAaEyAoE_CgGyD{Gws@kiAoAaBcDyCq~@{i@}CwC}AaCcAsBsEmL{_AecCqNw_@_R_i@}f@_eA_BuC{OuQeIuIoLyM_DuDmE{FySw\\oOcW{OqUaFmGgk@qx@yR{WoEiHaFgGwA}AeBgAgGyCsQeHqYoKyCaBo@e@yB{CiAkCmBgI_@gG?mDh@oGrBmHdMk_@dCgI|B{HnAmGx@oIRyD?uH_@gON_FZuCf@eCze@q|An@wCl@uDXyCZsENaIAkCSuGe@aEoJis@a@mHGaF_A}cMc@urAEqaBe@gwBb@c`DE}`Ag@glB",
+  "websites": [
+    {
+      "url": "http://www.fs.usda.gov/cnnf/",
+      "name": "Chequamegon-Nicolet National Forest"
+    },
+    {
+      "url": "http://www.travelwisconsin.com/",
+      "name": "Travel Wisconsin"
+    }
+  ],
+  "states": [
+    "WI"
+  ],
+  "ll": [
+    -91.17543799999993,
+    46.06821100000013
+  ],
+  "bounds": [
+    [
+      -91.17543799999993,
+      46.063850000000116
+    ],
+    [
+      -90.67466699999994,
+      46.16458900000009
+    ]
+  ]
+}

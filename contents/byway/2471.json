@@ -1,0 +1,29 @@
+{
+  "template": "byway.jade",
+  "id": "2471",
+  "name": "Ministerial Road",
+  "distance": "6",
+  "description": "In South Kingstown, from Route 1 to Route 138.",
+  "fullDescription": "<p>Ministerial Road is Route 110 in the Southern portion of Rhode Island.  It covers the area between Route One at Perryville up to Route 138 in South Kingstown.  The highway takes the traveler along a rolling landscape with views of several small brooks, wetlands and of Larkin Pond.  Much of this land was once largely farmland and pasture, and evidence of this can be seen by the many rustic stone walls along the byway.</p>",
+  "path": "c~d|FjsusLh@d@`Ab@lDbA~InGpO`HnLdDrFr@fA?dAQ~CmB`Ca@~Mf@~ESr@DbEdA|Pd@nAZrF`CbBRp\\{B`FSpH`@p_@NxNrArY`@nLd@bGFxO|A|MdBfQtFjNlDdAl@lAjArCfGtA~AhBn@~En@db@tA~E`AxJh@tAE~JwDhAu@hD_E~AoAvA}@dE_Bf@Gt@LfDjB|C~@xBZpOrA~N^vEd@lUG",
+  "websites": [
+    {}
+  ],
+  "states": [
+    "RI"
+  ],
+  "ll": [
+    -71.55013999999994,
+    41.48210100000006
+  ],
+  "bounds": [
+    [
+      -71.56278999999995,
+      41.397411000000034
+    ],
+    [
+      -71.55013999999994,
+      41.48210100000006
+    ]
+  ]
+}

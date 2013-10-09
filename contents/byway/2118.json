@@ -1,0 +1,46 @@
+{
+  "template": "byway.jade",
+  "id": "2118",
+  "name": "Trail of the Ancients - Colorado",
+  "distance": "114",
+  "duration": "Three hours to drive or 2.5 days to visit the byway",
+  "description": "Explore the long and intriguing occupation of Southwestern Colorado by Native American peoples. Travel through the archaeological heartland of America while crossing the beautiful and diverse landscapes of the Colorado high desert. World-renowned Mesa Verde National Park and the Ute Tribal Park are highlights on The Trail.",
+  "fullDescription": "<p>Explore the long and intriguing occupation of Southwestern Colorado by Native American peoples. Travel through the archaeological heartland of America while crossing the beautiful and diverse landscapes of the Colorado high desert. World-renowned Mesa Verde National Park and the Ute Tribal Park are highlights on The Trail.</p>",
+  "contact": "**Colorado Welcome Center**  \r\n 970-565-3414  \r\n\r\n**Mesa Verde Country Visitor Information Bureau**  \r\n 970-565-8227  \r\n [Send E-mail](mailto:lynnd@mesaverdecountry.com )  \r\n\r\n",
+  "path": "i{vaFf~pxSd@k@fS}X|BiCbCwB~DaCdKsDlGaDbi@kb@`fS_fM??sHc_@giAcnFcKig@gg@iaCcCqNsBgPu@_I}@oOgCuh@WuKFyLfBqn@NgIBsIMsJaKciEu@qOg@gHmAiLyKgx@sDqUwCuNqEwPcnAg~D_HqUooAgaEo@s@}@k@g`@_CsF{@uIeCsmBwq@kGcBcEu@}jAuOmIyA_n@iQyEgBmFkDwm@cq@kB_BoBmAsFeCaz@wUuAk@yjCwt@oM_EqqAe_@kQ{EMFeGqB_J}ByFqBmXaIuHaDgHgFaHyFeNaMkbAk{@ocAi{@}EmEq|@{t@k@s@aV{R{GuDgpAgo@{^_RkM_Hmk@iYmy@gb@euBqeAkCgAgCk@mCYo_@?gHSyCWuo@{KkEyAcMmHwV_PYImDoBkg@u[aDsBwH}FqF_DmB}ByBmDeA}Be@_CYqDJ{GKsb@m@koAKg`AQoKk@mDuAkDo@{@aB_ByG_F{A{AmAiB}@gBmAaE??[zB_N~FcBf@gHHkKKiQFwr@Mqx@?{NRgQBsLQ_mA@g^Huk@EqBK}@MoC_AsEkCmUqT}b@q\\aKoHyDyBcDwAsC_AyNgDsGm@eOe@aH}@cDo@}k@mM{HsBkFeBuUqJuBq@uDs@sDQkEDiDl@sYxH}Dj@y@DqBUu@MsBeAyCpEo@f@s@\\uRrD}BHiCMcB[eCcA}A_@sABw@`@k@v@e@rA{Hv]mAtEy@lBiApBmWl\\oBfBgXfR}UlQy@fAa@fAm@dC[|PiBdiBQpBc@vCiJdb@uArHg@lDwBnUQrC?rCDxBl@`Gt@~ClBfGZzCRxDCrCi@tEIxABpCH~@vAzHnDpQrUb_A~AzIXdDnD|t@pCbNh@lE@xJU~d@cCh~BK|N}fAtZyEzAaBl@yD~BiDxCiBxBmDfFq[`h@ofAjgBmtDleGcCzDwClDuArAsCrBek@j[m`@bTe_Adh@k[tPixA~w@KtoRvo@Fzl@GbnBCr@Nh@X``Ado@r@vANx@Chw@B`i@DdAle@xsCpKbn@pPjfAlEzO`CbMt@jBx@fAr@j@~MhHxHxD|BjBbCfClHlJrAnAzI`GrDdDbExHTn@RjARbQDdARx@z@lB`JxPnGbMjApAbAZtABtvB@|d@Kt@Jn@r@Pl@@p@C|PHzYb@bB|@|@j@Tt@Jpu@?tAP|JfElA|@nEnEdh@hY`EtC`B~AbCdEdJxUjJhUr@x@zFpF``@vo@tAv@lE~@p@XlFfEp[rXpDhCnNnI`JzFvXvQnC~B`EdGhBnDrUvj@~Nld@lE|LnCzGhO`W~Sp_@xCbG\\dANdAYnQEvLx@`UDlA",
+  "websites": [
+    {
+      "url": "http://www.coloradodot.info/travel/scenic-byways",
+      "name": "Colorado Scenic Byways Main Menu"
+    },
+    {
+      "url": "http://www.mesaverdecountry.com/",
+      "name": "Mesa Verde Country™: Family Vacations in Southwest Colorado"
+    },
+    {
+      "url": "http://www.fws.gov/refuges/profiles/index.cfm?id=65511",
+      "name": "Monte Vista National Wildlife Refuge"
+    },
+    {
+      "url": "http://www.coloradodot.info/travel/scenic-byways/southwest/trail-ancients",
+      "name": "Trail of the Ancients"
+    }
+  ],
+  "states": [
+    "CO"
+  ],
+  "ll": [
+    -109.04563899993985,
+    37.15013100024544
+  ],
+  "bounds": [
+    [
+      -109.04563899993985,
+      37.030880000311754
+    ],
+    [
+      -108.53466000005892,
+      37.58840199985241
+    ]
+  ]
+}

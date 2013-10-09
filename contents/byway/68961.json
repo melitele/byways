@@ -1,0 +1,38 @@
+{
+  "template": "byway.jade",
+  "id": "68961",
+  "name": "Red Rock Canyon Back Country Byway",
+  "distance": "13",
+  "duration": "1 hour to visit this byway",
+  "description": "Red Rock Canyon Back Country Byway runs for 13 miles across a paved loop through the Red Rock Canyon National Conservation Area.",
+  "fullDescription": "<p>Red Rock Canyon Back Country Byway spans for 13 miles across a paved loop through the Red Rock Canyon National Conservation Area.  Stop at several pullouts along the byway and enjoy the spectacular colors in the rock formations.  Driving the byway during the warmer months offers a better view and more time in the day to drive the byway.  Red Rock Canyon has many outdoor activities to enjoy. Go picnicking, hiking, backpacking, or rock climbing, observe wildlife, stop in at the visitors center, or take a trip to Las Vegas, only a few miles away.</p>",
+  "contact": "**BLM-Las Vegas Field Office**  \r\n702-515-5000\r\n\r\n**Red Rock Canyon National Conservation Area**  \r\n702-647-5000",
+  "path": "eiu{E`h__U?lT?pPBth@?zB~CbKnDzFtDrE~FzFtDlFxAjCbBtCpKtRbBnEdCrFrAjEv@bErC`KBLzBpHxHv_@dL`k@bAtHtBrRzBtKbFhRzD~KhEzKhFhJdRlXtBnD~C`HtAlE~A`INh@lDbOn@zKx@rFvF~QRdBTTnJrXnCvGb@f@nA~AnF`CdAbAxBtDx@^fHjClCbA`EbCn@^|BnDjAvCrBfIhCpMJR?^rD`MtBrFdLdQT?vCrDtFxDPn@t@T`NxDjOnBjIDLSzR_@NObb@eDto@I~Y_AjPoBnHoAbEiAhIwB~LwGjGoEZEvByBj@KnD{ErTcWfEiD~@oAlHiGdBmBb@GDO~JuL`FeHhDiHrFyJxBkFn@{A~M}XpEkI|EwLTK`@cBrAgFdAmC@?A?xGuThCuInAuIj@yJPuAAH\\wCf@{Bh@UH}@zAuE~@uHbBsInBiEbBeCPy@?eBqDkIMuBUC{@yGSuMz@sP|@eIzAeTlCkWpAuBbEaEdFaCrAu@JCh@Ih@_@jA[rAcANUtAkBZg@bB_E`AeG|AkZ`@uI|HgKdEwFxEmGxFuHfHoJhA_BhCiD",
+  "websites": [
+    {
+      "url": "http://publiclands.org/explore/site.php?search=YES&back=Search%20Results&id=490",
+      "name": "Red Rock Canyon Back Country Byway"
+    },
+    {
+      "url": "http://www.nv.blm.gov/redrockcanyon/",
+      "name": "Red Rock Canyon National Conservation Area"
+    }
+  ],
+  "states": [
+    "NV"
+  ],
+  "ll": [
+    -115.3448007224909,
+    36.15907200000004
+  ],
+  "bounds": [
+    [
+      -115.4503039999999,
+      36.034221410592515
+    ],
+    [
+      -115.3448007224909,
+      36.15907200000004
+    ]
+  ]
+}

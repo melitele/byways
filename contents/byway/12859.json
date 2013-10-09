@@ -1,0 +1,58 @@
+{
+  "template": "byway.jade",
+  "id": "12859",
+  "name": "Post Rock Scenic Byway",
+  "distance": "18",
+  "duration": "30 minutes for a quick trip, longer to really appreciate the scenery.",
+  "description": "As you travel the lush rolling hills of nature's roller coaster, the Post Rock Scenic Byway, limestone outcroppings vein the Smoky Hills around beautiful Wilson Lake. Industrious early settlers quarried this creamy-buff, brown-striped native limestone rock for buildings, bridges, and fenceposts. Durable yet easy to carve, this stone, still quarried today, lends itself to the embellishment of the most modest of structures through creations of elaborate folk art environments.\r\n",
+  "fullDescription": "<p>Along the Post Rock Scenic Byway journey, witness the vast prairie of grasses where the first buffalo roamed through the Smoky Hills and the Saline River valley and today, deer and cattle graze in the pasturelands. Petroglyphs dotted throughout the rugged Dakota sandstone bluffs around the clear blue Wilson Lake give evidence of native Indian hunting grounds. Explorers, like Zebulon Pike, and trappers traveled along this trail in search of adventure and wildlife. The famous Butterfield Overland Express carried mail in 1865 along the trail.</p><p>The early settlers determined to settle this rugged environment were the hardworking European immigrants of Germans, Scandinavians, and Czechoslovakians. The stone posts were utilized in the area because they were the material at hand on the prairie, and when the prairie fires swept across the country, the stone fences were still standing. The outcroppings of limestone rock have been used so extensively for fenceposts that the posts have become an identifying feature of the landscape and are considered scenic attractions. Important to the development and prosperity of this area, these stone fenceposts transformed the open range to productive farmland. Imagine the first quarrier of stone posts, Charles Sawyer, just a few miles Northwest of Wilson Lake setting that first fence row of stone posts in 1873.</p><p>These immigrants trained as stone masons first used this buff colored limestone layer of rock as building blocks for houses, barns, smokehouses, bridges, courthouses, churches, linings of wells, water troughs, water towers, and grave markers. Even the native lime or powdery crumblings from the limestone mixed with water was used as the mortar in between the blocks. Ornate architectural structures are found in the communities and farmsteads of Wilson, Lucas, and Sylvan Grove. </p><p>Along the byway North of Wilson Lake, the Stone Cottage Bed and Breakfast and Antiques is a quaint homestead with limestone house and outer buildings, including a barn with a gracious arched doorway. The Grassroots Art Center courtyard, Lucas exhibits the creativity of immigrant stone masons. Examples of house, barn, and church vernacular architecture that includes embellished doorways and window lintels. Historical limestone museums are filled with the cultural heritage of the Czechoslovakian and German immigrants of this area. The most unique house and attraction built from the post rock limestone is Samuel Perry Dinsmoor's Cabin Home in Lucas. Posts as long as 21 feet were used in the building of his \"log cabin\" home and mausoleum where S.P. Dinsmoor and his first wife are buried.</p><p>Unique to the Lucas and Wilson area communities, is an abundance of self-taught artists whose ingenuity and determination have created magnificent outsider art environments. S.P. Dinsmoor not only built his house and mausoleum of limestone rock in a \"log cabin\" style but fashioned 113 tons of concrete into 30-40 foot trees with 150 sculptures from 1907- 1930. Ed Root and Roy Miller embellished their homesteads with tons of concrete sculptures embedded with glass, pottery, and rocks. Florence Deeble, using colored concrete, created a rock garden with miniature scenes of places she visited like Mount Rushmore and Mesa Verde.</p><p>The Post Rock Scenic Byway celebrates the cultural legacies of these pioneers who through their determination to not only make a home for their families but to create unique environments around their homes to share with travelers and visitors that enjoy the unexpected.</p><p></p>",
+  "contact": "**Lucas Chamber of Commerce, Post Rock Scenic Byway Committee**  \r\n 785-525-6288  \r\n [Send E-mail](mailto:lucascoc@wtciweb.com )  \r\n\r\n",
+  "path": "ktblFr}~wQacADwENgDp@wDlA_UbLkIhDyCn@{Hj@_Dd@gD~@mDlBmF~DiAl@aDlAoEv@iCH_FUuEeAsGyBuF{AsEq@kLq@ma@iIoFYcCDmEf@mjBtXuHbAkEb@oDRakAxDiNl@iCd@wC`AoDpB}DzDuGrJkBxBaEzCyC`B}K~EkSrIiFlCePtMwBrAoDvAwB`@yDDwXYgZe@sBMgCe@_A]oAs@gGmEcBi@gF_AoC]wA?uAXo@\\mAfAs@rAcLpYwAlE_AvCwAbGiIfc@wAlEkArBgEdDgItFsA|AcAjB_AtCc@xCiAjPu@hFwAbFkT|d@wBfDeBzBkExD_CxAgCpAgElAkDd@gCB}iEu@cwAKaaB^cm@q@",
+  "websites": [
+    {
+      "url": "http://www.amazing100miles.com/",
+      "name": "The Amazing 100 Miles Tourism Coalition"
+    },
+    {
+      "url": "http://www.ksbyways.org/",
+      "name": "Kansas Scenic Byways"
+    },
+    {
+      "url": "http://www.travelks.com/",
+      "name": "Kansas Travel and Tourism"
+    },
+    {
+      "url": "http://skyways.lib.ks.us/towns/Lucas/index.html",
+      "name": "Lucas, Kansas"
+    },
+    {
+      "url": "http://www.naturalkansas.org/postrock.htm",
+      "name": "Natural Kansas - Post Rock Scenic Byway"
+    },
+    {
+      "url": "http://www.naturalkansas.org/postrock.htm",
+      "name": "Post Rock Scenic Byway"
+    },
+    {
+      "url": "http://www.russellks.org/",
+      "name": "Russell Chamber of Commerce"
+    }
+  ],
+  "states": [
+    "KS"
+  ],
+  "ll": [
+    -98.46761300000003,
+    38.848869000000036
+  ],
+  "bounds": [
+    [
+      -98.52247599999993,
+      38.848869000000036
+    ],
+    [
+      -98.46761300000003,
+      39.05332900000013
+    ]
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "template": "byway.jade",
+  "id": "12823",
+  "name": "Grassy Island Crossing",
+  "distance": "26",
+  "duration": "40 minutes",
+  "description": "Named for a group of earthen masses in the Pee Dee River north of Blewett Falls Lake, the byway travels through forests, swamps, farmland along the river.",
+  "fullDescription": "<p>At the lower end of the Uwharrie/ Pee Dee Lakes region is the\r\nGrassy Island Crossing. Travelers driving the byway will notice a\r\ngroup of earthen masses just north of Blewett Falls Lake. These are\r\nthe Grassy Islands.</p>\r\n<p>This remote part of North Carolina offers access to the\r\nmarshlands of the Pee Dee National Wildlife Service. Visitors will\r\nhave the opportunity to view waterfowl in their habitat through an\r\nobservation blind. Further along the byway, travelers will\r\nencounter recreational opportunities along the Pee Dee River and\r\nespecially at Blewett Falls Lake where boat ramps and fishing\r\naccess points are available.</p>\r\n",
+  "path": "oznuEla~gN{CwZ@s@jEk\\fL}e@lD}LdAgChM{Qj@g@xJyF`\\aIpIsAfKIlIUn@Wx@k@zD{@pGdBnCR|B?~@SvFaCnRwE~Cq@`BOj@DpFzBr@P`AJdGKzKx@hIS`Hk@hBe@v@_@fN{KjGsGdBuDvC_FlDmE|A{CxAyDdBaAn\\gUbHmFdHw~@pAcIjEwTlFgq@|Lo`@dFkKrEaHbHaM`GgNl@yBGmAaAsDYwAMmB[oc@?mBXqBbAgCf@c@jFIbAQhAe@tToKhN{HbBkArAyAnDyF\\aANy@FsD?sEUeVEq@oAc~@gC{@or@kKmFOcFHiCCaCc@yCy@_QyFkO{BaCAcCRiB`@iYnO}Bv@yBXgDLus@XizAwMsCsN}D_a@EkBh@cH@}BO{Bu@gDYsB?oUOqAsBoIe@gDWgEBeJS}C}DcUeBgI_B_GqFsNsAcFgGi[_CoNo@{FwBuZoEcu@N_CnCeLhSsv@`[geAnAmCbA}@rAg@lEs@x@WrBaAx@y@pAyCzCsDh@{@hDwHt^mt@nCwEvAkBtQqShAoBh@wAnC{JxA_CvCgDb@a@hAk@~AMxRBzKm@bCA~a@`DrGx@vFdA|@?hAQlEoBlBq@pPkDzYaDhCKrAH~Bt@hDfBzCh@nBKpLeB|BGhQ~@hBXnAf@lEdClCl@rADxDMvA_@jAq@|@mAn@yAjGiWvJqVtKcRjVe^hMwTpHaR~@eBfEeF~@{AjKk[~Lan@hAuN`@yKBsCIoCU{By@iC_@s@gDsEeJiKiC_F",
+  "websites": [
+    {
+      "url": "http://www.theforeverinn.com",
+      "name": "The Forever Inn"
+    }
+  ],
+  "states": [
+    "NC"
+  ],
+  "ll": [
+    -80.11302899999993,
+    35.14296000000007
+  ],
+  "bounds": [
+    [
+      -80.11302899999993,
+      35.04700900000006
+    ],
+    [
+      -79.8490369999999,
+      35.14374200000009
+    ]
+  ]
+}

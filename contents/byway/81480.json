@@ -1,0 +1,18 @@
+{
+  "template": "byway.jade",
+  "id": "81480",
+  "name": "Holo Holo Koloa Scenic Byway",
+  "distance": "19.45",
+  "duration": "Allow 51 minutes to drive the byway.",
+  "description": "This byway features beautiful vistas, beaches, lush green mountainscapes, the national tropical botanical gardens, and over a hundred significant historical and cultural sites treasured by local residents.",
+  "fullDescription": "<p>Travelers on Holo Holo Koloa Scenic Byway will enter one of the island of Kauai’s premier visitor destinations through a magnificent tree covered tunnel and proceed through a quaint town rich in local history. Traveling further south to the coast, one will view the many indigenous Hawaiian cultural sites including _heiau_, fishponds, footpaths, and remnants of a complex agricultural field system. The area incorporates the rich cultural tapestry of ancient and recent patterns of immigration, land use, and industrialization including the history of Koloa’s sugar production.  </p><p> </p><p>This byway features beautiful vistas, beaches, lush green mountainscapes, the national tropical botanical gardens, and over a hundred significant historical and cultural sites treasured by local residents.</p>",
+  "websites": [
+    {
+      "url": "http://www.hawaiiscenicbyways.org/index.php/byway/holo-holo-koloa-scenic-byway",
+      "name": "Holo Holo Koloa Scenic Byway"
+    }
+  ],
+  "states": [
+    "HI"
+  ]
+}

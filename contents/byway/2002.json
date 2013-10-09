@@ -1,0 +1,33 @@
+{
+  "template": "byway.jade",
+  "id": "2002",
+  "name": "Bear Lake Scenic Byway",
+  "distance": "15",
+  "duration": "20 minutes",
+  "description": "Heading south from the junction of US-89, this route skirts the western shore of Bear Lake to the quaint city of Laketown.",
+  "fullDescription": "<p>This spectacular lake is nearly 20 miles long, from four to\r\neight miles wide, and reaches a depth of 208 feet. Half of the lake\r\nis in Utah and half in Idaho. Utah's half has Rendezvous Beach\r\nState Park on the south end, just past the rest stop; Bear Lake\r\nMarina State Park on the west side of the lake; and East Side Beach\r\nState Park on the east side. Idaho's half is served by North Beach\r\nState Park.</p>\r\n<p>Although it is a natural lake with no original outlets, Bear\r\nLake was converted into a storage reservoir in 1911 when artificial\r\ninlet and outlet canals were constructed. The lake currently serves\r\nas the main storage reservoir for water from the Bear River which\r\nfeeds irrigation canals in Idaho, Wyoming, and Utah.</p>\r\n<p>The lake is excellent for fishing, boating, and all water\r\nsports. It also contains cisco, a game fish found nowhere else in\r\nthe world.</p>\r\n<p>Bear Lake raspberries are a delightful treat in season, and\r\nGarden City's raspberry shakes are world famous. A small turnoff\r\noffers the first bird's-eye view of Bear Lake, from a meadow at\r\n7,568 feet above sea level. Here you will find parking areas, restrooms, a small information center, and interpretive displays where you can learn about the history and geology of the lake and surrounding areas.</p>\r\n",
+  "path": "ohi~FbzmfTcWvw@ySlp@qJdUgI`RcCrE}C`FwClDuNtLsDfEiAjByAzCoA|CkKjYaDbIeAlBsBjCiC`CoAv@cBr@yNjDsHtBeF~@oCRwDK}HgBsFq@mBEwENsOnA_Db@sFReI?qNy@}C?eQlA}g@dEgHL_t@a@gGNcBd@eBv@mBzAsA~As@dAcAfCmDnLoB~DiDrDsQzMyClDcAzAiA~By@`Cu@vC}BjQsFz[kCfJgAvCgAxB_ApAmAlAkAr@mBn@kOzDmVbFgEh@wCl@oBx@gB`AqApAaFrGyCnC}BjAmCx@iCLmD?qGSgI{@wHsBu[kK{EoAwAQsBGaMEqFQqJ?a[Wa`@U}Bl@}@f@eBpB}DlF_KzNeBnBqJ~F}CxAiD~@yBD}BQqXgF_EEsAd@cB~@}FfG}AxAiEpBaCb@mEXg_@t@yCb@eA\\gAd@s@j@_Ax@gArAoFnIsLdSaAhAmBxAsBnA{LvBaLz@yTDwEGoBYkJqCmDy@cT}F_BQ",
+  "websites": [
+    {
+      "url": "http://www.utah.com/byways/bear_lake.htm",
+      "name": "Utah Travel Industry Website"
+    }
+  ],
+  "states": [
+    "UT"
+  ],
+  "ll": [
+    -111.323372,
+    41.83192100000008
+  ],
+  "bounds": [
+    [
+      -111.41127799999998,
+      41.83192100000008
+    ],
+    [
+      -111.323372,
+      42.000332000000014
+    ]
+  ]
+}

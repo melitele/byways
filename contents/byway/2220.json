@@ -1,0 +1,29 @@
+{
+  "template": "byway.jade",
+  "id": "2220",
+  "name": "Dude Ranch Trail",
+  "distance": "40",
+  "description": "The Dude Ranch Trail is the land of the Adirondack cowboy.  Beginning and ending in the village of Lake George, this 40-mile loop passes horse ranches, lakeside resort villages, and theme parks.",
+  "fullDescription": "<p>The Dude Ranch Trail is the land of the Adirondack cowboy.  Beginning and ending in the village of Lake George, this 40-mile loop passes horse ranches, lakeside resort villages, and theme parks.</p>",
+  "path": "grkgG`wvaMi@rAmOnT{DtCkBlBqG`N}@vAuDhEmAdA}A~@yU~G_BLaGe@wLGgELgKlAqEfAuJbDaPtEuGxD{@z@qE~FcFxFmAhBwEvKeBtCcBjBeCrBqAtAq@pAwBhGsAxBsBfCcD`Iy@nAe@`@}BjAsFzAi@HkKRmGf@yB^wDfAcCjA}E`DgBp@aARyBMiRyDmOwBu@SoAo@aA_AeCeDyDyDcBq@}B]}EKoNXmC^q@X{DnCa@Vi@F}Pi@uCB{Bp@eBrAY^uArCa@j@k@TaMjBa[dIiP`FaGnDiBhBeAzBM`@U~EKj@qEjMo@tAgH|McBjBgF`D}A~Aq@fAqAjCiGbSiBfFoAdC{EvHmE`IcCxCsDxDsCpBgFrCsCrBsIzG}@fAc@~@k@lBcAbAkBVeF~CgCrBsALkBi@^_BnA{Cr@}Bd@aCnAsHfD}U|@eDnAcCr@iArFmGn@iAr@gBh@wB^uCHiBCcD[sCs@mDaE_Kq@aECeAHeAbBaKd@}DBoAGcCGw@g@uBeAeCc@q@o@m@mAs@uDsAeEeAgOgD}C_AyAs@cGsD{GgG}V{YgIcIiLoMkByAw@YsFk@{K{B_C?cDZaABoE]qGy@{Kd@eJ?iC_@yDgBoBcBm@o@yCwEuHqP{AsC}AeAy@YwHuBuAw@cAy@oSqYmAqAcFiD}AkByAaCqCeCyGuE{IkFoD_BqJgCgPkD{@?kFbCuADgHqBkJeEuAO}B?mAOoBaA}BuBcBeCu@kBy@aDaDcS_@qF[uMIiAy@eEoBaIgBaK{@aDi@wAmDuGyAkEmDwEsBqEm@aBg@_C{AoK[gBu@eC{BaGeB_GiByDpH}IpHsKh@_Ad@_BX{C?yAO_Bm@gD{@_Dm@sAu@mAqDkEs@gAqA_D]uAIcBBo@b@mFV_Bl@w@xDsCl@m@d@y@RkAX}FOsAc@kAiA}@}AUe@YeAeBgBaEUwAIwKe@_OOaAsA{EYkBe@uE]gGHsAb@kDnBoKBcAM{@k@_A}AkA_BiAcCkAqCkCkAmBcDoLi@eDkCkTKq@_@y@i@[k@EsLCq@_@gBiDe@yAYgC_@gP?yBJmCf@{FkFyDoC_EtD}GlD_DrE_Gv@sAx@mBr@eC~CqRdBsIlAoDrB_EnAyA|@s@bDeBnDq@tXMnDa@jFwAnO{HzCwBb_@wZbGcE`IyDtNaGfGsChQiK~L_J|GoFvG_GhAsArB{CbGsNbBmCvByBpOgF|BkB|BiDxBeFrDuFjB_C`RcM~CwClBkCnCiFlBsC|D_F|A{A`Aw@tE{BnCkArAy@jA{ArM{YrAmCf@g@v@k@xDsA??nOuC??|AKhBR??~ExAn[|J|APlEAnCe@~KyCzO{ChOeEbG}@bBMXJbDY`LkAhCm@rBs@`GgD|DlHbJbLl@~@x@~BnAhErCdLXfBr@~FrAnIxB~F|DhH~@lAfIlGvCfCdBvCb@lAh@fCnA|TXjC~@lD~@`BtGxInBxBrDlDrQzOxCzElA~Cj@rB|@nFhD|`@BzAIzCcApIIlBDfCR|ANx@x@tBpFzIt@xAxAdEbGjRhAvElFjYp@tEh@fHDpDXfHhAdQFlIKfTJzBh@~Cp@hBd@v@xChExD|DvCtBx@b@lBf@xAJfG?~B^bAZbBdAnAjAbArA`HjOrB~Dn@jBNp@TfCBfBOdCm@nEIdA?lBR`CX|Ap@dBl@`AtKzOhArDZhCHjCUrq@PpFp@vFbCzKhAlIhEbm@b@lITlBNfAbArDrAjCx@fA`BvAtJvGzFpDpH~CxAfA~BlC`HhJnBvBxCtBvAj@dPxEjHdB~XtEhq@hM`YvDhFX`C?db@yBtAYxM_EhCSdME`KxAlCGhCo@bBgArAmA~AsCbAgCdAmB`CsApBsAbDaAxIwBrEq@??|@C`HUhDKtBCV?x@A`@A",
+  "websites": [
+    {}
+  ],
+  "states": [
+    "NY"
+  ],
+  "ll": [
+    -73.84960431677695,
+    43.318289092255384
+  ],
+  "bounds": [
+    [
+      -73.91012199303611,
+      43.304872790274736
+    ],
+    [
+      -73.70931999999993,
+      43.492729000000054
+    ]
+  ]
+}

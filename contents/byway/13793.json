@@ -1,0 +1,54 @@
+{
+  "template": "byway.jade",
+  "id": "13793",
+  "name": "Amish Country Byway",
+  "distance": "76.2",
+  "duration": "Allow 1-2 days to enjoy the byway, or 3-4 hours to drive it.",
+  "description": "Discover the cultural and historic treasures of the Amish and northern Appalachian people as you wend through curves and over the hills of the pastoral countryside. Experience simple living and sustainability along charming country roads, taking you to a bygone era still present, manifest in the people and their lifestyle.",
+  "fullDescription": "<p>Discover the cultural and historic treasures of the Amish and northern Appalachian people as you wend through curves and over the hills of the pastoral countryside. Experience simple living and sustainability along charming country roads, taking you to a bygone era still present, manifest in the people and their lifestyle.</p>",
+  "contact": "**[Holmes County Chamber of Commerce and Tourism Bureau](http://www.visitamishcountry.com/)**  \r\n 330-674-3975  \r\n [Send E-mail](mailto:info@holmescountychamber.com )  \r\n\r\n",
+  "path": "cs_wFxs{tN\\_\\EyHFeGl@}SFqRNsCZyCbCmIrD{KvCuHj@sBReAR_F^iFd@eDnBsHrAaEn@sAt@gAbAcA|D{CfCaCrFkHxAi@zHwBnAy@xD{EvA}B`JyR~AyExAsGVgC\\gIZuOVgEHyHRcI|@wGp@iBrBsBr@cAnCoHhPi[Z{@f@aCzB_Nl@mC|CsHdAmDlEeSLeBDmFHaBTkA|CmGtBmG`DiKrD{Oj@eEf@{FpDoj@zAgPhBcMxBcQ^qB~BmGb@_BnH}\\nAcJt@yHd@aD\\sAzD}KtJgQxJeVhDkQfDeOd@gD|CwZNsDK_CcBuNImCDaCdAeHv@kDrAiIrBiQnAuNXsCZeBNuBvAkJnDoPvAiHbFka@xDkSrKmm@jBgIdGcQzAyFrBoLxBmNr@{GbEiw@XiJ^eCt@sB`GgLnQcj@XcBf@sFTmFJ{`@NoHb@}H??D_AfBqOn@aEbEsPx@yBfB{GfMom@^gDPsEp@kf@bDegCTqT\\kFj@oFx@eGvCkQCKbEgQlDiLrBcGtK{Ur@sBfO_i@vSoo@dBgG~Iwa@tCwLx@_F\\oCZ_ER{Dz@{z@??VeTDyMSkA_EoJYeAcAaKOgCDsE~@}JNwC?oCOwC[cCm@}B_DwI{GsOyAmE[qAi@qDOqFRiEp@qDf@_BjC}GdK{YdAaEf@kCt@iHpFaqAh@aPZaP|@ioB[ut@QeDg@oDcIwYa@eBi@aEMsGKky@MkF[_D_@oBsA_EwJqTsCaIuMq_@sAeFUyAM{CXc[bA}LXmA??i@]c@s@[gAwDqHyBcDeNaMyByBmAaBmGyJgB{AyDsBsAeA}ScVeFyEoLaKcC_DuD}HqAqBoTwQi\\w`@sHgI{NkSu@eB}Osk@iBaGy@yB}@qAqN_PeNmPcAuAyCkFcEaK_BoEi@qCkDkVsCeHu@sCSgAsDuh@KkEReFdBcMHeADaBc@mEeCcOkAyEo@kBiAmCiHkOo@kBcDoRmDwO??|Iw@lB?bBLjBd@zEpBdE`CvBfBhAh@rFt@pDXn@Mr@_@hIeIpCgClAy@tMaFhEeAbAMbB?fMxBfFJ|EZhN|AbFL|HApDZ~Bp@vFxBdMlFjB|A~FdGbDpBdA~@zFfG~AbArAb@tEr@pBF`HaA`FYtQD`BExEe@pARr@r@~@dCdKla@h@jAh@f@dA^fVfB~@I^O|B{AhAEfFxAbEp@nAFnAKdJ{B|BSdCC`T~@dA\\rBhBbATt@KbAm@nAiA`B{Bz@q@hB[rAN`GbD^XXl@Yd\\Dl@Z~@@@??sKdTkAlDSdAsAdUuAhP_H|c@o@hHNzNb@nVTtFn@jZBtEEdEiDdz@s@tOsBrWi@nI_@fCoAjDyA~B_N~MmDpEcBzCiCrFgEfKoB`DwDdEeOtLcEnFaKrR",
+  "websites": [
+    {
+      "url": "http://www.ohioamishcountry.com/index.html",
+      "name": "Amish Country Cooperative"
+    },
+    {
+      "url": "http://www.visitamishcountry.com/events.php",
+      "name": "Amish Country of Ohio"
+    },
+    {
+      "url": "http://www.co.holmes.oh.us/",
+      "name": "Holmes County, Ohio"
+    },
+    {
+      "url": "http://www.ohiobyways.com/Amish_County/HolmesCounty.htm",
+      "name": "Ohio Byway Program - Amish Country Byway"
+    },
+    {
+      "url": "http://www.travelingamerica.com/newweb/Oh/Amish/OhioAmishCountry.html",
+      "name": "Traveling America: Amish Country Driving Itineraries"
+    },
+    {
+      "url": "http://www.historicdowntownmillersburg.com/",
+      "name": "Welcome to Historic Millersburg"
+    }
+  ],
+  "states": [
+    "OH"
+  ],
+  "ll": [
+    -82.23052999975965,
+    40.635540000270794
+  ],
+  "bounds": [
+    [
+      -82.23052999975965,
+      40.54141728857701
+    ],
+    [
+      -81.70539099979482,
+      40.635540000270794
+    ]
+  ]
+}

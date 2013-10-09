@@ -1,0 +1,42 @@
+{
+  "template": "byway.jade",
+  "id": "12833",
+  "name": "North Durham Country Byway",
+  "distance": "27",
+  "duration": "45 minutes",
+  "description": "Travel this byway to glimpse Durham's beautiful countryside, waterways, and historic plantation farmlands.",
+  "fullDescription": "<p>This byway meanders in and out of the back country roads just</p><p>north of the city of Durham. Travel this byway to glimpse Durham's beautiful countryside, waterways, and historic plantation farmlands.</p><p>The backroads of Durham County explore the history of the</p><p>southern gentry as well as the history of the slave in places like Stagville and Fairntosh plantations.</p><p>Nature and wildlife are thriving in the Hill Demonstration</p><p>Forest. An alternate route for the byway goes through this area where travelers will have a chance to see birds and lush</p><p>vegetation.</p><p></p>",
+  "contact": "**Durham Convention & Vistors Bureau**  \r\n 1-800-446-8604  \r\n [Send E-mail](mailto:visitorinfo@durham-cvb.com )  \r\n\r\n",
+  "path": "{tq{E|l{`Nc@kAcE}IyByD}@kAuAeA}Au@gn@uOwIqDmBKsCj@}EvCwC|Dq@vBs@xCe@dAm@fAyAlAi@XiEpA{Dx@aKlB{@Di@?g@WgZeYu@wAYu@c@mCeAmMu@cRImFPuC`AeFzA{FhAsCf@kBt@gEb@kEIaBUeBi@yAi@_AePeOaTaZ{A{CmAuL]aBqA_Dc@m@wBeB}JyGu@_Aa@eAU{BOaG\\{RWuHLkCx@oFXsD@iNm\\KeL]uIaA}_@oG}BS_A?mAFgCd@eA`@_BbAiB`BqJzL}@eAeNaG??yBm@}Ee@g\\LsyAm@gd@Fi@mGe@uMUmB_BuKoGkV{AmH_@wBMmCf@uD~@yBnAyAlE_C|@u@hAkBxA_F`AsERyB?sC[yBs@iCg@eAaAmA{EwCo@e@i@o@kAsCaEuNyAgPoA}GIiBE{ATgH]oK@aSIsA_@wAsAaCaHmH_BoCwAsDKeCHgChBmIPyCEoNy@wUAsCDw@dB}MHmFLuBVoB^uAfBeFb@gBn@sK@iCqAoO?wB`@sCbEcRl@{AnA_C|@eCrBoMbDxAfZfHbCx@fDlCfK|LrC|BpGfCbClA`JxGrBlAbg@fQhCfArBxArFdGbDlCbB~@jHzBxBz@`JxG??bBv@jBf@bQrDba@zBrHvAfJxCdFn@zDJtp@g@jCXt@XbAr@bFlGd@rB|@nFd@vAfA`BnEbFx@hCNdCHfFCfAOj@Yd@uDzEoAdESfB?j@Jr@`DtNn@z@hBvA`JfB^d@b@xAfKlHh@r@b@`B@~AsAdFE~BrBjUb@nBXp@xA~B|A~A~BxAzIkAjCy@rK{DnBy@|ByApNaNvBeAzJ{ApAe@`Ak@dByA|SoTvl@wj@rByAxOmH|EsC??pKpZbB`CbE`DhAd@rCRvKBbBXx@^??pLhLzD`G??xBrCrAdC`@tANhAFnCCjA_A|IwAlV?nDNxALv@d@lBpG`NXhADx@?~KDpBvB|VhBjQdArElEbOh@~AjFfLdAbGvBpN",
+  "websites": [
+    {
+      "url": "http://www.Durham-NC.com",
+      "name": "Durham Convention & Visitors Bureau"
+    },
+    {
+      "url": "http://www.durham-nc.com/",
+      "name": "Durham, North Carolina"
+    },
+    {
+      "url": "http://www.durham-nc.com/",
+      "name": "Durham, North Carolina"
+    }
+  ],
+  "states": [
+    "NC"
+  ],
+  "ll": [
+    -78.95262899999994,
+    36.14046900000005
+  ],
+  "bounds": [
+    [
+      -78.95262899999994,
+      36.121349000000066
+    ],
+    [
+      -78.82923899999992,
+      36.23268100000007
+    ]
+  ]
+}

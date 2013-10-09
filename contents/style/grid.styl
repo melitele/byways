@@ -1,0 +1,51 @@
+/////////////////
+// Semantic.gs // for Stylus: http://learnboost.github.com/stylus/
+/////////////////
+
+// Defaults which you can freely override
+column-width = 60px
+gutter-width = 20px
+columns = 12
+
+// Utility function
+gridsystem-width(_columns = columns)
+	_columns * (column-width + gutter-width)
+
+// Set @total-width to 100% for a fluid layout
+//total-width = 100%
+
+_total-width(_columns = columns)
+	if total-width is defined
+		total-width
+	else
+		unit(gridsystem-width(_columns), px)
+
+// Correcting percentage-to-pixel rounding errors in IE6 & 7
+// See http://tylertate.com/blog/2012/01/05/subpixel-rounding.html
+// Override @min with the minimum width of your layout
+min-width = 960
+correction = (((0.5 / min-width) * 100) * 1%)
+
+//////////
+// GRID //
+//////////
+
+body
+	// width 100%
+	clearfix()
+
+row(_columns = columns)
+	display block
+	width _total-width(_columns) * ((gutter-width + gridsystem-width(_columns) ) / gridsystem-width(_columns))
+	margin 0 _total-width(_columns) * (((gutter-width * 0.5) / gridsystem-width(_columns) ) * - 1)
+	*width (_total-width(_columns) * ((gutter-width + gridsystem-width(_columns) ) / gridsystem-width(_columns))) - correction
+	*margin 0 _total-width(_columns) * (((gutter-width * 0.5) / gridsystem-width(_columns) ) * - 1) - correction
+	clearfix()
+
+column(x, _columns = columns)
+	display inline
+	float left
+	width _total-width(_columns) * ((((gutter-width + column-width ) * x) - gutter-width) / gridsystem-width(_columns))
+	margin 0 _total-width(_columns) * ((gutter-width * 0.5) / gridsystem-width(_columns))
+	*width _total-width(_columns) * ((((gutter-width + column-width ) * x) - gutter-width) / gridsystem-width(_columns)) - correction
+	*margin 0 _total-width(_columns) * ((gutter-width * 0.5) / gridsystem-width(_columns)) - correction

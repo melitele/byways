@@ -1,0 +1,32 @@
+{
+  "template": "byway.jade",
+  "id": "2469",
+  "name": "Veteran's Memorial Parkway",
+  "distance": "2.4",
+  "description": "In East Providence, from Second St. to Route 103.",
+  "fullDescription": "<p>Veterans Memorial Parkway, stretching 2.4 miles from Second Street to Route 103 in East Providence along the Providence River, affords impressive vistas of the downtown Providence skyline. The Parkway, which is lined with mature maple, oak, black pine and sycamore trees, winds its way past the locally notable landmarks of Squantum Woods, Watchemoket Cove and Fort Hill Overlook. Although entirely within an urban area, the Parkway has pastoral charm with the nearby urban landscape masked by the adjacent heavily wooded areas of both public and private land.</p>\r\n<p>Constructed between 1910 and 1920, the Veterans Memorial Parkway is an example of the Parkway movement in the early twentieth century. The Parkway has been recommended as eligible for listing in the National Register of Historic Places.</p>\r\n<cite>Copyright 2001, Barbara Petrarca</cite>\r\n",
+  "path": "qjf~FbaurLxA|@~AnA`BxHhAxCdBdClAfA~@`@dBXjBI~Ew@rAGbFJbAQx@YbB_A~T{QjIyHlBcCbAyB~EmPb@{@|AeCf@sAhAsF\\_Ah@{@n@_@tAQ`C@~AP|AMzAw@bAcAn@iAp@gBp@oDNsBF}ENiCZsCb@eAp@e@zCkA^[~@iA|CqFhBeBhBy@fD}@",
+  "websites": [
+    {
+      "url": "http://www.vetparkway.us/veterans_trail.html",
+      "name": "Friends of the Veterans Memorial Parkway"
+    }
+  ],
+  "states": [
+    "RI"
+  ],
+  "ll": [
+    -71.38337699999994,
+    41.81689800000004
+  ],
+  "bounds": [
+    [
+      -71.38775599999991,
+      41.79172100000005
+    ],
+    [
+      -71.36554699999994,
+      41.81689800000004
+    ]
+  ]
+}

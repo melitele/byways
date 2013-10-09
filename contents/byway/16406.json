@@ -1,0 +1,66 @@
+{
+  "template": "byway.jade",
+  "id": "16406",
+  "name": "Sheyenne River Valley Scenic Byway",
+  "distance": "75",
+  "duration": "9 hours to experience and enjoy the entire byway.",
+  "description": "In a state known for its flat horizons, a dip into a tree-speckled valley with snaking river and winding roadway is a welcome variation.  Discover Native American, Viking, and pioneer lore.  Explore 27 interpretive sites that include historic sites, trails, bridges, antiques, birds, and starry nights.  Quaint towns and farmsteads lend charm to your journey.",
+  "fullDescription": "<p>In a state known for its flat horizons, a dip into a tree-speckled valley with snaking river and winding roadway is a welcome variation.  Discover Native American, Viking, and pioneer lore.  Explore 27 interpretive sites that include historic sites, trails, bridges, antiques, birds, and starry nights.  Quaint towns and farmsteads lend charm to your journey.</p>",
+  "contact": "**[Rosebud Visitor Center](http://www.hellovalley.com)**  \r\n701-845-1891  \r\n1-888-288-1891  \r\nEmail: <info@hellovalley.com>",
+  "path": "mm|{GromuQrAlC^dBX`DMdEa@rBs@zAyA~BUx@OlBIlFEr@WdAoBtEcEjIeLD}HKkcBSNedCTueBD_YDs@?KEkAt]^l@Mr@e@Ve@V{@HyBGkFHiAbDwTPoAX{ATkBF}A@wB@}@?}BBcA?E@UJuBRwDV{B^aDd@kDPuALaAXuBXaB\\wAf@iBlAuD^eAtAmE~AwETs@pEiNHU|d@ouAhFcOpDyI??`JoQbFwNbBqF~BuHTa@fAh@TSb@gA~ByHXSZA`ECv@MhAk@~H{EfB}At@{ALk@NsCJgLHerAH_HhE}b@NwCByDbEs@fBcAlIoH~BqDvB{Dn@y@hAs@tCgAvDkCrA{AfH{JhA_ClByFx@gAxGeCtAs@zB}AvEiB|GkGxB{AzIgE`Bk@z@Gl}@QpFF~AVvCt@dBn@fCtAfKpHxF|EzG`F^h@r@xAbBlFhAtE~@xAvKdHpDtCbDj@bCz@|Bv@hAF~C???dJMrEMbAOpD_ArHwDh@_@hB}B|EqIj@yAnCaK`FgQp@qAhCuC|@wAjAuC~@qDvDgWnAsEVmAFqAByDb@aRXoFx@sENiDNw@f@_Ar@e@RGTEzH?JeABkSPwDViAd@eArP}Xx@qB`@uAT}AL_BHoMHoE^wCx@aDh@kAx@gAhSqQt@c@fAShc@Pp@EhAq@rByCbAaAp@e@fAa@hAM|[cA`Cq@~BiAfCwBxE}ElDqCx@MbACbFNlC`@x@XbCdAn@j@Xl@Dj@MtGBj@Hl@nAlDr@fA~@fAdLjItMpObAxAhAaBhBsD|@q@nAGrDd@b@?`AKxAs@X_@N_Ab@uHb@l@nA`Dn@fCD|B?hHPrAf@jAlB`BrDbCzHzBlAdAz@~AbC|GvBpDhXf^rE~GrBvAzPzHjC`BlAxAPp@x@zFrAhIn@lHl@`CnD~I`DtGhAdDbEhO~CjIfGbKhBdD`A`Ap@ZtAZfO`AxHR????[~E?lAbAhJCjBU~A]rBU^_@R_BZWHMJEDKPIRCHMp@g@lCI^Gp@mArDu@nFaEqA{@m@m@oB_@kCY_@u@W??y@DiAd@SPy@zBUd@KJEDQLSHUFkA@{Gu@_BCiBPiEjA",
+  "websites": [
+    {
+      "url": "http://www.parkrec.nd.gov/parks/frsp/frsp.html",
+      "name": "Fort Ransom State Park"
+    },
+    {
+      "url": "http://www.hellovalley.com",
+      "name": "Hellovalley.com"
+    },
+    {
+      "url": "http://www.ransomcountynd.com/",
+      "name": "North Dakota's Ransom County"
+    },
+    {
+      "url": "http://ndtourism.com/",
+      "name": "North Dakota Tourism"
+    },
+    {
+      "url": "http://hellovalley.com/",
+      "name": "Sheyenne River Valley Scenic Byway"
+    },
+    {
+      "url": "http://www.mvp.usace.army.mil/Missions/Recreation/LakeAshtabulaBaldhillDam.aspx",
+      "name": "US Army Corp of Engineers  Ashtabula Lake / Baldhill Dam Website"
+    },
+    {
+      "url": "http://www.fws.gov/valleycity/",
+      "name": "Valley City National Fish Hatchery"
+    },
+    {
+      "url": "http://medicinewheel.vcsu.edu/",
+      "name": "Valley City State University Medicine Wheel"
+    },
+    {
+      "url": "http://www.fws.gov/refuges/profiles/index.cfm?id=62532",
+      "name": "Valley City Wetland Management District"
+    }
+  ],
+  "states": [
+    "ND"
+  ],
+  "ll": [
+    -98.0506520003895,
+    46.68135100004861
+  ],
+  "bounds": [
+    [
+      -98.06075300035064,
+      46.545459999879085
+    ],
+    [
+      -97.88337699994855,
+      46.703280999618414
+    ]
+  ]
+}

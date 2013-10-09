@@ -1,0 +1,33 @@
+{
+  "template": "byway.jade",
+  "id": "2229",
+  "name": "Cascade Valleys Heritage Corridor",
+  "distance": "28",
+  "duration": "40 min ",
+  "description": "This route along SR-202 follows the Snoqualmie River and was once a Native American footpath between Puget Sound and Snoqualmie Pass.",
+  "fullDescription": "<p>This route along SR-202 follows the Snoqualmie River and was once a Native American footpath between Puget Sound and Snoqualmie Pass.</p>",
+  "path": "wn{`HdnifVmG}GyBoB[G]FgD|ImElOqAzC{pBnfDsDxFmDzDsBdB_DrBo_B~eAkDlB{JnDo@h@yKbPmBpBkDfBsADw@U_@Y_B{By@s@eBq@y@?w@NoAn@wGzEi@v@c@~@aArAy@`@cBh@y@l@}@dBo@~Ck@z@m@d@sC~@Y@y@So@w@Y}@GiAPsGIwBKkAcB_Iy@aDs@eA_@YW?q@p@c@r@E^AzAp@nM?vC_BhPYfBeBdIs@xCy@bCi@dA{JnOu@jB_@lAiIjf@cLvr@iA`GcBdFyAnCwVt`@eAbCy@dDg@fG_HxdAUpA?~@Jf@?XNXXMhAJrDxAn@`AHj@@dAuC|Qi@zCi@rBoBdEwEbH}@pBoA`FuGnm@O~BGrBCxI?|PKxGIXWrDg@`Cw@jCiTnk@oArEs@~E[`Fw@hW[pIWjCo@lEgMlj@o@xBcClHkk@tnAiCfFmDpFsC`D{NtMsB~AiOpHaGxAyDXyA?sU}@qGk@aFkA}]mNcDgAmGoAuE]}DAwDRaEl@cHdBaDnA{CpBeDjDcCrDiAbCs@lBuAxEm@pCk@tCY`Ci@rFQfIW`EUpBc@zB_@pAkLpZiB~GsAfHw@tGiF`p@ExB@fCv@`NDnBIxCe@~Cs@xBo@rA_T|ZaDdDyPbMqBtBaCrD}AjDqCbIyLd_@_FdNqAlEsAzGmJ`j@s@rF[nCyC|a@_Etk@[pCe@lCw@zCkA~Ce_@ns@w@rBoAdEo@hC{Lrl@iDhOy@xEi@lGM~YRjETlCX`Bh@lChBxGl@jD^lDDfCEnCYxDsHts@mBzSSl@s@nGs@pD{A~EsAzCoAzB}AxBuDvDkE`FqM`NaHzGeGzGyDrFiCxF_B`Fw@rDeAxFYxBwExUQR{FhYs@rEmHv_@yB`@c`@MaBRaBz@aQdNcBfBqDxCo@x@eArBy@~@iKnJuB|AiBl@sF~@gEnAwBH_CQgBX{@^iA~@gDzEu@j@i@XyBLyOSub@s@iWGgMFsX_@_ARi@d@i@z@cArCa@t@cAt@}Ad@uPlDsEr@}W~CuEFe@Ji@R}C~BgJxHkNhKu@PMCOJIXQVsCfCc@l@i@pAe@Xc@DILG^@XHPFxA?~AGzAO`@PjADx@AfHUpV?pIW|BUp@{@~@om@d_@}UvOoBbBsA`Bo@jAmGtO}AzC_AjAgBdBmAz@qQ`JiAx@a@^}@rAiAlCy@uCwDmIi@eCOiBHoR?i`A",
+  "websites": [
+    {
+      "url": "http://www.experiencewa.com/",
+      "name": "Experience Washington"
+    }
+  ],
+  "states": [
+    "WA"
+  ],
+  "ll": [
+    -121.786743,
+    47.495640000000094
+  ],
+  "bounds": [
+    [
+      -122.16996799999993,
+      47.495640000000094
+    ],
+    [
+      -121.78471399999995,
+      47.75452000000007
+    ]
+  ]
+}

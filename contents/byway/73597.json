@@ -1,0 +1,28 @@
+{
+  "template": "byway.jade",
+  "id": "73597",
+  "name": "US-278 Scenic Highway",
+  "distance": "22.13",
+  "description": "This beautiful stretch of highway takes you past the Pickney Island National Wildlife Refuge across Hilton Head Island, where you'll catch a fantastic view of the Atlantic Ocean.",
+  "path": "spddEb{emNlB}ErHoNlCsHhAgFt@mEf@_GdCuo@bAwNxA{JzI_h@bAsFjAuErAyDbEaIra@kl@zA{Cl@gBrAmGZaDLkCIgGOaCwHiu@_@gFG_C?gFl@k]nBc_Af@mE`AeEbOi`@bBwHtAwMl@kD~@cExCkK`FcPjPkf@lAgChDaFxAgBhAcAxAcArOaJhEsDlEgFrU}]dLoPbl@gp@pBmBnSuOxCsCvQ}RxAsBtAqChDcLnQ{p@pE{ObAsCxEoJlWec@|B_GbAoFNqD?}ETyKb@oDXsA|EaMhTkg@bCsHvk@_|BnAgCvBqCbo@uj@pAwA~AiDh@eCReCdAipAEq@ToC`Fib@xA}NX_BbEs_@JeBL_A@aK?aIIaEUqB_CqIOeB?eBHgBf@aEbRos@X}ATiDAsDs@kGy@oDe@kAmTw`@}@uBy@}C[cBIoCBuBX{DdPi|An@yDb@sAzAaDrB}BfC_BhCy@hBU|DDxANfCx@dNpGpIfDbHfDrAf@|Ab@z@DLKhCPzKhCtCjA|B`B|AvAlH`KxR|ZjJbNHZpH~K|V~`@lJnNvTp[zNdUjL`QjZba@nSdVbFtFvB~C|FzLnS|`@zMjVvI`Qb@x@dDtLnDdR",
+  "websites": [
+    {}
+  ],
+  "states": [
+    "SC"
+  ],
+  "ll": [
+    -80.972179,
+    32.304903
+  ],
+  "bounds": [
+    [
+      -80.972179,
+      32.155768
+    ],
+    [
+      -80.69515199999995,
+      32.304903
+    ]
+  ]
+}

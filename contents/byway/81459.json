@@ -1,0 +1,32 @@
+{
+  "template": "byway.jade",
+  "id": "81459",
+  "name": "Interstate 26 Scenic Highway",
+  "distance": "9",
+  "description": "Encounter 220 years of history as you travel Interstate 26 Scenic Highway through the core of the stunning Appalachian Mountains.",
+  "fullDescription": "<p>Encounter 220 years of history as you travel Interstate 26 Scenic Highway through the core of the stunning Appalachian Mountains. Originally know as Pleasant Hill when the area was first settled in 1790, the area changed its name to Mars Hill (a Biblical reference to a location the Apostle Paul visited) in honor of its religious roots. Enjoy the local landscape as you stop at scenic overlooks along the byway. You may even catch a glimpse of the Blue Ridge Parkway, Mount Mitchell, Black Mountain, or Grandfather Mountain. Look carefully, and you might see some of the area’s wildlife, which includes black bears. The byway reaches an elevation of 5,000 feet above sea level at Buckner Gap, which is also home to a monarch butterfly sanctuary. </p>",
+  "path": "a|vyE~utvNmS`A}JvAeGxA_C`AiFlDoLrJ}HtEgFxBmExAsBd@sBZaZdGaJnCaEhBcFxC}G`FsXzOmGzD{C~ByAhAiCxCyBjCgH`KmDrFmJnM{BlDcIrKoArAgC`BiFdBgD^cB@wCScBYuAa@aFyCsUiSuCeB_IeDsDaAcI_AeFE_EP}C^sGrAgGnCcDjB{D~CoC`D}ClE}CrFcElIyOr]_CrDoCxB}@`@yDbBaCl@cD^_BD{^mCcg@_G_LmBiE_@mEAiQl@yCZcCl@gFpBmCrAuNfJkMxHkMlIoLnGkI~BoGX{CKeGaAyLgGqK_FkMaH",
+  "websites": [
+    {
+      "url": "http://www.ncdot.org/travel/scenic/",
+      "name": "North Carolina Department of Transportation: Scenic Byways"
+    }
+  ],
+  "states": [
+    "NC"
+  ],
+  "ll": [
+    -82.5227129999999,
+    35.83953900000006
+  ],
+  "bounds": [
+    [
+      -82.56455199999994,
+      35.83953900000006
+    ],
+    [
+      -82.5227129999999,
+      35.95452100000006
+    ]
+  ]
+}

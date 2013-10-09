@@ -1,0 +1,32 @@
+{
+  "template": "byway.jade",
+  "id": "72875",
+  "name": "Mad River Byway",
+  "distance": "4",
+  "description": "Starting just southwest of Moretown and continuing to Middlesex in Vermont, Mad River Byway provides a distinct New England experience.  Passing through quaint villages, natural attractions, and agriculture, the byway follows its namesake, the Mad River.",
+  "fullDescription": "<p>The Mad River Byway is characterized by its classic New England landscape and architecture - mountain ridgelines, a winding river, hillside farms, and steepled villages. It includes Middlesex Village (Route 2); Moretown (Route 100B); Waitsfield, Warren, Granville Gulf Reservation (Route 100); Fayston, and Buels Gore to the top of the Appalachian Gap (Route 17).  </p><p>All the Villages are key destinations along the corridor which has a rich history that is visible today in its churches, memorials, farms, architecture, recreation and community life. Another key destination is the Mad River Path, which is envisioned to connect all the towns in the Valley.  </p><p>Sections that are currently open provide a pleasant walking or riding experience to enjoy the beauty of the Valley, and excellent river access for swimming, boating, and fishing.  Located in the region that includes the famous Sugarbush and Mad River Glen ski areas, the corridor is also experiencing steady growth, not only as a tourist destination but as a beautiful place to live.</p>",
+  "path": "uximGb|qzLfAl@dBfD^vALr@Fr@FfBc@`EgBjGQfAiAvO_@pDy@fEsD`O}@lC_Or_@u@dCm@rEGrC@fANlCRdAx@dCtAhB|@n@~@^fALdA?dAQxL_G`A_@jCi@nCKhADdALfCp@bA^~AdAlAfA~AfBhBfD|@|Bx@`Dn@rFNfFO|Hc@xCoAjFoNp^yAtEcArEyCtQi@zDSrCK`GJdERrCZ~Bv@zDt@~B|@rBpPz]r@hAhAxAvAlAtBdAtJtBtBv@vBrAtB~B|@nAnAfCx@dCvDnNxBxFvBxDfCnC`CvAbBl@t\\dKxB`@tOlAlTdC`J~Br@X`Ax@|@rAh@lAr@lDTpCNt@j@jAvAv@hBb@~Ex@r@VpExChAxAj@lBV`CGxEFvAXnAn@jAn@p@h@N~APrA@rDpDdLdErCtA~@|@n@bAhApD\\l@d@PbEX`A^dB~ApLtOd@x@R~@GfEVrAXt@xB|Cb@nBNdBC|@e@nBO`A?x@HhAV`AbAlAVp@t@jEx@pDd@nBh@hAh@j@r@^fFrApAPrA?~FSjCCfAJnA\\dCrA|@z@hAxArE`JtFlIxE~EhBfA|EnB`GjBdK~DhAl@vQtQfHtI`CjBbClAlBf@tANrG@lALt@VhO|HvJ~CnJjD~AdApAlA`AzAhAdCfErLrAvCfB|BbHfFhBzBxAvC~AbF|A`Gn@hDzAhJ|@`ChArBnMnOpIzM~ExGzDxE|GlHxo@po@pC~C??f@xAh@zGjAdJb@hHd@`C^hAlAxBpEzFlG`JnSv[??nAjA??f@N??Jj@l@x@NzA@xBfAdFOj@g@`AeClDqAxBa@dAWfAUnHThE?tAUpAyB`H_@hCCpCV|OnBzNRdCNjOWpIH`BhAtF?v@Ep@cEpUIfAEdEUzAsAdE_@r@}@`@iDb@y@l@c@|@u@|BoBxI@nGEv@oAnMOfASh@iBlC_@~@mAtE_@r@_A|@}CtBmB~B_@~@_AzDu@xAa@f@uAjAyDpB_Ax@Y`@m@`Ck@`J]vAk@fAgBjBmGxEcBfByD~EsGnFuFxDeMlEwErBkBlAy@p@m@l@e@~@Ux@Q`HK`A}BxJQ~ADxBnAxEh@zDBx@JzI[lFDdARl@^^jBRh@f@X~BvBdF~ArFTnABj@IxET~GBhBEl@g@bCe@hAe@Vo@SSgAUwDSsAy@oBSyA[i@sA\\gBfA{AjBo@fAcA`Do@jFi@fJs@fFb@`D]rBLr@NRXHbCs@ZE\\FTRNXE~@SXsADo@XyAdBi@fAiCrJ_D|Ok@jAw@`A_HpG{At@qBRa@d@k@fAG\\?`ALd@",
+  "websites": [
+    {
+      "url": "http://www.madrivervalley.com",
+      "name": "Mad River Valley"
+    }
+  ],
+  "states": [
+    "VT"
+  ],
+  "ll": [
+    -72.677933,
+    44.29211000000004
+  ],
+  "bounds": [
+    [
+      -72.93161800000001,
+      44.180679000000055
+    ],
+    [
+      -72.677933,
+      44.29685999999998
+    ]
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "template": "byway.jade",
+  "id": "2330",
+  "name": "Lower Valley Pike Scenic Byway",
+  "distance": "11",
+  "duration": "20 minutes",
+  "description": "The Lower Valley Pike Scenic Byway runs adjacent to the Mad River and travels though lands lined with limestone cliffs and beautiful woodlands.",
+  "fullDescription": "<p>The Lower Valley Pike Scenic Byway runs between the Mad River on one side and within sight of limestone cliffs on the other. The Mad River is lined with beautiful woodlands on both sides and is open for canoeing and fishing most of the year. Aaron's Canoe and Kayak Center offers boats and tubes for an enjoyable afternoon on the river.</p><p>A great place to stop on the way is the George Rogers Clark Park. The park provides 250 acres of meadows and shade trees for a cool afternoon picnic. The grounds contain diverse wildlife, Hosterman Lake, and a small waterfall. The lake is full of fish and anyone can fish it without a license. The Park is also the site of the largest battle west of the Allegheny Mountains in the Revolutionary War. The local citizens perform reenactments of this battle every year on Labor Day.</p><p>On Labor Day, make a stop at the fair in New Boston. The fair will provide you a glimpse of what life was like back in the 18th Century. New Boston sets up Indian encampments and shops. The people complete the effect by dressing up as tradesmen and vendors to provide food and entertainment.</p><p></p>",
+  "contact": "**[Springfield Area Convention and Visitors Bureau](http://www.springfieldnet.com)**  \r\n 800-803-1553  \r\n 217-789-2360  \r\n [Send E-mail](mailto:krosendahl@springrield.il.us )  \r\n\r\n",
+  "path": "ovtrF~~z~NJdATxBNx@F`@HXPn@HPXn@Xf@d@t@`@b@zAhBRVFLbAjA^f@d@j@dApAZ`@fAnAhBxBn@t@b@j@z@hAFJRb@JVXt@rAdEpBpGN`@LZNVV`@~EvGjBfCz@jA\\r@Vp@JX^zAhAvENf@Rx@p@nCV~@Vz@N`@fEvIbDvGVj@Lb@FPHb@Ff@F`ABl@LnCBf@@p@t@bND~@Dv@RnDBp@TvEBj@FnAJjBRdEBd@r@pNFv@D^H\\H\\Pb@R`@~C~FfBdDfExHh@bATh@N^J^T|@t@pFx@lEHzB?jAS`Fu@xHi@fDtMzQnC`FhSnf@l@vB`@xBRrDEzDwGxdCCxCDjAbAnSb@`GxBbM`Jvc@hEf^RdDl@~e@JxBvHrj@|@lEbKfb@`ExLhQld@nNf[bVhc@fNj^@@vBrFlBxEl@zAZx@DH\\r@bAtBhA`Ct@zAdA~B|@hBDHXl@h@hA^r@pBfEzAzC`BhDzA|Ct@~A~DjIpF`LrEnJd@`Aj@lAdC~E`@r@jA|Bl@dA|AvClDrGlAvBLVpJfQ|CvFjBhDb@v@^v@Pb@Rr@Ll@BRDt@DdAHr@",
+  "websites": [
+    {
+      "url": "http://www.ohiobyways.com/Lower_Valley/LowerValley.htm",
+      "name": "Ohio Byway Program - Lower Valley Pike Scenic Byway"
+    }
+  ],
+  "states": [
+    "OH"
+  ],
+  "ll": [
+    -83.865599,
+    39.924408000000014
+  ],
+  "bounds": [
+    [
+      -84.03955200000001,
+      39.86507399999999
+    ],
+    [
+      -83.865599,
+      39.924408000000014
+    ]
+  ]
+}

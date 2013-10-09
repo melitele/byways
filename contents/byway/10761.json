@@ -1,0 +1,38 @@
+{
+  "template": "byway.jade",
+  "id": "10761",
+  "name": "Spearfish Canyon Scenic Byway",
+  "distance": "20",
+  "duration": "Approximately 40 minutes",
+  "description": "Located in the northern Black Hills, this byway follows US 14A through Spearfish Canyon. The narrow canyon walls rise sharply skyward from Spearfish Creek as the highway winds through the canyon.",
+  "fullDescription": "<p>The Spearfish Canyon Scenic Byway, located in the northern Black Hills, is unique because the view is always close to the visitor and always upward.  The narrow canyon walls rise sharply skyward from Spearfish Creek and the highway sculpted along the canyon bottom.  A forest of spruce, pine, aspen, birch, and oak covers much of the hillsides.  Above these slopes, the skyline is topped with an extensive ridge of vertical walled limestone cliffs.  </p>",
+  "contact": "**Spearfish Canyon Society**  \n 605-722-8798  \n [Send E-mail](mailto:spearfishcanyon@rushmore.com )  \n\n",
+  "path": "q{unGrz|xRl@c@BAHIx@k@x@m@z@i@NG\\UNIl@_@PGn@_@`@QZM~@_@h@SVIVIxAe@VETIfAUVEVGTETEtAQRAlBUx@Kp@I~@QXEtNgCnB]lB_@nAUTElAUXOzGy@bF?dJp@fKlAxPxAbGX|B?t@?`DYhSmDdS{DrQ_Dh@MbAq@dAsAh@yAReAnG}_Ax@}FzCbBd@j@dMzTx@x@hAl@nAP~AQ`G{Cx@EjGDhDq@dAGx@JbPvEjNdCbBv@nAlAbA`Bx@jCnA|Gt@hB`ArAhAx@hA^rBJbGCnBXlBx@nAdAbBlBzG`LdBpBpGtFh@r@bApBh@xAd@zBXrB~@fJb@fB~@jAr@^p@Fv@Gn@]fKoLb@[d@Qh@@n@Tr@t@bDdFdAfAv@`@nBb@pFKtARbAdA^fAHx@ExA}@lFE~BHjAN~@Tx@x@rAlA`Al[nLxE|A|@NbBAvE{AdAQd@@bAV^Tn@|@XjABzBy@fF?dBDp@X`AXd@h@f@hAVn@Er@]bDiEx@y@rB_AhDcA|BObAR`Ad@jE|Dj@^v@P`@?v@Up@k@b@w@hBgFr@{@n@c@b@Gr@?bFlArFm@lADhBl@xBdC|BxDdA|B^bB\\rCDfBIrER`C~@dEbAfDXj@d@l@bAXhAKh@_@zBiCl@]r@Mt@DnCd@dEKxCj@tBLpAKbDm@nA?rALrBx@^\\~@hAr@pAj@tA`EfMx@~D`@tCBpDIhEIjBK~@e@jAcDbFc@nAOfAIxABjANzANx@^x@p@j@xKfBj@R|@p@rAzB`JzWn@`AxAv@xAL~AYv@k@rAsBlEcLz@kAbAw@b@MpK{BxBOxAB~ARvBj@jBx@lAx@|BtBxAlBhAbClB|FxAjGZrB?dBEl@]~@q@z@y@b@oA@kDeAcAIaAFyAp@]Xs@`Aa@rAOvA?l@?j@PnA|@dBhC`CrEfDxBjAzBj@dG^fATXb@d@fAbCtKx@vCl@lAt@t@t@b@x@JrAUn@[fA_AhEuEvBcAzDi@bAF~@^p@t@Zv@RjADhAOhBcAlCOn@K|@DrATjBlAfGz@bAl@\\h@J~@ErA_AzQ}Tn@k@p@SpA@pAp@xD~DvGlFrB`CrAd@t@?r@MfFkDrBq@|FgBt@M|@E^FbAx@j@~AHvAOfBwAfFWrAS~BJxBr@rBbAjAxAf@`KJrBl@bBrAjLlLbArAz@lBlBrIbA`CjO|VbApAtBxAlAX~AJrBWnMsD~AGvALtA^bC~A~@fAjFxHhAz@jA^pBE|FoArBFh@]Z{@Be@?oFDqCTgBbA_FhA{DhAwCfEkIbA_B^Yt@]tAA~HfBxAPbAErDs@xBy@`FyCnEyDdAwAxKqS~@yBTeB`AaChHiLzIcTn@_AfFkFrFgGbAmA|@gBhAsDt@sDR_BJaFOgJl@oEtAqFrAcEvEmKdAcBlAaAz@_@x\\cNhA]rMoBzBc@xDmA|@Mp@DbCj@l@I^SrB{C|HsMRaAD}A^sBr@iCx@sFdBgGr@eJX{@rA}BlEiGxEgGtImHbBkBnAmBx@oBd@}Ab@y@`LoJdOiL~@}@tJiLnCeCrCu@hIQ??`@?X?n@CNAXIDEFCJM^a@^c@DKBEDK@E@OAKIc@",
+  "websites": [
+    {
+      "url": "http://www.fs.usda.gov/blackhills",
+      "name": "Black Hills National Forest"
+    },
+    {
+      "url": "http://www.spearfishcanyon.com/",
+      "name": "Spearfish Canyon Scenic Byway"
+    }
+  ],
+  "states": [
+    "SD"
+  ],
+  "ll": [
+    -103.86361699999992,
+    44.51785700000005
+  ],
+  "bounds": [
+    [
+      -103.93209799999994,
+      44.297829000000036
+    ],
+    [
+      -103.84435999999994,
+      44.51785700000005
+    ]
+  ]
+}

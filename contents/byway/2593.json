@@ -1,0 +1,58 @@
+{
+  "template": "byway.jade",
+  "id": "2593",
+  "name": "Western Heritage Historic Byway",
+  "distance": "40",
+  "duration": "One hour to drive the byway",
+  "description": "<p>Explore the Western Heritage Historic Byway's vast sagebrush lands and canyon rims of the Snake River. The panoramic, breathtaking view encompasses the snowcapped Owyhee Mountains, the Boise Front, and the Snake River Birds of Prey National Conservation Area. At Dedication Point enjoy an unforgettable sight overlooking the Snake River's cliffs.</p>",
+  "fullDescription": "<p>Explore the Western Heritage Historic Byway's vast sagebrush lands and canyon rims of the Snake River. The panoramic, breathtaking view encompasses the snowcapped Owyhee Mountains, the Boise Front, and the Snake River Birds of Prey National Conservation Area. At Dedication Point enjoy an unforgettable sight overlooking the Snake River's cliffs.</p>",
+  "contact": "**Kuna Chamber of Commerce**  \r\n 208-922-9254  \r\n [Send E-mail](mailto:kunachamber@velocitus.net )  \r\n\r\n",
+  "path": "_jaiGrcleUrBDbf@J`IIfKJzs@?rIFlLM~hBLzl@OxyAZvl@A`IItkEDrA\\jAx@vBdCxAtEJdBAxQOzYSnt@ErAYlAUd@d@l@^LhAB`I@pHOpIFdQQfg@DzOGz[N|UA~T^nn@@peBApnAJ`k@K~f@D~QE|~CAhzAHzVGziAFfg@G`xDDvsADr@KrA_A^k@Pa@FsBZenBLoA^c@h@GxEKjsBX~MElaDyhC~@a@z]sK|j@oQHKdADb@\\JTHj@?`AO^o@h@}BZyAf@wFlDgMlJgGjDiBxA{FnHeAd@wFZaJvH}BfCOf@?jAh@x@^F^GdEaD|@i@hE{AjAKbAD~ApA|F`CfCV",
+  "websites": [
+    {
+      "url": "http://www.blm.gov/wo/st/en/res/Education_in_BLM/Learning_Landscapes/For_Kids/homework_helpers/birds.html",
+      "name": "BLM - Birds of Prey "
+    },
+    {
+      "url": "http://www.canyoncounty.org",
+      "name": "Canyon County"
+    },
+    {
+      "url": "http://www.visitidaho.org",
+      "name": "Discover Idaho: the Official Idaho Travel Guide"
+    },
+    {
+      "url": "http://www.fws.gov/refuges/profiles/index.cfm?id=22550",
+      "name": "Havasu National Wildlife Refuge-CA"
+    },
+    {
+      "url": "http://www.kunachamber.com/",
+      "name": "Kuna, ID"
+    },
+    {
+      "url": "http://www.meridiancity.org/",
+      "name": "Meridian City"
+    },
+    {
+      "url": "http://www.idahobyways.gov/byways/western-heritage.aspx",
+      "name": "Western Heritage Historic Byway"
+    }
+  ],
+  "states": [
+    "ID"
+  ],
+  "ll": [
+    -116.39369199978591,
+    43.593440999902214
+  ],
+  "bounds": [
+    [
+      -116.4139020000772,
+      43.23788099960842
+    ],
+    [
+      -116.36692800032694,
+      43.593440999902214
+    ]
+  ]
+}

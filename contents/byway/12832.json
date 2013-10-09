@@ -1,0 +1,30 @@
+{
+  "template": "byway.jade",
+  "id": "12832",
+  "name": "New River Valley Byway",
+  "distance": "35",
+  "duration": "1.25 hours",
+  "description": "Take this byway to see some of the most beautiful mountain scenery and the largest concentration of Christmas tree farms in the state.",
+  "fullDescription": "<p>####Scenes from the Byway####</p><p>Imagine a silvery ribbon of water looping around the forested</p><p>Stone Mountains. This is just one of the sights you'll encounter on the New River Valley Scenic Byway, just one of the many state byways that will take you into the heart of the Blue Ridge Mountains. The byway is named for the New River, which is the oldest river in the country and second oldest in the world (the Nile is estimated to be the oldest).</p><p>####Places Along the Way####</p><p>Paralleling the Blue Ridge Parkway for a time, the New River</p><p>Valley Byway, provides a new perspective to some favorite familiar territory. As the road winds from Boone to Laurel Springs, travelers drive \"the Old Buffalo Trail\" on NC 194. Visitors will also pass the largest concentration of Christmas Tree farms in the country. So during the holidays, you may have a piece of the New River Valley Byway in your living room.</p><p></p>",
+  "path": "okh}E|zgpNmA{a@DeAhAoJ?kASkBiDcISm@Ku@SwGDeBfA{C`@Ql@RRyEpBcL`BmObC}LhAmH?kAm@{DKsCNyCNaBx@sEh@yDNuEDcGJmA`@uAbDaJnHmLr@aAhKeKtDmFnIqHdFgGl@}AXgBDsHL_BnCcMDy@EmEHg@Xy@hAiAlVwPn@YxBS`G^bCC~DSzGPx@E~@SbAe@zAsBlAyB|EwD|BoDr@s@xDsB~@s@hAkAlBaCxDmGBs@WkBk@{BiAkDwCaGkA{C}CsNc@yC_A{DS_@u@g@wDoAeBM{DJyAQcEuB[]]u@KqAPsAjHmMXgBCuA[oAi@{@iEkC}@_AuJwNu@{BOyACqBbCsa@AyEs@mCm@y@_CwBo@aAUw@Iu@_@mH?eDMm@u@aA}DsBs@wAK{AHeAZ_Ad@q@hA{@lAmApDgGlK{MhDgFf@_ATkB^aONgAl@sAhAy@zKyB|JgDrAaAh@}@bBmE~BqCbFoDfA_@nAEbAQ^Sj@u@l@_BJy@Ay@s@eBK{@Fq@fAmENgAHkB?mLNgBh@sC|FwSZeCBsAEyBOsAs@aC]w@eBaCqJaI_BgBi@}A}@{Fc@eB{@sB}DuGsAeDOaDByBhAuJ~Cc\\dAoNU{FmFkz@UkBm@mCm[oz@oBuG}EoT}@aDo@mAqD}DkAaBcUsg@wE}Ls@eDO_Bs@oUU_Bu@yB}AgB_Ag@y@YqKkAsEMcB]}@g@_Ay@e@q@qEwLyEgG]q@YkAKy@?gBZiFN}GKuD]yCq@aEqAaEoBgI_A_CmG_J_@{AIyBHs@z@_CzDuHdC_E|AkAx@YdB[v@]nEiE`E{CjAy@r@S",
+  "websites": [
+    {}
+  ],
+  "states": [
+    "NC"
+  ],
+  "ll": [
+    -81.47390909090909,
+    36.42056363636364
+  ],
+  "bounds": [
+    [
+      -81.47390909090909,
+      36.38811100000004
+    ],
+    [
+      -81.26401656465761,
+      36.42176800000004
+    ]
+  ]
+}

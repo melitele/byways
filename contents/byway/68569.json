@@ -1,0 +1,32 @@
+{
+  "template": "byway.jade",
+  "id": "68569",
+  "name": "Palisades Scenic Byway",
+  "distance": "19.1",
+  "description": "The Palisades Scenic Byway passes through 2,500 acres of New Jersey parkland before ending at the New York state border. The Parkway offers views of the Hudson River and Manhattan skyline from the 500-foot tall Palisades Cliffs.",
+  "fullDescription": "<p>The Palisades Scenic Byway provides a direct link to</p><p>Manhattan via the George Washington Bridge at Fort Lee, New Jersey and runs north through 2,500 acres of parkland ending at the New York state border. It offers awesome views of the Hudson River and Manhattan skyline from the 500-foot tall Palisades Cliffs that the byway rests upon. Parallel to the byway at the river level are a number of facilities for the public that are connected by a scenic river drive.</p><p>The Palisades Scenic Byway marked the completion of a</p><p>progressive and influential conservation project to preserve and</p><p>restore the dramatic escarpment along the lower west bank of the</p><p>Hudson River. Beginning in 1900 with the formation of the Palisades</p><p>Intestate Park Commission (PIPC), the states of New York and New</p><p>Jersey commenced a cooperative effort to acquire and preserve a</p><p>large tract of the Palisades that was threatened by quarrying</p><p>operations. John D. Rockefeller gave the PIPC a large boost in the</p><p>development of their proposal in 1933 when he donated 700 acres of</p><p>land atop a 13-mile stretch of the New Jersey Palisades.</p><p></p>",
+  "path": "qijyFdefbMnIuJhSmN`T}H|ZgNp@WtDsCjFgFfAaBbFgHlDoDtAc@hD_CbEuAFU`Dg@x@KhAOxJc@xIe@|DUh\\sGvDDxThDzCD|DTrL?rBx@`Er@vJ~@tHxAfIbBtFjAvVbIxObFbOjEf[lGtAXrDhDlI`AnMrCbIl@~DDpJs@rKKlEWbF?lGl@bE~BrD|CxCbCzErDrElBvIzBjMtBzPlCnLjBtGbAbFxBlFbDxBrBhCrCxFlHrFxFhEbDlFxCpLTdK{AjF}@zM}C|KsBpJPhEjA`Bz@xQnJfOxD`HrDbK|DdGrCrNhHzQlJ|EhBxHxBfMfEnTpM|MdGnPpFvUvHrAhApLrIfL`BhG|@rE|@hGjBpIzFZ\\~BzBjDdD|ChEtAvFtGxBvErBrGnDtKbD",
+  "websites": [
+    {
+      "url": "http://www.state.nj.us/transportation/community/scenic/palisades.shtm",
+      "name": "Scenic Byways in New Jersey - Palisades Scenic Byway"
+    }
+  ],
+  "states": [
+    "NJ"
+  ],
+  "ll": [
+    -73.92866363636364,
+    41.018018181818185
+  ],
+  "bounds": [
+    [
+      -73.96344545454545,
+      40.85389090909091
+    ],
+    [
+      -73.91186363636363,
+      41.018018181818185
+    ]
+  ]
+}

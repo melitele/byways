@@ -1,0 +1,42 @@
+{
+  "template": "byway.jade",
+  "id": "68957",
+  "name": "Lovelock Cave Back Country Byway",
+  "distance": "20",
+  "duration": "2-3  hours to visit this byway.",
+  "description": "Lovelock Cave has yielded 2,000-year-old artifacts.  Among the findings to marvel at are the famous Lovelock Cave duck decoys, baskets and textiles now held in museums across the United States.  ",
+  "fullDescription": "<p>As you travel the Lovelock Cave Back Country Byway, see what remains of Lake Lahotan that dried up over 1,400 years ago.  Lovelock Cave has yielded 2,000-year-old artifacts, such as duck decoys, baskets and textiles, many of which are displayed in museums throughout the United States.  Come and see why Lovelock Cave is known as the cradle of Great Basin archaeology.  Look at the old interpretive signs on the cave walls that span 150 feet long and 35 feet wide, or enjoy a self-guided nature trail hike to explore the area.</p>",
+  "contact": "**BLM-Winnemucca Field Office**  \r\n775-623-1500  ",
+  "path": "{yctF`{brUBS@w@Nwv@BqCFcTCm@?k@BkCL{ELaDD{@HuH?aB?mACsC?aABcCA{AE_@GIAI@GPOn@k@Za@bA_BRSTQPITGh@Cb@@j@Fd@ENGJIDEFMVeANWb@[LOJOJ]l@mBJOJKLIHARBXL|@`@^HJ?VGd@Sl@[t@k@PGR?nAXxCb@x@D\\DNJ`@d@JTHT?LFf_@dAd]dLvB`BFlAk@hAkAR@|CeGbEaErA@v@j@bEjHhHdGvAd@l@|@hFdEh@zALdKtEQtACnBAvKIzQG@SDSBO?sAGaTCkXAiEBKBAfDC~EBhJ?tE@dKAt@?\\?|QDLALCPIJEPE^?f@D?W@{YGwJfHCpMAdGJjBFz@?nBDHAPGFOBS?SAuA?mDCgGAs@tBAlKBbDDl@A~HDxAC`BKz@KHCr@QXG@d@dAA~UDb_@Ph\\J~BAb@BhODjZD|JA~@BtG?lDBbSDlAAL?d@ITAHDHJ@HEfSCrWDnLB`A?HTxA@f@Gv`@?l@IfZE``@AjL?n@@XBZ@FBTp@Clj@Bll@@XAV@`W@pP@dSBzXLn@?P??yA?}DBgNBmEBoRF_DFSJMBARA^?`@E^ILCPAb@Nv@BxDPh@?bBIbBCfCGL?TApKYlHMxAG`FM~Yk@lFIbEKnIMpPw@rHXhAD~Mc@~FE~DmAzIKpEyCdB]xBnBz@JdGuJtC}BvEQpEmAtDgChC?lFuEhD{@dCcCxCeItCgD~AuE^gBpAsGh@mFtAgAZi@P_Dh@iEIcEdAcFIuJlAsAlDEtCiBdBgDx@iEdFaIf@}DKkIX_BpBmFdE?t@]l@aA~BaHz@{@pG]rGiEpLgQ^c@lAEv@o@bFCtD{EpAgAdAuBpB_B~@wD^_Lh@_BxByChBgAzFgFvMsNlJcJbCcClFaEhA{@bE_E~CiE~DmHzEcMpAsAhCeBtBmC`LiUlIsKTc@rI{OrMgTlQuY",
+  "websites": [
+    {
+      "url": "http://www.blm.gov/wo/st/en/res/Education_in_BLM/Learning_Landscapes/For_Teachers/science_and_children/caves/index.html",
+      "name": "Cave Ecosystems"
+    },
+    {
+      "url": "http://www.loverslock.com/",
+      "name": "Lovelock"
+    },
+    {
+      "url": "http://www.blm.gov/nv/st/en/fo/wfo/blm_programs/recreation/driving_tours.html",
+      "name": "Lovelock Cave Backcountry Byway"
+    }
+  ],
+  "states": [
+    "NV"
+  ],
+  "ll": [
+    -118.47616595315625,
+    40.165580746119396
+  ],
+  "bounds": [
+    [
+      -118.47675900000002,
+      39.97036325874448
+    ],
+    [
+      -118.39372176308592,
+      40.165580746119396
+    ]
+  ]
+}

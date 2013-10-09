@@ -1,0 +1,50 @@
+{
+  "template": "byway.jade",
+  "id": "2454",
+  "name": "Creole Nature Trail",
+  "distance": "180",
+  "duration": "Depending on route, allow four or five hours to drive or two days to visit the byway.",
+  "description": "Known as Louisiana's Outback, the Creole Nature Trail meanders through marshes, prairies, and along the Gulf of Mexico. As you loop through Calcasieu and Cameron parishes in Southwest Louisiana, view alligators and birds up close and in the wild, along with colorful wildflowers and rare cheniers shaped by salty winds.",
+  "fullDescription": "<p>Known as Louisiana's Outback, the Creole Nature Trail meanders through marshes, prairies, and along the Gulf of Mexico. As you loop through Calcasieu and Cameron parishes in Southwest Louisiana, view alligators and birds up close and in the wild, along with colorful wildflowers and rare cheniers shaped by salty winds.</p>",
+  "contact": "**Southwest Louisiana/Lake Charles Convention and Visitors Bureau**  \r\n 1-800-456-SWLA  \r\n 337-436-9588  \r\n\r\n",
+  "path": "azttDrqa|PaO}_@g@{BEq@KaCJ_Cp@yDv]shAhBuGl@{DZcEFaE?kTPaEd@_Er@yDfAoD`KgVt@sBv@yD`@aG?aC}@{TsWomGGqFGurANkfA`BeqEhAizB`A{|CLoFjAiZhAu|@r@ulBd@}^pAmfC`@}~AB_p@Q_oC`@{dAi@uj@_@{TGguAUeOgUckDwHw|AyDop@m@gMsD}~@sF{mBiB}xASsBe@mBi@iAaAuA{CeCy@@o@d@??z@oCd@aEdCqnCh@sIdOuoBrM}qGKuIQ_Fu@oIs@yEcBaI}BuHqh@uvAiAeCiAuAu@q@iBkA{Bm@{BQ_Ob@sIQk~AnFaBNcEr@oSlGsARsAEy@Qq@_@q@u@g@yAGaEA}`@T_BbAsB\\e@dEgD|@eAj@oAt@eClFqY|A_Dd@eB~M_bAvDqO~AgFFq@a@_CO_Cb@{H`Jkb@vBgHxBaG|AuBdGsGdB{BjF_KtEyHz@mBdAsEt@wOdEq\\JaDJaVJaD`@mF|CuTLmAFeDGaDiD_b@gEk_AWiNQu[qAin@eAwTk@_^kBkn@GuI??KOQOIEACk@g@Ye@UYUOUSYOYK[Ky@KuAIc]GwBSmAk@{AuAm@iAWiAIkBLyhAEsCM_Ao@sBq@_Au@q@_Aa@gFmAaA_@mAw@sAcCSqAK_CFye@uAue@KqA[kAe@cAq@}@aGuDqAqAu@_Ba@mBaBsZc@eLfAoKPaDBse@KqBiBuSq@uCiByF[{Bc@sQiJ{oAaD{h@qEwz@{Cqv@SoA_@gAm@{@y@w@}@a@eAWcAGcJCeAKaBg@gBmBc@{@a@kCG_CCyi@`@wT?sFe@}m@??_|CyAmEq@mBu@iBoA_BiBcnCsrDsB_BaAc@iCa@qqJmDaGL_OjA}QEmQDyALsAXqA\\mAl@eNzIsz@rg@uBx@kC^oaCMsAA_gCGuwAO\\xdDJh`@FzHBtHBzJDpJ?P?hGgFA}B?iHEeHGeJGu@?MBMJCLAP?R?lC?TLnzAh@rjCChVZnoAFfp@^vy@DjYB^JLJJLDnRMVDZRPnm@wx@Pi@BiACq@?iD?{E?M?ig@F{eC~@kzAPezA^mpGZgz@\\{tBd@W@{GD_N?_A@itB\\??w`@Au{ALsBD",
+  "websites": [
+    {
+      "url": "http://www.fws.gov/refuges/profiles/index.cfm?id=43612",
+      "name": "Cameron Prairie National Wildlife Refuge"
+    },
+    {
+      "url": "http://www.fws.gov/refuges/profiles/index.cfm?id=43610",
+      "name": "Laccassine National Wildlife Refuge"
+    },
+    {
+      "url": "http://www.creolenaturetrail.org",
+      "name": "Louisiana's Outback - the Creole Nature Trail"
+    },
+    {
+      "url": "http://www.fws.gov/refuges/profiles/index.cfm?id=43640",
+      "name": "Sabine National Wildlife Refuge"
+    },
+    {
+      "url": "http://www.visitlakecharles.org",
+      "name": "Southwest Louisiana/Lake Charles Convention and Visitors Bureau"
+    }
+  ],
+  "states": [
+    "LA"
+  ],
+  "ll": [
+    -93.89353899992489,
+    29.76689899958916
+  ],
+  "bounds": [
+    [
+      -93.89353899992489,
+      29.7600310003304
+    ],
+    [
+      -93.07894100012703,
+      30.19702899968854
+    ]
+  ]
+}

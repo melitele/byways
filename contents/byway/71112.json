@@ -1,0 +1,32 @@
+{
+  "template": "byway.jade",
+  "id": "71112",
+  "name": "Courtney Campbell Scenic Highway",
+  "distance": "0",
+  "description": "The Courtney Campbell Causeway is a vital artery in the body that is Tampa Bay, providing a vital link to the cities of Tampa and Clearwater. It is a porthole to a globally important and unique ecosystem.",
+  "fullDescription": "<p>The Courtney Campbell Causeway is a vital artery in the body that is Tampa Bay, providing a vital link to the cities of Tampa and Clearwater. It is a porthole to a globally important and unique ecosystem, which is literally alive. The scenic highway runs along the bay at sea level and provides visitors with relaxing and fun recreational opportunities.</p>",
+  "path": "}luiDptyvNKlNJzKd@tPG|y@WjXq@dFa[|mAm@`DeAdIu@fKMfH?nKJzc@HdFz@vPnIttA~A|`@vFp_AtDle@dHjmAdd@rtHLd@r@vKRjFF|T",
+  "websites": [
+    {
+      "url": "http://www.tbrpc.org/scenic/",
+      "name": "Courtney Campbell Causeway Scenic Highway Program"
+    }
+  ],
+  "states": [
+    "FL"
+  ],
+  "ll": [
+    -82.54808000000003,
+    27.967670000000055
+  ],
+  "bounds": [
+    [
+      -82.70510099999996,
+      27.960699000000034
+    ],
+    [
+      -82.54808000000003,
+      27.97330100000005
+    ]
+  ]
+}

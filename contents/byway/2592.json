@@ -1,0 +1,33 @@
+{
+  "template": "byway.jade",
+  "id": "2592",
+  "name": "Lost Gold Trails Loop",
+  "distance": "47.8",
+  "duration": "Allow 1.5 hours",
+  "description": "This byway begins on A-2 at the \"Y\" Junction, west of Dubois, routing to Old Highway 91 north of Dubois, to Spencer, and then trails east on Spencer/Idmon road connecting to A-2.",
+  "fullDescription": "<p>The Lost Gold Trails Loop ventures off the Fort Henry Historic</p><p>Byway at the \"Y\" Junction onto County Road A-2. The loop then</p><p>travels southwest along the desert-lava rolling hill terrain where cattle and wild game peacefully share the spring and fall months grazing.</p><p>Crossing the railroad, which originated the town of \"Dry Creek,\" now Dubois, and traveling west through town over I-15 overpass on Idaho 22, you connect with Old Highway 91.</p><p>Turn north on Old Highway 91 and head to Spencer, passing near the</p><p>US Sheep Experiment Station. This early-day Gold Trail closely</p><p>follows Beaver Creek towards the Montana gold mines.</p><p>At Spencer the Gold Trail of yesterday becomes the Opal Trails</p><p>of today and passes several high grade Opal Shops within the</p><p>original Wood Live Stock town site.</p><p>Leaving Spencer, the trail heads east to Idmon. This early day</p><p>Nez Perce Trail has spurs off its main roadway to private opal</p><p>mines, Caribou-Targhee Forest fishing and primitive camping areas, and an old cemetery, connecting again to the Fort Henry Historic Byway at the old Idmon town site.</p><p></p>",
+  "path": "cprlGn}zkT?iQ_@sD}@aDch@sw@uA{By@{BmXypA}RedAYgBIeAu@ig@mAsn@wEarCI_EQyBub@_bB}Ua`A_N}f@ix@{_DcSov@gZikAwFiUe@eBc@aAe@w@cvAibBu`@ye@iSeVi@a@yB_AyB]miAuLwDyAyBeCgLgWai@qiAqm@asAiDoJwUut@aLqe@cB}F}pBmgFcAwCsAeGiP}v@a@sAqA_CeDuEyBoCgBuA_Aa@mo@_T}_@oNyCm@wk@?aHJmiEJ?hj@NnqABnzADrBzAxGvB`IxC`JhB~FdH~Vrg@|zAxBlGbCxFdAfFTvALrCVr_@Cv]T|Dt@xKjKbq@|@xG@fCIjCe@bDaMrj@gErS_AzGe@tHiAp[OzOiApx@c@vc@ObHoAj`@q@bOa@~OCbELlGNdD`AhM?|BUvByCtOy@xJYlFHjDbCvZP`EAlF_@`Fi@hMHdGfO~bB^`GVlG?fEaBdZSfHDpjAIx`@TpPHrP?bNiAvv@Jt{@NfDbA|Lr@dMlG`nAXlAJdC?fI[tCeAdFkD`KqJl[mAjDi@rA_DhGsB|CiBzBqCjCaAlAc@jBKtBYxAgDxGsDrCi@rA}@lD?t@V~BnCaAzZ{I|EgBl]{PtFsBtcAkWnA?h@n@lA|CRt@b@~@VrAj@rG|@~B`m@v{@rf@bt@pFbLdV|h@|ChGvVnj@`CxCtBjBnBdApf@pRnBbBlB`ClM|QtI|LbEpGzLhOvBxA~Ar@~MrDvJ~CltBvk@bCv@jCdAbvDxrBfBn@dAVbBRnSFlgAA~cDJ`{@i@lBUnAe@nR}TnPiTrDeFvBiCCsFJar@FaPFuFKmDBuGP_UPuBJm@Zs@^]fBKvIcAx@]KeGP_S?mNl@_bA",
+  "websites": [
+    {
+      "url": "http://www.idahobyways.gov/byways/lost-gold.aspx",
+      "name": "Lost Gold Trails Loop"
+    }
+  ],
+  "states": [
+    "ID"
+  ],
+  "ll": [
+    -112.20967899999994,
+    44.17298900000003
+  ],
+  "bounds": [
+    [
+      -112.25755300000003,
+      44.17298100000011
+    ],
+    [
+      -111.91175099999992,
+      44.360641000000044
+    ]
+  ]
+}

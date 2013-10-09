@@ -1,0 +1,34 @@
+{
+  "template": "byway.jade",
+  "id": "15766",
+  "name": "South Fulton Scenic Byway",
+  "distance": "29.47",
+  "duration": "Allow one hour for driving and photo opportunities.",
+  "description": "This 29-mile loop in south Fulton County highlights the rural character and lifestyle of the surrounding area.",
+  "fullDescription": "<p>This 29-mile loop in south Fulton County highlights the rural character and lifestyle of the surrounding area. Situated among rolling hills, forested ridges, and serene pastures, the South Fulton Scenic Byway uses Cochran Mill Road, Hutcheson Ferry Road, and State Highway 70 to guide visitors through this quiet corner of metropolitan Atlanta. In addition to the historic communities and farmhouses found along the byway, visitors can enjoy Cochran Mill Park, Cochran Mill Nature Center, and the nearby Chattahoochee River, which provide many recreational opportunities.</p>",
+  "contact": "**Chattahoochee-Oconee National Forests**  \r\n 770-297-3000  \r\n\r\n",
+  "path": "entkEv}|cOe@~B[tCa@tF]zKFlEhBn`@RxBvCbO~@lFbCzRJlCIlAUlA}HvScDtK_@|AEfA@~CNxAzFl_@r@xOl@nJpDxH|DbJbAfEjAzINvBf@dTTjCbAxDhCzFt@lClCnSR~BDlE]`Eg@`CuFnTeBrJYxD@x@\\lCzHjWj@rCDpCc@fe@Qd_@DlAf@dCxA`CzMfJbA~@x@lA|H`RfW`o@d@zBNlC?lAu@xJGnBF~ATrAZ|@zFtJbCtEbItU`AxDnCrKl@vEExCc@`E?pAJvBx@|DbDzJTbC}L@cCAgBQeCk@iJaDkAW_NaBuRmAiBY}CqAiBkAi_@g\\u_@kW_BeBqHuKeA_AmBqA_Bm@wBe@qKm@oBWqBa@yIyCuB_@uBGgK@cGYwCg@kC_AsK_JgEiCgBq@aOyDcFmBiBsAsBqBeM{M_BuBgBgEoCmLwDmHiAmAsO{MuCgB{EkBqIyCwM{DwAm@yQ{KmMmGmByAi@s@eAsBcC{JsCsG}@}AuBsCwSm_@{GmJ_KeRcBwBgDaCuPmIsBuA_WmWgBeBa@SuAm@gKsC{WoDkA_@qAq@mNaLeFaFg`@qa@mCuDyDmJsC{HmAmE}EuX_@uAe@kAsAaBmBwAg_Agd@cA}@y@gA_@o@i@yASqBLgBvF{WjPet@x@eFbAiLXyBPy@fBgFd@eDReHK{B]_CiB{GwFcQaC{GUw@Q_BDuBNcAfFiNx@uDbB`AbKlHhHfG~DxBvXhLfZtYx@~@p\\lj@hAlAhAx@bAZbAPpKVrQfAjOrAxAXhHdDfGfDxJ~E|EnAxCh@|FLpj@]nBHzAT`Bj@xEpDvS~PfChA~ARvEQlO_Ap@KbBo@tB_BjLsNxPkMp\\_OnAa@hOmDlHyAhNwAlI^nKKlCTfI`BhAJnC?xBOdLoA|Ai@dEiCvBy@dBYxJy@xBi@nM}DxCqAbAs@nAaBh@qAZkAVuBNyJZgEXaBRe@x@gArAq@~CYhCGd@Q",
+  "websites": [
+    {
+      "url": "http://www.dot.ga.gov/travelingingeorgia/scenicroutes/Pages/SouthFulton.aspx",
+      "name": "South Fulton Scenic Byway Official Site"
+    }
+  ],
+  "states": [
+    "GA"
+  ],
+  "ll": [
+    -84.69483899999994,
+    33.533310000000085
+  ],
+  "bounds": [
+    [
+      -84.81343800000002,
+      33.51252000000011
+    ],
+    [
+      -84.68746899999996,
+      33.63134000000008
+    ]
+  ]
+}

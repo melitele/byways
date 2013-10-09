@@ -1,0 +1,40 @@
+{
+  "template": "byway.jade",
+  "id": "2317",
+  "name": "Old O'Brien Glacial Trail Scenic Byway",
+  "distance": "36",
+  "description": "This unique byway in northwest Iowa offers views of rolling plains of glacial drift, forested river valleys, and a rich history of Native American as well as European peoples.",
+  "fullDescription": "<p>This unique byway is a loop through four counties with rolling plains of glacial drift in northwest Iowa.  The byway is referred to as a glacial trail because of its natural history as a plain created by a glacial drift.</p>\r\n<p> View forested river valleys while the byway criss-crosses picturesque waterways of Waterman Creek and Little Sioux Rivers.  The towns along the byway carry the heritage and cultural past of the Native Americans mixed with the European settlers.  Amid this beautiful old country are modern, steel windmills that provide a renewable energy source to the surrounding communities as well.</p>",
+  "path": "uk}dG`z|dQ`@iVJsLTwLK{C_@kCo@gBqS__@uAiD_@aBU{AmE_k@IyBE_CJ}DrBoSJyBBwDI{Ce@mEo@_DaI}Ti@_DYaDEmDjA{zAGq~BJivBvFKzqAg@b\\KvTSj`@sGjZuFrGkE`BmBNk@h@aDz@mDfCaDPe@p@]|EgA`AQpD?|f@^Xjc@z@`BlApA~vA`AlTH`q@r@~QJu@j|@SpaAEd|@YraAX`rBcBf{B|@h|Bd@nyB_zAAZztFJfeA?fk@lA~uCLzrAJtNKrb@uk@Jmm@KyrBDeAQoA_@y@a@oAkAiA{AYs@yB_IqAkC{AcBsAy@eA_@mAOiBAkj@GquAo@eiCPb\\utAlBoH|BsG`HiP~Oi]rj@anArByFxAcFxAeG|R__ArTukAPyDBazAcAqs@_@aMy@qEo@mCyMy]a@sBS_CEiBDkCNqBnNew@d@}Dh@kKh@e`@BeANmAtAkEXQlBwC`LaR@mE",
+  "websites": [
+    {
+      "url": "http://iowadot.gov/iowasbyways/obrien.pdf",
+      "name": "IA-DOT Old O'Brien Glacial Trail Scenic Byway"
+    },
+    {
+      "url": "http://www.obriencounty.com/index.php?pageid=746f7069635f69643a34",
+      "name": "O'Brien County Recreation and Tourism"
+    },
+    {
+      "url": "http://www.prairieheritagecenter.org/",
+      "name": "The Prairie Heritage Center"
+    }
+  ],
+  "states": [
+    "IA"
+  ],
+  "ll": [
+    -95.343842,
+    42.91787000000005
+  ],
+  "bounds": [
+    [
+      -95.47180200000003,
+      42.85049800000007
+    ],
+    [
+      -95.24186700000001,
+      42.94591100000008
+    ]
+  ]
+}

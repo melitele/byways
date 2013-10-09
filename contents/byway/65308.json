@@ -1,0 +1,32 @@
+{
+  "template": "byway.jade",
+  "id": "65308",
+  "name": "U.S. 12 Snake River Bridge to Walla Walla Scenic Byway",
+  "distance": "35",
+  "description": "This byway traverses the Lewis & Clark Trail through rolling hills, fields and trees along the Walla Walla River from the Columbia River to the city of Walla Walla.",
+  "fullDescription": "<p>This byway traverses the Lewis & Clark Trail through rolling hills, fields and trees along the Walla Walla River from the Columbia River to the city of Walla Walla.</p>",
+  "path": "oxdxGtnkqUFvYv@|s@Sz@Oj@Dl@LHNn@DpBNzJKdBdA|s@RnYV`PGpy@Fd_AF`BZ|Cb@tBR`@zcArmB|FxKr@dCh@nE@vDcBrQGpC?`FTlElDvfAJ`BR`BjOn_AzPpaAxK`m@hAfKZpHB~B}BljA_SvtDeSb{DoMvbCm@zMk@nJmBnRUlH_@nU}@zNAxEP`Fd@zDf@pBzLfb@r@~Dt@bR|CxeAT`G|@xHjK|m@rE`WjBtIjWl`ApMdg@hBzFpHzXxA`GlAbGh@jFXnF?`JCrBcDjm@y@zIe@tHcDto@@fi@k@rEgAxEod@jiAyEbLuF|NkLfY{@`DwD|Q{t@f{D_Nzp@mg@~kCYzF?rCb@`O?`E_@tG{Dxd@YxF_@rh@AnHHpCRbCZdCfAxDf@jAxAlCvDhFhBvDlArFf@`DfAhKn@hMBvCGdB[vDs@bDoCpKg@|CO`BGpC@tC\\dEZlBxAfFdMpYfBlF`ArFn@~ERhGAtEcArSCfCDhClAlOrA~LdAbGfAdFhBtFta@rbA`IhSlBdEzCtJ|DtO|@lErAdIx@bEd@`ETdDbAfJRlDj@hPD`F?~MK|JUnHiOt`C}@nOk@`QYbG",
+  "websites": [
+    {
+      "url": "http://www.experiencewa.com/",
+      "name": "Experience Washington"
+    }
+  ],
+  "states": [
+    "WA"
+  ],
+  "ll": [
+    -118.35642200000001,
+    46.06872199999998
+  ],
+  "bounds": [
+    [
+      -118.90751599999999,
+      46.039371000000074
+    ],
+    [
+      -118.35642200000001,
+      46.07260900000006
+    ]
+  ]
+}

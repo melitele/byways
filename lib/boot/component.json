@@ -1,0 +1,14 @@
+{
+  "name": "boot",
+  "dependencies": {
+    "code42day/ga": "0.1.0"
+  },
+  "local": [
+    "disqus",
+    "panoramio",
+    "cse"
+  ],
+  "scripts": [
+    "index.js"
+  ]
+}

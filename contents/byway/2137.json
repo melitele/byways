@@ -1,0 +1,38 @@
+{
+  "template": "byway.jade",
+  "id": "2137",
+  "name": "St. Regis-Paradise Scenic Byway",
+  "distance": "30",
+  "duration": "Allow at least 1 hour to tour this byway.",
+  "description": "Following the Clark Fork River between St. Regis and Paradise is the St. Regis - Paradise Scenic Byway.",
+  "fullDescription": "<p>Originally a meandering trail which followed the Clark Fork River between St. Regis and Paradise, the St. Regis - Paradise National Forest Scenic Byway lies within the Lolo National Forest.  This scenic route, with the motto: The River, The People, The Land, takes motorists through varying terrain, from spacious, rolling flats to steep canyon walls where it winds through the Coeur d'Alene Mountains. </p>\r\n\r\n<p>The byway has long been considered an alternate route for travelers on Interstate 90, whose destination is Flathead Lake or Glacier National Park.  It also serves as a route to the National Bison Range.  However, with the spectacular scenery, plentiful wildlife, and many recreational opportunities the byway is a destination unto itself.</p>",
+  "contact": "**[Lolo National Forest](http://www.fs.fed.us/r1/lolo/)**  \r\nSuperior Ranger District  \r\n406-822-4233  \r\n[Send E-mail](mailto:r1_lolo_www@fs.fed.us)",
+  "path": "wyt_H|fo}TwIaL}_@{c@sGsGk]iYop@mi@wHaG_CsBiByCcAqC_]_xAaN{m@g@wCg@oGCmBDkHdGiz@NcFDmI_@amAM{Ba@qDcAkD_@s@iAaBiAaAaB}@_Ba@_Hk@mAYmE{BqRgLiCmBkCqCaD_GoA{Ci@sBwGi\\_Qm|@_BaLi@uFs@kLScH?{LLyFnGmuAjBoc@~C{r@~@uLb@}ClBwJrDaPtb@gmBh@mCt@yF\\yGDmGE{Ag@yGg@iDm@sCiA}DwN_a@}@uCi@gCoAaI}AmPi@gHE_CD}CR_ENcAr@cEdBeF|AuBxAmAbAc@hBSdBFrAPvGxAvD^rB@~BGrDa@|GqA`DmBjB}AjCoChDmFhAaCbAsCjIiUdBsF~AeHr@oD|@_H~Qk~BzAoQXyAx@sCl@mAdCqCvBsAbIeCxIgDnBaBhBsB|AeDj@yBn@mELyADaCO{Fs@{DQcBYaGYsBSaEAaCJkDj@eH\\oBtAgF`Xor@h@}BN_B?uE_@aEi@sCyAaF{O}WwE{Gy@cB}@aDKgAE}AJsALu@d@kBzAyBrK{F`@_@|CeErAuAn\\iZdCgCfA_Bj@mAl@kB`@mCLgB@gCEqBUyBUeBc@{BoBgGy@aByB_DwAcB{BuBeEeCwDmAkBa@uEOkBPsBf@uPvHmBTwB?oA[y@]eAaAiByCmBaGm@mDqAaOm@mEi@uBi@eAY]cGyEgKqHkn@ic@cE{EqDoFqAmC{B}Eu@{BS_Ao@eFUsEFiEXoGPgJMmDYkDu@eEs@aC}@mBeBaCyA_ByAeAcCkAiDmAwCe@yBBk[tEoBl@}BhAoG`EsGfDeD`AmDh@}CH}CMiBYcGsAaJyF_NmK",
+  "websites": [
+    {
+      "url": "http://www.fs.fed.us/ipnf/index.html",
+      "name": "Idaho Panhandle National Forests"
+    },
+    {
+      "url": "http://www.fs.usda.gov/lolo/",
+      "name": "Lolo National Forest"
+    }
+  ],
+  "states": [
+    "MT"
+  ],
+  "ll": [
+    -115.09886899999998,
+    47.297721999999965
+  ],
+  "bounds": [
+    [
+      -115.09886899999998,
+      47.297721999999965
+    ],
+    [
+      -114.77845000000002,
+      47.35435100000001
+    ]
+  ]
+}

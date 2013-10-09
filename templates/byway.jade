@@ -1,0 +1,52 @@
+extends layout
+
+block title
+  = locals.siteTitle + "::" + page.metadata.name
+
+block description
+  meta(name="description", content="#{page.metadata.description}")
+
+block body
+  section.byway
+    header
+      h1= page.metadata.name
+      p
+        span= page.metadata.distance
+        span= ' miles - '
+        span= page.metadata.duration
+    .description
+      .photos(display='none')
+        figure.photo
+          img
+          figcaption.caption
+            a.title
+            a.author
+            .copy <img src="http://www.panoramio.com/img/logo-tos.png"> photos are copyrighted by their owners
+      != page.metadata.fullDescription
+
+  if page.metadata.path
+    section.map
+      iframe(src=locals.furkotUrl + '/widget/byway/' + page.metadata.id)
+
+  section.websites
+    ul.flat-list
+      for link in page.metadata.websites
+        li: a(href=link.url)= link.name
+
+  section.comments
+    #disqus_thread
+    a.dsq-brlink(href="http://disqus.com") comments powered by <span class="logo-disqus">Disqus</span>
+
+block scripts
+  script(src='/build/build.js')
+  script.
+    var boot = require('boot'),
+      bounds = JSON.parse('#{JSON.stringify(page.metadata.bounds)}');
+    require('disqus').disqus({
+      shortname: 'byways',
+      identifier: '#{page.metadata.id}',
+      title: '#{page.metadata.name}',
+      url: '#{locals.url}#{page.url}',
+      developer: #{(env.mode == 'preview') ? 1 : 0}
+    });
+    boot.panoramio(document.querySelector('.byway .photos'), bounds);

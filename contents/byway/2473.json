@@ -1,0 +1,33 @@
+{
+  "template": "byway.jade",
+  "id": "2473",
+  "name": "Socorro Historical District Scenic Byway",
+  "distance": "2.98",
+  "duration": "30 minutes",
+  "description": "Travel the Socorro Historical District Scenic Byway for a glimpse at an early 19th century New Mexico town, rich in Spanish architecture and tradition. The area is quaint, uncongested, and maintains diversity to suit a variety of interests.",
+  "fullDescription": "<p>Travel the Socorro Scenic Byway for a glimpse at an early 19th century New Mexico town, rich in Spanish architecture and tradition. The area is quaint, uncongested, and maintains diversity to suit a variety of interests.</p>",
+  "path": "opznE|mmkSh@K??bDi@??g@yT??DmEsDT???cBiAD{Cj@??LlA??Bt@??A|A??jBb@RvF",
+  "websites": [
+    {
+      "url": "http://www.newmexico.org/parks-and-byways/#article75714",
+      "name": "Socorro Scenic Byway"
+    }
+  ],
+  "states": [
+    "NM"
+  ],
+  "ll": [
+    -106.89774299963955,
+    34.05592000000814
+  ],
+  "bounds": [
+    [
+      -106.89774299963955,
+      34.05489000017354
+    ],
+    [
+      -106.89256299998232,
+      34.05711100007278
+    ]
+  ]
+}

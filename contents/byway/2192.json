@@ -1,0 +1,51 @@
+{
+  "template": "byway.jade",
+  "id": "2192",
+  "name": "State of Jefferson Scenic Byway",
+  "distance": "108",
+  "duration": "Two hours, 40 minutes non-stop",
+  "description": "The State of Jefferson Scenic Byway winds through the Siskiyou Mountains of northern California and southern Oregon.  ",
+  "fullDescription": "<p>From the 1941 state capitol of Yreka, California, take Hwy. 263 North over five Pioneer bridges to Hwy. 96. Meander along the Klamath River West to the remote, friendly town of Happy Camp. Seek the headwaters of Indian Creek northwards over the 5000-foot Grayback summit, through old Brewers Spruce forests, and then down to Hwy 199 in O'Brien, Oregon.</p>",
+  "contact": "**Klamath National Forest**  \r\n (530) 493-2243  \r\n\r\n",
+  "path": "mhj_Gf~~pV[f@Ux@y@~DYf@gC~BQj@s@lDc@r@_Cr@yApAmAb@k@HYEaC_By@MoALULi@p@KZM~ALjBf@`DBlAOvA[nGDjJ]rBAx@DhBE~@Op@m@rA}EJoDk@aAF_Dx@mGhAaFfAgJlFo@Ao@Q]YyAcBoBiFc@y@sGyCm@kASyA{@}ByA{@sB?iAN]ZkAlEm@j@cAReABsEw@sCqAaHaB_@Ji@l@sClIe@v@o@F{ACk@JsExBgDf@YIY_@Ks@EmDIk@yAaDqC}EOMa@KkEvCUd@K|@CdFMf@{BvBwAt@oCBoBr@mAAyAw@iCYqC~@_CxAsA~AuAl@aFGk\\eAyBe@aGsBe@?i@Pc@f@[fAO~A@p@f@fAxBtAxBhAlCl@~@^|@tAz@pDxBdClArCb@`@bEXTVH`@Eb@WRsFQu@Wy@s@cAeBsAuAmBkAwNmDs@Ao@Rs@pAsA|H{AzEC|@NbEEbAw@xCE~@HzAT~AA~@Y~A_@j@sAr@cD_@w@N_F~BiBj@}@S}EsCo@Ku@@wCx@wC~AO\\_@`BHjATl@lA|ATl@OrFRn@dAlBNdAKp@w@xAuAzAKp@MxBUt@UTcARyB?gARkA^iAt@}CxJIzFi@lBgC|BkC~AyAhC]\\cATuCPg@\\aAtAg@Ra@G}AeAwD{C_Ck@m@F_@\\QtAJp@Rd@z@XpC^h@r@f@xCr@`HXfA\\Vh@Et@_@bBuA~@qAr@_Bd@k@r@OjJrAd@Oj@a@\\e@Xu@XWNMn@EjI`Dd@ERMT_@bAyDxAuDTsARwCN{@h@q@~@D~@`@bDvFrAfBn@d@t@DpH_FfAsAxAkHx@y@t@GrA\\dBErALNJ\\n@G~@yBxDu@rKUx@O^qBjA{@`AqCdFu@nB_@~A}@fLQ~@_@rAgBxB_@zA}@fHr@xDAx@Sl@c@j@_AXmJdAy@n@a@n@[`AOpAXnEIvBO~@eAfDMtAA|AZbE?hAo@bEi@|Ay@fAeJlJy@lAeAzDi@lAyCpD_@jAOtAI~BHrBIfB_@pBgSxv@_BdH{Oj~@_@xC?pANt@^~@tDrHbAlC~@~Cl@lAXZ|CjClE~Bj@rA|@tKNrESxHHfC^xBpF|PXfPNxDt@fDXxEE`DS~Dk@|DsAdEwFhNc@vAmAhGoItv@gEza@_A~FcBxEcBfDsBdDkOzP}CtGw@fCe@dCc@rDmDzs@oBbOUhAi@dAkLlPiAdC{GpSaMeJ",
+  "websites": [
+    {
+      "url": "http://www.fs.usda.gov/klamath/",
+      "name": "Klamath National Forest"
+    },
+    {
+      "url": "http://www.fs.fed.us/r6/rogue-siskiyou/index.shtml",
+      "name": "Rogue River-Siskiyou National Forest"
+    },
+    {
+      "url": "http://www.fs.usda.gov/sixrivers/",
+      "name": "Six Rivers National Forest"
+    },
+    {
+      "url": "http://www.jeffersonstate.com/",
+      "name": "State of Jefferson Co."
+    },
+    {
+      "url": "http://www.jeffersonstate.com/bhelsaple/StateofJeffersonScenicBy.html",
+      "name": "State of Jefferson Scenic Byway"
+    }
+  ],
+  "states": [
+    "CA",
+    "OR"
+  ],
+  "ll": [
+    -123.53523299999989,
+    42.00087000000008
+  ],
+  "bounds": [
+    [
+      -123.69570899999991,
+      42.00087000000008
+    ],
+    [
+      -123.53523299999989,
+      42.07912800000008
+    ]
+  ]
+}

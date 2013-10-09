@@ -1,0 +1,32 @@
+{
+  "template": "byway.jade",
+  "id": "2267",
+  "name": "Scenic Route 90",
+  "distance": "50",
+  "description": "Scenic Route 90 passes through the Finger Lakes Region of upstate New York.",
+  "fullDescription": "<p>Scenic Route 90 travels through the historic farm country of the Finger Lakes region of upstate New York before running through the small towns on the shores of Cayuga Lake.  museum exhibits, shop-lined main streets, restored hotels, and an old railway display rural life as it was in the prior two centuries.  </p><p>Scenic Route 90 provides access to a number of historic homes, including the final home of Harriet Tubman, one of the most famous conductors on the Underground Railroad.  Several state parks provide both camping and recreation opportunities on Cayuga Lake.  </p>",
+  "path": "qrpeGxbdsM|c@oCdBU~Ak@tGuD|FkChAnLZbBp@`CvJvX`Mj`@bBzCnA|AlAbA|BnAnBf@hAJp\\xArQ]xBLhCp@fJxDnJfEhAp@ns@zi@pH~GtO~On@j@rAx@tAj@vB^`LChBJ|@PnCfA`GfFxBjAfNrEfCfAjGdAtAF~M[hD_@vTmFdb@yKlBK`BHbLrBnALlDD~AMxh@uLzCyA`JsFhBy@~DqApCm@tBQpDHvYzFrBR~DEdGm@f]eGhWcHrNqEdB_@x[aCxDw@xCuA|AgAnAqAxBsCrAeCvHkRjJgRhBoCvJyKpCiBtL_Fpd@gVjDoAfXeGlYwH|CeBpMyL`IgGrEaC|I_DjEy@vGy@nRy@pEk@tOcDrBo@xQaIpImEnDuAfE_ArHsAzM_AlCD|QrAfWF`BPdW`HrExAbF~BnJrFzAl@hBXvA@vKBjLM`DLnC`@rCv@lCjAtJzFbCfApJjD|FlA~F^|MCzMaB|I[xD@zB`@jBx@`BjA`IxHxA~@`q@pVrClAdLfGrA~@jAlAzIxMl@n@tArAfDpBxAj@fItBvg@jJ~BF~K_@jCs@dJqDhOiJdBs@t@MvBK|HZxID~BKfDc@lH_BpHe@tUgEbA_@lBcB~@aB|AyEd@{@lA_BhBeArpB{c@fAKtADtOlDbAd@j@f@pE~E|@r@pJrE~Cf@fCBlDk@jBw@dOwKjEqDhGuGrLoNrC_EnCoEp[cj@|AuBnBwBbCiBpG{D~BqA`DmA~Cs@fXkD|Cy@xCyAnPuJdI_HpMiL~MiHfZuTvF_FzAkBdGoIhImKxKeMdMeN~WyVzG_GxGeFnKwGlBwAxAyAlBaC`B{CtHuQrA}BxBsCrCaCxN{J`OmLtJuGhCsChBkDbA{C^gBXsBNyB@uIeFcgFqDo}CBwDPsFBuC_AaNGyD[u^_B_qAs@y}@wBa|BiGmwFhAsEbI}RbB}B~JaDnMaDri@{OjAm@^_@p@wATmADgCEoIZ}A`AeAvJ}DxBmAlBwArDgD~Ak@`F_@j@M|AaAn@w@|BgDnAmCd@yAh@mDDwGf@wDH]Xm@t@w@xCgCfB{BbDqC^aAXkC@iDcBoV_@kB{AmC_QuIiA_AcBmBiB_BaB_AmDyA_CkBiAuA_A}AqJ}Qs@gBwBaHg@eAaAuAcCqBeCaA}EyAy@o@qEcEk@KsDKmA_@]s@GuGFqAdDmLlEwPf@oC\\kCTmGOgNDaExAs`@\\wEZoDfA{GrC{K~@mEfEa[^cET_Eb@wQb@kJhEm_@lB{Ud@iDd@yBbAmCbCgEjKaPlBsDrGcPnAsEf@qCbHew@nC_`@|CiUn@mIR{EBgFm@gh@L_G`@mDvBiN~DmU`Gga@|CaVbDa[N_CLwV?_CMeG_@cEc@gDkBaKc@}CYgDUyDcAwp@Y{ZU}g@JmGhAuMf@_Lx@{d@dAcz@MyEg@eDy@iCsLaTqAmCs@aCi@sBU_BmAwV]yBkAqEiA{CcAyAy@s@yBmC_AyBgA{EYkEpAoRnEyThAeDdGsKnAoCZ}@b@eCLoAJoNJ_C`D}ThCiXtJolAbC}]xCmg@~@mTfAu[NoAf@}B\\kAx@kBn@gAvF_GlB_Dj@cBf@yBd@yDHyBSmI",
+  "websites": [
+    {
+      "url": "https://www.dot.ny.gov/display/programs/scenic-byways/route-90?nd=nysdot",
+      "name": "Route 90 Scenic Byway"
+    }
+  ],
+  "states": [
+    "NY"
+  ],
+  "ll": [
+    -76.70332727272728,
+    43.016254545454544
+  ],
+  "bounds": [
+    [
+      -76.73423799999995,
+      42.63386200000008
+    ],
+    [
+      -76.19107799999995,
+      43.016254545454544
+    ]
+  ]
+}

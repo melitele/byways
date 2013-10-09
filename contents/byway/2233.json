@@ -1,0 +1,38 @@
+{
+  "template": "byway.jade",
+  "id": "2233",
+  "name": "North Pend Oreille Scenic Byway",
+  "distance": "27",
+  "duration": "2-3 hours to enjoy this byway",
+  "description": "We'd like to think that the \"Forgotten Corner\" was forgotten to allow visitors to step back in time.",
+  "fullDescription": "<p>The North Pend Oreille Scenic Byway is called the \"Forgotten Corner\" for a reason. Located in the very northeast corner of Washington State, the area seems as if time stands still. See where hulking glaciers buried the ancient shoreline forever beneath the rubble of the ages and shaped the land anew. Today a great emerald</p><p>river \"carves its way northward around the ankle bones of mile-high, majestic mountains.\"</p><p>This byway provides visitors with the chance to experience solitude in the Selkirk Mountains. Experience the breathtaking scenery and wander the trails and side roads for closer views. Catch a glimpse of some of the wildlife in the area. Visitors are</p><p>likely to see Woodland Caribou, Grey Wolves, Grizzly Bears, and Bald Eagles.</p><p>Any season is the best time to visit the \"Forgotten Corner.\" Lush green springs and summers contrast with brilliantly colored autumns and white snowy winters. Take the opportunity to enjoy the variety of recreational aspects of this beautiful area. Come and discover the legacy that local pioneers have left for modern-day residents.</p><p></p>",
+  "contact": "**[International Selkirk Loop](http://www.selkirkloop.org)**  \r\n 888-823-2626  \r\n 208-267-0822  \r\n [Send E-mail](mailto:selkirkloop@verizon.net )  \r\n\r\n",
+  "path": "}cnhHztskUaCnCoDhHDdA{L?{AFoLGgCQe`@iJmHwAwADyDxAsBJyCy@}CsAmFqCeMgJmCcCsAkB_F{JkN_\\sB}Dy@aAqBgBkCyA}EmAgBOoBJwC~@iGrEgAfA{QxIiJjBeAl@cAx@}A`BqBvCcAtBc@fBu@zFwAf]eAzGyAnE}DlFkKnLkHfH_An@yE`BcARiCDkDMgGk@aCe@wCy@iDeBmD{Bi]iYq`@sZgFkDmDeAaGoAkCqAcBsAy@eAg@aA_FgOyC{D_KsKqL}IcEsCwH}BeGmC}n@wVmEmBmBwA}D{DyAy@}Be@gIm@yA_@iAs@cCkDkA_AkJgCwCeBkAa@kAE{AXqJjDiAJcBIaFgAuR}AyA?mIt@uELwI?qK}@{I{Aa_@{JmBw@sAu@{AwAgA_B}IcQ_OkZ}AaCsCmCwI_Es@g@iAqAeAyBaAyCa@mDImBBmAJm@To@f@g@fJuErDaQh@yA~@mBrAqAbAg@|@S`BK|@Yt@k@`AuAf@kBLyAJmFEeBOeAk@m@_GcCoFqDwCs@gHsCy@?}@J_EnB}Ad@y@PsD^cBfAc@DQGYw@Cg@Hc@R_@bGoAd@YX_@Le@@y@Im@i@kBBq@HYNObBQ^Qb@e@Xm@ZgBDwB[{AmAaAmAw@yDgA[WgC_F[[i@YmASsBK_AJy@ZuAbAm@Ru@C]U{@qA_HuMwK}RiSk_@gK{SwEmHiDiEkGgGyC}BgBo@}G}AcBm@oAy@cCsCmWk]oAsA}AkA}CsAcC_@sh@aCq[mDwXaEuIkB_EuAsLsGgAWi@By@RiDzByAd@mAEyAq@}@cAy@kBkBaHwAmEiCmFgCeEiF{GaIuJiUoZcDaF}DiLSMaAKw@Zc@r@QpA?rATlAnAbCh@`C?`COdAYpAeBvEy@j@wBj@mAlAgC`IgApCi@bAoA|AcB`BcSlOiAfAsCr@sBPmDg@{LI_E[gBc@uMoIiC_AkEeAc]iGoAKiCJmc@fHmCZ_D?}AUgC}@sA_Aob@{\\{BkAcCs@wCWwKg@cGx@qA@iAEsEo@o@Fy@X_Ax@m@jA_AlCe@l@gAv@[Lo@D_LPaAK_Bq@cD{C{@i@gBa@eBD_AVsAr@cChBmBr@kAJcCUiAi@iA{@cAmAiAmByCeJ}AaKiCuMuAeEu@sB{BuEqC_E_B_BeBsAaCoAyAi@gLaDgCe@wCVeGdCmBRoAEwDgA_BHi@a@i@s@",
+  "websites": [
+    {
+      "url": "http://www.experiencewa.com/",
+      "name": "Experience Washington"
+    },
+    {
+      "url": "http://www.povn.com/byway/",
+      "name": "North Pend Oreille Scenic Byway Homepage"
+    }
+  ],
+  "states": [
+    "WA"
+  ],
+  "ll": [
+    -117.41533699999997,
+    48.738079000000084
+  ],
+  "bounds": [
+    [
+      -117.42359899999997,
+      48.738079000000084
+    ],
+    [
+      -117.29934699999995,
+      48.99993100000012
+    ]
+  ]
+}

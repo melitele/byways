@@ -1,0 +1,38 @@
+{
+  "template": "byway.jade",
+  "id": "44704",
+  "name": "Big Walker Mountain Scenic Byway",
+  "distance": "16.2",
+  "duration": "Allow about 30 minutes.",
+  "description": "An alternative to six miles of Interstate 77 and the Big Walker Interstate tunnel, the Big Walker Mountain Scenic Byway traverses 16.2 miles of State Highway 717 and US 52/21 in the Jefferson National Forest.",
+  "fullDescription": "<p>Traversing 16.2 miles of State Highway 717 and US 52/21 in the Jefferson National Forest, the Big Walker Mountain Scenic Byway is a perfect scenic alternative to\r\nsix miles of Interstate 77 and the Big Walker Interstate tunnel.  The natural beauty, recreational opportunites, and history that surround the byway make for an enjoyable driving experience year-round.  Rhododendron, azalea and mountain laurel all bloom in profusion each spring.  Fiery reds and golds surround this scenic journey each autumn.  Mountain top views of the changing seasons always offer something well worth the drive. Overlooks provide views of the Ridge and Valley landscape of the region.  Views from the top of Big Walker Mountain stretch for many miles and include a view of Mount Rogers, the highest peak in Virginia.  All of these features are well accessed by the roads, Seven Sisters Multiple Use Trail and Monster Rock Trail.</p>\r\n\r\n<p>Besides the beautiful views, seasonal migrations of raptors and neo-tropical songbirds can be seen from the top of Big Walker Mountain at the privately owned lookout, at Monster Rock and at Big Bend Picnic Area.  Birds of prey use the warm air rising from the valley floor to conserve their energy while migrating.  They can often be seen circling in these thermal currents.  Ridge-top views bring the visitor within close proximity of this bi-annual event.  The migratory patterns of these hunters are especially pronounced in the fall when eagles, hawks, osprey and kestrel can easily be sited. <p>Historically speaking, the scenic byway over Big Walker Mountain is the route traversed during the Civil War by Mary \"Molly\" Tynes as she came over the mountain in July of 1863 to warn the people of Wytheville about a raid planned by Union Calvary.  Her warning allowed the home troops to repulse their enemy and save their railroad.  Visitors can find out more about her story, as well as other legendary people such as Preacher Bob Sheffey, on historical markers and interpretive signs along the route.</p>\r\n",
+  "contact": "**Highlands Gateway Visitor Center**  \n 1-800-446-9670  \n\n",
+  "path": "eno`Fz{{mNyk@rs@wHzFcBnAUDcCjBcAz@uAhBmArCmD`MwG~Xc@fDOvCA`CHhDFVv@~JrE|o@JfDGtUNtB~BfPR~C?hDgApXYrEi@rDqAbEoJpPu@xBg@rBa@zEc@bVYxE[lCiBtJcCnXmB`KOrBOnJUdDYzAk@dBqDnHc@|A_@hC[pGChDhEdt@?tEk@lG_DdW[~AuCpWYlAs@dBsArBuAfAqKdH{DtCqPxRgCfCiAZu@Bi@Ko@Wi@c@{@sAk@i@u@[gAKuARwK~EmAXgDL_Eg@mCKyAPiAf@u@v@}EjPgBjFeA`BgA~@_DzAaEVuCz@wH^kK|C_NhAcCDmQgDuC_@}DKcAM_Bm@{JmFsAa@cCc@wCgAwOmImCmAcAYuAEiARw@X{QlN{H`FmAD_Ck@_AE_JxAo@Xy@~@e@xAI`AKfGId@m@d@UBe@]wCoG_AeAyFyD}@Su@PsA~@g@NoDRy@PiCxAgA\\yGLwGxAm@?cGm@gDx@e@f@Ul@DfDU|@i@n@}AbA[XmB~CcBl@]TOV[`B]j@w@J{CmA_AKk@Xs@r@a@VeEJsAn@Ur@OjA]p@yCrA{@x@c@dAYvCQh@q@`AeBxAYf@i@pBoAjBO`A?dAIz@gD|G_@|@ObBAhEQv@kClBGl@b@hAHbAEr@c@pBc@~AU`@wA|@a@z@iAzIsBdFEzANpCGl@Qx@{@~Bs@r@gAp@_@r@OfFmAfCU~Bo@dCU~ACtAT`HLx@d@~AHxAe@fGi@p@c@LYEoDyAqFaEsBmDoBqEsAeKIwB?{Ec@}BJm@l@{ABeAYsA}AaBUu@KsAPiCAm@o@iBC[Hi@x@aAXaACs@q@_BSy@Ic@@e@\\m@hAs@VeAQgB_A{BEq@DYRShAm@PWH_@E_@_@_CHaA^}@nAy@NUJ_@Es@yAaEEw@Xm@lCw@dAs@XeADaBEwAYcBo@eAgAq@Om@BSJY`A]^[^wADgAi@eBIg@L_At@yBD_@Eg@Yi@_EgDs@eASgALuC~A}TB_BG}[K_BUk@i@s@qImEk@a@w@w@}CgEi@gBUaKOmBo@qBy@mAy@m@qHyC{@s@uEsEiBy@eAG{DFaMZaAPkAf@mGbFuCfB{IrEwA^sDRgCYcB_@q@e@cAmAoAmCaJoW}@eBeQyZgCsCoD_Do@y@_@y@]eBKgBSgk@EaAUeAs@eBqK{NuDuG{Rgj@oQ}a@kLuRyAoBya@u\\_d@gYsA}Au@uAm@kB_@oBK}AWuMBoGT{Hr@aHlAkJHyBQeBeBgGsAoDcCuF",
+  "websites": [
+    {
+      "url": "http://www.scenicbeauty-va.com/services.htm",
+      "name": "Discover South Carolina - Big Walker Mountain"
+    },
+    {
+      "url": "http://www.fs.usda.gov/gwj/",
+      "name": "George Washington and Jefferson National Forests"
+    }
+  ],
+  "states": [
+    "VA"
+  ],
+  "ll": [
+    -81.08493799999997,
+    36.94835999999998
+  ],
+  "bounds": [
+    [
+      -81.22811099999996,
+      36.94835999999998
+    ],
+    [
+      -81.08493799999997,
+      37.10205100000002
+    ]
+  ]
+}

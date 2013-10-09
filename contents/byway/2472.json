@@ -1,0 +1,29 @@
+{
+  "template": "byway.jade",
+  "id": "2472",
+  "name": "Shannock Road",
+  "distance": "1.7",
+  "description": "In Charlestown and Richmond, from Route 112 to Route 2.",
+  "fullDescription": "<p>Shannock Road stretches a short but scenic 1.7 miles from Route 112 to Route 2 through the Town of  Charlestown and Richmond.  The traveler is offered views of a variety of different landscapes such as woodlands, marshes, and even a farm field bounded by stone walls.</p>\r\n<p>Historic Shannock Village can be found along the byway.  This village is historically significant as a small but well-preserved mid-nineteenth century rural textile mill village.  Throughout the nineteenth century, small mills were constructed on waterways of Southern Rhode Island.  Villages would form as houses were built for the mill workers.   Shannock Village is is a good example of these villages.  In 1983 the village was listed in the National Register of Historic Places.</p>\r\n",
+  "path": "yw~{FdnjtLn@sPXgDZe@zB_@VObAsAfC}Ej@g@p@WnCa@r@m@Xs@t@kJ?_AIa@mJaSaBuCQy@DqAhAuBRk@^kAj@oElAsDDe@U{@gBiDOo@EkAN_FLc@dAc@j@YR_@BmCJyB^uAv@cAd@Y^GvFLx@MtPuL",
+  "websites": [
+    {}
+  ],
+  "states": [
+    "RI"
+  ],
+  "ll": [
+    -71.65682199999992,
+    41.45037800000006
+  ],
+  "bounds": [
+    [
+      -71.65682199999992,
+      41.442108000000076
+    ],
+    [
+      -71.63194299999992,
+      41.45037800000006
+    ]
+  ]
+}

@@ -1,0 +1,34 @@
+extends layout
+
+mixin bywaysList(name, byways)
+  section.byway-list(id="bl-#{name}")
+    header
+      h2= name
+    ul.flat-list
+      for byway in byways
+        li: a(href=byway.url)= byway.metadata.name
+
+
+block body
+  include searchbox
+  - var byways = contents["byway"]._.pages;
+  - var states = byways.reduce(function(states, b) {
+  -   b.metadata.states.forEach(function(state) {
+  -     states[state] = states[state] || [];
+  -     states[state].push(b);
+  -   });
+  -   return states;
+  - }, {});
+  - var stateNames = Object.keys(states).sort();
+  section.states
+    ul.flat-list
+      for name in stateNames
+        li: a(href="\#bl-#{name}")= name
+  for name in stateNames
+    mixin bywaysList(name, states[name])
+  mixin bywaysList('United States', byways)
+
+block scripts
+  script(src='/build/build.js')
+  script.
+    require('boot');

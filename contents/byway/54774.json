@@ -1,0 +1,34 @@
+{
+  "template": "byway.jade",
+  "id": "54774",
+  "name": "Cape Flattery Tribal Scenic Byway",
+  "distance": "36",
+  "duration": "55 minutes",
+  "description": "It is the most northwestern point in the contiguous states, but it is also a sacred place on the land of the Makah. ",
+  "fullDescription": "<p>It is the most northwestern point in the contiguous states, but it is also a sacred place on the land of the Makah. </p>",
+  "contact": "**Makah Cultural and Research Center**  \n 360-645-2711  \n [Send E-mail](mailto:mcrc@olypen.com )  \n\n",
+  "path": "uzafHro{wVAGC[AIC]Ys@c@eA{@uBuB{GoDeLUM_I}h@UaBg@oEa@uDYcH?@WyFj@aGNcHVaFRqCVgBuAoG{AcDgIiLuCcGeCwCcS_QgHyMqDoF_Ao@iEcGBuHGkB?g@AkMAsJmF}j@_A{Hw@wGwAqO}@oJe@gFqAqGoAkF{@uD_A}DEQg@aBuK}_@Ss@Mc@?eBIsGI{Fk@sD{@{@w@wCqA_B\\uDfAuG`IiK~FcS|CcMnCwKlBuH~AsHtByJbCcPbAqJZeD~AoXTwBLkAdAkDfA{@nAo@fBD~@lA~CrGbAn@hBDx@wARcAF[BaCg@kDcCkGe@uC@}@NcPJW`@gAvFuIpBuDtMm\\^q@hAM~BhCJ?r@DJ?HQZq@XgCe@uGOiBLo@xM{WrI}Up@eEn@yX?CJwDF[SiRAcAmAmKLiAt@sAd@uCxAgFv@{ETa@~@a@bH{Hh@uCbAyJ`AuFj@oFd@sBf@}F~DaIpBsHlA}ClBiIpEuIlBeBhDsHlCwCnDuG`AsE~BgW^eBfB}CzCmBtD}FbIgIdBiCVsAFYj@wMZqPpAqGpBmE~AkJz@yBbAc@lAeBx@iCl@wDz@_KlBmEbIaO~BiIjCcDdBqAt@M~@iAh@}CBkDp@_Ep@gCbA_BdBoFb@uB@G|AcHfGaRbEeGz@oC^_Eb@aChEsHl@sE~@gUt@mEv@{Bx@{@~F[lBqAz^{]jRmg@`@{DPgBJgAp@oPpAqS`CcTFk@ZgBPaApE}Il@{B`CwNd@qChAwDv@eBf@eApEmEpDgF`AgCxDyJbGqShBkEfEeEvFcCtBuCdBoIp@kBlG}LpDiAfDyDhF{IxBkEjA_CCFDKl@_BVqAFyBk@cF?gCPyAzCmL~FyTpBmK^kNp@}IvAuIZ}@t@uBl@aBlC}GfB{H~AsEzHcPjFeHh@U~DmIFw@CoCeA{OCsEp@qAhA}@bCi@bCwAhAgBhGqUb@{AfAaCpAyAbDsBhAu@f@[r@eBpA}Of@qDhBwDdGwAb@K|A_@bA_B^wDGoCLaCf@gClBaCl@iCfBmU@]f@eUfA{X~AyTpA{V@SN_Dd@qJh@gH`CwZtDga@n@kEpB}RZeBbBaFpA{FUyGTsBvB_FpAaEnB}DpC_KnAmEhA{I|@_HNwCT}DBuF[uMUaKA{CAkDb@qDlAwDpBaCpCmB~BaCzAoCp@yElDi\\AcDGyKz@oFDu[MmBIcAgBwGwByFGOE[",
+  "websites": [
+    {
+      "url": "http://www.experiencewa.com/",
+      "name": "Experience Washington"
+    }
+  ],
+  "states": [
+    "WA"
+  ],
+  "ll": [
+    -124.6644125307552,
+    48.34747127195686
+  ],
+  "bounds": [
+    [
+      -124.6644125307552,
+      48.253059000000064
+    ],
+    [
+      -124.26038992699156,
+      48.37022299999995
+    ]
+  ]
+}

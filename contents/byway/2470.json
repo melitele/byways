@@ -1,0 +1,32 @@
+{
+  "template": "byway.jade",
+  "id": "2470",
+  "name": "Paradise Ave and Other Roads",
+  "distance": "8.3",
+  "description": "In Middletown, this byway includes Paradise Ave, Berkeley Ave, Wyatt Road, Mitchell's Lane, Wapping Road, Peckham Ave., Indian Ave. and Hanging Rock Road.",
+  "fullDescription": "<p>Paradise Avenue and Other Roads is unique in that it is a collection of different but connected city streets, which combine to form the route.  Part of the byway's beauty comes from the many varieties of trees and greenery that line parts of its streets.  Also, the entire area is filled with historic homes of all types and architectural styles. Victorian, Colonial, and Greek Revival styles are represented, as well as other 18th Century structures.  </p>\r\n<p>Perhaps the byway's most impressive characteristics are its views of the Atlantic Ocean and Sachuest Bay.  The traveler can view the ocean waves crashing against the shore, and the fresh and salt-water wetland with its tall marsh grasses.</p>\r\n<p>The scenic highway is located in the City of Middletown, near the City of Newport on Rhode Island.  Paradise Avenue, Berkeley Avenue, Wyatt Road, Mitchell's Lane, Wapping Road, Peckham Avenue, Indian Avenue and Hanging Rock Road make up the 8.3-mile scenic highway network.  The roads form a loop that leads to the entrance of Sachuest Point on the Sakonnet River's entrance to the Atlantic Ocean.  </p>",
+  "path": "uwl|Fpx~qLFmDhFkd@x@gIlUgFlFcBh@YbBiA`@e@vBsFl@gBDi@YoLm@iHYyBuA_G[gA{AsC{CeFqEuGuAaA[Mp@sDx@{EvAgI`FcYdAmFpAmI~a@dRlDxBl@j@bDhEdA|@lIlDhAJpFQrAR~VdKnIzDdB`BlAhBnCbGrAjDb@`BH`BYb]RdBd@lAZj@pCrC~@rBn@x@r@j@vE|BbHdChCpA|@dAd@bATnAb@`Fe@vUDbE[dAi@jAi@p@s@ZaEGs]?qi@nGaDX{Ov@gLrAmAD_AE{GwAsF[cHSgC@cCXeAd@wb@hXu@TmAgU",
+  "websites": [
+    {
+      "url": "http://www.dot.ri.gov/programs/",
+      "name": "Rhode Island Department of Transportation"
+    }
+  ],
+  "states": [
+    "RI"
+  ],
+  "ll": [
+    -71.26936299999994,
+    41.522030000000086
+  ],
+  "bounds": [
+    [
+      -71.27292599999993,
+      41.48986800000006
+    ],
+    [
+      -71.23631999999992,
+      41.522030000000086
+    ]
+  ]
+}

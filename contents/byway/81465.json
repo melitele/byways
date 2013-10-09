@@ -1,0 +1,33 @@
+{
+  "template": "byway.jade",
+  "id": "81465",
+  "name": "NASA Scenic Byway to Space",
+  "distance": "36.6",
+  "duration": "1 hour 20 minutes",
+  "description": "Drive the network of tree-lined roadways that make up NASA Scenic Byway to Space and visit birding sites, state parks, old historic cemeteries, wetlands, and hiking trails. Learn about space and the Earth at NASA's Infinity Space Center (due to open in 2012.)",
+  "fullDescription": "<p>Drive the 30-mile network of tree-lined roadways that make up NASA Scenic Byway to Space and visit birding sites, state parks, old historic cemeteries, wetlands, and hiking trails. NASA is a must-see destination here, offering beautiful vistas, a historic cemetery, and in 2012, the Infinity Space Center, where you can learn about space and the Earth.</p><p>For a more down to earth adventure, go hiking in the town of Santa Rosa, camp at McLeod State Park, or visit a Gulf Coast Birding Trail site. Stop by Napoleon, Westonia, Logdown, or the historic town of Pearlington to expand your exploration of the natural and historic side of the byway. Blast off to new adventure on the NASA Scenic Byway to Space! </p>",
+  "path": "_bmxD`w}`PxAfv@GhDq@lGoCzRaO~_A}_@lkCmKxr@aRjrAM|FDdPRh^ZvTClDq@fEmCfHkAdBej@ho@we@`j@mWpW_PtOs@|@yS`_@iApDw@nEK~BaDlqAw@vWOxBq@lEwBzFwQ|a@_A`Dc@`DUlEyCnvAiGhfDiCfnAJr@|A~BzBgC`L_KxJoJ`CeBhAm@fvAsd@fCeAnBuAbAkA|j@ms@hBaBvDyBbBy@jGkB~Fs@xFEzqASfDMl^Rzx@[r]?hEC`BKfC_AbAs@jBoBvAsCxN_^lE_Kd@y@bC_CdDyArAU`BIhHB???VDJ@~COvH\\hDGpAq@fC?j@r@nALt@EnFT`C?vAAzBMv@GhB",
+  "websites": [
+    {
+      "url": "http://www.hancockchamber.org/",
+      "name": "Hancock County Chamber of Commerce"
+    }
+  ],
+  "states": [
+    "MS"
+  ],
+  "ll": [
+    -89.4502489998913,
+    30.38256999980581
+  ],
+  "bounds": [
+    [
+      -89.647202000172,
+      30.35042000018302
+    ],
+    [
+      -89.4502489998913,
+      30.429629999924714
+    ]
+  ]
+}

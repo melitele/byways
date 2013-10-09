@@ -1,0 +1,33 @@
+{
+  "template": "byway.jade",
+  "id": "16408",
+  "name": "Rendezvous Region Scenic Backway",
+  "distance": "33.5",
+  "description": "Stuffed in the extreme northeast corner of the state, the backway begins one mile east of Walhalla and meanders west along the Pembina River. The river is the only white-water river in the state and is superb for canoeing.",
+  "fullDescription": "<p>The Rendezvous Backway procures its name from its array of rendezvous-related historical sites that recall the days when fur trappers, Native Americans, and other traders met to barter.  </p><p>Stuffed in the extreme northeast corner of the state, the backway begins one mile east of Walhalla and meanders west along the Pembina River. The river, which has carved the dramatic Pembina Gorge, is the only white-water river in the state and is superb for canoeing.  </p><p>One of the deepest and steepest river valleys in North Dakota, the Pembina Gorge is covered in 450 miles of state-groomed snowmobiling and hiking trails. In fact, the trail system was developed by the Northeast Snowmobile Club Association, which also sponsors the</p><p>annual 'Snowfest' ride.  </p><p>This area has been known as the 'Moose Capital of North Dakota' because some of the state's best moose and elk hunting is in this virtually unexplored wilderness.  </p>",
+  "contact": "**City of Walhalla**  \r\n 701-549-2707  \r\n\r\n",
+  "path": "i{niH~g`vQIqhC?gaCC}Lu@o\\SqSLaHx@aQDmCCgCc@{De@yAaCgG]gAYwBeAaM_@oBYq@i@q@]MaAQkFGo@WiAu@m@m@_BkDeAeFOoDDaGKy@]y@_@k@cEgE_AwAi@iAm@kCU_Bo@gI_@{CWkAq@_CmDsHgA{D[aC_A}[i@oL}EkXmEuRS_BKeCJwGEeDKqAaDkNQkA}@gLiAeGIoAIeEHgAPeC`BcLHaCw@cG_A{EEwOCc_C_@gmBLawCI_lA?k]DeGn@cFVeBZyD?yDU{jBDqd@_AsBsBgGmR{f@|NoPd@qBx@oE`@qA`A_AfGuApAw@lAgA~@qA~@aB|@sCTwApI}p@v@{ChHaUlSA~@c@r@aA|Xat@nBsE|BmEfFwItD}Fp[ab@xKiOzc@ap@rLiTde@w|@hBgCxJ{JtOcQJyDTgqAQurAf]D|y@f@bf@Fdo@\\rAKNKNa@?sJHaCNm@^e@|C_D^s@n@qB~@yAbDsCnCyAf@a@xDaEjHiLbDqErAqA`@i@`HiNvD_F|DeDnAy@lAWzHc@TQtBca@vRBdfAp@vj@B|VoA|Uc@|AD}AyeCbo@qDlb@[pHS}CyuBMuKP}QjAc{@XiZb@a_@jn@eEnCYvDGxC}@fBOrCk@t@]r@u@hAgBtBqF\\_@dAa@bBQvCv@~@tCn@xDXdA|F?n@ImI}cCmCko@e@iSIiPCaVe@aK]}EaAwI}AkJoBsIkqAikFsDiPmAuG_AyFeCcSeAuLq@uLc@sKK{FCw]",
+  "websites": [
+    {
+      "url": "http://www.parkrec.nd.gov/byways/rendezvous/rendezvous.html",
+      "name": "Rendezvous Region Scenic Backway"
+    }
+  ],
+  "states": [
+    "ND"
+  ],
+  "ll": [
+    -98.14671299999992,
+    48.905651000000034
+  ],
+  "bounds": [
+    [
+      -98.14671299999992,
+      48.773258000000055
+    ],
+    [
+      -97.62242099999997,
+      48.923820000000035
+    ]
+  ]
+}

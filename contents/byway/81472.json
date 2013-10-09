@@ -1,0 +1,33 @@
+{
+  "template": "byway.jade",
+  "id": "81472",
+  "name": "San Juan Islands Scenic Byway",
+  "distance": "120",
+  "duration": "2.5 hours or two or more days to fully enjoy the byway.",
+  "description": "The marine segment of the byway carries visitors through the San Juan Islands National Wildlife Refuge. The two islands feature resorts, hamlets and villages, farmers markets, wineries, lighthouses, museums, and an historic building housing an artist co-op.  \r\n",
+  "fullDescription": "<p>The marine segment of the byway carries visitors through the San Juan Islands National Wildlife Refuge with potential glimpses of the resident orca whale population. The two islands feature historic resorts, quaint hamlets and villages, agricultural open space, farmers markets, wineries, a sculpture garden, lighthouses, museums, and an historic building housing an artist co-op.  Across the two islands, two state parks and a county park offer camping and kayaking opportunities, hiking and mountain biking trails, wildlife and marine mammal-watching, and a myriad of environmental education opportunities.</p><p></p>",
+  "path": "gmugHzksnV~C}C^aBQiF@}Ap@mMd@uEx@gDvHiTt@gBpAmBxC}DrDaEhSkNt@Wf@CdVAhBm@??h@r@f@PpM|B~@b@bA`Ab@dAh@dCPbLr@pCx@bBbAh@rCj@jLZnAj@vExCrC`DxDrFvGfIfErDhCzAnA^vB?bSgDn@SlFgEd\\uT~@YjNDbCl@rAf@`GjDtQrHX@lXgEHb_@Cnl@UdAUN}C\\iADaJS_@FY^Wr@Or@ErFB`s@Dl@Rx@n@f@r@HhJIbPg@jHs@tA@lGp@p^BbAQ|@k@z@kBLoH?{KNyAz@sAx@y@p@Mxd@Fx@GhFeAXJrCW~LStEy@|BSlBL~B~@zHlEdA?`BY|GyElFuFfG{LXw@|BqRtAwCrOmWpAkBfAaAhCe@rFWlC[jLmF\\k@xAk@dA{Ar@_C~@_Ch@{@d@]r@KrFvD|ClAdAR`E`G|@pHJrANzCOlB?zBl@jDd@m@Jm@VqDDyCPgBL{BOiEo@{AIgA?m@RoA`@Y|@E`@^r@vAr@d@rAl@~DdA`AFzCMfC_AhAg@vB_ChKuM`AeBhBmGpGcPxDgEfIsNrCsENcAx@wId@oCRe@pEaN~CcOX_Ab@s@tCwC|AuBbDyIX{A@_AEyAu@{Be@kAkB_Da@sAYkEc@g\\_DmNmBqUu@{GsBwFi@}ICeFTgeBAag@Jg[LubAEo}AkAgCq@q@wQEBqw@??sf@f@cAK_A}BKo@c@}GCcz@KeBUgA_@e@qA_Aq]E{_@JmTJiV?o@Iw@[qAaCy@W{G?cBuIo@kBmHcN??dA@EwMsC?sAsCOEUROJ_@?AA??KOeB{A??yc@kYqDqDu@yAs@mBcD{Ly@aFe@gEYkDMuD_@ecB?afEOs]QaQc@mJ_AgIuNy_AiAsGi@uBs@_BcBwC{jC}yDkWk^iCsCiC}AgDu@yCKyCd@iD`B}@jAs@zAyg@hcBmGtVsB~McAjNcFnkAaB`W{@pHsAjF_BfEsAnCmBhCcFzD_QnJY~C??_BjAC?EDDE??_@Ch@fEIlCNdBEj@_CfFWPa@No@Ay@_@wBuEUQi@FoBdCaBp@eBIcCy@cDuBqD?uAgAcDkEs@_@wEM{LEg]D{K~CyAFsBGo@Kq@k@eCgDi@So@K{DQuDcCcA]qDReCvB_BdAqDr@sl@@??GbRBfNNdAnA`E\\`Bt@fKD~FKxBMf@y@f@_EVcAr@{@rB?pBZd@X`AOlAN`A?bAi@bJNvAh@lBx@pBn@`CdAtCVvBM|EHxC|AxIJ~AE~@Kd@}QvMcFzHiAvBYfAoBpBm@ZsAR{AOeELe@Ro@nCYbCe@x@_JfAULi@v@SxAmF`K{B`ImAxAqM`ImAfBy@jCUfBCxCl@zHxB`Pz@nEb@p@l@XbARt@?|F_DbAGbE`Ed@VfCqAx@q@rAAz@PbA~@|E|K^rAb@rBbAfDbBbDTl@hAtFd@`Bb@|@^Zn@VjHFrAjAT^jAf@v@BbTgEz@_@|AyAh@IZShA\\x@rAb@KbA`AbBp@~O?nCVl@t@nAl@|BdAhEbAxAhA",
+  "websites": [
+    {
+      "url": "http://www.visitsanjuans.com/what-to-do/San-Juan-Islands-Driving/",
+      "name": "San Juan Islands Scenic Byway"
+    }
+  ],
+  "states": [
+    "WA"
+  ],
+  "ll": [
+    -123.14829999999989,
+    48.61156100000005
+  ],
+  "bounds": [
+    [
+      -123.16480999999993,
+      48.49622000000005
+    ],
+    [
+      -122.89260899999994,
+      48.645790000000034
+    ]
+  ]
+}

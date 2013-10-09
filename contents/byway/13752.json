@@ -1,0 +1,46 @@
+{
+  "template": "byway.jade",
+  "id": "13752",
+  "name": "Crowley's Ridge Parkway - Missouri",
+  "distance": "14.2",
+  "duration": "Allow at least 30 minutes to tour this byway.",
+  "description": "Sharecropping, cotton, sand, swamps, peaches, yucca plants and the Old South – this route in the southeast Missouri Bootheel has them all. The geography of Crowley's Ridge isolated it like an island. As settlers moved in, they formed a close-knit community maintaining their culture, religion and values while changing the landscape.",
+  "fullDescription": "<p>Sharecropping, cotton, sand, swamps, peaches, yucca plants and the Old South – this route in the southeast Missouri Bootheel has them all. The geography of Crowley's Ridge isolated it like an island. As settlers moved in, they formed a close-knit community maintaining their culture, religion and values while changing the landscape.</p><p>Crowley's Ridge Parkway is not only rich in geological history but Civil War history as well.  The byway runs along Missouri State Route 25 in Dunklin County starting at the Stoddard County line heading south ending at Kennett, Missouri and runs from the Intersection of Business Highway 25 and County Highway 7 and West on Highway WW to Campbell, Missouri.</p><p>Crowley's Ridge as a geological formation is home to unique plant and animal species due to the climate and land changes over millions of years.  These changes are what made the area what it is today.  The unique soils allow for farmers to raise crops from peaches and watermelons to cotton and pink-eye purple hull peas.</p><p>Crowley's Ridge Parkway is also rich in Civil War history.  The Ridge tells the story of numerous Union and Confederate skirmishes; the Succession Treaty at Clarkton; Missouri founding \"The Independent State of Dunklin\"; the story of Billy DeMint and the Civil War actions of M. Jeff Thompson, Missouri's Swamp Fox and Sam Hildebrand, The Big River Bushwacker.</p><p>When the Civil War ended, there were stories of hope offered by the generosity of two former slaves, Charles and Bettie Birthright.  The Birthrights dedicated their lives to the education of the children of Dunklin County and donated resources to construct the first multi-story brick educational structure in Dunklin County.  At death, the Birthrights bequeathed their estate in Tuscaloosa, Alabama to Stillman Institute (now Stillman University) for the education of young black ministers. The largest building on Stillman campus is Birthright Hall in honor of Charles and Elizabeth Birthright.</p>",
+  "contact": "**[Missouri Division of Tourism](http://www.visitmo.com)**  \r\n 1-800-877-1234  \r\n 753-751-2016  \r\n [Send E-mail](mailto:tourism@mail.state.mo.us )  \r\n\r\n**For more information about Crowley's Ridge**    \r\n[E-mail S. Harrison](mailto:sdharrison@hotmail.com)",
+  "path": "ggo}Ev`dePkG{Mqy@_dBmVyf@mJ}PsYol@_Xqj@m{@egBiAuBgBoBg@]{AcAWOg@[SK]k@eG_MqGkN{AoCyAmBcCaCqKmHs@k@_As@yBaA}@}@uAgBi@a@s@Qy@EgPBsGk@_DRglBaBsBq@g@]c@g@_AyBYuB?yFIq@u@{BYe@g@m@eAk@cDGcD]sAs@u@_AUg@WeAEeAHgd@KkAa@gAeA{AsAq@oASmEKgAYa@W}@uAsAgH_CgF_BcDw@i@u@W_TYc_By@gTe@cABo@NcAp@o@fAY~@OvBMxROv@k@jAy@`Aa@RaBVaMwAiPgCmE_@Ae|BGeHUmGTgqArAgkDnAeoB",
+  "websites": [
+    {
+      "url": "http://bootheelyouthmuseum.org",
+      "name": "Bootheel Youth Museum"
+    },
+    {
+      "url": "http://www.maldenchamber.com/",
+      "name": "Malden Chamber of Commerce"
+    },
+    {
+      "url": "http://www.maldenmuseum.com/",
+      "name": "Malden Historical Museum"
+    },
+    {
+      "url": "http://www.visitmo.com",
+      "name": "Visit Missouri! - Missouri Tourism"
+    }
+  ],
+  "states": [
+    "MO"
+  ],
+  "ll": [
+    -90.137871,
+    36.455723
+  ],
+  "bounds": [
+    [
+      -90.137871,
+      36.455723
+    ],
+    [
+      -89.97071100001261,
+      36.564780999843265
+    ]
+  ]
+}

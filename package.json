@@ -1,0 +1,20 @@
+{
+  "name": "byways",
+  "version": "0.0.0",
+  "description": "Content of the closed `byways.org` website hosted at [scenicbyways.info]",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": "git@github.com:code42day/byways.git",
+  "author": "Damian Krzeminski <pirxpilot@code42day.com>",
+  "license": "MIT",
+  "dependencies": {
+    "wintersmith": "~2",
+    "wintersmith-stylus": "~0",
+    "wintersmith-component": "0"
+  },
+  "devDependencies": {
+    "jshint": "~2",
+    "component": "~0"
+  }
+}

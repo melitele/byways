@@ -1,0 +1,38 @@
+{
+  "template": "byway.jade",
+  "id": "2022",
+  "name": "Cedar Breaks Scenic Byway (U-148)",
+  "distance": "6",
+  "duration": "10 minutes",
+  "description": "Although only 6 miles long, this route is filled with color, from the flowered meadows of the Dixie National Forest to the multi-colored rock amphitheatres of Cedar Breaks National Monument.",
+  "fullDescription": "<p>Driving up the high elevated, winding road, travelers can take their time and take in the color and character of this byway. From the flowered meadows of the Dixie National Forest to the multi-colored rock amphitheater of Cedar Breaks National Monument, Byway U-148 is a spectacular site. Stopping on a clear day at one of the many scenic pullovers one can see for a hundred miles, across the Escalante Desert to the Great Basin and western Nevada. Sunsets are best seen over the amphitheater in the Cedar Breaks National Monument. As the last rays of sun illuminate over the brillant red rock, one is filled with awe. Small animals and large alike are common pedestrians along the byway in the early morning and late evening. Of these, the most frequently seen is the mule deer.</p>",
+  "contact": "**[Cedar Breaks National Monument](http://www.nps.gov/cebr/)**  \r\nDixie National Forest  \r\n435-586-9451  \r\n<br />\r\n**[Dixie National Forest](http://www.fs.fed.us/r4/dixie/index.shtml)**  \r\n435-865-3700",
+  "path": "qhidFvhuoTmHnDcC|AeBfCqI`OsAtDs@fAoA~@iBr@mDl@aBBk@RoQ`OqDfCcIlEiAXyCb@sPfFiEt@}z@fGe[pBmENsAa@e@{@SwAn@ol@QgBcAyCgEmGkDwD_DsAwImBiEsBmBsDoBuMSiEKeFIaAc@eCyAwCu@{@cAm@wJaEkDqAu@Qm@D{BvAy@ZyA?iAUqEyBeB]}FGkAq@g@aBg@yF_AgF[mGm@eBq@[w@Oy@NqGlG{@|Aq@jBeCfK_AxAsApAqDfC_FfDqF`DoC\\sAKoAc@iA{@q@mA[mAOkA?sKCuAQ}@yEaNeB{Du@sAyAaA_A_@sDIuKHsF]uIp@_ASyAy@cBq@a@Gk@L}EdCwYQc@Dk@ZU\\[p@wAtF_A~Ag@ZeA^m@B_Hy@}@LUJ}DbFyBxB",
+  "websites": [
+    {
+      "url": "http://www.nps.gov/cebr/index.htm",
+      "name": "Cedar Breaks National Monument"
+    },
+    {
+      "url": "http://www.fs.fed.us/r4/dixie/index.shtml",
+      "name": "Dixie National Forest"
+    }
+  ],
+  "states": [
+    "UT"
+  ],
+  "ll": [
+    -112.83611300000001,
+    37.57209
+  ],
+  "bounds": [
+    [
+      -112.85090599999995,
+      37.57209
+    ],
+    [
+      -112.82135,
+      37.65436200000005
+    ]
+  ]
+}

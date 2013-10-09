@@ -1,0 +1,37 @@
+{
+  "template": "byway.jade",
+  "id": "10250",
+  "name": "Route 151--Shasta Dam Boulevard",
+  "distance": "3",
+  "duration": "10 minutes",
+  "description": "Located between Shasta Dam and Summit City, this State Scenic Highway, which curves along the slope of a ridge, provides views of the Sacramento River, Shasta Lake and distant hills.",
+  "fullDescription": "<p>The \"Three Shastas\" include the gigantic Shasta Dam, the vivid blue waters of Shasta and, in the distance, the snow-capped peak of Mt. Shasta.  The dam, with the highest overflow spillway in the world, forms Shasta Lake--the largest reservoir in the state, with 30,000 surface acres and 370 miles of shoreline.</p>",
+  "path": "eihwFzrwiVi@rCOlBDj\\{@hy@InAoAlH?nOKrJqAbLu@xCsBxEwBrCcDlDm@|@kC|Hk@~Ca@xEAfDJhGEpCSxAe@zAcAhBcA`Ao@^cH~BcBx@sAfAsAlBo@|A_@fAg@tCaAlMO`KYlCo@tCWvBKbOSdG_BzNu@|FGpBXnBr@vA|@r@~BdAhA`BRdAtAlMlBnDf@rAVjBAjBa@lBo@nAe@h@sFxDe@fAGxAh@nE?~CYjCe@lAg@l@o@j@gJ`FuA@mH{Ag@Au@Ns@jAOdABdAt@fDhBtGh@x@lCrBd@l@^dAHj@?`ASdC_@vAe@z@cAdA_Bd@o@@{Z{EyAIcDHoAIm@Ys@s@k@_@y@Ei@Ho@XgDdDsE`C_AFo@Mc@]o@iAOyAFcBXiAv@qAhDkDb@u@XqA?gAIk@Y{@uLiPs@yAK}@?mA^yAr@gBNwA?gAIk@_@gA_@w@c@g@oAs@sEaA}BkBw@Mq@?cAd@s@fAUrB?fCIlAUj@cA`AeAP}AEoAM{CkAq@Ay@FaCv@",
+  "websites": [
+    {
+      "url": "http://www.visitcalifornia.com/Explore/Shasta-Cascade/",
+      "name": "Shasta Cascade Region"
+    },
+    {
+      "url": "http://www.shastalake.com/shastadam/",
+      "name": "Shasta Lake"
+    }
+  ],
+  "states": [
+    "CA"
+  ],
+  "ll": [
+    -122.35069299999998,
+    40.68003800000008
+  ],
+  "bounds": [
+    [
+      -122.426041,
+      40.68003800000008
+    ],
+    [
+      -122.35069299999998,
+      40.71365000000009
+    ]
+  ]
+}

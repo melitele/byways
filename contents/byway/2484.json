@@ -1,0 +1,46 @@
+{
+  "template": "byway.jade",
+  "id": "2484",
+  "name": "Dead Horse Mesa Scenic Byway",
+  "distance": "35",
+  "duration": "30 minutes minimum, but 2-3 hours recommended to enjoy the state and national parks.",
+  "description": "The view from Dead Horse Point looks down on the oft-photographed panorama of the Colorado River Canyon.",
+  "fullDescription": "<p>The view from Dead Horse Point looks down on the oft-photographed panorama of the Colorado River Canyon.</p>",
+  "contact": "**Moab Information Center**  \n 435-259-1370 or 800-635-6622  \n 800-635-6622  \n\n",
+  "path": "styhF~jo}S_Ds@qDf@q@EaB{AgBaDeAkAmBs@cDyBqEQwAm@_CgBmDcB{CuCgBWsCkAcCN?AkNrA_BzA{GrKiAv@o@LoA?{F}@oD[sBDgEXoBXsA@i@S}CaD_@KwADg@RcCpBs@EwBV_A`Ay@pBsCtFcFxCiDnDmBPe@Rg@lA[jBc@~Ai@fAe@~@i@r@s@PeD_AeF`ByEJwDzAeBh@}CRaDDoCZiDjAgGpCwBl@uBXuD?}Z_A}@S_Ai@mDaDi@_@q@S_@A}Df@wCQyAd@_FdDeBxCu@l@gMxBi@EwDeBiBg@m@?kAX_Af@gGjFqJ`GgDzBe@p@wA`Au@?}Bg@kBXkEpBgDrCq@^y@Os@_@g@aAg@eBa@g@g@SgCDuJh@a@JmA|@u@lA}@~@mD~BuAZgBQyAu@eAY}CfAiAe@_BgAc@M_@?i@Lo@x@c@r@o@f@}@^kBPcA?wBQcBe@kAs@sBsBqEoHa@qAg@cCeAoAo@}B_AcAu@gAg@aCO_@m@i@sAa@g@m@SeAc@uD?oAXuBI_Be@yBO{C}@eC[[YWgBSaBk@mAV_AEYOQYeAoDa@_@_@Ms@OeAAm@a@o@wAyAm@yBeCsAkDmBaB_AYoBMs@]_BaBiAk@qFi@cA]uBgBsAcB}DaDuJcHwHsEwC_C{Ag@_KkB_Bm@wEcCiEyAoKcBuA_@cCqAgE{CgFcCeBoAy@_AqAyBeFoLmAyAo@_@uCaAwMe@oBk@yA}@yR_RwCgEoE{HcAwBiPmg@k@qA}AyBgCcC{@k@}@a@}C_AuCe@gDWiBHmTtB_CEe@KsAy@mDmEi@a@m@SaAEcAd@sA`A}@d@eAD}DcA}Ec@}EkByAYsBKcCx@oCfB}C|AcCLqBSuAk@mBmBiCaDu@e@cAWm@GkADmEdAaDR{BEaDq@w]mJiBy@s@o@eL{OcFgHmHoLsBqCcAaAoa@}_@y@a@_Be@c@CiBPiu@|NeYjFyAJcES{q@oNekF}eAof@gJuCg@{MgAsTL??ge@d@_BXkKxE}@T_CVmDYeA_@qRgKqAc@}B[_B?yVlBgC\\s@Rs@ToAx@yCxCcBdAgJdCyMpKeIpDcCjBoA`B{Ufa@cFjG{DdDiDzBmyAv{@qExBoDt@}BNaMq@sC?kKXqBMoCq@smAoi@}FmCwA_AmB_Ca@_A{@mCa@yDKaHIyB_@gCYmAy@eBs@aAyAuAwLcJsAeBi@mA}F}QqA_DmEiHgP{V_BaDc@yASqAEoA?sBRcFZaD^uBjEyLjA{Dh@aF_Ck|@_DqfAg@__@IsCOkAc@aBu@kBe@w@yAsA}EgDi@g@aAqA{@{BYeASuBu@q[e@_DcAwCiR__@}FuPY{AIeBLyCTiAtDgKLoAKoAMe@i@s@UScAQ{@Pw@n@Q^m@|Ce@bEY|COfGWlAqArDi@~Cc@dMKj@_@f@o@Pa@Qa@i@Is@@_AVsCCkAu@sGJsCt@_GFuB@iOlAoU?yAUyC]yAw@_CkB}EiB_DoAeA{JmDoBaA}AoAgHuLuLoQgB{Ck@{BsBsQiAgDeP_Xig@g{@}A{CoAgDuMk`@}AaCyDmDy@sAYeA",
+  "websites": [
+    {
+      "url": "http://www.nps.gov/arch/index.htm",
+      "name": "Arches National Park"
+    },
+    {
+      "url": "http://www.nps.gov/cany/index.htm",
+      "name": "Canyonlands National Park"
+    },
+    {
+      "url": "http://www.discovermoab.com/",
+      "name": "Moab: Where Adventure Begins"
+    },
+    {
+      "url": "http://www.utah.com/stateparks/dead_horse.htm",
+      "name": "Utah! Travel and Adventure"
+    }
+  ],
+  "states": [
+    "UT"
+  ],
+  "ll": [
+    -109.85663499999993,
+    38.311304000000064
+  ],
+  "bounds": [
+    [
+      -109.87020899999993,
+      38.311304000000064
+    ],
+    [
+      -109.6866,
+      38.672379000000035
+    ]
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "panoramio",
+  "dependencies": {
+    "code42day/jsonp": "0.0.1"
+  },
+  "scripts": [
+    "index.js"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "template": "byway.jade",
+  "id": "73593",
+  "name": "SC-46 Scenic Highway",
+  "distance": "8.97",
+  "description": "A smooth, relaxing drive awaits through overhanging trees and beautiful foliage along the SC-46 Scenic Highway.",
+  "path": "yt{cE`snlNxNvBnFdAhPzD~RzFTRP\\dAEjM~Dfz@jR^d@Np@c@pR|@|WCrDa@xIwAvRk@rEaEbWcCdQoCdPmDxUOlEHjCf@~DlAlDnTle@vCfF`IjQ|DxH|R~a@z@lC^rCL~B?~BsDjt@{Crq@[lE}@|SsBl`@mKp_AoAlJmDhZeIjt@_CtZ_AtI}Nv}@Q^c@fCe@fB]PELC^N\\Q`C}D~ZwGfo@yAtOCdDLrCbCjV^vBnA|DhBdDrG`Iz[~^lClFxSdi@",
+  "websites": [
+    {}
+  ],
+  "states": [
+    "SC"
+  ],
+  "ll": [
+    -80.85312699999992,
+    32.25949900000006
+  ],
+  "bounds": [
+    [
+      -81.01917999999995,
+      32.23012200000005
+    ],
+    [
+      -80.85312699999992,
+      32.25949900000006
+    ]
+  ]
+}

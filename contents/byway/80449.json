@@ -1,0 +1,28 @@
+{
+  "template": "byway.jade",
+  "id": "80449",
+  "name": "Bayshore Heritage Byway",
+  "distance": "123.98",
+  "description": "Enjoy stunning views of the Delaware River and Bay, farm land, historic architecture and wildlife along the Bayshore Heritage Byway. This 123.98 mile byway runs through Salem, Cumberland and Cape May Counties.",
+  "path": "wfimFtfdhMv`Awa@p_@mDfQrCpM|A~JuEtZoq@|Moc@bhAbs@~XfWvPtTvc@dRzQjIfO`Fh^dVpH`MpGhVd\\fYzKvJb]fUpRcBjQbDhU`G`m@~Kli@rSjM~F~Uy@bMv@am@n`Ebo@|ArPsH",
+  "websites": [
+    {}
+  ],
+  "states": [
+    "NJ"
+  ],
+  "ll": [
+    -74.90170491256566,
+    39.04636128462332
+  ],
+  "bounds": [
+    [
+      -74.96206576456379,
+      38.93179840140323
+    ],
+    [
+      -74.88149018146105,
+      39.04636128462332
+    ]
+  ]
+}

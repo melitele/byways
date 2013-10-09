@@ -1,0 +1,42 @@
+{
+  "template": "byway.jade",
+  "id": "2490",
+  "name": "International Selkirk Loop - Idaho",
+  "distance": "78.1",
+  "duration": "Two hours to drive the Idaho part of the byway",
+  "description": "Receding glaciers carved this landscape. Encounter many opportunities to view wildlife at the area’s reserves and wildlife refuges. In 1809, explorer Dave Thompson searched for a river course to the Pacific, while in 1864 thousands of prospectors traveled to British Columbia’s gold fields on what became known as Wild Horse Trail.",
+  "fullDescription": "<p>Receding glaciers carved this landscape. Encounter many opportunities to view wildlife at the area’s reserves and wildlife refuges. In 1809, explorer Dave Thompson searched for a river course to the Pacific, while in 1864 thousands of prospectors traveled to British Columbia’s gold fields on what became known as Wild Horse Trail.</p>",
+  "contact": "**[International Selkirk Loop](http://www.selkirkloop.org)**  \r\n 888-823-2626  \r\n 208-267-0822  \r\n [Send E-mail](mailto:selkirkloop@verizon.net )  \r\n\r\n",
+  "path": "w|aeHrhjiUAQCyKK_AIg@Ma@Sk@CK[cAiJ{\\oAaGo@sFMoCE_CH{BP}CjDw]fIwu@rDeg@fBmYt@uRh@eDdAoDrC_IlAsEn@{Cn@yE^uH\\ur@IoPYgL_A}VU{LCeDRa_BDczAD{T?kd@TwdCA__@Fip@Eqb@DeCLsBj@{DlAiFh@qAdKiS`C{FpEgM`Tqx@zA_FvAaEdBmEzBsEjAwBpEaHdDgEdtBmhCxA_Cx@qBhAmDd@iBb@kCXkCT{GEgDSaEe@aDiB{HgCwGsUck@iCyJUgAsAsLs@qM[{PmD_hAScIMkLOsCe@aEiDiRgJmj@i@mCc@mBeAyCkSki@_E}KyBoHkQox@wQa|@gJmb@cE}O}CoJs`@ycAoCwGgFiJcHoJ_HwGg`@m]{RgMkJaE}Ag@sB]yDQkEDeAN}WbGwJpBcDLqC_@s@W{KaGsBg@gZa@eBQwBm@sCwA_BgAsA}AeLwQeBmBgBsAoVmNiCaBwAmAuBaC_JwLgCcEiOoXeDgF_CyBeJ_EeBgAwGsHyAaAcEsBaS_EeFm@_LaCyN_CaJyC}[qQgCkC_B_Ds@gBcHwW}EcPwUos@yBeIi@mEOuCIyFvGso@^gDx@cFXoAbHqShN_`@h@wB~@aFlA}I^aJNkKIe\\Uml@SgkAOcUQmG{@cJMaEJkC~@yDvDwI^qBN{ABeFSsBm@kC{AeDu@aB}@}Ba@qAWeAe@}C_AkHq@mFsDuWoBwImCyJmCyHgJkViUik@uE_MiPka@cHqRqKsX_@aAiBmEyDiKs@uC{GgP{AqEE_@Au@@sGK{f@aCBm@?}CCaGDA|DDf\\sVH}A[i@_@uBg@_Ms@qJReQ`AcBG}BeBo@sAe@mBm@kEyBGs@MyAw@sCeCcBu@yGcAkXaD_AU_SeIsCe@gCE}[DuHGcWFwl@Gsb@XyDj@}FzBcDfBmBv@gBTi[Gs`@a@ojBcAiUYiaA[qO_@gEs@_UyJgVsDsI{C_KeFsc@oRaMwG}RgOqGsG{MuQoB_CiAy@eBs@{IoB}By@eOsKuEyC_C{C_AwAy@yBo@uBwGmVmAmCqAmBsAyAsDmCcA_AsAgBcAqBu@iCqH}]mGeU}AyEsC{HwI{PgFuHwEgI_D_D}CsB_SgJe_@oOsBkAewAe_Aib@kXsCyAotEeoBwAu@apAa~@oDsBwUoJgl@uMcD[_Q@}DGgAKoAk@iAu@o@}@_AuA}CsG{@wA_EaEeAw@oA{AkKoJsCeDuEsIeEuJi@aAqHkKsTgYaJuKwImLkLcO}FeHqDaFiv@}aAeBaBcBqAoL{Hw`A}m@oN_K",
+  "websites": [
+    {
+      "url": "http://www.fs.fed.us/ipnf/index.html",
+      "name": "Idaho Panhandle National Forests"
+    },
+    {
+      "url": "http://www.selkirkloop.org/",
+      "name": "International Selkirk Loop"
+    },
+    {
+      "url": "http://www.idahobyways.gov/byways/wild-horse.aspx",
+      "name": "Wild Horse Trail Scenic Byway"
+    }
+  ],
+  "states": [
+    "ID"
+  ],
+  "ll": [
+    -117.03961500023195,
+    48.183967999923425
+  ],
+  "bounds": [
+    [
+      -117.03961500023195,
+      48.14783900026981
+    ],
+    [
+      -116.39402221735128,
+      48.565072722228535
+    ]
+  ]
+}

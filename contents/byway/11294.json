@@ -1,0 +1,34 @@
+{
+  "template": "byway.jade",
+  "id": "11294",
+  "name": "Dry Creek Scenic Road",
+  "distance": "6.5",
+  "duration": "Take about two hours to enjoy this road ",
+  "description": "This scenic route takes visitors through Red Rock Country and the Great Basin Conifer Woodlands.",
+  "fullDescription": "<p>The Dry Creek Scenic Road was designated on May 13, 1992, by the Arizona Department of Transportation. This route offers superb views of Red Rock Country. Panoramic views provide a focal point along the route and create many opportunities for scenic viewing and picture snapping. The dark, dense evergreen trees of the Great Basin Conifer Woodlands contrast distinctively with the red soil. An occasional glimpse of the Colorado Plateau and the snowcapped San Francisco peaks form an outstanding background to the red and white sandstone cliffs.</p>\r\n",
+  "contact": "**Post Rock Scenic Byway Committee**  \n 785-525-6288  \n [Send E-mail](mailto:lucascoc@wtciweb.com )  \n\n",
+  "path": "w{asE`fhkTKsENk@X[t@QlC@h@SXo@d@eC?gAIe@Kc@a@g@aAaAqAo@{DuCuFiLgGgIOk@Ay@Ne@T[TQr@?RFdB~BbBj@NPl@`BNzBTdAhAxB|BfDnAvAvH`DpIxEZ@\\S?q@kA{A_JsJ_@mAy@uIcCmJwBoD_ByDiCmF_AeE_@gAqGuJsB}DcE}IcA_DoByHs@{@sAs@i@e@Um@Ik@KsB]s@cAgAO]u@sDoAyA{BgA{@q@kAaBw@_CiCoKo@qFmAoFAgCQ_DuC{NDoIxBgw@UiDU_B}@mCoAqBcAiAsA_AaCiAa@y@Cm@x@eCfAcCnIeL~j@}s@jGuHnh@sp@`~@w`A|CoEnC{FdTwh@nBcFn@yB^eBXmE@c_A|E_BpCoAlGeEfCgCxGgHnCeDjAeB~AcEl@wDd@{EFsD?wTPkZ]uNa@mEk@_Dk@uBsAkDy@aBoCsDwCgCmH}Eo@m@}fAit@iVkRwKyKmQqSqtCmwDq\\wb@mIcI}d@{WcDmBiCsBwG{GaCeDoFgJsAoB}DyDuDyB{Bs@oA]gG{@qG_BwBaAoI}E{[qRaDqAcEs@mLe@qDo@qDwAusDo~BwEaDiB{AoBqCsBuDcBsEiAgG}D_k@o@gLImE?}RIsJo@uDw@mCkRwd@gJeScAeEYiBOqB?mBJ_CzDy]NeCIsBi@mCcFuM]qBKoBHmCtAsHb@wEAsCSsBYiBs@wBcCyEwBiFoBuHsGuZmCiImFaLgFgIwFsGwIuHaM{HiF_FmBsCw@_@oDgHcCyFs@uBiAmF_AaIwF_cAi@gMOuIo@uOMy@AqBJiFt@aPVqB~@cPh@aG^uHx@sKDaFU_DwA{G{BmE{IcOmHsMsAuDc@yCEyBHgEpAeIjEwTHuACyBOs@y@mC_AiAiAy@{ImC_EeB",
+  "websites": [
+    {
+      "url": "http://www.arizonascenicroads.com",
+      "name": "Arizona Scenic Roads"
+    }
+  ],
+  "states": [
+    "AZ"
+  ],
+  "ll": [
+    -112.11376999999999,
+    34.74892000000011
+  ],
+  "bounds": [
+    [
+      -112.11376999999999,
+      34.72122999999999
+    ],
+    [
+      -111.760986,
+      34.86973999999998
+    ]
+  ]
+}
