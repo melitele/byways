@@ -10,6 +10,8 @@ mixin bywaysList(name, byways)
 
 
 block body
+  section.announcement.
+    Read about byways.org unexpected closure and what we are doing in response <a href="/about.html">here</a>
   include searchbox
   - var byways = contents["byway"]._.pages;
   - var states = byways.reduce(function(states, b) {
