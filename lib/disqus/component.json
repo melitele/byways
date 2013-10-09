@@ -3,6 +3,9 @@
   "local": [
     "load"
   ],
+  "dependencies": {
+    "code42day/dataset": "0.2.2"
+  },
   "scripts": [
     "index.js"
   ]
