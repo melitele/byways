@@ -1,3 +1,9 @@
+mixin stateList(states)
+  ul.flat-list
+    for id in states
+      - var state = contents.state[id + '.json'];
+      li: a(href=state.url)= state.metadata.name
+
 extends layout
 
 block title
@@ -14,6 +20,7 @@ block body
         span= page.metadata.distance
         span= ' miles - '
         span= page.metadata.duration
+        +stateList(page.metadata.states)
     .description
       .photos(display='none')
         figure.photo

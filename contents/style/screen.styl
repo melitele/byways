@@ -118,6 +118,7 @@ body > footer
 .states,
 .byway-list
   padding 1em
+  font-title()
 
 .byway-list
   background-color $primary-1
@@ -135,13 +136,21 @@ body > footer
 
   header
     margin-bottom 1em
+    clearfix();
 
     h1
       font-size 1.2em
 
+    p,
+    .flat-list
+      font-size .8em
+      display inline-block
+
     p
       font-style italic
-      font-size .8em
+
+    .flat-list
+      float right
 
   .photos
     margin 1em auto
