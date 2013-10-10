@@ -1,15 +1,6 @@
 @import 'nib'
-@import 'grid'
-
-column-width = 80px
-gutter-width = 20px
-columns = 12
-
-// force fluid layout - remove total-widht declaration for static layout
-total-width = 100%
 
 $footer-height=40px
-
 
 // #####  Color Palette by Color Scheme Designer
 // #####  Palette URL: http://colorschemedesigner.com/#3B21CrXrbcOvy
@@ -127,6 +118,7 @@ body > footer
 .states,
 .byway-list
   padding 1em
+  font-title()
 
 .byway-list
   background-color $primary-1
@@ -144,13 +136,21 @@ body > footer
 
   header
     margin-bottom 1em
+    clearfix();
 
     h1
       font-size 1.2em
 
+    p,
+    .flat-list
+      font-size .8em
+      display inline-block
+
     p
       font-style italic
-      font-size .8em
+
+    .flat-list
+      float right
 
   .photos
     margin 1em auto
@@ -251,7 +251,7 @@ body > footer
   margin 1em auto 0
 
 .searchbox
-  margin 1em auto 0
+  margin 1em auto
   max-width 700px
 
   $button-width=6em
@@ -308,10 +308,6 @@ body > footer
     clearfix()
     padding-top 4em
     padding-bottom 4em
-
-  .byway-list
-    column(6)
-    margin-bottom 1em
 
   .byway
     .photos
