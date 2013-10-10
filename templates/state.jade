@@ -1,0 +1,15 @@
+extends layout
+
+mixin bywaysList(name, byways)
+  - function bywayMeta(id) { return contents.byway[id + '.json'].metadata; };
+  section.byway-list
+    header
+      h2= name
+    ul.flat-list
+      for id in byways
+        li: a(href="/byway/#{id}.html")= bywayMeta(id).name
+
+
+block body
+  include searchbox
+  mixin bywaysList(page.metadata.name, page.metadata.byways)

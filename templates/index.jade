@@ -1,7 +1,7 @@
 extends layout
 
 mixin bywaysList(name, byways)
-  section.byway-list(id="bl-#{name}")
+  section.byway-list
     header
       h2= name
     ul.flat-list
@@ -13,19 +13,11 @@ block body
   section.announcement.
     Read about byways.org unexpected closure and what we are doing in response <a href="/about.html">here</a>
   include searchbox
-  - var byways = contents["byway"]._.pages;
-  - var states = byways.reduce(function(states, b) {
-  -   b.metadata.states.forEach(function(state) {
-  -     states[state] = states[state] || [];
-  -     states[state].push(b);
-  -   });
-  -   return states;
-  - }, {});
-  - var stateNames = Object.keys(states).sort();
+  - function compare(a, b) { return a.metadata.name.localeCompare(b.metadata.name); };
+  - var byways = contents["byway"]._.pages.sort(compare);
+  - var states = contents["state"]._.pages.sort(compare);
   section.states
     ul.flat-list
-      for name in stateNames
-        li: a(href="\#bl-#{name}")= name
-  for name in stateNames
-    mixin bywaysList(name, states[name])
+      for state in states
+        li: a(href=state.url)= state.metadata.name
   mixin bywaysList('United States', byways)
