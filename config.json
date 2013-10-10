@@ -5,6 +5,16 @@
     "siteDescription": "Descriptions, maps and links to related information for over 800 America's most scenic roads.",
     "url": "http://scenicbyways.info",
     "furkotUrl": "https://trips.furkot.com",
+    "google_maps_geometry": "//maps.googleapis.com/maps/api/js?v=3.12&sensor=false&libraries=geometry",
+    "js": "min.js",
+    "colors": {
+      "All-American Road": 360,
+      "National Scenic Byway": 230,
+      "National Forest Scenic Byway": 140,
+      "Parkway": 170,
+      "BLM Back Country Byway": 70,
+      "other": 40
+    },
     "version": "1.2.0"
   },
   "plugins": [

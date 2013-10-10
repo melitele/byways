@@ -7,9 +7,23 @@ mixin bywaysList(name, byways)
       h2= name
     ul.flat-list
       for id in byways
-        li: a(href="/byway/#{id}.html")= bywayMeta(id).name
+        - var byway = bywayMeta(id);
+        li: a(href="/byway/#{id}.html")= byway.name
+        - if (byway.ll) {
+        -   byway_data.push({short_id: id, steps: [{coordinates:{lon: byway.ll[0], lat: byway.ll[1]}, polyline: byway.path}]});
+        -   byway_colors[id] = (byway.designations && locals.colors[byway.designations[0]]) || locals.colors.other;
+        - }
 
 
 block body
+  - var byway_data = [], byway_colors = {};
   include searchbox
   mixin bywaysList(page.metadata.name, page.metadata.byways)
+
+  .map
+    #trip-map
+    script var tripshots_data = !{JSON.stringify(byway_data)};
+    script(src='#{locals.google_maps_geometry}')
+    script var tripshot_colors = !{JSON.stringify(byway_colors)};
+    script(src=locals.furkotUrl + "/ui/script/tripshot-map." + locals.js, defer)
+    
