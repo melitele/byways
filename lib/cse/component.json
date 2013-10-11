@@ -1,9 +1,0 @@
-{
-  "name": "cse",
-  "local": [
-    "load"
-  ],
-  "scripts": [
-    "index.js"
-  ]
-}
