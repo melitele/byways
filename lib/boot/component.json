@@ -1,8 +1,8 @@
 {
   "name": "boot",
   "dependencies": {
-    "code42day/cse": "*",
-    "code42day/disqus": "*",
+    "code42day/cse": "1.0.0",
+    "code42day/disqus": "1.0.0",
     "code42day/ga": "1.0.0"
   },
   "local": [
