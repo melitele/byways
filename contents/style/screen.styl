@@ -68,15 +68,18 @@ body > header
   position relative
   width 100%
   background-color $primary-2
+  transition all .3s ease-in-out
+
   hgroup
     a:hover
       text-decoration none
     h1
+      transition font-size .3s ease-in-out
       color white
       text-transform uppercase
-      font-size 2em
+      font-size 32px
       letter-spacing .2em
-      line-height 1em
+      line-height 1
 
     h2
       text-transform lowercase
@@ -125,7 +128,7 @@ body > footer
   margin-bottom 1em
 
   header
-    font-size 1.2em
+    font-size 20px
     margin-bottom .5em
 
 
@@ -281,6 +284,12 @@ body > footer
 
     &:hover, &:active
       background-color $secondary-3
+
+.over
+  box-shadow 0 2px 4px rgba(black, .5)
+
+  hgroup h1
+    font-size 18px
 
 // layout
 
