@@ -17,6 +17,9 @@
     },
     "version": "1.2.0"
   },
+  "require": {
+    "template": "./lib/template"
+  },
   "plugins": [
     "./node_modules/wintersmith-stylus/",
     "./node_modules/wintersmith-component/"
