@@ -1,7 +1,7 @@
 {
   "name": "panoramio",
   "dependencies": {
-    "code42day/jsonp": "0.0.1"
+    "code42day/jsonp": "1.0.0"
   },
   "scripts": [
     "index.js"
