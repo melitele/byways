@@ -14,10 +14,13 @@ block body
     Read about byways.org unexpected closure and what we are doing in response <a href="/about.html">here</a>
   include searchbox
   - function compare(a, b) { return a.metadata.name.localeCompare(b.metadata.name); };
-  - var byways = contents["byway"]._.pages.sort(compare);
-  - var states = contents["state"]._.pages.sort(compare);
+  - var designations = [ 'All-American Road', 'National Scenic Byway', 'Parkway', 'National Forest Scenic Byway', 'BLM Back Country Byway', 'Other Scenic Roads' ];
+  - var byways = template.bywaysByDesignation(contents.byway._.pages.sort(compare), designations);
+  - var states = contents.state._.pages.sort(compare);
   section.states
     ul.flat-list
       for state in states
         li: a(href=state.url)= state.metadata.name
-  mixin bywaysList('United States', byways)
+  for dsg in designations
+    mixin bywaysList(dsg, byways[dsg])
+  
