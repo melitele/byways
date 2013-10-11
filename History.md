@@ -1,4 +1,11 @@
 
+1.3.0 / 2013-10-11 
+==================
+
+ * Display byways by designation on main page
+ * Add map to state pages
+ * Add byway designations
+
 1.2.0 / 2013-10-10 
 ==================
 
