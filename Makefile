@@ -1,5 +1,6 @@
 PROJECT=byways.org
 BUILD_DIR = /var/www/$(PROJECT)
+BUILD_SCRIPT = $(BUILD_DIR)/build/build
 
 BIN_DIR=./node_modules/.bin
 WS=$(BIN_DIR)/wintersmith
@@ -17,6 +18,7 @@ clean:
 
 build: | $(BUILD_DIR) components
 	$(WS) build --output $(BUILD_DIR)
+	$(BIN_DIR)/uglifyjs --mangle --no-copyright --compress --output $(BUILD_SCRIPT).min.js $(BUILD_SCRIPT).js 
 
 preview:
 	$(WS) preview

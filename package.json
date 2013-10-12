@@ -11,7 +11,8 @@
   "dependencies": {
     "wintersmith": "~2",
     "wintersmith-stylus": "~0",
-    "wintersmith-component": "0"
+    "wintersmith-component": "0",
+    "uglify-js": "~2"
   },
   "devDependencies": {
     "jshint": "~2",
