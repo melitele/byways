@@ -1,7 +1,7 @@
 extends layout
 
 mixin bywaysList(name, byways)
-  section.byway-list
+  section.byway-list(data-color=locals.colors[name])
     header
       h2= name
     ul.flat-list
