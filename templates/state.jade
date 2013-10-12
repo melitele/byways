@@ -11,7 +11,7 @@ mixin bywaysList(name, byways)
         li: a(href="/byway/#{id}.html")= byway.name
         - if (byway.ll) {
         -   byway_data.push({short_id: id, steps: [{coordinates:{lon: byway.ll[0], lat: byway.ll[1]}, polyline: byway.path}]});
-        -   byway_colors[id] = (byway.designations && locals.colors[byway.designations[0]]) || locals.colors.other;
+        -   byway_colors[id] = (byway.designations && locals.colors[byway.designations[0]]) || locals.colors['Other Scenic Road'];
         - }
 
 

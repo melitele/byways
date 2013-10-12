@@ -17,7 +17,7 @@ block body
   section.us-map
 
   - function compare(a, b) { return a.metadata.name.localeCompare(b.metadata.name); };
-  - var designations = [ 'All-American Road', 'National Scenic Byway', 'Parkway', 'National Forest Scenic Byway', 'BLM Back Country Byway', 'Other Scenic Roads' ];
+  - var designations = [ 'All-American Road', 'National Scenic Byway', 'Parkway', 'National Forest Scenic Byway', 'BLM Back Country Byway', 'Other Scenic Road' ];
   - var byways = template.bywaysByDesignation(contents.byway._.pages.sort(compare), designations);
   - var states = contents.state._.pages.sort(compare);
   section.states
