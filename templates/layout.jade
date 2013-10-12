@@ -26,6 +26,7 @@ html(lang='en')
         li Powered by <a href="http://wintersmith.io" rel="external" target="_blank">Wintersmith</a>
 
     block scripts
-      script(src='/build/build.js?v=#{locals.version}')
+      - var min = (env.mode == 'preview') ? '' : '.min'
+      script(src='/build/build#{min}.js?v=#{locals.version}')
       script.
         var boot = require('boot');
