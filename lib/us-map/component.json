@@ -1,0 +1,13 @@
+{
+  "name": "us-map",
+  "dependencies": {
+    "code42day/dataset": "0.2.2",
+    "code42day/maps": "*"
+  },
+  "local": [
+  ],
+  "scripts": [
+    "index.js",
+    "styles.js"
+  ]
+}

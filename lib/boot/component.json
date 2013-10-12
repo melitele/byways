@@ -6,7 +6,8 @@
     "code42day/ga": "1.0.0"
   },
   "local": [
-    "panoramio"
+    "panoramio",
+    "us-map"
   ],
   "scripts": [
     "index.js"
