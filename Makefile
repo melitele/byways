@@ -1,6 +1,6 @@
 PROJECT=byways.org
-BUILD_DIR = /var/www/$(PROJECT)
-BUILD_SCRIPT = $(BUILD_DIR)/build/build
+BUILD_DIR?=/var/www/$(PROJECT)
+BUILD_SCRIPT=$(BUILD_DIR)/build/build
 
 BIN_DIR=./node_modules/.bin
 WS=$(BIN_DIR)/wintersmith
