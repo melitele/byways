@@ -5,7 +5,13 @@
   "distance": "8.3",
   "description": "Named for a large tract of granite used as a Cherokee ceremonial site, the Historic Flat Rock Scenic Byway travels through eight miles of North Carolina’s architectural, religious, and recreational history and offers an impressive view of Glassy Mountain.",
   "fullDescription": "<p>Named for a large tract of granite used as a Cherokee ceremonial site, the Historic Flat Rock Scenic Byway travels through eight miles of North Carolina’s architectural, religious, and recreational history and offers an impressive view of Glassy Mountain. Take in the site of several immaculate homes left by wealthy plantation owners seeking a relaxing community in Flat Rock, a mountain neighborhood with unique architecture. Visit the St. John in the Wilderness Gothic revival church, built in 1836, and the Old Flat Rock Post Office, opened in 1839. Further on down the road you’ll see the Woodfield Inn, which has served as a popular retreat for over 150 years. Don’t miss the Carl Sandburg National Memorial Site, the home of one of America’s most renowned authors. </p>",
-  "path": "c}gvE`npvNh@m@n@iANs@@s@QaAcAsDCq@Vu@Bs@m@_I?kA`@sCNS\\MvHqAhAs@tGyGf@aA`B_En@y@jA{@|@eAdBuCx@qBN{@l@gLXmCx@wCfEuMZmB?e@k@mCgBmFSsA?sA`AmQIaB_@aBOc@wDgEgGyDcBgDwDoFkDeCqA_C{@{Dc@qCMuAZmETqC|DcSDy@sA{DoA_By@a@u@SqE}@i@a@a@mAy@mOWgBK_@]q@eAy@wDgAiAeAUk@S_AiDsYm@mHE}BTiBrAmCb@}A@mAWgB?mAtAkC^gAlAyI~AwE??yDbA}FvBmB`@iAD}C_@kMmCuBS}LhB??L|CEj@S`@y@fAcBj@e@^}DtK_C`JsDjG_I|Ki@`@mHlC_AJmCEiBUy@fBc@lBK~DMx@}E|IoA~AaHbFsCzBaJnJc@l@k@bCc@z@cDxDu@pA}@|B[pB",
+  "path": [
+    "c}gvE`npvNh@m@n@iANs@@s@QaAcAsDCq@Vu@Bs@m@_I?kA`@sCNS\\MvHqAhAs@tGyGf@aA`B_En@y@jA{@|@eAdBuCx@qBN{@l@gLXmCx@wCfEuMZmB?e@k@mCgBmFSsA?sA`AmQIaB_@aBOc@wDgEgGyDcBgDwDoFkDeCqA_C{@{Dc@qCMuAZmETqC|DcSDy@sA{DoA_By@a@u@SqE}@i@a@a@mAy@mOWgBK_@]q@eAy@wDgAiAeAUk@S_AiDsYm@mHE}BTiBrAmCb@}A@mAWgB?mAtAkC^gAlAyI~AwE",
+    "c~ivEfaevNL|CEj@S`@y@fAcBj@e@^}DtK_C`JsDjG_I|Ki@`@mHlC_AJmCEiBUy@fBc@lBK~DMx@}E|IoA~AaHbFsCzBaJnJc@l@k@bCc@z@cDxDu@pA}@|B[pB",
+    "c~ivEfaevNcEd@mHdB",
+    "uehvEz|dvNyDbA}FvBmB`@iAD}C_@kMmCuBS}LhB",
+    "iicvEhgavN_Al@o@|@_@`BEjDJfHEtAcAvAwHx@sAj@SZGx@DdEErAiDhYOz@k@lAsBrAyE|B}HlCoMlHyA`@_e@tGwBDuFm@kBGuA@sBXiA^wDjBoKnHcIr@y@T"
+  ],
   "websites": [
     {
       "url": "http://www.ncdot.org/travel/scenic/",
@@ -25,10 +31,10 @@
   "bounds": [
     [
       -82.50096099985012,
-      35.26337799979501
+      35.2477300003394
     ],
     [
-      -82.4418980001924,
+      -82.42308000024167,
       35.298381999729656
     ]
   ]

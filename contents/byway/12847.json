@@ -7,7 +7,12 @@
   "description": "This byway lets you access some of the most beautiful waterfalls in this region of the country. The route takes its name from Whitewater Falls, the highest waterfall east of the Rockies.",
   "fullDescription": "<p>This byway lets you access some of the most beautiful waterfalls in this region of the country. The route takes its name from Whitewater Falls, the highest waterfall east of the Rockies.</p>",
   "contact": "**[Cheoah Ranger District](http://www.cs.unca.edu/nfsnc/)**  \n 828-479-6431  \n\n",
-  "path": "y}huE|tiyNvBgBbBeAnCs@x@FdNzHzFvCdALjHJbBXpK~FtA~@r@t@fGfIr@fB`@jB?lAEdAs@rEAnAHn@^r@TXj@Xb@FbAE`HgBfGy@h@?rE`A^NxA~@h@lAJl@KzDJdBjI`Ll@vAd@nBHxB_@nGSvH^lBt@lB|BrErClE|HxB`@Z|H~CxA|@b@l@^x@|CbJrDlJxBfGjAlF|@fLnAfE`BjClIpGhD|BvAXtBm@v@Kt@Dd@NfAbA`AfDpB`LDfB]jC_@hB??Qv@IlAN~Ax@`A^XvBGrCgDn@QrBJj@j@\\dAJtBOdAb@~BvGtJpItIpIdD~BtBlAjChAfDdBdB|@?nASbE_EvBQzS~A|EPnPfCjD~@fHtE|GlJlFjElB`@fIx@dDg@vCiAvI{DxKgB|HEjPdC`HfBfB~Cd@~BHfAMxHh@`CxAzCl@lDEpAy@~CcBzBi@jAYzBD~BfAlCnAdArCr@n@?xAg@hAsArAsCh@eBPYp@c@x@On@LtB?bBe@vBkCnBcEdAkAlBy@~A?`Fd@pX`@tAVfCxA",
+  "path": [
+    "qabuExoqyNQv@IlAN~Ax@`A^XvBGrCgDn@QrBJj@j@\\dAJtBOdAb@~BvGtJpItIpIdD~BtBlAjChAfDdBdB|@?nASbE_EvBQzS~A|EPnPfCjD~@fHtE|GlJlFjElB`@fIx@dDg@vCiAvI{DxKgB|HEjPdC`HfBfB~Cd@~BHfAMxHh@`CxAzCl@lDEpAy@~CcBzBi@jAYzBD~BfAlCnAdArCr@n@?xAg@hAsArAsCh@eBPYp@c@x@On@LtB?bBe@vBkCnBcEdAkAlBy@~A?`Fd@pX`@tAVfCxA",
+    "erauE~sqyNh@iACq@e@UgAwAm@cBi@Wy@f@_BpDi@p@gAB_Ao@",
+    "qabuExoqyN??",
+    "y}huE|tiyNvBgBbBeAnCs@x@FdNzHzFvCdALjHJbBXpK~FtA~@r@t@fGfIr@fB`@jB?lAEdAs@rEAnAHn@^r@TXj@Xb@FbAE`HgBfGy@h@?rE`A^NxA~@h@lAJl@KzDJdBjI`Ll@vAd@nBHxB_@nGSvH^lBt@lB|BrErClE|HxB`@Z|H~CxA|@b@l@^x@|CbJrDlJxBfGjAlF|@fLnAfE`BjClIpGhD|BvAXtBm@v@Kt@Dd@NfAbA`AfDpB`LDfB]jC_@hB"
+  ],
   "designations": [
     "North Carolina State Scenic Byway"
   ],
@@ -15,8 +20,8 @@
     "NC"
   ],
   "ll": [
-    -82.95774799999992,
-    35.11277000000007
+    -82.99788452642665,
+    35.07753511526383
   ],
   "bounds": [
     [

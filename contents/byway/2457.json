@@ -7,7 +7,23 @@
   "description": "Pyramid Lake, sponsored by Native Americans, takes you to one of the largest desert lakes in the world. It is landlocked on the barren desert floor and its colors change from green, to turquoise, to deep blue. The lake is also a resting place for a variety of migrating waterfowl.",
   "fullDescription": "<p>Pyramid Lake, sponsored by Native Americans, takes you to one of the largest desert lakes in the world. It is landlocked on the barren desert floor and its colors change from green, to turquoise, to deep blue. The lake is also a resting place for a variety of migrating waterfowl.</p>",
   "contact": "**Pyramid Lake Rangers**  \r\n 775-476-1155  \r\n  \r\n**Pyramid Lake Museum**\r\n775-574-1088\r\n[Send E-mail](mailto:plakemuseum@powernet.net )",
-  "path": "{xyrFbm_yUbA]|e@oObJgDj@_@bHaEjDcCfj@me@nEiEjDgEhDqFlX{f@|E_KzH}RbAuBtBeD`DyCbGmDbCeBhCgClByCdPwYt@aAjDmD|I{PnAoD~@sD`@cDtAkTd@qDbAqFvC_KnrAuaEzBgGrBsE|CiFpEeGxCgDne@_e@pH{HbSiWfMuPvKcNpCaEnBeFbAoEf@sF\\mL\\_Df@gCzA{EvAmC~@qAxmA{qArUkVjFaG|HmI~CgFr@mBbAmDx@_GhAgM~@{FnAaFvAeEbAaClEyHzOkShBwCdBuDzBeHje@ghBvBaHjo@upBnAwElAgFbAcGxAuLbW{zBv[kpC`Fgc@ta@rD??ys@yGyg@gFyAk@e@e@k@{@uBaGy@eB}AgAc@S{@QeC?i]lBcDv@_CfAcAl@mC`CyCjE{MnV{DfG}Y~YsB~BufAh~AcBfDy@lBoAjEiAtFq@`GqAj\\c@dE_ArC_AzAqBxAkBj@kD@oViE}AKwBy@uAeA}FmFcEyCm{@m]ai@qWcI}CeK{CmGmA}Di@wHu@a[wBexBeNuE@wF^yDl@gGdBoAl@wFlBaM|BsBLeIXw}AZ",
+  "path": [
+    "{xyrFbm_yUbA]|e@oObJgDj@_@bHaEjDcCfj@me@nEiEjDgEhDqFlX{f@|E_KzH}RbAuBtBeD`DyCbGmDbCeBhCgClByCdPwYt@aAjDmD|I{PnAoD~@sD`@cDtAkTd@qDbAqFvC_KnrAuaEzBgGrBsE|CiFpEeGxCgDne@_e@pH{HbSiWfMuPvKcNpCaEnBeFbAoEf@sF\\mL\\_Df@gCzA{EvAmC~@qAxmA{qArUkVjFaG|HmI~CgFr@mBbAmDx@_GhAgM~@{FnAaFvAeEbAaClEyHzOkShBwCdBuDzBeHje@ghBvBaHjo@upBnAwElAgFbAcGxAuLbW{zBv[kpC`Fgc@ta@rD",
+    "ki_rFpepwUys@yGyg@gFyAk@e@e@k@{@uBaGy@eB}AgAc@S{@QeC?i]lBcDv@_CfAcAl@mC`CyCjE{MnV{DfG}Y~YsB~BufAh~AcBfDy@lBoAjEiAtFq@`GqAj\\c@dE_ArC_AzAqBxAkBj@kD@oViE}AKwBy@uAeA}FmFcEyCm{@m]ai@qWcI}CeK{CmGmA}Di@wHu@a[wBexBeNuE@wF^yDl@gGdBoAl@wFlBaM|BsBLeIXw}AZ",
+    "ko{qFtwpwUcC`@mDJmoBqR",
+    "kk{qFlupwUiAl@u@X",
+    "ko{qFtwpwU~BgA",
+    "{qrqFt`jwUuBdAeMlK_O|IaaBlq@}E~BmDxBgGzEy{BxuBcCfB",
+    "{qrqFt`jwU~Cq@",
+    "{lrqFb_jwUo@HoBf@",
+    "_krqFt~iwU{@L",
+    "{lrqFb_jwU\\I\\C",
+    "_krqFt~iwU\\A",
+    "ajrqFr~iwUM?O@",
+    "ajrqFr~iwU`@C|BD",
+    "aerqFt~iwU_DA",
+    "il{pFd}awUo\\?iADsCl@oB|@eCzB}AxB{AlDm[djA}k@tvBy@fCwCtGiAjBsAzAeB~AoBpAoFlBeyAbQodAlLkXdDaJx@qaFwC_DKmDY}s@{HsCSuC@yAPmQ~EsC^gCFyAGkC_@an@_K"
+  ],
   "websites": [
     {
       "url": "http://www.fws.gov/refuges/profiles/index.cfm?id=84591",
@@ -40,10 +56,10 @@
   "bounds": [
     [
       -119.605453,
-      39.81478100000004
+      39.63093200000014
     ],
     [
-      -119.35797099999996,
+      -119.29058099999997,
       39.950389
     ]
   ]
