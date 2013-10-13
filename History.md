@@ -1,4 +1,11 @@
 
+1.4.1 / 2013-10-13 
+==================
+
+ * build directory made configurable
+ * List either partial or entire byway, not both, on main and state pages
+ * Delay adding markers to the map
+
 1.4.0 / 2013-10-12 
 ==================
 
