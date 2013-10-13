@@ -35,10 +35,11 @@ block body
     section.map
       iframe(src=locals.furkotUrl + '/widget/byway/' + page.metadata.id)
 
-  section.websites
-    ul.flat-list
-      for link in page.metadata.websites
-        li: a(href=link.url)= link.name
+  if page.metadata.websites
+    section.websites
+      ul.flat-list
+        for link in page.metadata.websites
+          li: a(href=link.url)= link.name
 
   section.comments
     #disqus_thread(
