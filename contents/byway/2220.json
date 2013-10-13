@@ -5,7 +5,15 @@
   "distance": "40",
   "description": "The Dude Ranch Trail is the land of the Adirondack cowboy.  Beginning and ending in the village of Lake George, this 40-mile loop passes horse ranches, lakeside resort villages, and theme parks.",
   "fullDescription": "<p>The Dude Ranch Trail is the land of the Adirondack cowboy.  Beginning and ending in the village of Lake George, this 40-mile loop passes horse ranches, lakeside resort villages, and theme parks.</p>",
-  "path": "grkgG`wvaMi@rAmOnT{DtCkBlBqG`N}@vAuDhEmAdA}A~@yU~G_BLaGe@wLGgELgKlAqEfAuJbDaPtEuGxD{@z@qE~FcFxFmAhBwEvKeBtCcBjBeCrBqAtAq@pAwBhGsAxBsBfCcD`Iy@nAe@`@}BjAsFzAi@HkKRmGf@yB^wDfAcCjA}E`DgBp@aARyBMiRyDmOwBu@SoAo@aA_AeCeDyDyDcBq@}B]}EKoNXmC^q@X{DnCa@Vi@F}Pi@uCB{Bp@eBrAY^uArCa@j@k@TaMjBa[dIiP`FaGnDiBhBeAzBM`@U~EKj@qEjMo@tAgH|McBjBgF`D}A~Aq@fAqAjCiGbSiBfFoAdC{EvHmE`IcCxCsDxDsCpBgFrCsCrBsIzG}@fAc@~@k@lBcAbAkBVeF~CgCrBsALkBi@^_BnA{Cr@}Bd@aCnAsHfD}U|@eDnAcCr@iArFmGn@iAr@gBh@wB^uCHiBCcD[sCs@mDaE_Kq@aECeAHeAbBaKd@}DBoAGcCGw@g@uBeAeCc@q@o@m@mAs@uDsAeEeAgOgD}C_AyAs@cGsD{GgG}V{YgIcIiLoMkByAw@YsFk@{K{B_C?cDZaABoE]qGy@{Kd@eJ?iC_@yDgBoBcBm@o@yCwEuHqP{AsC}AeAy@YwHuBuAw@cAy@oSqYmAqAcFiD}AkByAaCqCeCyGuE{IkFoD_BqJgCgPkD{@?kFbCuADgHqBkJeEuAO}B?mAOoBaA}BuBcBeCu@kBy@aDaDcS_@qF[uMIiAy@eEoBaIgBaK{@aDi@wAmDuGyAkEmDwEsBqEm@aBg@_C{AoK[gBu@eC{BaGeB_GiByDpH}IpHsKh@_Ad@_BX{C?yAO_Bm@gD{@_Dm@sAu@mAqDkEs@gAqA_D]uAIcBBo@b@mFV_Bl@w@xDsCl@m@d@y@RkAX}FOsAc@kAiA}@}AUe@YeAeBgBaEUwAIwKe@_OOaAsA{EYkBe@uE]gGHsAb@kDnBoKBcAM{@k@_A}AkA_BiAcCkAqCkCkAmBcDoLi@eDkCkTKq@_@y@i@[k@EsLCq@_@gBiDe@yAYgC_@gP?yBJmCf@{FkFyDoC_EtD}GlD_DrE_Gv@sAx@mBr@eC~CqRdBsIlAoDrB_EnAyA|@s@bDeBnDq@tXMnDa@jFwAnO{HzCwBb_@wZbGcE`IyDtNaGfGsChQiK~L_J|GoFvG_GhAsArB{CbGsNbBmCvByBpOgF|BkB|BiDxBeFrDuFjB_C`RcM~CwClBkCnCiFlBsC|D_F|A{A`Aw@tE{BnCkArAy@jA{ArM{YrAmCf@g@v@k@xDsA??nOuC??|AKhBR??~ExAn[|J|APlEAnCe@~KyCzO{ChOeEbG}@bBMXJbDY`LkAhCm@rBs@`GgD|DlHbJbLl@~@x@~BnAhErCdLXfBr@~FrAnIxB~F|DhH~@lAfIlGvCfCdBvCb@lAh@fCnA|TXjC~@lD~@`BtGxInBxBrDlDrQzOxCzElA~Cj@rB|@nFhD|`@BzAIzCcApIIlBDfCR|ANx@x@tBpFzIt@xAxAdEbGjRhAvElFjYp@tEh@fHDpDXfHhAdQFlIKfTJzBh@~Cp@hBd@v@xChExD|DvCtBx@b@lBf@xAJfG?~B^bAZbBdAnAjAbArA`HjOrB~Dn@jBNp@TfCBfBOdCm@nEIdA?lBR`CX|Ap@dBl@`AtKzOhArDZhCHjCUrq@PpFp@vFbCzKhAlIhEbm@b@lITlBNfAbArDrAjCx@fA`BvAtJvGzFpDpH~CxAfA~BlC`HhJnBvBxCtBvAj@dPxEjHdB~XtEhq@hM`YvDhFX`C?db@yBtAYxM_EhCSdME`KxAlCGhCo@bBgArAmA~AsCbAgCdAmB`CsApBsAbDaAxIwBrEq@??|@C`HUhDKtBCV?x@A`@A",
+  "path": [
+    "guahG~}{`MyDrAw@j@g@f@sAlCsMzYkAzAsAx@oCjAuEzBaAv@}AzA}D~EmBrCoChFmBjC_DvCaRbMkB~BsDtFyBdF}BhD}BjBqOfFwBxBcBlCcGrNsBzCiArAwG~F}GnF_M~IiQhKgGrCuN`GaIxDcGbEc_@vZ{CvBoOzHkFvAoD`@uXLoDp@cDdB}@r@oAxAsB~DmAnDeBrI_DpRs@dCy@lBw@rAsE~FmD~CuD|GnC~DjFxDg@zFKlC?xB^fPXfCd@xAfBhDp@^rLBj@Dh@Z^x@Jp@jCjTh@dDbDnLjAlBpCjCbCjA~AhA|AjAj@~@Lz@CbAoBnKc@jDIrA\\fGd@tEXjBrAzEN`Ad@~NHvKTvAfB`EdAdBd@X|AThA|@b@jANrAY|FSjAe@x@m@l@yDrCm@v@W~Ac@lFCn@HbB\\tApA~Cr@fApDjEt@lAl@rAz@~Cl@fDN~A?xAYzCe@~Ai@~@qHrKqH|IhBxDdB~FzB`Gt@dCZfBzAnKf@~Bl@`BrBpElDvExAjElDtGh@vAz@`DfB`KnB`Ix@dEHhAZtM^pF`DbSx@`Dt@jBbBdC|BtBnB`AlAN|B?tANjJdEfHpBtAEjFcCz@?fPjDpJfCnD~AzIjFxGtEpCdCxA`C|AjBbFhDlApAnSpYbAx@tAv@vHtBx@X|AdAzArCtHpPxCvEl@n@nBbBxDfBhC^dJ?zKe@pGx@nE\\`ACbD[~B?zKzBrFj@v@XjBxAhLnMfIbI|VzYzGfGbGrDxAr@|C~@fOfDdEdAtDrAlAr@n@l@b@p@dAdCf@tBFv@FbCCnAe@|DcB`KIdABdAp@`E`E~Jr@lDZrCBbDIhB_@tCi@vBs@fBo@hAsFlGs@hAoAbC}@dDgD|UoArHe@`Cs@|BoAzC_@~AjBh@rAMfCsBdF_DjBWbAcAj@mBb@_A|@gArI{GrCsBfFsCrCqBrDyDbCyClEaIzEwHnAeChBgFhGcSpAkCp@gA|A_BfFaDbBkBfH}Mn@uApEkMJk@T_FLa@dA{BhBiB`GoDhPaF`[eI`MkBj@U`@k@tAsCX_@dBsAzBq@tCC|Ph@h@G`@WzDoCp@YlC_@nNY|EJ|B\\bBp@xDxDdCdD`A~@nAn@t@RlOvBhRxDxBL`ASfBq@|EaDbCkAvDgAxB_@lGg@jKSh@IrF{A|BkAd@a@x@oAbDaIrBgCrAyBvBiGp@qApAuAdCsBbBkBdBuCvEwKlAiBbFyFpE_Gz@{@tGyD`PuEtJcDpEgAfKmAfEMvLF`Gd@~AMxU_H|A_AlAeAtDiE|@wApGaNjBmBzDuClOoTh@sA",
+    "o~`hGpy{`M~ExAn[|J|APlEAnCe@~KyCzO{ChOeEbG}@bBMXJbDY`LkAhCm@rBs@`GgD|DlHbJbLl@~@x@~BnAhErCdLXfBr@~FrAnIxB~F|DhH~@lAfIlGvCfCdBvCb@lAh@fCnA|TXjC~@lD~@`BtGxInBxBrDlDrQzOxCzElA~Cj@rB|@nFhD|`@BzAIzCcApIIlBDfCR|ANx@x@tBpFzIt@xAxAdEbGjRhAvElFjYp@tEh@fHDpDXfHhAdQFlIKfTJzBh@~Cp@hBd@v@xChExD|DvCtBx@b@lBf@xAJfG?~B^bAZbBdAnAjAbArA`HjOrB~Dn@jBNp@TfCBfBOdCm@nEIdA?lBR`CX|Ap@dBl@`AtKzOhArDZhCHjCUrq@PpFp@vFbCzKhAlIhEbm@b@lITlBNfAbArDrAjCx@fA`BvAtJvGzFpDpH~CxAfA~BlC`HhJnBvBxCtBvAj@dPxEjHdB~XtEhq@hM`YvDhFX`C?db@yBtAYxM_EhCSdME`KxAlCGhCo@bBgArAmA~AsCbAgCdAmB`CsApBsAbDaAxIwBrEq@??|@C`HUhDKtBCV?x@A`@A",
+    "}yahG``|`MtCaA",
+    "wdahGhy{`MoOtC",
+    "guahG~}{`MxKyBtB[",
+    "st`hGd}{`M{HsB",
+    "wdahGhy{`M|AKhBR"
+  ],
   "designations": [
     "New York State Scenic Byway"
   ],
@@ -13,8 +21,8 @@
     "NY"
   ],
   "ll": [
-    -73.84960431677695,
-    43.318289092255384
+    -73.71247899999992,
+    43.43140000000005
   ],
   "bounds": [
     [

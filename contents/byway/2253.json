@@ -6,7 +6,10 @@
   "duration": "Allow two hours.",
   "description": "The area's 273 lakes and ponds give the landscape's rolling hills a brilliant blue radiance. Also, the New England autumn is perfected here, as the heaps of treetop foliage burn scarlet and orange.",
   "fullDescription": "<p>The area's 273 lakes and ponds give the landscape's rolling hills a brilliant blue radiance. Also, the New England autumn is perfected here, as the heaps of treetop foliage burn scarlet and orange. The stately Belknap Range always wallpapers the view as you weave through woodlands, open pastures, and along rivers and streams.</p><p>Bursting with history, the region features sites such as Wakefield Corner, a village that boasts 26 buildings on the National Register of Historic Places. Or journey through your own history at the Museum of Childhood; this fun museum displays an outstanding private collection of toys, dolls, dollhouses, stuffed animals, puppets, and music boxes.</p>",
-  "path": "wl|gG~`hpLiAZsBNq@@eAEuA]eBy@o@i@mFqCGAwBo@_C]eCOaBBoE\\oBFoCAc@Ie@B{K}FgAi@}@[cDs@yDm@mCOkA?gDHiBFoBNgGz@yHlAqDz@{Al@aGdEiClA{A`@sG~BcB\\q@?oAIgD{AeBaAoA_@mAY}@M_BIgDV_E`@uCLaDBuDQ}ASaA_@sAu@q@u@aAyA{E_I{@iAoAmA{@_@}@MiEBiLt@kCb@qCz@wAr@YRuB|@c@V}An@kAX}AJuEIaBOeBCcAB[JmCb@}AZ]NoKvFgAZ}B`@_CVoGtAkLjE{BpAcBv@kAVmLl@wBP{B^oGvB}CpAkCrAcGlDwDdBkBx@md@~OwElBwF|AcG|BoDrAw@h@cA|@kAnAoAxAoB~BgAbBi@nAwDlMcBrGW~@WdAsAhEgB|EeC|Fo@z@aCbEmIlL}GpLw@jA}IfNaTf]_NdTs@[cAQkD[g@MgDo@k@CoEL{CPeAPkJjAoN`C{@FcBDyFQ_M{A{EKuBByRl@cLJgAJsBFm@?oBWgCk@sB[KIyNwCkCaBg@c@{OoK{@WkBMuPQaAJmAf@MNK@yK|IqCvBeClA}JvE_BXmC^eBJuFPoFDie@P}AEq@Wu@m@kBuCaAy@gAg@qAMoA@yGNyBVq@XwA|@sPtK_G|DmAj@aA\\eAGs@KiCgAcAy@kCaDc@Si@Iu@FuARiHtBeAbAoA|@w@^o@FkACcD}@}AOmAAkBF_Eb@",
+  "path": [
+    "wl|gG~`hpLiAZsBNq@@eAEuA]eBy@o@i@mFqCGAwBo@_C]eCOaBBoE\\oBFoCAc@Ie@B{K}FgAi@}@[cDs@yDm@mCOkA?gDHiBFoBNgGz@yHlAqDz@{Al@aGdEiClA{A`@sG~BcB\\q@?oAIgD{AeBaAoA_@mAY}@M_BIgDV_E`@uCLaDBuDQ}ASaA_@sAu@q@u@aAyA{E_I{@iAoAmA{@_@}@MiEBiLt@kCb@qCz@wAr@YRuB|@c@V}An@kAX}AJuEIaBOeBCcAB[JmCb@}AZ]NoKvFgAZ}B`@_CVoGtAkLjE{BpAcBv@kAVmLl@wBP{B^oGvB}CpAkCrAcGlDwDdBkBx@md@~OwElBwF|AcG|BoDrAw@h@cA|@kAnAoAxAoB~BgAbBi@nAwDlMcBrGW~@WdAsAhEgB|EeC|Fo@z@aCbEmIlL}GpLw@jA}IfNaTf]_NdTs@[cAQkD[g@MgDo@k@CoEL{CPeAPkJjAoN`C{@FcBDyFQ_M{A{EKuBByRl@cLJgAJsBFm@?oBWgCk@sB[KIyNwCkCaBg@c@{OoK{@WkBMuPQaAJmAf@MNK@yK|IqCvBeClA}JvE_BXmC^eBJuFPoFDie@P}AEq@Wu@m@kBuCaAy@gAg@qAMoA@yGNyBVq@XwA|@sPtK_G|DmAj@aA\\eAGs@KiCgAcAy@kCaDc@Si@Iu@FuARiHtBeAbAoA|@w@^o@FkACcD}@}AOmAAkBF_Eb@",
+    "wokhGxcjpLo@_@M[UyAUoFJuB|AsHvCqHvAiHz@yGt@sKTqIk@iKqCcNGGyDoIaGoKoC}EiMkWcBiCgEcDgL_FkGeBuOiBeCaBsDuD{GmEiJaGoD}BmC_AaAy@yAuBbAqK"
+  ],
   "websites": [
     {
       "url": "http://www.nh.gov/dot/programs/scbp/tours/branchriver.htm",
@@ -37,7 +40,7 @@
       43.40444545454545
     ],
     [
-      -70.98436363636364,
+      -70.96323199999999,
       43.568481818181816
     ]
   ]

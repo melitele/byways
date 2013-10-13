@@ -6,7 +6,11 @@
   "description": "The Spirit of Kansas City tells the story of how the Kansas City region got its start from Lewis and Clark’s Corp of Discovery and the beginning of fur trade to the Santa Fe, Oregon and California trails and the hub of railroad and airway transportation.",
   "fullDescription": "<p>The Spirit of Kansas City Regional Scenic Byway consists of an eight-mile route along various city streets providing visitors with the opportunity to drive the byway or to park their cars and walk or bicycle along the Riverfront Heritage Trail system.  The scenic byway connects to Cliff Drive Scenic Byway to the east, and the National Historic Huron Park Cemetery and Kaw Point to the west in Kansas.</p><p>The Spirit of Kansas City tells the story of how the Kansas City region got its start from Lewis and Clark’s Corp of Discovery and the beginning of fur trade to the Santa Fe, Oregon and California trails and the hub of railroad and airway transportation.</p>",
   "contact": "For more information about this byway  \r\n[E-mail Karin Jacoby](mailto:karin_jacoby@kcmo.org)",
-  "path": "g`umFlld`Qo@rg@??}@eBmA_Bo@Se@RYXMd@AdAh@`B^f@h@X~@Hb@Qp@q@@i@??T`@\\lAR~AH`CArHs@zs@C|KQdKCjPB~IJbF[xNs@np@OdCi@lDwGjZ}BhIu@bByAbCoIxKeEfHwElHy@l@kALq@Mo@s@cB_G}AmCm@s@w@m@cAc@cAG_FaAt@yEZ_D",
+  "path": [
+    "waumF`ue`QT`@\\lAR~AH`CArHs@zs@C|KQdKCjPB~IJbF[xNs@np@OdCi@lDwGjZ}BhIu@bByAbCoIxKeEfHwElHy@l@kALq@Mo@s@cB_G}AmCm@s@w@m@cAc@cAG_FaAt@yEZ_D",
+    "waumF`ue`QAh@q@p@c@P_AIi@Y_@g@i@aB@eALe@XYd@Sn@RlA~A|@dB",
+    "g`umFlld`Qo@rg@"
+  ],
   "designations": [
     "State Scenic Backway"
   ],
@@ -14,8 +18,8 @@
     "MO"
   ],
   "ll": [
-    -94.56342299999994,
-    39.10676999999998
+    -94.5699264596463,
+    39.10700247398211
   ],
   "bounds": [
     [

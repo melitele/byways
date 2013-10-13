@@ -6,7 +6,12 @@
   "duration": "Plan on spending about three hours so you can enjoy at least some things.",
   "description": "Glimpse the lives, times, and values of the Shaker society in this well-preserved village. The Village, a National Historic Landmark, is only 20 minutes from Concord, New Hampshire's state capital.",
   "fullDescription": "<p>Glimpse the lives, times, and values of the Shaker society in this well-preserved village. The Village, a National Historic Landmark, is only 20 minutes from Concord, New Hampshire's state capital.</p><p>The Village's 694 acres include 25 original Shaker buildings that span 200 years of Shaker history. Nature trails wind through the woodlands to bring you to ponds, mills, dams, and the Physician's Botanical Garden. The sugar maples that the Shakers planted along Meetinghouse Lane and on Shaker Road yield dramatic fall colors.</p><p>Other highlights of the route are conservation areas, open marshes, stonewalls, cemeteries, pre-Revolutionary homes, and access to Hutchins Forest.</p><p>Canterbury's village center, while not part of the Shaker community, is simplistically striking. The center is comprised of a 1736 Town Hall, Canterbury United Community Church, country store, gazebo, and public library.</p>",
-  "path": "u|pgGhilsLh@tPb@rNv@xM|@dPnAxSI`CeCrKc@jDExHUlAOvGj@lH?hBBfKo@rDc@dCAbBCpCdAlERxAPnAp@vSDnAfCxI??HRn@pFHlERtNp@hFxAnFj@~BnAnCh@jAHLjHtKnC`E|@nAnB|BnIpJtDxGRbCCh@IjFErBd@pHXxEDbH_@pFq@rFeCjHg@bCQx@PPEhDcBhIqApQY~DSfCNvGBLbA~HJ`Ah@xJ@lCBfNBbFMzF",
+  "path": [
+    "_spgGxbssLHRn@pFHlERtNp@hFxAnFj@~BnAnCh@jAHLjHtKnC`E|@nAnB|BnIpJtDxGRbCCh@IjFErBd@pHXxEDbH_@pFq@rFeCjHg@bCQx@PPEhDcBhIqApQY~DSfCNvGBLbA~HJ`Ah@xJ@lCBfNBbFMzF",
+    "_spgGxbssLaBn@",
+    "u|pgGhilsLh@tPb@rNv@xM|@dPnAxSI`CeCrKc@jDExHUlAOvGj@lH?hBBfKo@rDc@dCAbBCpCdAlERxAPnAp@vSDnAfCxI",
+    "_vtgGr~isLfh@uEfQcAng@oEnJiBpDq@z@JMhC_CdQb@rDjAxBxAvEh@hCBrGMhC{@~P?N@v@b@vN"
+  ],
   "websites": [
     {
       "url": "http://www.shakers.org",
@@ -28,8 +33,8 @@
     "NH"
   ],
   "ll": [
-    -71.502448,
-    43.345552
+    -71.53724799999999,
+    43.344
   ],
   "bounds": [
     [
@@ -37,8 +42,8 @@
       43.335952
     ],
     [
-      -71.502448,
-      43.345552
+      -71.487264,
+      43.364959999999996
     ]
   ]
 }

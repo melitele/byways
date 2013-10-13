@@ -14,7 +14,7 @@ mixin bywaysList(name, byways)
           data-ll=byway.ll,
           data-bounds=byway.bounds,
           data-color=(byway.designations && locals.colors[byway.designations[0]]) || defaultColor,
-          data-path=byway.path
+          data-path=byway.path && (Array.isArray(byway.path) ? byway.path : [ byway.path ])
         )= byway.name
 
 
