@@ -1,4 +1,12 @@
 
+1.4.0 / 2013-10-12 
+==================
+
+ * display byway routes on the state maps
+ * us-map on index page
+ * minimize .js in deployment build
+ * add shadow to header when onscroll
+
 1.3.0 / 2013-10-11 
 ==================
 
