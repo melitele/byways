@@ -13,12 +13,13 @@ html(lang='en')
   body
     header
       a(href="/")
+        .bw-byways
         h1= locals.title
     #main
       block body
     footer
       ul.flat-list
-        li: a(href="/about.html") About
+        li: a.bw-byways(href="/about.html") About
         li: a(href="http://code42day.com", target="_blank") code42day
         li: a(href="https://trips.furkot.com", target="_blank") Plan trip with Furkot
         li Powered by <a href="http://wintersmith.io" rel="external" target="_blank">Wintersmith</a>

@@ -69,13 +69,21 @@ body > header
   background-color $primary-2
   transition all .3s ease-in-out
 
-  h1
+  a
     transition font-size .3s ease-in-out
     color white
     text-transform uppercase
     font-size 32px
     letter-spacing .2em
     line-height 1
+
+    h1
+      color white
+
+
+    h1,
+    .bw-byways
+      display inline
 
 body > footer
   clear both
@@ -284,8 +292,11 @@ body > footer
 .over
   box-shadow 0 2px 4px rgba(black, .5)
 
-  h1
+  a
     font-size 18px
+
+.bw-byways:before
+  margin-right .2em
 
 // layout
 
