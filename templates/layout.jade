@@ -12,18 +12,18 @@ html(lang='en')
     link(rel='stylesheet', type='text/css', href='/style/screen.css?v=#{locals.version}')
   body
     header
-      hgroup
-        a(href="/")
-          h1= locals.title
+      a(href="/")
+        h1= locals.title
     #main
       block body
     footer
       ul.flat-list
+        li: a(href="/about.html") About
         li: a(href="http://code42day.com", target="_blank") code42day
         li: a(href="https://trips.furkot.com", target="_blank") Plan trip with Furkot
-        li: a(href="mailto:byways@code42day.com") E-mail us
-        li: a(href="/about.html") About
         li Powered by <a href="http://wintersmith.io" rel="external" target="_blank">Wintersmith</a>
+        li.nosep: a.bw-github(href='http://github.com/code42day/byways', title='Fork us', target="_blank")
+        li: a.bw-mail(href='mailto:byways@code42day.com' title='E-mail us')
 
     block scripts
       - var min = (env.mode == 'preview') ? '' : '.min'
