@@ -69,13 +69,16 @@ body > header
   background-color $primary-2
   transition all .3s ease-in-out
 
-  h1
+  a
     transition font-size .3s ease-in-out
     color white
     text-transform uppercase
     font-size 32px
     letter-spacing .2em
     line-height 1
+
+    h1
+      color white
 
 body > footer
   clear both
@@ -281,12 +284,6 @@ body > footer
     &:hover, &:active
       background-color $secondary-3
 
-.over
-  box-shadow 0 2px 4px rgba(black, .5)
-
-  h1
-    font-size 18px
-
 // layout
 
 @media only screen and (min-width: 800px)
@@ -300,13 +297,28 @@ body > footer
   body > footer
     padding .5em 5em
 
-  body>header
+  body > header
     fixed top
     z-index 100
 
-  body>footer
+  body > footer
+    transition transform .3s ease-in-out,
+      box-shadow .3s ease-in-out
     fixed bottom
     z-index 100
+
+  body:not(.top) > header
+    box-shadow 0 2px 4px rgba(black, .5)
+
+    a
+      font-size 18px
+
+  body:not(.bottom) > footer
+    box-shadow 0 -2px 4px rgba(black, .5)
+    transform translateY(85%)
+
+    &:hover
+      transform translateY(0)
 
   body>#main
     clearfix()
