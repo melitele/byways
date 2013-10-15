@@ -1,7 +1,11 @@
 {
   "name": "panoramio",
   "dependencies": {
-    "code42day/jsonp": "1.0.0"
+    "code42day/dataset": "0.2.2",
+    "code42day/jsonp": "1.0.0",
+    "component/classes": "1.1.3",
+    "component/swipe": "1.7.1",
+    "yields/k": "0.5.1"
   },
   "scripts": [
     "index.js"
