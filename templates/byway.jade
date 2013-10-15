@@ -20,7 +20,7 @@ block body
         span= page.metadata.distance
         span= ' miles - '
         span= page.metadata.duration
-        +stateList(page.metadata.states)
+      +stateList(page.metadata.states)
     .description
       .photos.hidden(data-bounds=page.metadata.bounds)
         ul
