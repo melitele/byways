@@ -26,6 +26,9 @@ global-reset()
 *
   box-sizing border-box
 
+.hidden
+  display none
+
 section
   clearfix()
 
@@ -42,6 +45,10 @@ font-text()
 
 font-title()
   font-family 'Capriola', 'Helvetica Neue', sans-serif
+
+photo-size()
+  width 500px
+  height 375px
 
 html
 body
@@ -155,8 +162,17 @@ body > footer
     .flat-list
       float right
 
+.byway
   .photos
     margin 1em auto
+    photo-size()
+    overflow hidden
+
+    li
+      display table-cell
+      cursor ew-resize
+      photo-size()
+      overflow hidden
 
     .photo
       position relative
@@ -166,6 +182,7 @@ body > footer
       text-align left
       font-size .8em
       margin 0
+      photo-size()
 
       img
         display block
