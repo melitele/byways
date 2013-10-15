@@ -1,4 +1,13 @@
 
+1.5.0 / 2013-10-15 
+==================
+
+ * display up to 20 photos on inside Swipe container
+ * fix strange pragraphs breaks by using markdown format
+ * hide footer unless we scroll all the way to the bottom
+ * add car icon to header and footer
+ * favicon
+
 1.4.2 / 2013-10-13 
 ==================
 
