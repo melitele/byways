@@ -1,7 +1,7 @@
 extends layout
 
 mixin bywaysList(name, byways)
-  - function bywayMeta(id) { return contents.byway[id + '.json'].metadata; };
+  - function bywayMeta(id) { return contents.byway[id + '.md'].metadata; };
   - var defaultColor = locals.colors['Other Scenic Road'];
   section.byway-list
     header
