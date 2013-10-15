@@ -47,8 +47,9 @@ font-title()
   font-family 'Capriola', 'Helvetica Neue', sans-serif
 
 photo-size()
-  width 500px
-  height 375px
+  overflow hidden
+  max-width 500px
+  max-height 375px
 
 html
 body
@@ -165,24 +166,21 @@ body > footer
 .byway
   .photos
     margin 1em auto
+    width 100%
     photo-size()
-    overflow hidden
 
     li
       display table-cell
-      cursor ew-resize
       photo-size()
-      overflow hidden
 
     .photo
       position relative
+      photo-size()
       display inline-block
-      overflow hidden
       background black
       text-align left
       font-size .8em
       margin 0
-      photo-size()
 
       img
         display block
