@@ -24,6 +24,8 @@ block body
     .description
       .photos.hidden(data-bounds=page.metadata.bounds)
         ul
+        a.next(href='') ▶
+        a.prev(href='') ◀
       != page.html
 
   if page.metadata.path

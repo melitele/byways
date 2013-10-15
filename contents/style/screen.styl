@@ -168,6 +168,36 @@ body > footer
     margin 1em auto
     width 100%
     photo-size()
+    position relative
+
+    .next,
+    .prev
+      position absolute
+      width 2em
+      height 2em
+      top 50%
+      margin-top -1em
+      display block
+      background rgba(white, .75)
+      color rgba(black, .75)
+      text-align center
+      font-size .8em
+      line-height 2
+      transition all 0.3s ease-in-out
+
+    .prev
+      left 0
+      transform translateX(-100%)
+
+    .next
+      right 0
+      transform translateX(100%)
+
+    &:hover
+      .next,
+      .prev
+        background rgba(white, .75)
+        transform translateX(0)
 
     li
       display table-cell
@@ -340,3 +370,8 @@ body > footer
     .photos
       float right
       margin 0 0 .5em 1em
+
+      .next,
+      .prev
+        font-size 1.4em
+
