@@ -4,6 +4,7 @@
     "siteTitle": "America's Scenic Byways",
     "siteDescription": "Descriptions, maps and links to related information for over 800 America's most scenic roads.",
     "url": "http://scenicbyways.info",
+    "email": "byways@code42day.com",
     "furkotUrl": "https://trips.furkot.com",
     "google_maps_geometry": "//maps.googleapis.com/maps/api/js?v=3.12&sensor=false&libraries=geometry",
     "js": "min.js",
