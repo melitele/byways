@@ -3,7 +3,7 @@
   "version": "1.5.2",
   "description": "Content of the closed `byways.org` website hosted at [scenicbyways.info]",
   "scripts": {
-    "test": "make test"
+    "test": "make lint"
   },
   "repository": "git@github.com:code42day/byways.git",
   "author": "Damian Krzeminski <pirxpilot@code42day.com>",
@@ -12,10 +12,9 @@
     "wintersmith": "~2",
     "wintersmith-stylus": "~0",
     "wintersmith-component": "0",
-    "uglify-js": "~2"
-  },
-  "devDependencies": {
+    "uglify-js": "~2",
     "jshint": "~2",
-    "component": "~0"
+    "component": "~0",
+    "component-autoboot": "~0"
   }
 }

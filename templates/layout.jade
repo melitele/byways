@@ -37,6 +37,4 @@ html(lang='en')
 
     block scripts
       - var min = (env.mode == 'preview') ? '' : '.min'
-      script(src='/build/build#{min}.js?v=#{locals.version}')
-      script.
-        var boot = require('boot');
+      script(src='/build/build#{min}.js?v=#{locals.version}', defer)

@@ -21,6 +21,9 @@
   "require": {
     "template": "./lib/template"
   },
+  "component": {
+    "use": ["./node_modules/component-autoboot"]
+  },
   "plugins": [
     "./node_modules/wintersmith-stylus/",
     "./node_modules/wintersmith-component/"
