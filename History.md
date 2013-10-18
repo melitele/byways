@@ -1,4 +1,9 @@
 
+1.5.3 / 2013-10-17 
+==================
+
+ * use component-autoboot plugin for wintersmith-component
+
 1.5.2 / 2013-10-16 
 ==================
 
