@@ -1,5 +1,8 @@
 extends layout
 
+append title
+  = "::" + page.metadata.name
+
 mixin bywaysList(name, byways)
   - function bywayMeta(id) { return contents.byway[id + '.md'].metadata; };
   - var defaultColor = locals.colors['Other Scenic Road'];

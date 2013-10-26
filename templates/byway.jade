@@ -6,8 +6,8 @@ mixin stateList(states)
 
 extends layout
 
-block title
-  = locals.siteTitle + "::" + page.metadata.name
+append title
+  = "::" + page.metadata.name
 
 block description
   meta(name="description", content="#{page.metadata.description}")
