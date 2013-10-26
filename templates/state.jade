@@ -3,6 +3,12 @@ extends layout
 append title
   = "::" + page.metadata.name
 
+block description
+  - var byways = [];
+  for id in page.metadata.byways
+    - byways.push(contents.byway[id + '.md'].metadata.name);
+  meta(name="description", content="#{page.metadata.name} most scenic roads: #{byways.join(', ')}.")
+
 mixin bywaysList(name, byways)
   - function bywayMeta(id) { return contents.byway[id + '.md'].metadata; };
   - var defaultColor = locals.colors['Other Scenic Road'];
