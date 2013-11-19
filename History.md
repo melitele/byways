@@ -1,4 +1,10 @@
 
+1.5.4 / 2013-11-19 
+==================
+
+ * Description on state pages
+ * State name in title
+
 1.5.3 / 2013-10-17 
 ==================
 
