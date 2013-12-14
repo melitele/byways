@@ -3,7 +3,7 @@
   "dependencies": {
     "code42day/cse": "1.0.0",
     "code42day/disqus": "1.0.0",
-    "code42day/ga": "1.0.0",
+    "code42day/ua": "1.0.0",
     "code42day/hilo": "1.0.0",
     "component/classes": "1.1.3"
   },
