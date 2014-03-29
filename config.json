@@ -16,7 +16,7 @@
       "BLM Back Country Byway": "#007BFF",
       "Other Scenic Road": "#E3BE16"
     },
-    "version": "1.5.4"
+    "version": "1.5.5"
   },
   "require": {
     "template": "./lib/template"
