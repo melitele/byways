@@ -1,4 +1,10 @@
 
+1.5.6 / 2014-07-14
+==================
+
+ * add component-shrinkwrap file
+ * no follow footer links
+
 1.5.5 / 2014-03-29
 ==================
 
