@@ -28,11 +28,11 @@ html(lang='en')
       block body
     footer
       ul.flat-list
-        li: a.bw-byways(href="/about.html") About
-        li: a(href="http://code42day.com", target="_blank") code42day
-        li: a(href="https://trips.furkot.com", target="_blank") Plan trip with Furkot
-        li Powered by <a href="http://wintersmith.io" rel="external" target="_blank">Wintersmith</a>
-        li.nosep: a.bw-github(href='http://github.com/code42day/byways', title='Fork us', target="_blank")
+        li: a.bw-byways(href="/about.html", rel="nofollow") About
+        li: a(href="http://code42day.com", target="_blank", rel="nofollow") code42day
+        li: a(href="https://trips.furkot.com", target="_blank", rel="nofollow") Plan trip with Furkot
+        li Powered by <a href="http://wintersmith.io" rel="nofollow" target="_blank">Wintersmith</a>
+        li.nosep: a.bw-github(href='http://github.com/code42day/byways', title='Fork us', target="_blank", rel="nofollow")
         li: a.bw-mail(href='mailto:#{locals.email}' title='E-mail us')
 
     block scripts
