@@ -9,12 +9,13 @@
   "author": "Damian Krzeminski <pirxpilot@code42day.com>",
   "license": "MIT",
   "dependencies": {
-    "wintersmith": "~2",
-    "wintersmith-stylus": "~0",
-    "wintersmith-component": "0",
-    "uglify-js": "~2",
-    "jshint": "~2",
     "component": "~0",
-    "component-autoboot": "~0"
+    "component-autoboot": "~0",
+    "component-shrinkwrap": "~0",
+    "jshint": "~2",
+    "uglify-js": "~2",
+    "wintersmith": "~2",
+    "wintersmith-component": "0",
+    "wintersmith-stylus": "~0"
   }
 }

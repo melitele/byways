@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "code42day/cse": "1.0.0",
+    "code42day/dataset": "0.2.2",
+    "code42day/disqus": "1.0.0",
+    "code42day/hilo": "1.0.0",
+    "code42day/jsonp": "1.0.0",
+    "code42day/load": "1.0.0",
+    "code42day/maps": "0.4.1",
+    "code42day/ua": "1.0.0",
+    "component/bind": "0.0.1",
+    "component/classes": "1.1.3",
+    "component/emitter": "1.0.0",
+    "component/event": "0.1.1",
+    "component/event-manager": "1.0.0",
+    "component/events": "1.0.2",
+    "component/has-translate3d": "0.0.2",
+    "component/indexof": "0.0.2",
+    "component/object": "0.0.3",
+    "component/os": "0.0.1",
+    "component/swipe": "1.7.1",
+    "component/transform-property": "0.0.1",
+    "component/transitionend-property": "0.0.2",
+    "jkroso/computed-style": "0.1.0",
+    "yields/k": "0.5.1",
+    "yields/keycode": "1.0.0"
+  }
+}
