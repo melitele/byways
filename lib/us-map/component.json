@@ -7,7 +7,6 @@
   "local": [
   ],
   "scripts": [
-    "index.js",
-    "styles.js"
+    "index.js"
   ]
 }
