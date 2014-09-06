@@ -2,8 +2,8 @@
 template: about.jade
 ---
 
-Welcome to [scenicbyways.info] - an open source initiative to restore to the public the content of
-recently closed byways.org website.
+Welcome to [scenicbyways.info] - an open source initiative to restore to the public content of 
+the discontinued byways.org website.
 
 byways.org was a website established to promote a collection of 150 byways designated by the US
 Secretary of Transportation. But it was doing much more than that - it presented comprehensive
