@@ -1,5 +1,10 @@
 {
   "name": "byways",
-  "paths": ["lib"],
-  "local": ["boot"]
+  "paths": [
+    "lib"
+  ],
+  "local": [
+    "boot"
+  ],
+  "version": null
 }

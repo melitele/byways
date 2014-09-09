@@ -1,4 +1,11 @@
 
+1.6.0 / 2014-09-09
+==================
+
+ * same map style for byways and tripshots
+ * remove banner pointing to about
+ * add npm shrinkwrap
+
 1.5.6 / 2014-07-14
 ==================
 
