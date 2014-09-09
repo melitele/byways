@@ -14,7 +14,10 @@ components:
 	$(BIN_DIR)/component-shrinkwrap --install
 
 clean:
-	rm -rf $(BUILD_DIR)/*
+	rm -rf $(BUILD_DIR)/* 
+	
+distclean: clean
+	rm -rf components
 
 build: | $(BUILD_DIR) components
 	$(WS) build --output $(BUILD_DIR)
