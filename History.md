@@ -1,4 +1,10 @@
 
+1.6.1 / 2014-10-17
+==================
+
+ * load fonts from protocol independent URI
+ * add `distclean` target to remove components directory
+
 1.6.0 / 2014-09-09
 ==================
 
