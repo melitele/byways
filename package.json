@@ -20,7 +20,7 @@
     "dataset": "^0.3.1",
     "jshint": "^2.8.0",
     "swipe": "^1.7.7",
-    "uglify-js": "~2",
+    "uglify-js": "^2.6.1",
     "wintersmith": "~2",
     "wintersmith-browserify": "^1.0.0",
     "wintersmith-stylus": "^0.5.1",
