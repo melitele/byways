@@ -21,7 +21,11 @@
     "template": "./lib/template",
     "package": "./package.json"
   },
+  "browserify": {
+    "fileGlob": "scripts/index.js"
+  },
   "plugins": [
+    "./node_modules/wintersmith-browserify/",
     "./node_modules/wintersmith-stylus/"
   ],
   "port": 3060

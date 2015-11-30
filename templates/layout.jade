@@ -37,4 +37,4 @@ html(lang='en')
 
     block scripts
       - var min = (env.mode == 'preview') ? '' : '.min'
-      script(src='/build/build#{min}.js?v=#{package.version}', defer)
+      script(src='/scripts/index#{min}.js?v=#{package.version}', defer)

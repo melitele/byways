@@ -9,9 +9,31 @@
   "author": "Damian Krzeminski <pirxpilot@code42day.com>",
   "license": "MIT",
   "dependencies": {
+    "code42day-disqus": "^1.2.1",
+    "code42day-hilo": "^1.0.1",
+    "code42day-jsonp": "^1.0.1",
+    "code42day-load": "^1.0.1",
+    "code42day-maps": "^0.5.3",
+    "code42day-ua": "^1.1.1",
+    "component-classes": "^1.2.4",
+    "cse": "^1.0.1",
+    "dataset": "^0.3.1",
     "jshint": "~2",
+    "swipe": "^1.7.7",
     "uglify-js": "~2",
     "wintersmith": "~2",
-    "wintersmith-stylus": "~0"
+    "wintersmith-browserify": "^1.0.0",
+    "wintersmith-stylus": "~0",
+    "yields-k": "^0.7.2"
+  },
+  "browser": {
+    "classes": "component-classes",
+    "disqus": "code42day-disqus",
+    "hilo": "code42day-hilo",
+    "jsonp": "code42day-jsonp",
+    "k": "yields-k",
+    "load": "code42day-load",
+    "maps": "code42day-maps",
+    "ua": "code42day-ua"
   }
 }
