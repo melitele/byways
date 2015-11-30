@@ -10,15 +10,9 @@ all: lint preview
 $(BUILD_DIR):
 	mkdir -p $@
 
-components:
-	$(BIN_DIR)/component-shrinkwrap --install
-
 clean:
 	rm -rf $(BUILD_DIR)/* 
 	
-distclean: clean
-	rm -rf components
-
 build: | $(BUILD_DIR) components
 	$(WS) build --output $(BUILD_DIR)
 	$(BIN_DIR)/uglifyjs --mangle --no-copyright --compress --output $(BUILD_SCRIPT).min.js $(BUILD_SCRIPT).js

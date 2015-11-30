@@ -21,12 +21,8 @@
     "template": "./lib/template",
     "package": "./package.json"
   },
-  "component": {
-    "use": ["./node_modules/component-autoboot"]
-  },
   "plugins": [
-    "./node_modules/wintersmith-stylus/",
-    "./node_modules/wintersmith-component/"
+    "./node_modules/wintersmith-stylus/"
   ],
   "port": 3060
 }
