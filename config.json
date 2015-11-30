@@ -24,6 +24,11 @@
   "browserify": {
     "fileGlob": "scripts/index.js"
   },
+  "stylus": {
+    "dependencies": [
+      "nib"
+    ]
+  },
   "plugins": [
     "./node_modules/wintersmith-browserify/",
     "./node_modules/wintersmith-stylus/"
