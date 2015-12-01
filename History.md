@@ -1,4 +1,16 @@
 
+1.7.0 / 2015-11-30
+==================
+
+ * wintersmith 2.0.7 → 2.2.3
+ * uglify-js 2.3.6 → 2.6.1
+ * wintersmith-stylus 0.4.0 → 0.5.1
+ * jshint 2.5.2 → 2.8.0
+ * use modern doctype declaration in jade
+ * switch to browserify based build for scripts
+ * retrieve version from package.json and not from config.json
+ * add Gitter badge
+
 1.6.1 / 2014-10-17
 ==================
 
