@@ -1,4 +1,10 @@
 
+1.7.1 / 2016-01-20
+==================
+
+ * switch Panoramio to HTTPS
+ * add distclean target to remove node_modules
+
 1.7.0 / 2015-11-30
 ==================
 
