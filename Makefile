@@ -13,6 +13,9 @@ $(BUILD_DIR):
 clean:
 	rm -rf $(BUILD_DIR)/*
 
+distclean: clean
+	rm -rf node_modules
+
 build: | $(BUILD_DIR)
 	$(WS) build --output $(BUILD_DIR)
 	$(BIN_DIR)/uglifyjs --mangle --no-copyright --compress --output $(BUILD_SCRIPT).min.js $(BUILD_SCRIPT).js
