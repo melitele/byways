@@ -5,7 +5,7 @@ var k = require('k')(window);
 var classes = require('classes');
 
 function photos(bounds, fn) {
-  jsonp('http://www.panoramio.com/map/get_panoramas.php')
+  jsonp('https://ssl.panoramio.com/map/get_panoramas.php')
     .query({
       set: 'public',
       from: 0,
