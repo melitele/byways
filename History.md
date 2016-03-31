@@ -1,4 +1,9 @@
 
+1.8.0 / 2016-03-30
+==================
+
+ * add color swatches for byways sections (A.K.A. map legend)
+
 1.7.1 / 2016-01-20
 ==================
 
