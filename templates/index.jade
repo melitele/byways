@@ -4,6 +4,7 @@ mixin bywaysList(name, byways)
   section.byway-list(data-color=locals.colors[name])
     header
       h2= name
+      .color-tag(style='background-color: #{ locals.colors[name] };')
     ul.flat-list
       for byway in byways
         li: a(href=byway.url data-ll=byway.metadata.ll)= byway.metadata.name
