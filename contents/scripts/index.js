@@ -7,6 +7,9 @@ require('cse')('016392938617991857370:mvxkyxwnqcw');
 // enable disqus
 require('disqus')();
 
+// load photos
+require('./photos')();
+
 //load US map
 require('./us-map')();
 

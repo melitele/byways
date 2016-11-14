@@ -47,8 +47,8 @@ font-title()
 
 photo-size()
   overflow hidden
-  max-width 500px
-  max-height 375px
+  max-width 540px
+  max-height 360px
 
 html
 body
@@ -223,7 +223,9 @@ body > footer
 
       img
         display block
-        max-width 100%
+        object-fit cover
+        width 540px
+        height 360px
         transition opacity 0.3s ease-in-out
 
       &:hover
@@ -234,38 +236,37 @@ body > footer
           opacity .75
 
     .caption
+      text-align end
       position absolute
+      top 100%
       width 100%
       padding .5em
       background rgba(white, .75)
       z-index 1
       transition transform 0.3s ease-in-out
 
-      .title
+      .copy
       .author
-        display block
+        display inline-block
         color #333
         text-decoration none
-        line-height 1.5
+        line-height 1.4
 
       .author
         font-style italic
-        font-size .9em
-        float right
 
       .author:before
+      .author:after
+        font-style normal
         color black
-        content: 'by'
         margin-right .2em
 
-      .copy
-        font-size .6em
-        color #555
-        clear both
+      .author:before
+        content: 'Photo by'
 
-        img
-          margin-bottom -4px
-          display inline-block
+      .author:after
+        content: '/'
+        margin-left .2em
 
   .description
     text-align justify
