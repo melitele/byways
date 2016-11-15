@@ -6,7 +6,7 @@ var classes = require('classes');
 function photos(bounds, fn) {
   var url = 'https://hogfish.code42day.com/api/poi?provider=photos&limit=3&sw=[sw]&ne=[ne]'
     .replace('[sw]', bounds[0].join(','))
-    .replace('[ne]', bounds[1].join(','))
+    .replace('[ne]', bounds[1].join(','));
 
   fetch(url).then(function(res) {
     return res.json();

@@ -2,7 +2,7 @@ mixin stateList(states)
   ul.flat-list
     for id in states
       - var state = contents.state[id + '.json'];
-      li: a(href=state.url)= state.metadata.name
+      li.state: a(href=state.url)= state.metadata.name
 
 extends layout
 
@@ -23,9 +23,11 @@ block body
       +stateList(page.metadata.states)
     .description
       .photos.hidden(data-bounds=page.metadata.bounds)
-        ul
+        ul.swipe
         a.next(href='') ▶
         a.prev(href='') ◀
+      .books.hidden(data-name=page.metadata.name)
+        ul.swipe
       != page.html
 
   if page.metadata.path
@@ -56,3 +58,12 @@ block body
           figcaption.caption
             a.author
             a.copy(href="https://unsplash.com/") Unsplash
+
+    ul.book-template
+      li
+        figure.book
+          a
+            img
+          figcaption
+            .title
+            .author

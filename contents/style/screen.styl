@@ -50,6 +50,10 @@ photo-size()
   max-width 540px
   max-height 360px
 
+book-size()
+  overflow hidden
+  max-width 250px
+
 html
 body
   min-height 100%
@@ -172,44 +176,72 @@ body > footer
       float right
       margin-top .25em
 
-.byway
-  .photos
-    margin 1em auto
-    width 100%
-    photo-size()
-    position relative
+.swipe
+  .next,
+  .prev
+    position absolute
+    width 2em
+    height 2em
+    top 50%
+    margin-top -1em
+    display block
+    background rgba(white, .75)
+    color rgba(black, .75)
+    text-align center
+    font-size .8em
+    line-height 2
+    transition all 0.3s ease-in-out
 
+  .prev
+    left 0
+    transform translateX(-100%)
+
+  .next
+    right 0
+    transform translateX(100%)
+
+  &:hover
     .next,
     .prev
-      position absolute
-      width 2em
-      height 2em
-      top 50%
-      margin-top -1em
-      display block
       background rgba(white, .75)
-      color rgba(black, .75)
-      text-align center
-      font-size .8em
-      line-height 2
-      transition all 0.3s ease-in-out
+      transform translateX(0)
 
-    .prev
-      left 0
-      transform translateX(-100%)
+  li
+    display table-cell
 
-    .next
-      right 0
-      transform translateX(100%)
 
-    &:hover
-      .next,
-      .prev
-        background rgba(white, .75)
-        transform translateX(0)
+.byway
+  .photos
+  .books
+    margin 1em auto
+    width 100%
+    position relative
+
+  .books
+    book-size()
 
     li
-      display table-cell
+      book-size()
+
+    .book
+      position relative
+      book-size()
+      display inline-block
+      margin 0
+
+      figcaption
+        text-align left
+        font-size .8em
+        padding .5em
+
+        .author
+          text-align right
+
+
+  .photos
+    photo-size()
+
+    li
       photo-size()
 
     .photo
@@ -395,6 +427,7 @@ body > footer
 
   .byway
     .photos
+    .books
       float right
       margin 0 0 .5em 1em
 
