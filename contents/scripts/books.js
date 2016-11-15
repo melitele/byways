@@ -5,30 +5,32 @@ var classes = require('classes');
 
 /* globals Promise */
 
-function books(name, state, fn) {
+function books(keywordLists) {
   var prefix = 'https://hogfish.code42day.com/api/books?keywords=';
 
-  name = name.split(/\s+/)
-    .filter(function(t) {
-      return !/byway|scenic/i.test(t);
-    })
-    .map(encodeURIComponent).
-    join(',');
+  function fromStringToArray(keywords) {
+    return keywords
+      .split(/\s+/)
+      .filter(function(t) {
+        return !/byway|scenic/i.test(t);
+      })
+      .map(encodeURIComponent).
+      join(',');
+  }
 
-  state = encodeURIComponent(state);
-
-  Promise.all(
-    [
-      prefix + name,
-      prefix + state
-    ]
-    .map(function (url) {
-      return fetch(url)
-        .then(function(res) { return res.json(); });
+  return Promise
+  .all(
+    keywordLists.map(function(keywords) {
+      var url = prefix + fromStringToArray(keywords);
+      return fetch(url).then(function(res) { return res.json(); });
     })
   )
   .then(function(results) {
-    fn(results[0].concat(results[1]));
+    return results
+    .reduce(function(a, b) {
+      return a.concat(b);
+    })
+    .slice(0, 7); // not too many books...
   });
 }
 
@@ -94,7 +96,9 @@ function fetchBooks() {
   if (!name) {
     return;
   }
-  books(name, state, append.bind(null, parent));
+  books([name, state]).then(function(books) {
+    append(parent, books);
+  });
 }
 
 module.exports = fetchBooks;
