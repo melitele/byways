@@ -3,6 +3,21 @@ var classes = require('classes');
 
 /* globals Promise */
 
+var MAX_BOOKS = 3;
+
+
+function pickRandom(arr, limit) {
+  if (limit < 1) {
+    return [];
+  }
+  var maxIndex = arr.length - limit;
+  if (maxIndex < 1) {
+    return arr;
+  }
+  var index = Math.floor(Math.random() * maxIndex);
+  return arr.slice(index, index + limit);
+}
+
 function books(keywordLists) {
   var prefix = 'https://hogfish.code42day.com/api/books?keywords=';
 
@@ -24,11 +39,11 @@ function books(keywordLists) {
     })
   )
   .then(function(results) {
-    return results
-    .reduce(function(a, b) {
-      return a.concat(b);
-    })
-    .slice(0, 3); // not too many books...
+    var
+      bywayBooks = pickRandom(results[0], MAX_BOOKS - 1),
+      stateBooks = pickRandom(results[1], MAX_BOOKS - bywayBooks.length);
+
+    return bywayBooks.concat(stateBooks);
   });
 }
 
