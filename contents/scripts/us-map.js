@@ -57,7 +57,7 @@ function getDescriptors() {
         position: ll && JSON.parse(ll),
         path: path && JSON.parse(path)
       };
-      
+
       if (bounds) {
         points = points.concat(JSON.parse(bounds));
       }
@@ -149,6 +149,7 @@ function map() {
     stateMap = document.querySelector('.state-map');
   if (usMap || stateMap) {
     maps.init({
+      key: dataset(document.body, 'gmapKey'),
       libraries: 'geometry'
     }, render.bind(null, usMap || stateMap));
   }

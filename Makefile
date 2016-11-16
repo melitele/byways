@@ -17,11 +17,11 @@ distclean: clean
 	rm -rf node_modules
 
 build: | $(BUILD_DIR)
-	$(WS) build --output $(BUILD_DIR)
+	$(WS) $(WS_OPTIONS) build --output $(BUILD_DIR)
 	$(BIN_DIR)/uglifyjs --mangle --no-copyright --compress --output $(BUILD_SCRIPT).min.js $(BUILD_SCRIPT).js
 
 preview:
-	$(WS) preview
+	$(WS) $(WS_OPTIONS) preview
 
 lint:
 	$(BIN_DIR)/jshint lib contents/scripts
