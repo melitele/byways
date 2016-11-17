@@ -1,4 +1,12 @@
 
+1.9.0 / 2016-11-16
+==================
+
+ * use Google Maps API key if provided
+ * upgrade code42day-maps to 0.6.0
+ * switch from npm to yarn
+ * remove panoramio photos (Google discontinued Panoramio API)
+
 1.8.0 / 2016-03-30
 ==================
 
