@@ -28,7 +28,10 @@ html(lang='en')
       block body
     footer
       ul.flat-list
-        li: a.bw-byways(href="/about.html", rel="nofollow") About
+        li
+          a(href="/about.html", rel="nofollow")
+            span.bw-byways
+            span About
         li: a(href="http://code42day.com", target="_blank", rel="nofollow") code42day
         li: a(href="https://trips.furkot.com", target="_blank", rel="nofollow") Plan trip with Furkot
         li Powered by <a href="http://wintersmith.io" rel="nofollow" target="_blank">Wintersmith</a>
