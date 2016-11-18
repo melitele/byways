@@ -11,6 +11,7 @@ html(lang='en')
     meta(name="msapplication-TileImage", content="/byways-white-144.png")
     meta(name="msapplication-TileColor", content="#234F7F")
     link(rel="dns-prefetch", href="//trips.furkot.com")
+    link(rel="dns-prefetch", href="//hogfish.code42day.com")
     link(rel="dns-prefetch", href="//fonts.googleapis.com")
     link(rel="dns-prefetch", href="//discus.com")
     link(rel="dns-prefetch", href="//go.discus.com")
@@ -36,4 +37,5 @@ html(lang='en')
 
     block scripts
       - var min = (env.mode == 'preview') ? '' : '.min'
+      script(src='https://cdn.polyfill.io/v2/polyfill#{min}.js?features=fetch', defer)
       script(src='/scripts/index#{min}.js?v=#{package.version}', defer)

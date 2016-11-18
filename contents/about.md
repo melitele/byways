@@ -2,7 +2,7 @@
 template: about.jade
 ---
 
-Welcome to [scenicbyways.info] - an open source initiative to restore to the public content of 
+Welcome to [scenicbyways.info] - an open source initiative to restore to the public content of
 the discontinued byways.org website.
 
 byways.org was a website established to promote a collection of 150 byways designated by the US
@@ -29,6 +29,10 @@ There are many ways you can help us. If you have access to information about byw
 on byways.org please [share it with us][email]. If you like to code, contribute to byways project at
 [github]. And if you have an idea what we can add to [scenicbyways.info] to make it a better trip
 resource, just [email us][email].
+
+This website is a participant in the Amazon Services LLC Associates Program, an affiliate advertising
+program designed to provide a means for sites to earn advertising fees by advertising and linking to
+amazon.com.
 
 [scenicbyways.info]: http://scenicbyways.info/
 [2012 transportation bill]: http://www.fhwa.dot.gov/MAP21/
