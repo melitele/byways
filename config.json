@@ -32,5 +32,6 @@
     "./node_modules/wintersmith-browserify/",
     "./node_modules/wintersmith-stylus/"
   ],
-  "port": 3060
+  "port": 3060,
+  "version": null
 }

@@ -1,4 +1,10 @@
 
+1.10.0 / 2016-11-17
+===================
+
+ * fix map init when gmap key is not provided
+ * display guide books from amazon for each byway
+
 1.9.0 / 2016-11-16
 ==================
 
