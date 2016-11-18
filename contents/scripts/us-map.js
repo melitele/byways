@@ -147,12 +147,19 @@ function render(mapEl) {
 function map() {
   var usMap = document.querySelector('.us-map'),
     stateMap = document.querySelector('.state-map');
-  if (usMap || stateMap) {
-    maps.init({
-      key: dataset(document.body, 'gmapKey'),
-      libraries: 'geometry'
-    }, render.bind(null, usMap || stateMap));
+
+  if (!usMap && !stateMap) {
+    return;
   }
+
+  var key = dataset(document.body, 'gmapKey');
+  var initOpts = {
+    libraries: 'geometry'
+  };
+  if (key) {
+    initOpts.key = key;
+  }
+  maps.init(initOpts, render.bind(null, usMap || stateMap));
 }
 
 module.exports = map;
