@@ -17,7 +17,7 @@ America's Byways® is available at [Federal Highway Administration][FHWA] but th
 of information on non federally designated scenic roads is gone. The information might sill be
 somewhere, scattered over multitude of websites, much harder to be of use to travelers.
 
-We - [code42day] developers of [Furkot] (a trip planner web application) - decided to restore the
+We, the [developers][creators] of [Furkot] (a trip planner web application), decided to restore the
 content of byways.org to public domain. We took the raw data that we downloaded prior to byways.org
 closure that we meant to use in [Furkot] and we created this website as an open source project that
 everybody can contribute to at [github].
@@ -37,7 +37,7 @@ amazon.com.
 [scenicbyways.info]: http://scenicbyways.info/
 [2012 transportation bill]: http://www.fhwa.dot.gov/MAP21/
 [FHWA]: http://www.fhwa.dot.gov/byways/
-[code42day]: http://code42day.com/
-[Furkot]: http://furkot.com
+[creators]: https://humans.furkot.com/
+[Furkot]: https://furkot.com
 [github]: https://github.com/code42day/byways
 [email]: mailto:byways@code42day.com
