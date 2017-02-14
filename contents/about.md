@@ -40,4 +40,4 @@ amazon.com.
 [creators]: https://humans.furkot.com/
 [Furkot]: https://furkot.com
 [github]: https://github.com/code42day/byways
-[email]: mailto:byways@code42day.com
+[email]: mailto:contact@byways.info
