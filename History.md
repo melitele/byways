@@ -1,4 +1,10 @@
 
+1.10.6 / 2017-02-15
+===================
+
+ * update links after transfering the repository
+ * update email in Readme
+
 1.10.5 / 2017-02-14
 ===================
 
