@@ -39,5 +39,5 @@ amazon.com.
 [FHWA]: http://www.fhwa.dot.gov/byways/
 [creators]: https://humans.furkot.com/
 [Furkot]: https://furkot.com
-[github]: https://github.com/code42day/byways
+[github]: https://github.com/melitele/byways
 [email]: mailto:contact@scenicbyways.info

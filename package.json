@@ -5,8 +5,12 @@
   "scripts": {
     "test": "make lint"
   },
-  "repository": "git@github.com:code42day/byways.git",
-  "author": "Damian Krzeminski <pirxpilot@code42day.com>",
+  "repository": "git@github.com:melitele/byways.git",
+  "author": {
+    "name": "Damian Krzeminski",
+    "email": "pirxpilot@furkot.com",
+    "url": "https://pirxpilot.me"
+  },
   "license": "MIT",
   "dependencies": {
     "code42day-disqus": "^1.2.1",
