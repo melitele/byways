@@ -1,5 +1,5 @@
 // google-analytics snippet
-require('ua')('UA-34953081-6');
+require('google-ua')('UA-34953081-6');
 
 // google custom search engine support
 require('cse')('016392938617991857370:mvxkyxwnqcw');
