@@ -1,5 +1,4 @@
 # byways
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/code42day/byways?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Content of the closed `byways.org` website hosted at [scenicbyways.info]. It contains descriptions,
 maps and links to related information for over 800 America's most scenic roads.
