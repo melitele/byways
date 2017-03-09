@@ -1,4 +1,10 @@
 
+1.10.8 / 2017-03-09
+===================
+
+ * update deprecated dependencies
+ * remove gitter badge
+
 1.10.7 / 2017-02-17
 ===================
 
