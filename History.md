@@ -1,4 +1,9 @@
 
+1.10.9 / 2017-11-09
+===================
+
+ * style embedded tripshot widget to match website look-and-feel
+
 1.10.8 / 2017-03-09
 ===================
 
