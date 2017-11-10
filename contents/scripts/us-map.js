@@ -136,12 +136,19 @@ function render(mapEl) {
     mapTypeControl: false,
     backgroundColor: '#4E86C5',
     mapTypeId: _gm.MapTypeId.ROADMAP,
-    styles: maps.styles
+    styles: styles()
   });
 
   data = getDescriptors();
   map.fitBounds(bounds(data.points) || [[-125.1, 25], [-67, 49.6]]);
   renderAllMarkers(map, data.descriptors);
+}
+
+function styles() {
+  var el = document.getElementById('map-styles');
+  if (el) {
+    return JSON.parse(el.innerHTML);
+  }
 }
 
 function map() {
