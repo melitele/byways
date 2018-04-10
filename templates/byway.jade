@@ -45,16 +45,6 @@ block body
         for link in page.metadata.websites
           li: a(href=link.url)= link.name
 
-  section.comments
-    #disqus_thread(
-      data-shortname="byways",
-      data-identifier=page.metadata.id,
-      data-title=page.metadata.name,
-      data-url="#{locals.url}#{page.url}",
-      data-developer="#{(env.mode == 'preview') ? 1 : 0}"
-    )
-    a.dsq-brlink(href="http://disqus.com") comments powered by <span class="logo-disqus">Disqus</span>
-
   .widget-style.websites.hidden
     a(style='font-size: 1.2em; text-align: left;')
   .templates.hidden

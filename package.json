@@ -16,7 +16,6 @@
     "component-classes": "^1.2.4",
     "cse": "^1.0.4",
     "dataset": "^0.3.1",
-    "disqus-snippet": "^1.3.2",
     "dynload": "^1.0.2",
     "google-maps-facade": "^0.7.1",
     "jshint": "^2.8.0",
@@ -30,7 +29,6 @@
   },
   "browser": {
     "classes": "component-classes",
-    "disqus": "disqus-snippet",
     "hilo": "scroll-hilo",
     "k": "yields-k",
     "load": "dynload",
