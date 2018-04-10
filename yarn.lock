@@ -1206,13 +1206,6 @@ google-maps-facade@^0.7.1:
     dynload "^1.0.2"
     object-component "~0"
 
-google-ua@^1.4.1:
-  version "1.4.1"
-  resolved "https://registry.yarnpkg.com/google-ua/-/google-ua-1.4.1.tgz#f824c5ecb89673bc35f5c1aae2437799ceb8c21b"
-  dependencies:
-    dataset "^0.3.1"
-    dynload "^1.0.2"
-
 graceful-fs@^4.1.2, graceful-fs@~4.1.4:
   version "4.1.10"
   resolved "https://registry.yarnpkg.com/graceful-fs/-/graceful-fs-4.1.10.tgz#f2d720c22092f743228775c75e3612632501f131"
