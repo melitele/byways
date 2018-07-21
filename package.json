@@ -17,8 +17,8 @@
     "cse": "^1.0.4",
     "dataset": "^0.3.1",
     "dynload": "^1.0.2",
-    "google-maps-facade": "^0.7.1",
     "jshint": "^2.8.0",
+    "maps-facade": "^1.4.1",
     "scroll-hilo": "^1.0.2",
     "swipe": "^1.7.7",
     "uglify-js": "^2.6.1",
@@ -31,7 +31,6 @@
     "classes": "component-classes",
     "hilo": "scroll-hilo",
     "k": "yields-k",
-    "load": "dynload",
-    "maps": "google-maps-facade"
+    "load": "dynload"
   }
 }

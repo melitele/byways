@@ -2,6 +2,14 @@
 # yarn lockfile v1
 
 
+"@pirxpilot/eviltransform@^0.2.2":
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/@pirxpilot/eviltransform/-/eviltransform-0.2.2.tgz#420241a1da6a3a85418c726cab34b51069b0fb1e"
+
+"@pirxpilot/google-polyline@^2.0.3":
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/@pirxpilot/google-polyline/-/google-polyline-2.1.1.tgz#5bc8010358dcf5a73db8b7b3cd103348d335f311"
+
 JSONStream@^1.0.3:
   version "1.2.1"
   resolved "https://registry.yarnpkg.com/JSONStream/-/JSONStream-1.2.1.tgz#32aa5790e799481083b49b4b7fa94e23bae69bf9"
@@ -1118,6 +1126,10 @@ generate-object-property@^1.1.0:
   dependencies:
     is-property "^1.0.0"
 
+geodesy@^1.1.1:
+  version "1.1.3"
+  resolved "https://registry.yarnpkg.com/geodesy/-/geodesy-1.1.3.tgz#a0cbd5db5c0cf8ac045e749f754f61b450382de9"
+
 getpass@^0.1.1:
   version "0.1.6"
   resolved "https://registry.yarnpkg.com/getpass/-/getpass-0.1.6.tgz#283ffd9fc1256840875311c1b60e8c40187110e6"
@@ -1187,13 +1199,6 @@ glob@^7.0.5, glob@^7.1.1:
     minimatch "^3.0.2"
     once "^1.3.0"
     path-is-absolute "^1.0.0"
-
-google-maps-facade@^0.7.1:
-  version "0.7.1"
-  resolved "https://registry.yarnpkg.com/google-maps-facade/-/google-maps-facade-0.7.1.tgz#a062d23426a452ea994e69f74daba60098d7cf90"
-  dependencies:
-    dynload "^1.0.2"
-    object-component "~0"
 
 graceful-fs@^4.1.2, graceful-fs@~4.1.4:
   version "4.1.10"
@@ -1680,6 +1685,25 @@ lru-cache@2:
   version "2.7.3"
   resolved "https://registry.yarnpkg.com/lru-cache/-/lru-cache-2.7.3.tgz#6d4524e8b955f95d4f5b58851ce21dd72fb4e952"
 
+map-scale-control@^0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/map-scale-control/-/map-scale-control-0.0.1.tgz#ce7df1ade2e2fc5551bddf237eee8ced54fa42a8"
+
+map-zoom-control@^0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/map-zoom-control/-/map-zoom-control-0.0.1.tgz#38d23ddc0e9ec088b5265b9301d167dc47407345"
+
+maps-facade@^1.4.1:
+  version "1.4.1"
+  resolved "https://registry.yarnpkg.com/maps-facade/-/maps-facade-1.4.1.tgz#4bec9e4b21498eed84e1afd7f13f42421167ad17"
+  dependencies:
+    "@pirxpilot/eviltransform" "^0.2.2"
+    "@pirxpilot/google-polyline" "^2.0.3"
+    dynload "^1.0.2"
+    geodesy "^1.1.1"
+    map-scale-control "^0.0.1"
+    map-zoom-control "^0.0.1"
+
 marked@~0.3.5:
   version "0.3.6"
   resolved "https://registry.yarnpkg.com/marked/-/marked-0.3.6.tgz#b2c6c618fccece4ef86c4fc6cb8a7cbf5aeda8d7"
@@ -2009,10 +2033,6 @@ oauth-sign@~0.8.1:
 object-assign@^4.1.0:
   version "4.1.0"
   resolved "https://registry.yarnpkg.com/object-assign/-/object-assign-4.1.0.tgz#7a3b3d0e98063d43f4c03f2e8ae6cd51a86883a0"
-
-object-component@~0:
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/object-component/-/object-component-0.0.3.tgz#f0c69aa50efc95b866c186f400a33769cb2f1291"
 
 object.omit@^2.0.0:
   version "2.0.1"
