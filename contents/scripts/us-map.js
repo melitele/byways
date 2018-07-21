@@ -1,11 +1,9 @@
-var maps = require('maps');
+var maps = require('maps-facade');
 var dataset = require('dataset');
 
 // US maps coordinates
 // bounding box: -125.1, 25, -67, 49.6
 // Centroid: -95.9669, 37.1669
-
-/*global google*/
 
 function bounds(path) {
   var sw, ne;
@@ -78,7 +76,7 @@ function renderMarker(map, descriptor) {
   maps.marker({
     map: map,
     icon: {
-      path: google.maps.SymbolPath.CIRCLE,
+      path: 'circle',
       fillColor: descriptor.color,
       fillOpacity: 1,
       strokeColor:  '#777777',
@@ -124,31 +122,21 @@ function renderAllMarkers(map, descriptors) {
 
 
 function render(mapEl) {
-  var _gm = google.maps, map, data;
-
-  map = maps.map(mapEl, {
-    scrollwheel: false,
+  var map = maps.map(mapEl, {
     zoomControl: true,
     zoomControlOptions: {
-        style: _gm.ZoomControlStyle.SMALL,
-        position: _gm.ControlPosition.RIGHT_BOTTOM
+      position: 'RB'
     },
-    mapTypeControl: false,
-    backgroundColor: '#4E86C5',
-    mapTypeId: _gm.MapTypeId.ROADMAP,
-    styles: styles()
+    scaleControlOptions: {
+      position: 'LB'
+    },
+    backgroundColor: 'white',
+    style: 'https://tiles.code42day.com/styles/byways/style.json'
   });
 
-  data = getDescriptors();
+  var data = getDescriptors();
   map.fitBounds(bounds(data.points) || [[-125.1, 25], [-67, 49.6]]);
   renderAllMarkers(map, data.descriptors);
-}
-
-function styles() {
-  var el = document.getElementById('map-styles');
-  if (el) {
-    return JSON.parse(el.innerHTML);
-  }
 }
 
 function map() {
@@ -159,14 +147,9 @@ function map() {
     return;
   }
 
-  var key = dataset(document.body, 'gmapKey');
-  var initOpts = {
-    libraries: 'geometry'
-  };
-  if (key) {
-    initOpts.key = key;
-  }
-  maps.init(initOpts, render.bind(null, usMap || stateMap));
+  maps.init({
+    service: 'mapbox'
+  }, render.bind(null, usMap || stateMap));
 }
 
 module.exports = map;
