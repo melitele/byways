@@ -3,10 +3,6 @@
   "unused": true,
   "laxbreak": true,
   "browser": true,
-  "globals": {
-    "console": false,
-    "exports": false,
-    "require": false,
-    "module": false
-  }
+  "browserify": true,
+  "esversion": 6
 }
