@@ -16,9 +16,23 @@ clean:
 distclean: clean
 	rm -rf node_modules
 
-build: | $(BUILD_DIR)
+%.min.js: %.es5.js
+	$(BIN_DIR)/uglifyjs \
+		--mangle \
+		--no-copyright \
+		--compress \
+		--output $@ $<
+
+%.es5.js: %.js
+	$(BIN_DIR)/buble \
+		--yes dangerousForOf \
+		--target ie:10 \
+		--output $@ $<
+
+$(BUILD_SCRIPT).js: | $(BUILD_DIR)
 	$(WS) $(WS_OPTIONS) build --output $(BUILD_DIR)
-	$(BIN_DIR)/uglifyjs --mangle --no-copyright --compress --output $(BUILD_SCRIPT).min.js $(BUILD_SCRIPT).js
+
+build: $(BUILD_SCRIPT).min.js
 
 preview:
 	$(WS) $(WS_OPTIONS) preview
