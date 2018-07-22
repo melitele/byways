@@ -135,7 +135,9 @@ function render(mapEl) {
   });
 
   var data = getDescriptors();
-  map.fitBounds(bounds(data.points) || [[-125.1, 25], [-67, 49.6]]);
+  var bbox = bounds(data.points) || [[-125.1, 25], [-67, 49.6]];
+  // FIXME: map facade needs to support options
+  map._m.fitBounds(bbox, { animate: false });
   renderAllMarkers(map, data.descriptors);
 }
 
