@@ -1,7 +1,5 @@
 doctype html
 
-include mixin
-
 html(lang='en')
   head
     meta(charset='utf-8')
@@ -19,14 +17,16 @@ html(lang='en')
     link(rel="search", type="application/opensearchdescription+xml", href="/opensearch.xml", title="Scenic Byways")
     link(rel='stylesheet', type='text/css', href='//fonts.googleapis.com/css?family=Arbutus+Slab|Capriola')
     link(rel='stylesheet', type='text/css', href='/style/screen.css?v=#{package.version}')
-  body.top.bottom(data-gmap-key=locals.gmapKey)
+
+    link(href="https://api.mapbox.com/mapbox-gl-js/v0.46.0/mapbox-gl.css", rel="stylesheet")
+
+  body.top.bottom
     header
       a(href="/")
         .bw-byways
         h1= locals.title
     #main
       block body
-      +map-styles(locals.mapStyles)
     footer
       ul.flat-list
         li
@@ -41,4 +41,5 @@ html(lang='en')
     block scripts
       - var min = (env.mode == 'preview') ? '' : '.min'
       script(src='https://cdn.polyfill.io/v2/polyfill#{min}.js?features=fetch', defer)
+      script(src="https://api.mapbox.com/mapbox-gl-js/v0.46.0/mapbox-gl.js", defer)
       script(src='/scripts/index#{min}.js?v=#{package.version}', defer)
