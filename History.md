@@ -1,4 +1,9 @@
 
+1.11.1 / 2018-07-21
+===================
+
+ * add support for using ES6 (needed for maps-facade) use buble to es5ify our scripts
+
 1.11.0 / 2018-07-21
 ===================
 
