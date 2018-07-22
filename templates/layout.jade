@@ -1,7 +1,5 @@
 doctype html
 
-include mixin
-
 html(lang='en')
   head
     meta(charset='utf-8')
@@ -29,7 +27,6 @@ html(lang='en')
         h1= locals.title
     #main
       block body
-      +map-styles(locals.mapStyles)
     footer
       ul.flat-list
         li
