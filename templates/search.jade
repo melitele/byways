@@ -2,5 +2,15 @@ extends layout
 
 block body
   include searchbox
-  section.searchresults
-    #cseSearchResults
+  #search-results
+
+block scripts
+  script(src='/scripts/search.#{js}?v=#{package.version}', defer)
+
+block templates
+  template#search-result
+    section.search-result
+      header
+        h1: a
+      .search-result-body
+

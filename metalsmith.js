@@ -85,6 +85,10 @@ function adjustProperties(files) {
       file.layout = file.template;
       delete file.template;
     }
+    if (file.name) {
+      // title is used by lunr
+      file.title = file.name;
+    }
   });
 }
 
@@ -164,7 +168,7 @@ const ms = metalsmith(__dirname)
     use: [ autoprefixer(), nib() ]
   }))
   .use(browserify({
-    entries: [ 'scripts/index.js' ]
+    entries: [ 'scripts/index.js', 'scripts/search.js' ]
   }))
   .use(markdown({
     html: true
