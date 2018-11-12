@@ -683,12 +683,6 @@ crypto-browserify@^3.0.0:
     randombytes "^2.0.0"
     randomfill "^1.0.3"
 
-cse@^1.0.4:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/cse/-/cse-1.0.4.tgz#9c2f1e616c1bbdc2ad78fb6e1584d3556e2bf266"
-  dependencies:
-    dynload "^1.0.2"
-
 css-parse@1.0.4:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/css-parse/-/css-parse-1.0.4.tgz#38b0503fbf9da9f54e9c1dbda60e145c77117bdd"
