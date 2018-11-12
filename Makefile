@@ -1,43 +1,71 @@
 PROJECT=byways.org
 BUILD_DIR?=/var/www/$(PROJECT)
-BUILD_SCRIPT=$(BUILD_DIR)/scripts/index
+PORT ?= 3040
+NODE_BIN=./node_modules/.bin
+SRC_DIR=contents
+SRC = $(wildcard $(SRC_DIR)/scripts/*.js)
 
-BIN_DIR=./node_modules/.bin
-WS=$(BIN_DIR)/wintersmith
+all: check build
 
-all: lint preview
+FILES = $(shell find $(SRC_DIR) -type f)
 
-$(BUILD_DIR):
-	mkdir -p $@
+OUT_FILES := $(FILES:.md=.html)
+OUT_FILES := $(OUT_FILES:%.yaml=%)
+OUT_FILES := $(OUT_FILES:.styl=.css)
+OUT_FILES := $(OUT_FILES:$(SRC_DIR)/%=$(BUILD_DIR)/%)
 
-clean:
-	rm -rf $(BUILD_DIR)/*
-
-distclean: clean
-	rm -rf node_modules
+SCRIPTS = $(SRC:$(SRC_DIR)/%.js=$(BUILD_DIR)/%.js)
 
 %.min.js: %.es5.js
-	$(BIN_DIR)/uglifyjs \
+	$(NODE_BIN)/uglifyjs \
 		--mangle \
 		--no-copyright \
 		--compress \
 		--output $@ $<
 
 %.es5.js: %.js
-	$(BIN_DIR)/buble \
+	$(NODE_BIN)/buble \
 		--yes dangerousForOf \
 		--target ie:10 \
 		--output $@ $<
 
-$(BUILD_SCRIPT).js: | $(BUILD_DIR)
-	$(WS) $(WS_OPTIONS) build --output $(BUILD_DIR)
+check: lint
 
-build: $(BUILD_SCRIPT).min.js
+clean:
+	@rm -rf $(BUILD_DIR)/*
 
-preview:
-	$(WS) $(WS_OPTIONS) preview
+distclean: clean
+	@rm -rf node_modules
 
-lint:
-	$(BIN_DIR)/jshint lib contents/scripts
+.SECONDARY: $(OUT_FILES)
+
+$(OUT_FILES): metalsmith
+
+metalsmith: | node_modules ${BUILD_DIR}
+	node metalsmith --destination ${BUILD_DIR}
+
+.PHONY: metalsmith
+
+preview: | node_modules ${BUILD_DIR}
+	node metalsmith --preview --destination ${BUILD_DIR} --port $(PORT)
+
+$(BUILD_DIR):
+	mkdir -p $@
+	chown $(USER) $@
+
+lint: | node_modules
+	$(NODE_BIN)/jshint metalsmith.js $(SRC)
+
+node_modules:
+	yarn && touch $@
+
+build: $(OUT_FILES)
+
+MIN_SCRIPTS = $(SCRIPTS:%.js=%.min.js)
+
+dist: export NODE_ENV=production
+dist: clean check
+dist: $(MIN_SCRIPTS)
 
 .PHONY: all preview build lint clean
+
