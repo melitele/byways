@@ -6,9 +6,9 @@ html(lang='en')
     meta(name="viewport", content="width=device-width, initial-scale=1.0")
     title
       block title
-        = locals.siteTitle
+        = siteTitle
     block description
-      meta(name="description", content="#{locals.siteDescription}")
+      meta(name="description", content="#{siteDescription}")
     meta(name="msapplication-TileImage", content="/byways-white-144.png")
     meta(name="msapplication-TileColor", content="#234F7F")
     link(rel="dns-prefetch", href="//trips.furkot.com")
@@ -24,7 +24,7 @@ html(lang='en')
     header
       a(href="/")
         .bw-byways
-        h1= locals.title
+        h1= siteTitle
     #main
       block body
     footer
@@ -36,10 +36,9 @@ html(lang='en')
         li: a(href="https://trips.furkot.com", target="_blank", rel="nofollow") Plan trip with Furkot
         li Powered by <a href="http://wintersmith.io" rel="nofollow" target="_blank">Wintersmith</a>
         li.nosep: a.bw-github(href='http://github.com/melitele/byways', title='Fork us', target="_blank", rel="nofollow")
-        li: a.bw-mail(href='mailto:#{locals.email}' title='E-mail us')
+        li: a.bw-mail(href='mailto:#{email}' title='E-mail us')
 
     block scripts
-      - var min = (env.mode == 'preview') ? '' : '.min'
-      script(src='https://cdn.polyfill.io/v2/polyfill#{min}.js?features=fetch', defer)
+      script(src='https://cdn.polyfill.io/v2/polyfill.#{js}?features=fetch', defer)
       script(src="https://api.mapbox.com/mapbox-gl-js/v0.46.0/mapbox-gl.js", defer)
-      script(src='/scripts/index#{min}.js?v=#{package.version}', defer)
+      script(src='/scripts/index.#{js}?v=#{package.version}', defer)

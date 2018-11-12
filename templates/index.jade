@@ -1,13 +1,13 @@
 extends layout
 
 mixin bywaysList(name, byways)
-  section.byway-list(data-color=locals.colors[name])
+  section.byway-list(data-color=colors[name])
     header
       h2= name
-      .color-tag(style='background-color: #{ locals.colors[name] };')
+      .color-tag(style='background-color: #{ colors[name] };')
     ul.flat-list
       for byway in byways
-        li: a(href=byway.url data-ll=byway.metadata.ll)= byway.metadata.name
+        li: a(href=byway.url data-ll=byway.ll)= byway.name
 
 
 block body
@@ -15,13 +15,9 @@ block body
 
   section.us-map
 
-  - function compare(a, b) { return a.metadata.name.localeCompare(b.metadata.name); };
-  - var designations = [ 'All-American Road', 'National Scenic Byway', 'Parkway', 'National Forest Scenic Byway', 'BLM Back Country Byway', 'Other Scenic Road' ];
-  - var byways = template.bywaysByDesignation(contents.byway._.pages.sort(compare), designations);
-  - var states = contents.state._.pages.sort(compare);
   section.states
     ul.flat-list
       for state in states
-        li: a(href=state.url)= state.metadata.name
-  for dsg in designations
-    mixin bywaysList(dsg, byways[dsg])
+        li: a(href=state.url)= state.name
+  for byways, name in designations
+    mixin bywaysList(name, byways)
