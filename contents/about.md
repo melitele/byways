@@ -1,5 +1,6 @@
 ---
 template: about.jade
+title: About
 ---
 
 Welcome to [scenicbyways.info] - an open source initiative to restore to the public content of
