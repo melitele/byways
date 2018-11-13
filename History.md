@@ -1,4 +1,10 @@
 
+2.0.0 / 2018-11-12
+==================
+
+ * replace google icustom search engine with Lunr
+ * replace Wintersmith with Metalsmith
+
 1.11.1 / 2018-07-21
 ===================
 
