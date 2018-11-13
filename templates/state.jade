@@ -1,34 +1,33 @@
 extends layout
 
 append title
-  = "::" + page.metadata.name
+  = "::" + name
 
 block description
-  - var byways = [];
-  for id in page.metadata.byways
-    - byways.push(contents.byway[id + '.md'].metadata.name);
-  meta(name="description", content="#{page.metadata.name} most scenic roads: #{byways.join(', ')}.")
+  - var bywaysStr = byways.map(id => bywaysById[id].name).join(', ');
+  meta(name="description", content="#{name} most scenic roads: #{bywaysStr}.")
 
 mixin bywaysList(name, byways)
-  - function bywayMeta(id) { return contents.byway[id + '.md'].metadata; };
-  - var defaultColor = locals.colors['Other Scenic Road'];
+  -
+    var defaultColor = colors['Other Scenic Road'];
   section.byway-list
     header
       h2= name
     ul.flat-list
       for id in byways
-        - var byway = bywayMeta(id);
+        -
+          var byway = bywaysById[id];
+          var color = (byway.designations && colors[byway.designations[0]]) || defaultColor;
         li: a(
-          href="/byway/#{id}.html",
-          data-ll=byway.ll,
-          data-bounds=byway.bounds,
-          data-color=(byway.designations && locals.colors[byway.designations[0]]) || defaultColor,
-          data-path=byway.path && (Array.isArray(byway.path) ? byway.path : [ byway.path ])
+          href=byway.url
+          data-ll=byway.ll
+          data-bounds=byway.bounds
+          data-color=color
+          data-path=byway.encodedPaths
         )= byway.name
 
 
 block body
-  - var byway_data = [], byway_colors = {};
   include searchbox
   section.state-map
-  mixin bywaysList(page.metadata.name, page.metadata.byways)
+  mixin bywaysList(name, byways)

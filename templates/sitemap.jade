@@ -1,7 +1,7 @@
 mixin dir(pages)
-  for p in contents[pages]._.pages
+  for p in locals[pages]
     url
-      loc #{locals.url}#{p.url}
+      loc #{siteUrl}#{p.url}
       changefreq weekly
 
 doctype xml
@@ -9,14 +9,14 @@ urlset(
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 )
   url
-    loc= locals.url
+    loc= siteUrl
     changefreq weekly
     priority 0.8
 
   url
-    loc #{locals.url}/about.html
+    loc #{siteUrl}/about.html
     changefreq weekly
     priority 0.8
 
-  +dir('byway')
-  +dir('state')
+  +dir('byways')
+  +dir('states')

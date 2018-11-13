@@ -1,6 +1,3 @@
-// google custom search engine support
-require('cse')('016392938617991857370:mvxkyxwnqcw');
-
 // load books
 require('./books')();
 
