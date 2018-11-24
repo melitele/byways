@@ -20,14 +20,17 @@ mixin bywaysList(name, byways)
           var color = (byway.designations && colors[byway.designations[0]]) || defaultColor;
         li: a(
           href=byway.url
-          data-ll=byway.ll
-          data-bounds=byway.bounds
-          data-color=color
-          data-path=byway.encodedPaths
         )= byway.name
 
 
 block body
   include searchbox
-  section.state-map
+  section.map
+    iframe(src=furkotUrl + '/widget/byways/' + slug,
+      class="furkot-tripshot-widget",
+      data-link=".widget-style a",
+      data-link-hover="color: #d98e1b; text-decoration: none;",
+      data-heading="background-color: #1c518d;"
+    )
+    script(src="https://cdn.furkot.com/scripts/furkot-tripshot.min.js", defer)
   mixin bywaysList(name, byways)

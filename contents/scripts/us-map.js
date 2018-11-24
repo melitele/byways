@@ -142,16 +142,15 @@ function render(mapEl) {
 }
 
 function map() {
-  var usMap = document.querySelector('.us-map'),
-    stateMap = document.querySelector('.state-map');
+  var usMap = document.querySelector('.us-map');
 
-  if (!usMap && !stateMap) {
+  if (!usMap) {
     return;
   }
 
   maps.init({
     service: 'mapbox'
-  }, render.bind(null, usMap || stateMap));
+  }, render.bind(null, usMap));
 }
 
 module.exports = map;

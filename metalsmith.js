@@ -78,7 +78,6 @@ function handleJSON(files) {
 function adjustProperties(files) {
   Object.values(files).forEach(function(file) {
     if (file.path) {
-      file.encodedPaths = Array.isArray(file.path) ? file.path : [ file.path ];
       delete file.path;
     }
     if (file.template) {
@@ -197,4 +196,3 @@ ms.build(function(err) {
     process.exit(1);
   }
 });
-
