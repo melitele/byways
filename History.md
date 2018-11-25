@@ -1,4 +1,11 @@
 
+2.1.0 / 2018-11-24
+==================
+
+ * replace front page map by Furkot all byways widget
+ * replace state map by Furkot byways widget
+ * override Furkot url by env option
+
 2.0.1 / 2018-11-12
 ==================
 
