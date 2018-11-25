@@ -25,7 +25,7 @@ const locals = {
   siteDescription: "Descriptions, maps and links to related information for over 800 America's most scenic roads.",
   siteUrl: "http://scenicbyways.info",
   email: "contact@scenicbyways.info",
-  furkotUrl: "https://trips.furkot.com",
+  furkotUrl: process.env.FURKOT_URL || "https://trips.furkot.com",
   js: process.env.NODE_ENV === 'production' ? 'min.js' : 'js',
   colors: {
     "All-American Road": "#AB0534",
@@ -78,7 +78,6 @@ function handleJSON(files) {
 function adjustProperties(files) {
   Object.values(files).forEach(function(file) {
     if (file.path) {
-      file.encodedPaths = Array.isArray(file.path) ? file.path : [ file.path ];
       delete file.path;
     }
     if (file.template) {
@@ -197,4 +196,3 @@ ms.build(function(err) {
     process.exit(1);
   }
 });
-

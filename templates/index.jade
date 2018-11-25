@@ -7,13 +7,20 @@ mixin bywaysList(name, byways)
       .color-tag(style='background-color: #{ colors[name] };')
     ul.flat-list
       for byway in byways
-        li: a(href=byway.url data-ll=byway.ll)= byway.name
+        li: a(href=byway.url)= byway.name
 
 
 block body
   include searchbox
 
-  section.us-map
+  section.map
+    iframe(src=furkotUrl + '/widget/byways',
+      class="furkot-tripshot-widget",
+      data-link=".widget-style a",
+      data-link-hover="color: #d98e1b; text-decoration: none;",
+      data-heading="background-color: #1c518d;"
+    )
+    script(src="https://cdn.furkot.com/scripts/furkot-tripshot.min.js", defer)
 
   section.states
     ul.flat-list
