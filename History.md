@@ -1,4 +1,11 @@
 
+2.2.0 / 2019-03-24
+==================
+
+ * add Tunnel of Trees (M-119) Scenic Heritage Road
+ * add Benzie Manistee (M-22) Pure Michigan Byway
+ * review Michigan M-1 and M-125
+
 2.1.0 / 2018-11-24
 ==================
 
