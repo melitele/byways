@@ -1,4 +1,10 @@
 
+2.2.1 / 2019-03-28
+==================
+
+ * ignore books API errors
+ * improve keyword quality in book queries
+
 2.2.0 / 2019-03-24
 ==================
 
