@@ -23,9 +23,9 @@ function books(keywordLists) {
 
   function fromStringToArray(keywords) {
     return keywords
-      .split(/\s+/)
+      .split(/['()\s]+/)
       .filter(function(t) {
-        return !/byway|scenic/i.test(t);
+        return t.length > 3 && !/byway|scenic|route|trail/i.test(t);
       })
       .map(encodeURIComponent).
       join(',');
@@ -35,7 +35,9 @@ function books(keywordLists) {
   .all(
     keywordLists.map(function(keywords) {
       var url = prefix + fromStringToArray(keywords);
-      return fetch(url).then(function(res) { return res.json(); });
+      return fetch(url)
+        .then(function(res) { return res.json(); })
+        .catch(function() { return []; });
     })
   )
   .then(function(results) {
