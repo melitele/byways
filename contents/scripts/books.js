@@ -23,9 +23,9 @@ function books(keywordLists) {
 
   function fromStringToArray(keywords) {
     return keywords
-      .split(/\s+/)
+      .split(/['()\s]+/)
       .filter(function(t) {
-        return !/byway|scenic/i.test(t);
+        return t.length > 3 && !/byway|scenic|route|trail/i.test(t);
       })
       .map(encodeURIComponent).
       join(',');
