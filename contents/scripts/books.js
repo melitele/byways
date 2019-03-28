@@ -35,7 +35,9 @@ function books(keywordLists) {
   .all(
     keywordLists.map(function(keywords) {
       var url = prefix + fromStringToArray(keywords);
-      return fetch(url).then(function(res) { return res.json(); });
+      return fetch(url)
+        .then(function(res) { return res.json(); })
+        .catch(function() { return []; });
     })
   )
   .then(function(results) {
