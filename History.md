@@ -1,4 +1,11 @@
 
+2.2.2 / 2019-04-03
+==================
+
+ * update links for Outer Banks Scenic Byway
+ * link to Furkot help article about contributing a byway
+ * Added update to websites section
+
 2.2.1 / 2019-03-28
 ==================
 
