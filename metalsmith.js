@@ -10,8 +10,6 @@ const stylus = require('metalsmith-stylus');
 const lunr = require('@pirxpilot/metalsmith-lunr-index');
 const nib = require('nib');
 
-const autoprefixer = require('autoprefixer-stylus');
-
 const {
   destination,
   port = 3040,
@@ -164,7 +162,7 @@ const ms = metalsmith(__dirname)
   .use(collectById)
   .use(stylus({
     compress: true,
-    use: [ autoprefixer(), nib() ]
+    use: [ nib() ]
   }))
   .use(browserify({
     entries: [ 'scripts/index.js', 'scripts/search.js' ]

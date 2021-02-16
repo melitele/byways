@@ -14,7 +14,6 @@
   "license": "MIT",
   "dependencies": {
     "@pirxpilot/metalsmith-lunr-index": "^1.0.0",
-    "autoprefixer-stylus": "^0.14.0",
     "buble": "^0.19.3",
     "component-classes": "^1.2.4",
     "dataset": "^0.3.1",
