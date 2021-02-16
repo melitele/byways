@@ -30,7 +30,6 @@
     "metalsmith-markdownit": "^0.5.0",
     "metalsmith-serve": "^0.0.7",
     "metalsmith-stylus": "^3.0.0",
-    "nib": "^1.1.2",
     "scroll-hilo": "^1.0.2",
     "swipe": "^1.7.7",
     "uglify-js": "^2.6.1",

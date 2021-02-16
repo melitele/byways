@@ -8,7 +8,6 @@ const layouts = require('metalsmith-layouts');
 const markdown = require('metalsmith-markdownit');
 const stylus = require('metalsmith-stylus');
 const lunr = require('@pirxpilot/metalsmith-lunr-index');
-const nib = require('nib');
 
 const {
   destination,
@@ -161,8 +160,7 @@ const ms = metalsmith(__dirname)
   .use(collectDesignations)
   .use(collectById)
   .use(stylus({
-    compress: true,
-    use: [ nib() ]
+    compress: true
   }))
   .use(browserify({
     entries: [ 'scripts/index.js', 'scripts/search.js' ]
