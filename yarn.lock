@@ -577,17 +577,24 @@ date-now@^0.1.4:
   version "0.1.4"
   resolved "https://registry.yarnpkg.com/date-now/-/date-now-0.1.4.tgz#eaf439fd4d4848ad74e5cc7dbef200672b9e345b"
 
-debug@*, debug@^3.1.0:
-  version "3.2.6"
-  resolved "https://registry.yarnpkg.com/debug/-/debug-3.2.6.tgz#e83d17de16d8a7efb7717edbe5fb10135eee629b"
+debug@*, debug@^4.1.1:
+  version "4.3.1"
+  resolved "https://registry.yarnpkg.com/debug/-/debug-4.3.1.tgz#f0d229c505e0c6d8c49ac553d1b13dc183f6b2ee"
+  integrity sha512-doEwdvm4PCeK4K3RQN2ZC2BYUBaxwLARCqZmMjtF8a51J2Rb0xpVloFRnCODwqjpwnAoao4pelN8l3RJdv3gRQ==
   dependencies:
-    ms "^2.1.1"
+    ms "2.1.2"
 
 debug@^2.2.0:
   version "2.6.9"
   resolved "https://registry.yarnpkg.com/debug/-/debug-2.6.9.tgz#5d128515df134ff327e90a4c93f4e077a536341f"
   dependencies:
     ms "2.0.0"
+
+debug@^3.1.0:
+  version "3.2.6"
+  resolved "https://registry.yarnpkg.com/debug/-/debug-3.2.6.tgz#e83d17de16d8a7efb7717edbe5fb10135eee629b"
+  dependencies:
+    ms "^2.1.1"
 
 debug@~2.2.0:
   version "2.2.0"
@@ -1100,12 +1107,13 @@ mdurl@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/mdurl/-/mdurl-1.0.1.tgz#fe85b2ec75a59037f2adfec100fd6c601761152e"
 
-metalsmith-browserify@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/metalsmith-browserify/-/metalsmith-browserify-1.0.0.tgz#e7e95af05c69767a4a979d9dba039c98bd5e2476"
+metalsmith-browserify@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/metalsmith-browserify/-/metalsmith-browserify-1.1.0.tgz#1017c321f4239dcda5ef168ef4d9c6f024a89d3f"
+  integrity sha512-+Ob48uf2HfryxJiaH8sCAE64bjvZS9dmhArBbk9jW6bYQ8PSgiSYUTTZKEh8gsuKAb0mI+0f2HD7vAhvAEcdkg==
   dependencies:
     browserify "^16.1.0"
-    debug "^3.1.0"
+    debug "^4.1.1"
 
 metalsmith-collections@^0.9.0:
   version "0.9.0"
@@ -1124,13 +1132,15 @@ metalsmith-debug@^1.2.0:
     debug "^2.2.0"
     multimatch "^2.1.0"
 
-metalsmith-define@^2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/metalsmith-define/-/metalsmith-define-2.0.1.tgz#a5a48632e62958ba61a74169f65bc2b6f65b915d"
+metalsmith-define@^2.1.3:
+  version "2.1.3"
+  resolved "https://registry.yarnpkg.com/metalsmith-define/-/metalsmith-define-2.1.3.tgz#13f6fb0d30e381c0ad2e3a2f4085bffd6f60dbe7"
+  integrity sha512-/u+ftoxc/5nFAkFXnABWiZ/pHAxErje1UpIACF7q8G6Aw4dfxOxx5LdClRBhSwTvZQd1Y5VEV2su9107PlusLw==
 
-metalsmith-layouts@^2.3.0:
-  version "2.3.0"
-  resolved "https://registry.yarnpkg.com/metalsmith-layouts/-/metalsmith-layouts-2.3.0.tgz#c73c3a3215f83a15d5822d226fd710dad67c0714"
+metalsmith-layouts@^2.3.1:
+  version "2.3.1"
+  resolved "https://registry.yarnpkg.com/metalsmith-layouts/-/metalsmith-layouts-2.3.1.tgz#027f5ca9b7fb1ecc36e9697cd757d1923670fa7e"
+  integrity sha512-zyJQiAKebqDttd6pgWEDIz2a3uqUmgWnrKx8P94wQRdtWHl5NiDHfibKZAcbzomfwu2PovE/Qc7WLyKIahfEvw==
   dependencies:
     debug "^3.1.0"
     inputformat-to-jstransformer "^1.2.1"
@@ -1249,9 +1259,10 @@ ms@2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/ms/-/ms-2.0.0.tgz#5608aeadfc00be6c2901df5f9861788de0d597c8"
 
-ms@^2.1.1:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/ms/-/ms-2.1.1.tgz#30a5864eb3ebb0a66f2ebe6d727af06a09d86e0a"
+ms@2.1.2, ms@^2.1.1:
+  version "2.1.2"
+  resolved "https://registry.yarnpkg.com/ms/-/ms-2.1.2.tgz#d09d1f357b443f493382a8eb3ccd183872ae6009"
+  integrity sha512-sGkPx+VjMtmA6MX27oA4FBFELFCZZ4S4XqeGOXCv68tT+jb3vk/RyaKWP0PTKyWtmLSM0b+adUTEvbs1PEaH2w==
 
 multimatch@^2.1.0:
   version "2.1.0"
