@@ -19,7 +19,7 @@
     "dataset": "^0.3.1",
     "fetchagent": "^1.1.3",
     "jshint": "^2.8.0",
-    "jstransformer-jade": "^0.1.2",
+    "jstransformer-pug": "^0.4.0",
     "lunr-results-render": "^1.0.0",
     "metalsmith": "^2.3.0",
     "metalsmith-browserify": "^1.0.0",

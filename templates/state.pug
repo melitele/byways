@@ -5,7 +5,7 @@ append title
 
 block description
   - var bywaysStr = byways.map(id => bywaysById[id].name).join(', ');
-  meta(name="description", content="#{name} most scenic roads: #{bywaysStr}.")
+  meta(name="description", content=`${name} most scenic roads: ${bywaysStr}.`)
 
 mixin bywaysList(name, byways)
   -
@@ -26,11 +26,10 @@ mixin bywaysList(name, byways)
 block body
   include searchbox
   section.map
-    iframe(src=furkotUrl + '/widget/byways/' + slug,
-      class="furkot-tripshot-widget",
+    iframe.furkot-tripshot-widget(src=furkotUrl + '/widget/byways/' + slug,
       data-link=".widget-style a",
       data-link-hover="color: #d98e1b; text-decoration: none;",
       data-heading="background-color: #1c518d;"
     )
     script(src="https://cdn.furkot.com/scripts/furkot-tripshot.min.js", defer)
-  mixin bywaysList(name, byways)
+  +bywaysList(name, byways)

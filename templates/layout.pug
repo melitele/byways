@@ -8,7 +8,7 @@ html(lang='en')
       block title
         = siteTitle
     block description
-      meta(name="description", content="#{siteDescription}")
+      meta(name="description", content=siteDescription)
     meta(name="msapplication-TileImage", content="/byways-white-144.png")
     meta(name="msapplication-TileColor", content="#234F7F")
     link(rel="dns-prefetch", href="//trips.furkot.com")
@@ -16,10 +16,10 @@ html(lang='en')
     link(rel="dns-prefetch", href="//fonts.googleapis.com")
     link(rel="search", type="application/opensearchdescription+xml", href="/opensearch.xml", title="Scenic Byways")
     link(rel='stylesheet', type='text/css', href='//fonts.googleapis.com/css?family=Arbutus+Slab|Capriola')
-    link(rel='stylesheet', type='text/css', href='/style/screen.css?v=#{package.version}')
+    link(rel='stylesheet', type='text/css', href=`/style/screen.css?v=${package.version}`)
 
   body.top.bottom(
-    data-search-index='/search-index.json?v=#{package.version}'
+    data-search-index=`/search-index.json?v=${package.version}`
   )
     header
       a(href="/")
@@ -36,11 +36,11 @@ html(lang='en')
         li: a(href="https://trips.furkot.com", target="_blank", rel="nofollow") Plan trip with Furkot
         li Powered by <a href="https://metalsmith.io" rel="nofollow" target="_blank">Metalsmith</a>
         li.nosep: a.bw-github(href='https://github.com/melitele/byways', title='Fork us', target="_blank", rel="nofollow")
-        li: a.bw-mail(href='mailto:#{email}' title='E-mail us')
+        li: a.bw-mail(href=`mailto:${email}` title='E-mail us')
 
     block templates
 
-    script(src='https://cdn.polyfill.io/v2/polyfill.#{js}?features=fetch', defer)
+    script(src=`https://cdn.polyfill.io/v2/polyfill.${js}?features=fetch`, defer)
 
     block scripts
-      script(src='/scripts/index.#{js}?v=#{package.version}', defer)
+      script(src=`/scripts/index.${js}?v=${package.version}`, defer)

@@ -1,16 +1,16 @@
+extends layout
+
 mixin stateList(states)
   ul.flat-list
     for id in states
       - var state = statesById[id];
       li.state: a(href=state.url)= state.name
 
-extends layout
-
 append title
   = "::" + name
 
 block description
-  meta(name="description", content="#{description}")
+  meta(name="description", content=description)
 
 block body
   section.byway
@@ -30,8 +30,7 @@ block body
       != contents
 
   section.map
-    iframe(src=furkotUrl + '/widget/byway/' + id,
-      class="furkot-tripshot-widget",
+    iframe.furkot-tripshot-widget(src=furkotUrl + '/widget/byway/' + id,
       data-link=".widget-style a",
       data-link-hover="color: #d98e1b; text-decoration: none;",
       data-heading="background-color: #1c518d;"
