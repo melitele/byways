@@ -1,4 +1,15 @@
 
+2.3.0 / 2022-03-12
+==================
+
+ * upgrade fetchagent
+ * upgrade metalsmith components
+ * remove support for ES5
+ * fix references to template/layout
+ * replace Jade with Pug
+ * stop using nib module
+ * remove autoprefixer
+
 2.2.3 / 2019-06-11
 ==================
 
