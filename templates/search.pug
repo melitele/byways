@@ -5,7 +5,7 @@ block body
   #search-results
 
 block scripts
-  script(src='/scripts/search.#{js}?v=#{package.version}', defer)
+  script(src=`/scripts/search.${js}?v=${package.version}`, defer)
 
 block templates
   template#search-result

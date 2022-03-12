@@ -4,7 +4,7 @@ mixin bywaysList(name, byways)
   section.byway-list(data-color=colors[name])
     header
       h2= name
-      .color-tag(style='background-color: #{ colors[name] };')
+      .color-tag(style=`background-color: ${ colors[name] };`)
     ul.flat-list
       for byway in byways
         li: a(href=byway.url)= byway.name
@@ -14,8 +14,7 @@ block body
   include searchbox
 
   section.map
-    iframe(src=furkotUrl + '/widget/byways',
-      class="furkot-tripshot-widget",
+    iframe.furkot-tripshot-widget(src=furkotUrl + '/widget/byways',
       data-link=".widget-style a",
       data-link-hover="color: #d98e1b; text-decoration: none;",
       data-heading="background-color: #1c518d;"
@@ -27,4 +26,4 @@ block body
       for state in states
         li: a(href=state.url)= state.name
   for byways, name in designations
-    mixin bywaysList(name, byways)
+    +bywaysList(name, byways)

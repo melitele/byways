@@ -16,17 +16,11 @@ OUT_FILES := $(OUT_FILES:$(SRC_DIR)/%=$(BUILD_DIR)/%)
 
 SCRIPTS = $(SRC:$(SRC_DIR)/%.js=$(BUILD_DIR)/%.js)
 
-%.min.js: %.es5.js
-	$(NODE_BIN)/uglifyjs \
+%.min.js: %.js
+	$(NODE_BIN)/terser \
 		--mangle \
 		--no-copyright \
 		--compress \
-		--output $@ $<
-
-%.es5.js: %.js
-	$(NODE_BIN)/buble \
-		--yes dangerousForOf \
-		--target ie:10 \
 		--output $@ $<
 
 check: lint

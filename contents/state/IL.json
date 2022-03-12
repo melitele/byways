@@ -1,5 +1,5 @@
 {
-  "template": "state.jade",
+  "template": "state",
   "name": "Illinois",
   "byways": [
     "2248",

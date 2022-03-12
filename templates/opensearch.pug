@@ -4,7 +4,7 @@ OpenSearchDescription(xmlns="http://a9.com/-/spec/opensearch/1.1/")
   Description= locals.siteDescription
   Tags trip byways vacation driving America planning
   Contact= locals.email
-  Url(type="text/html", template="#{locals.url}/search.html?q={searchTerms}")
+  Url(type="text/html", template=`${locals.url}/search.html?q={searchTerms}`)
   Image(height="16", width="16", type="image/vnd.microsoft.icon") #{locals.url}/favicon.ico
   Query(role="example", searchTerms="route 66")
   Developer code42day.com

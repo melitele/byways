@@ -1,5 +1,5 @@
 ---
-template: about.jade
+template: about
 title: About
 ---
 

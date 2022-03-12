@@ -8,9 +8,6 @@ const layouts = require('metalsmith-layouts');
 const markdown = require('metalsmith-markdownit');
 const stylus = require('metalsmith-stylus');
 const lunr = require('@pirxpilot/metalsmith-lunr-index');
-const nib = require('nib');
-
-const autoprefixer = require('autoprefixer-stylus');
 
 const {
   destination,
@@ -83,6 +80,9 @@ function adjustProperties(files) {
     if (file.template) {
       file.layout = file.template;
       delete file.template;
+    }
+    if (file.layout) {
+      file.layout += '.pug';
     }
     if (file.name) {
       // title is used by lunr
@@ -163,8 +163,7 @@ const ms = metalsmith(__dirname)
   .use(collectDesignations)
   .use(collectById)
   .use(stylus({
-    compress: true,
-    use: [ autoprefixer(), nib() ]
+    compress: true
   }))
   .use(browserify({
     entries: [ 'scripts/index.js', 'scripts/search.js' ]
@@ -178,6 +177,7 @@ const ms = metalsmith(__dirname)
   }))
   .use(layouts({
     directory: 'templates',
+    default: 'byway.pug',
     pattern: [ '**/*.html', '**/*.xml' ]
   }));
 
