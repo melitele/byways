@@ -1,10 +1,10 @@
 const metalsmith = require('metalsmith');
 
 const browserify = require('metalsmith-browserify');
-const collectons = require('metalsmith-collections');
+const collectons = require('@metalsmith/collections');
 const debug = require('metalsmith-debug');
 const define = require('metalsmith-define');
-const layouts = require('metalsmith-layouts');
+const layouts = require('@metalsmith/layouts');
 const markdown = require('metalsmith-markdownit');
 const stylus = require('metalsmith-stylus');
 const lunr = require('@pirxpilot/metalsmith-lunr-index');
@@ -152,7 +152,7 @@ function collectById(files, metalsmith) {
 const ms = metalsmith(__dirname)
   .source('contents')
   .destination(destination)
-  .clean(true)
+  .clean(false)
   .use(debug())
   .use(define(locals))
   .use(handleYaml)
