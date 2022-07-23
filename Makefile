@@ -16,13 +16,6 @@ OUT_FILES := $(OUT_FILES:$(SRC_DIR)/%=$(BUILD_DIR)/%)
 
 SCRIPTS = $(SRC:$(SRC_DIR)/%.js=$(BUILD_DIR)/%.js)
 
-%.min.js: %.js
-	$(NODE_BIN)/terser \
-		--mangle \
-		--no-copyright \
-		--compress \
-		--output $@ $<
-
 check: lint
 
 clean:
@@ -55,11 +48,9 @@ node_modules:
 
 build: $(OUT_FILES)
 
-MIN_SCRIPTS = $(SCRIPTS:%.js=%.min.js)
-
 dist: export NODE_ENV=production
 dist: clean check
-dist: $(MIN_SCRIPTS)
+dist: build
 
 .PHONY: all preview build lint clean
 
