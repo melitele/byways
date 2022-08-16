@@ -1,4 +1,10 @@
 
+2.3.1 / 2022-08-16
+==================
+
+ * use esbuild to bundle scripts
+ * upgrade dependencies
+
 2.3.0 / 2022-03-12
 ==================
 
