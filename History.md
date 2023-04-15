@@ -1,4 +1,9 @@
 
+2.3.2 / 2023-04-15
+==================
+
+ * update Iowa Historic Hills Scenic byway page
+
 2.3.1 / 2022-08-16
 ==================
 
