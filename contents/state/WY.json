@@ -21,5 +21,21 @@
     "13404",
     "2340",
     "2052"
-  ]
+  ],
+  "websites": [{
+    "url": "https://nsbfoundation.com/wyoming/",
+    "name": "National Scenic Byway Foundation"
+  }, {
+    "url": "https://www.ontheroad.travel/wyoming/",
+    "name": "National Travel Center"
+  }, {
+    "url": "https://www.thearmchairexplorer.com/wyoming/scenic-byways.php",
+    "name": "The Armchair Explorer"
+  }, {
+    "url": "https://dot.state.wy.us/home/travel/scenic_byways/wyomings-scenic-byways--backways.html",
+    "name": "Wyoming Department of Transportation"
+  }, {
+    "url": "https://travelwyoming.com/places-to-go/destinations/scenic-byways/",
+    "name": "Wyoming Office of Tourism"
+  }]
 }
