@@ -1,5 +1,7 @@
 extends layout
 
+include mixins
+
 append title
   = "::" + name
 
@@ -33,3 +35,4 @@ block body
     )
     script(src="https://cdn.furkot.com/scripts/furkot-tripshot.min.js", defer)
   +bywaysList(name, byways)
+  +websiteList(websites)

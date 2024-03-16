@@ -1,0 +1,6 @@
+mixin websiteList(websites)
+  if websites
+    section.websites
+      ul.flat-list
+        for link in websites
+          li: a(href=link.url)= link.name

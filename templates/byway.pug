@@ -1,5 +1,7 @@
 extends layout
 
+include mixins
+
 mixin stateList(states)
   ul.flat-list
     for id in states
@@ -37,11 +39,7 @@ block body
     )
     script(src="https://cdn.furkot.com/scripts/furkot-tripshot.min.js", defer)
 
-  if websites
-    section.websites
-      ul.flat-list
-        for link in websites
-          li: a(href=link.url)= link.name
+  +websiteList(websites)
 
   .widget-style.websites.hidden
     a(style='font-size: 1.2em; text-align: left;')
