@@ -7,5 +7,12 @@
     "81481",
     "81305",
     "81463"
-  ]
+  ],
+  "websites": [{
+    "url": "https://nsbfoundation.com/hawaii/",
+    "name": "National Scenic Byway Foundation"
+  }, {
+    "url": "https://www.ontheroad.travel/hawaii/",
+    "name": "National Travel Center"
+  }]
 }
