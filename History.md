@@ -1,4 +1,15 @@
 
+2.4.0 / 2024-03-16
+==================
+
+ * display websites on the state pages
+ * fix some links to blm.gov
+ * fix links to publiclands.org
+ * update links in Alabama scenic byways
+ * update links in Hawaii scenic byways
+ * update links in Wyoming scenic byways
+ * update links in Readme
+
 2.3.3 / 2023-10-31
 ==================
 
