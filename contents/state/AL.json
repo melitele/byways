@@ -12,5 +12,18 @@
     "2051",
     "2050",
     "2057"
-  ]
+  ],
+  "websites": [{
+    "url": "https://alabamabyways.com/",
+    "name": "Alabama Scenic Byways"
+  }, {
+    "url": "https://nsbfoundation.com/alabama/",
+    "name": "National Scenic Byway Foundation"
+  }, {
+    "url": "https://www.ontheroad.travel/alabama/",
+    "name": "National Travel Center"
+  }, {
+    "url": "https://www.thearmchairexplorer.com/alabama/scenic_byways.php",
+    "name": "The Armchair Explorer"
+  }]
 }
