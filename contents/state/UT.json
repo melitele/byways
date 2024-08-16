@@ -41,5 +41,18 @@
     "68996",
     "2013",
     "2026"
-  ]
+  ],
+  "websites": [{
+    "url": "https://nsbfoundation.com/utah/",
+    "name": "National Scenic Byway Foundation"
+  }, {
+    "url": "https://www.americanlegacytours.org/utah/",
+    "name": "National Travel Center"
+  }, {
+    "url": "https://www.thearmchairexplorer.com/utah/utah-scenic-byways.php",
+    "name": "The Armchair Explorer"
+  }, {
+    "url": "https://www.utah.com/things-to-do/scenic-drives/",
+    "name": "Utah.com"
+  }]
 }
