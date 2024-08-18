@@ -1,4 +1,10 @@
 
+2.4.1 / 2024-08-18
+==================
+
+ * update links in Utah scenic byways
+ * fix links to National Travel Center
+
 2.4.0 / 2024-03-16
 ==================
 
