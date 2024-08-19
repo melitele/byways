@@ -14,5 +14,15 @@
     "71994",
     "11513",
     "11514"
-  ]
+  ],
+  "websites": [{
+    "url": "https://nsbfoundation.com/maine/",
+    "name": "National Scenic Byway Foundation"
+  }, {
+    "url": "https://www.americanlegacytours.org/maine/",
+    "name": "National Travel Center"
+  }, {
+    "url": "https://www.thearmchairexplorer.com/maine/maine-scenic-byways.php",
+    "name": "The Armchair Explorer"
+  }]
 }

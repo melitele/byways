@@ -9,5 +9,15 @@
     "2577",
     "2472",
     "2469"
-  ]
+  ],
+  "websites": [{
+    "url": "https://nsbfoundation.com/rhode-island/",
+    "name": "National Scenic Byway Foundation"
+  }, {
+    "url": "https://www.americanlegacytours.org/rhode-island/",
+    "name": "National Travel Center"
+  }, {
+    "url": "https://www.thearmchairexplorer.com/rhode-island/rhode-island-scenic-byways.php",
+    "name": "The Armchair Explorer"
+  }]
 }

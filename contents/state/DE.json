@@ -5,5 +5,15 @@
     "57779",
     "61897",
     "2334"
-  ]
+  ],
+  "websites": [{
+    "url": "https://nsbfoundation.com/delaware/",
+    "name": "National Scenic Byway Foundation"
+  }, {
+    "url": "https://www.americanlegacytours.org/delaware/",
+    "name": "National Travel Center"
+  }, {
+    "url": "https://www.thearmchairexplorer.com/delaware/delaware-scenic-byways.php",
+    "name": "The Armchair Explorer"
+  }]
 }

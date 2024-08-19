@@ -16,5 +16,15 @@
     "2347",
     "12396",
     "81476"
-  ]
+  ],
+  "websites": [{
+    "url": "https://nsbfoundation.com/alaska/",
+    "name": "National Scenic Byway Foundation"
+  }, {
+    "url": "https://www.americanlegacytours.org/alaska/",
+    "name": "National Travel Center"
+  }, {
+    "url": "https://www.thearmchairexplorer.com/alaska/alaska_scenic_byways.php",
+    "name": "The Armchair Explorer"
+  }]
 }

@@ -14,5 +14,15 @@
     "10304",
     "60646",
     "10300"
-  ]
+  ],
+  "websites": [{
+    "url": "https://nsbfoundation.com/virginia/",
+    "name": "National Scenic Byway Foundation"
+  }, {
+    "url": "https://www.americanlegacytours.org/virginia/",
+    "name": "National Travel Center"
+  }, {
+    "url": "https://www.thearmchairexplorer.com/virginia/scenic-byways.php",
+    "name": "The Armchair Explorer"
+  }]
 }

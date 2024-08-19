@@ -16,5 +16,15 @@
     "73301",
     "73304",
     "2296"
-  ]
+  ],
+  "websites": [{
+    "url": "https://nsbfoundation.com/missouri/",
+    "name": "National Scenic Byway Foundation"
+  }, {
+    "url": "https://www.americanlegacytours.org/missouri/",
+    "name": "National Travel Center"
+  }, {
+    "url": "https://www.thearmchairexplorer.com/missouri/missouri-scenic-byways.php",
+    "name": "The Armchair Explorer"
+  }]
 }

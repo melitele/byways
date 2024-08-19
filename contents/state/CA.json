@@ -68,5 +68,15 @@
     "2480",
     "2175",
     "55728"
-  ]
+  ],
+  "websites": [{
+    "url": "https://nsbfoundation.com/california/",
+    "name": "National Scenic Byway Foundation"
+  }, {
+    "url": "https://www.americanlegacytours.org/california/",
+    "name": "National Travel Center"
+  }, {
+    "url": "https://www.americansouthwest.net/california/index.shtml",
+    "name": "The American Southwest"
+  }]
 }

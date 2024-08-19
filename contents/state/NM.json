@@ -29,5 +29,18 @@
     "2092",
     "2094",
     "2081"
-  ]
+  ],
+  "websites": [{
+    "url": "https://nsbfoundation.com/new-mexico/",
+    "name": "National Scenic Byway Foundation"
+  }, {
+    "url": "https://www.americanlegacytours.org/new-mexico/",
+    "name": "National Travel Center"
+  }, {
+    "url": "https://www.americansouthwest.net/new_mexico/index.shtml",
+    "name": "The American Southwest"
+  }, {
+    "url": "https://www.thearmchairexplorer.com/new-mexico/new-mexico-scenic-byways.php",
+    "name": "The Armchair Explorer"
+  }]
 }

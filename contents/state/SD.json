@@ -7,5 +7,15 @@
     "2459",
     "10761",
     "10760"
-  ]
+  ],
+  "websites": [{
+    "url": "https://nsbfoundation.com/south-dakota/",
+    "name": "National Scenic Byway Foundation"
+  }, {
+    "url": "https://www.americanlegacytours.org/south-dakota/",
+    "name": "National Travel Center"
+  }, {
+    "url": "https://www.thearmchairexplorer.com/south-dakota/scenic-byways.php",
+    "name": "The Armchair Explorer"
+  }]
 }

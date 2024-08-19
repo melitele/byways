@@ -9,5 +9,15 @@
     "68570",
     "69815",
     "80452"
-  ]
+  ],
+  "websites": [{
+    "url": "https://nsbfoundation.com/new-jersey/",
+    "name": "National Scenic Byway Foundation"
+  }, {
+    "url": "https://www.americanlegacytours.org/new-jersey/",
+    "name": "National Travel Center"
+  }, {
+    "url": "https://www.thearmchairexplorer.com/new-jersey/scenic-byways.php",
+    "name": "The Armchair Explorer"
+  }]
 }

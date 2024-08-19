@@ -9,5 +9,15 @@
     "2453",
     "74703",
     "74696"
-  ]
+  ],
+  "websites": [{
+    "url": "https://nsbfoundation.com/indiana/",
+    "name": "National Scenic Byway Foundation"
+  }, {
+    "url": "https://www.americanlegacytours.org/indiana/",
+    "name": "National Travel Center"
+  }, {
+    "url": "https://www.thearmchairexplorer.com/indiana/indiana-scenic-byways.php",
+    "name": "The Armchair Explorer"
+  }]
 }

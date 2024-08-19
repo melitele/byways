@@ -7,5 +7,15 @@
     "2249",
     "2324",
     "80920"
-  ]
+  ],
+  "websites": [{
+    "url": "https://nsbfoundation.com/wisconsin/",
+    "name": "National Scenic Byway Foundation"
+  }, {
+    "url": "https://www.americanlegacytours.org/wisconsin/",
+    "name": "National Travel Center"
+  }, {
+    "url": "https://www.thearmchairexplorer.com/wisconsin/scenic-byways.php",
+    "name": "The Armchair Explorer"
+  }]
 }

@@ -23,5 +23,15 @@
     "73593",
     "73596",
     "73597"
-  ]
+  ],
+  "websites": [{
+    "url": "https://nsbfoundation.com/south-carolina/",
+    "name": "National Scenic Byway Foundation"
+  }, {
+    "url": "https://www.americanlegacytours.org/south-carolina/",
+    "name": "National Travel Center"
+  }, {
+    "url": "https://www.thearmchairexplorer.com/south-carolina/south-carolina-scenic-byways.php",
+    "name": "The Armchair Explorer"
+  }]
 }

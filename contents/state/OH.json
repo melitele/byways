@@ -30,5 +30,15 @@
     "10503",
     "57179",
     "13595"
-  ]
+  ],
+  "websites": [{
+    "url": "https://nsbfoundation.com/ohio/",
+    "name": "National Scenic Byway Foundation"
+  }, {
+    "url": "https://www.americanlegacytours.org/ohio/",
+    "name": "National Travel Center"
+  }, {
+    "url": "https://www.thearmchairexplorer.com/ohio/ohio-scenic-byways.php",
+    "name": "The Armchair Explorer"
+  }]
 }

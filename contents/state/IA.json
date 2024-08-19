@@ -12,5 +12,15 @@
     "2317",
     "2184",
     "2186"
-  ]
+  ],
+  "websites": [{
+    "url": "https://nsbfoundation.com/iowa/",
+    "name": "National Scenic Byway Foundation"
+  }, {
+    "url": "https://www.americanlegacytours.org/iowa/",
+    "name": "National Travel Center"
+  }, {
+    "url": "https://www.thearmchairexplorer.com/iowa/iowa-scenic-byways.php",
+    "name": "The Armchair Explorer"
+  }]
 }

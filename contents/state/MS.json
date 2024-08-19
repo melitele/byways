@@ -10,5 +10,15 @@
     "64069",
     "81465",
     "2150"
-  ]
+  ],
+  "websites": [{
+    "url": "https://nsbfoundation.com/mississippi/",
+    "name": "National Scenic Byway Foundation"
+  }, {
+    "url": "https://www.americanlegacytours.org/mississippi/",
+    "name": "National Travel Center"
+  }, {
+    "url": "https://www.thearmchairexplorer.com/mississippi/mississippi-scenic-byways.php",
+    "name": "The Armchair Explorer"
+  }]
 }

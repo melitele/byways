@@ -5,5 +5,12 @@
     "2451",
     "2452",
     "2461"
-  ]
+  ],
+  "websites": [{
+    "url": "https://nsbfoundation.com/connecticut/",
+    "name": "National Scenic Byway Foundation"
+  }, {
+    "url": "https://www.americanlegacytours.org/connecticut/",
+    "name": "National Travel Center"
+  }]
 }

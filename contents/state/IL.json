@@ -9,5 +9,15 @@
     "13750",
     "10393",
     "10392"
-  ]
+  ],
+  "websites": [{
+    "url": "https://nsbfoundation.com/illinois/",
+    "name": "National Scenic Byway Foundation"
+  }, {
+    "url": "https://www.americanlegacytours.org/illinois/",
+    "name": "National Travel Center"
+  }, {
+    "url": "https://www.thearmchairexplorer.com/illinois/illinois-scenic-byways.php",
+    "name": "The Armchair Explorer"
+  }]
 }

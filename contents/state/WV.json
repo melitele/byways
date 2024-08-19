@@ -17,5 +17,15 @@
     "10355",
     "10351",
     "13753"
-  ]
+  ],
+  "websites": [{
+    "url": "https://nsbfoundation.com/west-virginia/",
+    "name": "National Scenic Byway Foundation"
+  }, {
+    "url": "https://www.americanlegacytours.org/west-virginia/",
+    "name": "National Travel Center"
+  }, {
+    "url": "https://www.thearmchairexplorer.com/west-virginia/scenic-byways.php",
+    "name": "The Armchair Explorer"
+  }]
 }

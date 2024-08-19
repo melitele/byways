@@ -19,5 +19,15 @@
     "15793",
     "2256",
     "15799"
-  ]
+  ],
+  "websites": [{
+    "url": "https://nsbfoundation.com/new-hampshire/",
+    "name": "National Scenic Byway Foundation"
+  }, {
+    "url": "https://www.americanlegacytours.org/new-hampshire/",
+    "name": "National Travel Center"
+  }, {
+    "url": "https://www.thearmchairexplorer.com/new-hampshire/scenic-byways.php",
+    "name": "The Armchair Explorer"
+  }]
 }

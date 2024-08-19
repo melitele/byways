@@ -13,5 +13,15 @@
     "54099",
     "81451",
     "59011"
-  ]
+  ],
+  "websites": [{
+    "url": "https://nsbfoundation.com/kansas/",
+    "name": "National Scenic Byway Foundation"
+  }, {
+    "url": "https://www.americanlegacytours.org/kansas/",
+    "name": "National Travel Center"
+  }, {
+    "url": "https://www.thearmchairexplorer.com/kansas/kansas-scenic-byways.php",
+    "name": "The Armchair Explorer"
+  }]
 }

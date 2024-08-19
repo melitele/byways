@@ -23,5 +23,15 @@
     "13552",
     "11184",
     "11175"
-  ]
+  ],
+  "websites": [{
+    "url": "https://nsbfoundation.com/minnesota/",
+    "name": "National Scenic Byway Foundation"
+  }, {
+    "url": "https://www.americanlegacytours.org/minnesota/",
+    "name": "National Travel Center"
+  }, {
+    "url": "https://www.thearmchairexplorer.com/minnesota/minnesota-scenic-byways.php",
+    "name": "The Armchair Explorer"
+  }]
 }

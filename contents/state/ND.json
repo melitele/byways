@@ -12,5 +12,15 @@
     "16406",
     "16409",
     "16404"
-  ]
+  ],
+  "websites": [{
+    "url": "https://nsbfoundation.com/north-dakota/",
+    "name": "National Scenic Byway Foundation"
+  }, {
+    "url": "https://www.americanlegacytours.org/north-dakota/",
+    "name": "National Travel Center"
+  }, {
+    "url": "https://www.thearmchairexplorer.com/north-dakota/north-dakota-scenic-byways.php",
+    "name": "The Armchair Explorer"
+  }]
 }

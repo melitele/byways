@@ -28,5 +28,15 @@
     "71114",
     "2329",
     "71029"
-  ]
+  ],
+  "websites": [{
+    "url": "https://nsbfoundation.com/florida/",
+    "name": "National Scenic Byway Foundation"
+  }, {
+    "url": "https://www.americanlegacytours.org/florida/",
+    "name": "National Travel Center"
+  }, {
+    "url": "https://www.thearmchairexplorer.com/florida/florida-scenic-byways.php",
+    "name": "The Armchair Explorer"
+  }]
 }

@@ -11,5 +11,15 @@
     "2160",
     "2159",
     "2154"
-  ]
+  ],
+  "websites": [{
+    "url": "https://nsbfoundation.com/arkansas/",
+    "name": "National Scenic Byway Foundation"
+  }, {
+    "url": "https://www.americanlegacytours.org/arkansas/",
+    "name": "National Travel Center"
+  }, {
+    "url": "https://www.thearmchairexplorer.com/arkansas/arkansas-scenic-byways.php",
+    "name": "The Armchair Explorer"
+  }]
 }

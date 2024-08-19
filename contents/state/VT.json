@@ -10,5 +10,15 @@
     "53358",
     "81467",
     "72908"
-  ]
+  ],
+  "websites": [{
+    "url": "https://nsbfoundation.com/vermont/",
+    "name": "National Scenic Byway Foundation"
+  }, {
+    "url": "https://www.americanlegacytours.org/vermont/",
+    "name": "National Travel Center"
+  }, {
+    "url": "https://www.thearmchairexplorer.com/vermont/scenic-byways.php",
+    "name": "The Armchair Explorer"
+  }]
 }

@@ -16,5 +16,15 @@
     "13739",
     "15766",
     "72977"
-  ]
+  ],
+  "websites": [{
+    "url": "https://nsbfoundation.com/georgia/",
+    "name": "National Scenic Byway Foundation"
+  }, {
+    "url": "https://www.americanlegacytours.org/georgia/",
+    "name": "National Travel Center"
+  }, {
+    "url": "https://www.thearmchairexplorer.com/georgia/georgia-scenic-byways.php",
+    "name": "The Armchair Explorer"
+  }]
 }

@@ -21,5 +21,15 @@
     "40532",
     "2275",
     "2274"
-  ]
+  ],
+  "websites": [{
+    "url": "https://nsbfoundation.com/maryland/",
+    "name": "National Scenic Byway Foundation"
+  }, {
+    "url": "https://www.americanlegacytours.org/maryland/",
+    "name": "National Travel Center"
+  }, {
+    "url": "https://www.thearmchairexplorer.com/maryland/maryland-scenic-byways.php",
+    "name": "The Armchair Explorer"
+  }]
 }

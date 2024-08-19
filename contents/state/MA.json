@@ -11,5 +11,15 @@
     "2569",
     "13419",
     "75246"
-  ]
+  ],
+  "websites": [{
+    "url": "https://nsbfoundation.com/massachusetts/",
+    "name": "National Scenic Byway Foundation"
+  }, {
+    "url": "https://www.americanlegacytours.org/massachusetts/",
+    "name": "National Travel Center"
+  }, {
+    "url": "https://www.thearmchairexplorer.com/massachusetts/massachusetts-scenic-byways.php",
+    "name": "The Armchair Explorer"
+  }]
 }

@@ -27,5 +27,24 @@
     "2102",
     "2121",
     "2120"
-  ]
+  ],
+  "websites": [{
+    "url": "https://www.codot.gov/travel/colorado-byways",
+    "name": "Colorado Department of Transportation"
+  }, {
+    "url": "https://www.colorado.com/colorados-scenic-historic-byways",
+    "name": "Colorado Tourism Office"
+  }, {
+    "url": "https://nsbfoundation.com/colorado/",
+    "name": "National Scenic Byway Foundation"
+  }, {
+    "url": "https://www.americanlegacytours.org/colorado/",
+    "name": "National Travel Center"
+  }, {
+    "url": "https://www.americansouthwest.net/colorado/index.shtml",
+    "name": "The American Southwest"
+  }, {
+    "url": "https://www.thearmchairexplorer.com/colorado/colorado-scenic-byways.php",
+    "name": "The Armchair Explorer"
+  }]
 }

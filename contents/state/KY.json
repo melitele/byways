@@ -24,5 +24,15 @@
     "2566",
     "2345",
     "2293"
-  ]
+  ],
+  "websites": [{
+    "url": "https://nsbfoundation.com/kentucky/",
+    "name": "National Scenic Byway Foundation"
+  }, {
+    "url": "https://www.americanlegacytours.org/kentucky/",
+    "name": "National Travel Center"
+  }, {
+    "url": "https://www.thearmchairexplorer.com/kentucky/kentucky-scenic-byways.php",
+    "name": "The Armchair Explorer"
+  }]
 }

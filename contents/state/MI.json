@@ -10,5 +10,15 @@
     "100002",
     "10782",
     "13754"
-  ]
+  ],
+  "websites": [{
+    "url": "https://nsbfoundation.com/michigan/",
+    "name": "National Scenic Byway Foundation"
+  }, {
+    "url": "https://www.americanlegacytours.org/michigan/",
+    "name": "National Travel Center"
+  }, {
+    "url": "https://www.thearmchairexplorer.com/michigan/michigan-scenic-byways.php",
+    "name": "The Armchair Explorer"
+  }]
 }

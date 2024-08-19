@@ -23,5 +23,15 @@
     "63610",
     "57184",
     "81004"
-  ]
+  ],
+  "websites": [{
+    "url": "https://nsbfoundation.com/new-york/",
+    "name": "National Scenic Byway Foundation"
+  }, {
+    "url": "https://www.americanlegacytours.org/new-york/",
+    "name": "National Travel Center"
+  }, {
+    "url": "https://www.thearmchairexplorer.com/new-york/new-york-scenic-byways.php",
+    "name": "The Armchair Explorer"
+  }]
 }

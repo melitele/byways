@@ -32,5 +32,15 @@
     "2064",
     "54777",
     "54773"
-  ]
+  ],
+  "websites": [{
+    "url": "https://nsbfoundation.com/washington/",
+    "name": "National Scenic Byway Foundation"
+  }, {
+    "url": "https://www.americanlegacytours.org/washington/",
+    "name": "National Travel Center"
+  }, {
+    "url": "https://www.thearmchairexplorer.com/washington/scenic-byways.php",
+    "name": "The Armchair Explorer"
+  }]
 }

@@ -21,5 +21,15 @@
     "2322",
     "76816",
     "64114"
-  ]
+  ],
+  "websites": [{
+    "url": "https://nsbfoundation.com/pennsylvania/",
+    "name": "National Scenic Byway Foundation"
+  }, {
+    "url": "https://www.americanlegacytours.org/pennsylvania/",
+    "name": "National Travel Center"
+  }, {
+    "url": "https://www.thearmchairexplorer.com/pennsylvania/pennsylvania-scenic-byways.php",
+    "name": "The Armchair Explorer"
+  }]
 }
