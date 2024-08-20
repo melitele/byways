@@ -1,4 +1,10 @@
 
+2.4.2 / 2024-08-20
+==================
+
+ * update links in Arizona scenic byways
+ * added links to websites to all states
+
 2.4.1 / 2024-08-18
 ==================
 
