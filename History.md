@@ -1,4 +1,11 @@
 
+2.4.3 / 2024-11-27
+==================
+
+ * update links to Colorado scenic byways
+ * add links Colorado Vacation Directory to New Mexico byways that border Colorado
+ * remove links to historicroads.org
+
 2.4.2 / 2024-08-20
 ==================
 
