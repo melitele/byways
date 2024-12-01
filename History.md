@@ -1,4 +1,13 @@
 
+2.4.4 / 2024-12-01
+==================
+
+ * update links to New Mexico scenic byways
+ * fix assorted links
+ * remove unnecessary HTML tags from byways descriptions
+ * remove contact section
+ * fix name of Utah's Canyon Country website
+
 2.4.3 / 2024-11-27
 ==================
 
