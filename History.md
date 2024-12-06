@@ -1,4 +1,13 @@
 
+2.4.5 / 2024-12-06
+==================
+
+ * eliminate defunct links
+ * fix links to wildlife refuges
+ * change all links to NPS to https
+ * change all links to Forest Service to https
+ * remove superfluous quotes from yaml section of the byway markdown files
+
 2.4.4 / 2024-12-01
 ==================
 
