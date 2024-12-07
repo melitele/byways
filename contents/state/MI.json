@@ -12,6 +12,12 @@
     "13754"
   ],
   "websites": [{
+    "url": "https://michiganhighways.org/index.html",
+    "name": "Michigan Highways"
+  }, {
+    "url": "https://www.michigan.org/",
+    "name": "Michigan Tourism"
+  }, {
     "url": "https://nsbfoundation.com/michigan/",
     "name": "National Scenic Byway Foundation"
   }, {
