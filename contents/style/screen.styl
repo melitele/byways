@@ -212,29 +212,6 @@ body > footer
     margin 1em auto
     width 100%
     position relative
-
-  .books
-    text-align center
-
-    .book
-      position relative
-      display inline-block
-      vertical-align top
-      width 150px
-      margin .5em;
-
-      img
-        display block
-
-      figcaption
-        text-align left
-        font-size .8em
-
-        .author
-          text-align right
-
-
-  .photos
     photo-size()
 
     li
@@ -303,6 +280,26 @@ body > footer
 
       &:first-of-type
         margin-top 0
+
+.books
+  text-align center
+
+  .book
+    position relative
+    display inline-block
+    vertical-align top
+    width 150px
+    margin .5em;
+
+    img
+      display block
+
+    figcaption
+      text-align left
+      font-size .8em
+
+      .author
+        text-align right
 
 .announcement
   line-height 1.5
@@ -428,13 +425,11 @@ body > footer
     padding-top 4em
     padding-bottom 3em
 
-  .byway
-    .photos
-    .books
-      float right
-      margin 0 0 0 .5em
+  .description .books
+    float right
+    margin 0 0 0 .5em
 
-      .next,
-      .prev
-        font-size 1.4em
+    .next,
+    .prev
+      font-size 1.4em
 
