@@ -4,7 +4,7 @@ const classes = require('classes');
 const MAX_BOOKS = 3;
 const endpoint = dataset(document.querySelector('#books-data'), 'url');
 
-function pickRandom(arr, limit) {
+function pickRandom(arr, verbatim, limit) {
   if (limit < 1) {
     return [];
   }
@@ -12,36 +12,52 @@ function pickRandom(arr, limit) {
   if (maxIndex < 1) {
     return arr;
   }
-  const index = Math.floor(Math.random() * maxIndex);
+  const index = verbatim ? 0 : Math.floor(Math.random() * maxIndex);
   return arr.slice(index, index + limit);
 }
 
-async function books(keywordLists) {
+async function books(list, maxBooks = MAX_BOOKS) {
 
-  function fromStringToArray(keywords) {
+  function fromStringToArray({ keywords, verbatim }) {
+    if (verbatim) {
+      keywords = keywords.split(',');
+    } else {
+      keywords = keywords
+        .split(/['()\s]+/)
+        .filter(function (t) {
+          return t.length > 3 && !/byway|scenic|route|trail/i.test(t);
+        });
+    }
     return keywords
-      .split(/['()\s]+/)
-      .filter(t => t.length > 3 && !/byway|scenic|route|trail/i.test(t))
       .map(encodeURIComponent)
       .join(',');
   }
 
+  async function doFetch(url) {
+    try {
+      const res = await fetch(url);
+      return await res.json();
+    } catch {
+      return [];
+    }
+  }
+
   const results = await Promise.all(
-    keywordLists.map(async (keywords) => {
-      const url = endpoint + '?keywords=' + fromStringToArray(keywords);
-      try {
-        const res = await fetch(url);
-        return await res.json();
-      } catch {
-        return [];
-      }
-    })
+    list.map(async (options) => doFetch(endpoint + (options.id
+      ? '?id=' + options.id
+      : '?keywords=' + fromStringToArray(options))))
   );
 
-  const bywayBooks = pickRandom(results[0], MAX_BOOKS - 1);
-  const stateBooks = pickRandom(results[1], MAX_BOOKS - bywayBooks.length);
-
-  return bywayBooks.concat(stateBooks);
+  let slots = maxBooks;
+  let rLen = results.length - 1;
+  return results.reduce((r, results, i) => {
+    results = Array.isArray(results)
+      ? pickRandom(results, list[i].verbatim, slots - rLen)
+      : [results];
+    slots = maxBooks - results.length;
+    rLen -= 1;
+    return r.concat(results);
+  }, []);
 }
 
 function bookImageUrl(book) {
@@ -75,16 +91,30 @@ function fetchBooks() {
   if (!endpoint) {
     return;
   }
-  const parent = document.querySelector('.books[data-name]');
+  const parent = document.querySelector('.books[data-name]') ||
+    document.querySelector('.books[data-keywords]') ||
+    document.querySelector('.books[data-id]');
   if (!parent) {
     return;
   }
-  const name = dataset(parent, 'name');
-  const state = document.querySelector('.byway .state').textContent;
-  if (!name) {
-    return;
+  let list;
+  const id = dataset(parent, 'id');
+  if (id) {
+    list = id.split(',').map(id => ({ id }));
   }
-  books([name, state]).then(books => {
+  else {
+    list = [
+      { keywords: dataset(parent, 'keywords'), verbatim: true },
+      { keywords: dataset(parent, 'name') },
+      { keywords: document.querySelector('.byway .state')?.textContent }
+    ].filter(el => el.keywords);
+
+    if (!list.length) {
+      return;
+    }
+  }
+
+  books(list, dataset(parent, 'max')).then(function (books) {
     append(parent, books);
   });
 }
