@@ -25,7 +25,10 @@
     "url": "https://www.thearmchairexplorer.com/virginia/scenic-byways.php",
     "name": "The Armchair Explorer"
   }, {
-    "url": "https://www.virginia.org/places-to-visit/scenic-drives-and-byways/?view=grid&sort=alpha&bounds=false",
-    "name": "Visit Virginia" 
+    "url": "https://www.virginia.org/places-to-visit/scenic-drives-and-byways/byways/",
+    "name": "Virginia Travel Guide" 
+  }, {
+    "url": "https://en.wikipedia.org/wiki/List_of_Virginia_Byways",
+    "name": "Wikipedia"
   }]
 }

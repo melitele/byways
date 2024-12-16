@@ -31,7 +31,7 @@
   ],
   "websites": [{
     "url": "https://floridascenichighways.com/",
-    "name": "Florida Scenic Highways"
+    "name": "Florida Byways"
   }, {
     "url": "https://nsbfoundation.com/florida/",
     "name": "National Scenic Byway Foundation"
@@ -41,5 +41,8 @@
   }, {
     "url": "https://www.thearmchairexplorer.com/florida/florida-scenic-byways.php",
     "name": "The Armchair Explorer"
+  }, {
+    "url": "https://en.wikipedia.org/wiki/List_of_Florida_Scenic_Highways",
+    "name": "Wikipedia"
   }]
 }

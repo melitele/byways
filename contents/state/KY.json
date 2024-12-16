@@ -27,7 +27,7 @@
   ],
   "websites": [{
     "url": "https://www.kentuckytourism.com/",
-    "name": "Kentucky Tourism"
+    "name": "Kentucky Travel Guide"
   }, {
     "url": "https://nsbfoundation.com/kentucky/",
     "name": "National Scenic Byway Foundation"
@@ -37,5 +37,8 @@
   }, {
     "url": "https://www.thearmchairexplorer.com/kentucky/kentucky-scenic-byways.php",
     "name": "The Armchair Explorer"
+  }, {
+    "url": "https://en.wikipedia.org/wiki/Kentucky_Scenic_Byways",
+    "name": "Wikipedia"
   }]
 }

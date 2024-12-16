@@ -30,10 +30,10 @@
   ],
   "websites": [{
     "url": "https://www.codot.gov/travel/colorado-byways",
-    "name": "Colorado Department of Transportation"
+    "name": "Colorado Byways"
   }, {
     "url": "https://www.colorado.com/colorados-scenic-historic-byways",
-    "name": "Colorado Tourism Office"
+    "name": "Colorado Travel Guide"
   }, {
     "url": "https://www.coloradodirectory.com/maps/scenic-byways.html",
     "name": "Colorado Vacation Directory"
@@ -49,5 +49,8 @@
   }, {
     "url": "https://www.thearmchairexplorer.com/colorado/colorado-scenic-byways.php",
     "name": "The Armchair Explorer"
+  }, {
+    "url": "https://en.wikipedia.org/wiki/List_of_Colorado_Scenic_and_Historic_Byways",
+    "name": "Wikipedia"
   }]
 }

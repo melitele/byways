@@ -14,7 +14,7 @@
   ],
   "websites": [{
     "url": "https://www.arkansas.com/",
-    "name": "Arkansas Tourism"
+    "name": "Arkansas Travel Guide"
   }, {
     "url": "https://nsbfoundation.com/arkansas/",
     "name": "National Scenic Byway Foundation"
@@ -24,5 +24,8 @@
   }, {
     "url": "https://www.thearmchairexplorer.com/arkansas/arkansas-scenic-byways.php",
     "name": "The Armchair Explorer"
+  }, {
+    "url": "https://en.wikipedia.org/wiki/Arkansas_Scenic_Byways",
+    "name": "Wikipedia"
   }]
 }

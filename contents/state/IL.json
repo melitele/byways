@@ -12,7 +12,7 @@
   ],
   "websites": [{
     "url": "https://www.enjoyillinois.com/things-to-do/illinois-scenic-byways/",
-    "name": "Illinois Tourism"
+    "name": "Illinois Travel Guide"
   }, {
     "url": "https://nsbfoundation.com/illinois/",
     "name": "National Scenic Byway Foundation"
@@ -22,5 +22,8 @@
   }, {
     "url": "https://www.thearmchairexplorer.com/illinois/illinois-scenic-byways.php",
     "name": "The Armchair Explorer"
+  }, {
+    "url": "https://en.wikipedia.org/wiki/Scenic_highways_in_Illinois",
+    "name": "Wikipedia"
   }]
 }

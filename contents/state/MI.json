@@ -16,7 +16,7 @@
     "name": "Michigan Highways"
   }, {
     "url": "https://www.michigan.org/",
-    "name": "Michigan Tourism"
+    "name": "Michigan Travel Guide"
   }, {
     "url": "https://nsbfoundation.com/michigan/",
     "name": "National Scenic Byway Foundation"
@@ -26,5 +26,8 @@
   }, {
     "url": "https://www.thearmchairexplorer.com/michigan/michigan-scenic-byways.php",
     "name": "The Armchair Explorer"
+  }, {
+    "url": "https://en.wikipedia.org/wiki/Pure_Michigan_Byway",
+    "name": "Wikipedia"
   }]
 }

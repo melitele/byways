@@ -41,12 +41,15 @@
     "name": "National Travel Center"
   }, {
     "url": "https://www.newmexico.org/places-to-visit/scenic-byways/",
-    "name": "New Mexico Tourism Department"
+    "name": "New Mexico Travel Guide"
   }, {
     "url": "https://www.americansouthwest.net/new_mexico/index.shtml",
     "name": "The American Southwest"
   }, {
     "url": "https://www.thearmchairexplorer.com/new-mexico/new-mexico-scenic-byways.php",
     "name": "The Armchair Explorer"
+  }, {
+    "url": "https://en.wikipedia.org/wiki/List_of_New_Mexico_Scenic_and_Historic_Byways",
+    "name": "Wikipedia"
   }]
 }

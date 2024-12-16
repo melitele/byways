@@ -29,10 +29,13 @@
     "url": "https://www.americanlegacytours.org/pennsylvania/",
     "name": "National Travel Center"
   }, {
+    "url": "https://www.visitpa.com/",
+    "name": "Pennsylvania Travel Guide"
+  }, {
     "url": "https://www.thearmchairexplorer.com/pennsylvania/pennsylvania-scenic-byways.php",
     "name": "The Armchair Explorer"
   }, {
-    "url": "https://www.visitpa.com/",
-    "name": "Visit Pensylvania"
+    "url": "https://en.wikipedia.org/wiki/List_of_Pennsylvania_Scenic_Byways",
+    "name": "Wikipedia"
   }]
 }

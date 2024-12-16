@@ -13,6 +13,9 @@
     "75246"
   ],
   "websites": [{
+    "url": "https://www.visitma.com/",
+    "name": "Massachusetts Travel Guide"
+  }, {
     "url": "https://nsbfoundation.com/massachusetts/",
     "name": "National Scenic Byway Foundation"
   }, {
@@ -23,6 +26,6 @@
     "name": "The Armchair Explorer"
   }, {
     "url": "https://www.bywayswestmass.com/",
-    "name": "Western Massachusetts Scenic Byways"
+    "name": "Western Massachusetts Byways"
   }]
 }

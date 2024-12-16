@@ -7,6 +7,12 @@
     "2334"
   ],
   "websites": [{
+    "url": "https://deldot.gov/Programs/byways/index.shtml",
+    "name": "Delaware Byways"
+  }, {
+    "url": "https://www.visitdelaware.com/",
+    "name": "Delaware Travel Guide"
+  }, {
     "url": "https://nsbfoundation.com/delaware/",
     "name": "National Scenic Byway Foundation"
   }, {
@@ -15,5 +21,8 @@
   }, {
     "url": "https://www.thearmchairexplorer.com/delaware/delaware-scenic-byways.php",
     "name": "The Armchair Explorer"
+  }, {
+    "url": "https://en.wikipedia.org/wiki/List_of_Delaware_Byways",
+    "name": "Wikipedia"
   }]
 }

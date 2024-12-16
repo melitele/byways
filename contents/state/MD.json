@@ -23,16 +23,22 @@
     "2274"
   ],
   "websites": [{
+    "url": "https://www.roads.maryland.gov/mdotsha/pages/Index.aspx?PageId=97",
+    "name": "Maryland Byways"
+  }, {
+    "url": "https://www.visitmaryland.org/scenic-byways",
+    "name": "Maryland Travel Guide"
+  }, {
     "url": "https://nsbfoundation.com/maryland/",
     "name": "National Scenic Byway Foundation"
   }, {
     "url": "https://www.americanlegacytours.org/maryland/",
     "name": "National Travel Center"
   }, {
-    "url": "https://www.visitmaryland.org/scenic-byways",
-    "name": "Visit Maryland"
-  }, {
     "url": "https://www.thearmchairexplorer.com/maryland/maryland-scenic-byways.php",
     "name": "The Armchair Explorer"
+  }, {
+    "url": "https://en.wikipedia.org/wiki/List_of_Maryland_Scenic_Byways",
+    "name": "Wikipedia"
   }]
 }

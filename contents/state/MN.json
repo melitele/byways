@@ -26,7 +26,7 @@
   ],
   "websites": [{
     "url": "https://www.exploreminnesota.com/travel-styles/road-trips-scenic-byways",
-    "name": "Explore Minnesota"
+    "name": "Minnesota Travel Guide"
   }, {
     "url": "https://nsbfoundation.com/minnesota/",
     "name": "National Scenic Byway Foundation"
@@ -36,5 +36,8 @@
   }, {
     "url": "https://www.thearmchairexplorer.com/minnesota/minnesota-scenic-byways.php",
     "name": "The Armchair Explorer"
+  }, {
+    "url": "https://en.wikipedia.org/wiki/Minnesota_Scenic_Byways",
+    "name": "Wikipedia"
   }]
 }

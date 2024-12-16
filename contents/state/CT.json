@@ -8,12 +8,15 @@
   ],
   "websites": [{
     "url": "https://www.ctvisit.com/",
-    "name": "Connecticut Tourism"
+    "name": "Connecticut Travel Guide"
   }, {
     "url": "https://nsbfoundation.com/connecticut/",
     "name": "National Scenic Byway Foundation"
   }, {
     "url": "https://www.americanlegacytours.org/connecticut/",
     "name": "National Travel Center"
+  }, {
+    "url": "https://en.wikipedia.org/wiki/Scenic_Byways_in_Connecticut",
+    "name": "Wikipedia"
   }]
 }

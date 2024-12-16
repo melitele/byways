@@ -31,16 +31,13 @@
   ],
   "websites": [{
     "url": "https://azdot.gov/about/historic-and-scenic-roads",
-    "name": "Arizona Department of Transportation"
-  }, {
-    "url": "https://www.visitarizona.com/",
-    "name": "Arizona Office of Tourism"
+    "name": "Arizona Byways"
   }, {
     "url": "https://azstateparks.com/",
     "name": "Arizona State Parks & Trails"
   }, {
-    "url": "https://arizonatourism.com/",
-    "name": "Arizona Tourism"
+    "url": "https://www.visitarizona.com/",
+    "name": "Arizona Travel Guide"
   }, {
     "url": "https://nsbfoundation.com/arizona/",
     "name": "National Scenic Byway Foundation"
@@ -53,5 +50,8 @@
   }, {
     "url": "https://www.thearmchairexplorer.com/arizona/arizona-scenic-byways.php",
     "name": "The Armchair Explorer"
+  }, {
+    "url": "https://en.wikipedia.org/wiki/List_of_state_routes_in_Arizona#Arizona_Parkways,_Historic_and_Scenic_Roads",
+    "name": "Wikipedia"
   }]
 }

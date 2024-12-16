@@ -46,8 +46,10 @@
     "url": "https://www.thearmchairexplorer.com/washington/scenic-byways.php",
     "name": "The Armchair Explorer"
   }, {
-    "url": "https://stateofwatourism.com/things-to-do/scenic-byways/",
-    "name": "Washington Tourism"
-
+    "url": "https://stateofwatourism.com/scenic-byways/",
+    "name": "Washington Travel Guide"
+  }, {
+    "url": "https://en.wikipedia.org/wiki/List_of_Washington_State_Scenic_and_Recreational_Highways",
+    "name": "Wikipedia"
   }]
 }

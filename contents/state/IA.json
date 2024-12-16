@@ -14,6 +14,12 @@
     "2186"
   ],
   "websites": [{
+    "url": "https://iowadot.gov/iowasbyways/",
+    "name": "Iowa Byways"
+  }, {
+    "url": "https://www.traveliowa.com/things-to-do/scenic-road-trips/",
+    "name": "Iowa Travel Guide"
+  }, {
     "url": "https://nsbfoundation.com/iowa/",
     "name": "National Scenic Byway Foundation"
   }, {
@@ -23,7 +29,7 @@
     "url": "https://www.thearmchairexplorer.com/iowa/iowa-scenic-byways.php",
     "name": "The Armchair Explorer"
   }, {
-    "url": "https://www.traveliowa.com/things-to-do/scenic-road-trips/",
-    "name": "Travel Iowa"
+    "url": "https://en.wikipedia.org/wiki/List_of_Iowa_Scenic_Byways",
+    "name": "Wikipedia"
   }]
 }

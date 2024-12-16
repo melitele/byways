@@ -18,7 +18,13 @@
     "url": "https://www.thearmchairexplorer.com/wisconsin/scenic-byways.php",
     "name": "The Armchair Explorer"
   }, {
+    "url": "https://wisconsindot.gov/Pages/travel/road/scenic-ways/default.aspx",
+    "name": "Wisconsin Byways"
+  }, {
     "url": "https://www.travelwisconsin.com/places-to-visit/scenic-byways",
-    "name": "Travel Wisconsin"
+    "name": "Wisconsin Travel Guide"
+  }, {
+    "url": "https://en.wikipedia.org/wiki/List_of_Wisconsin_Scenic_Byways",
+    "name": "Wikipedia"
   }]
 }

@@ -19,7 +19,7 @@
   ],
   "websites": [{
     "url": "https://dot.alaska.gov/stwdplng/scenic/index.shtml",
-    "name": "Alaska Scenic Byways"
+    "name": "Alaska Byways"
   }, {
     "url": "https://nsbfoundation.com/alaska/",
     "name": "National Scenic Byway Foundation"
@@ -29,5 +29,8 @@
   }, {
     "url": "https://www.thearmchairexplorer.com/alaska/alaska_scenic_byways.php",
     "name": "The Armchair Explorer"
+  }, {
+    "url": "https://en.wikipedia.org/wiki/List_of_Alaska_Scenic_Byways",
+    "name": "Wikipedia"
   }]
 }

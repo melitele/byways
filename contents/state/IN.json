@@ -11,6 +11,9 @@
     "74696"
   ],
   "websites": [{
+    "url": "https://www.visitindiana.com/",
+    "name": "Indiana Travel Guide"
+  }, {
     "url": "https://nsbfoundation.com/indiana/",
     "name": "National Scenic Byway Foundation"
   }, {
@@ -20,7 +23,7 @@
     "url": "https://www.thearmchairexplorer.com/indiana/indiana-scenic-byways.php",
     "name": "The Armchair Explorer"
   }, {
-    "url": "https://www.visitindiana.com/",
-    "name": "Visit Indiana"
+    "url": "https://en.wikipedia.org/wiki/List_of_Indiana_Scenic_Byways",
+    "name": "Wikipedia"
   }]
 }
