@@ -18,8 +18,11 @@
     "72977"
   ],
   "websites": [{
+    "url": "https://www.dot.ga.gov/GDOT/Pages/ScenicByways.aspx",
+    "name": "Georgia Byways"
+  }, {
     "url": "https://exploregeorgia.org/scenic-byways-trails",
-    "name": "Explore Georgia"
+    "name": "Georgia Travel Guide"
   }, {
     "url": "https://nsbfoundation.com/georgia/",
     "name": "National Scenic Byway Foundation"

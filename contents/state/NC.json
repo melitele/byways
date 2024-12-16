@@ -64,10 +64,13 @@
     "url": "https://www.americanlegacytours.org/north-carolina/",
     "name": "National Travel Center"
   }, {
-    "url": "https://www.thearmchairexplorer.com/north-carolina/north-carolina-scenic-byways.php",
-    "name": "The Armchair Explorer"
+    "url": "https://www.ncdot.gov/travel-maps/traffic-travel/scenic-byways/Pages/default.aspx",
+    "name": "North Carolina Byways"
   }, {
     "url": "https://www.visitnc.com/",
-    "name": "Visit North Carolina"
+    "name": "North Carolina Travel Guide"
+  }, {
+    "url": "https://www.thearmchairexplorer.com/north-carolina/north-carolina-scenic-byways.php",
+    "name": "The Armchair Explorer"
   }]
 }

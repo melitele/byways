@@ -12,6 +12,12 @@
     "2150"
   ],
   "websites": [{
+    "url": "https://mdot.ms.gov/portal/scenic_byways_program",
+    "name": "Mississippi Byways"
+  }, {
+    "url": "https://visitmississippi.org/",
+    "name": "Mississippi Travel Guide"
+  }, {
     "url": "https://nsbfoundation.com/mississippi/",
     "name": "National Scenic Byway Foundation"
   }, {

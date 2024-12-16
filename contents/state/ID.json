@@ -35,6 +35,9 @@
     "13603"
   ],
   "websites": [{
+    "url": "https://visitidaho.org/things-to-do/scenic-byways/",
+    "name": "Idaho Travel Guide"
+  }, {
     "url": "https://nsbfoundation.com/idaho/",
     "name": "National Scenic Byway Foundation"
   }, {
@@ -46,8 +49,5 @@
   }, {
     "url": "https://www.thearmchairexplorer.com/idaho/idaho-scenic-byways.php",
     "name": "The Armchair Explorer"
-  }, {
-    "url": "https://visitidaho.org/things-to-do/scenic-byways/",
-    "name": "Visit Idaho"
   }]
 }
