@@ -38,6 +38,7 @@ html(lang='en')
         li.nosep: a.bw-github(href='https://github.com/melitele/byways', title='Fork us', target="_blank", rel="nofollow")
         li: a.bw-mail(href=`mailto:${email}` title='E-mail us')
 
+    template#books-data(data-url=booksUrl)
     block templates
 
     script(src=`https://cdn.polyfill.io/v2/polyfill.${js}?features=fetch`, defer)

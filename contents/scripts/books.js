@@ -2,6 +2,7 @@ const dataset = require('dataset');
 const classes = require('classes');
 
 const MAX_BOOKS = 3;
+const endpoint = dataset(document.querySelector('#books-data'), 'url');
 
 function pickRandom(arr, limit) {
   if (limit < 1) {
@@ -16,7 +17,6 @@ function pickRandom(arr, limit) {
 }
 
 async function books(keywordLists) {
-  const prefix = 'https://hogfish.code42day.com/api/books?keywords=';
 
   function fromStringToArray(keywords) {
     return keywords
@@ -28,7 +28,7 @@ async function books(keywordLists) {
 
   const results = await Promise.all(
     keywordLists.map(async (keywords) => {
-      const url = prefix + fromStringToArray(keywords);
+      const url = endpoint + '?keywords=' + fromStringToArray(keywords);
       try {
         const res = await fetch(url);
         return await res.json();
@@ -72,6 +72,9 @@ function append(parent, books) {
 }
 
 function fetchBooks() {
+  if (!endpoint) {
+    return;
+  }
   const parent = document.querySelector('.books[data-name]');
   if (!parent) {
     return;
