@@ -23,6 +23,7 @@ const locals = {
   siteUrl: "http://scenicbyways.info",
   email: "contact@scenicbyways.info",
   furkotUrl: process.env.FURKOT_URL || "https://trips.furkot.com",
+  booksUrl: process.env.BOOKS_URL,
   js: 'js',
   colors: {
     "All-American Road": "#AB0534",

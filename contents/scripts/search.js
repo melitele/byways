@@ -1,9 +1,9 @@
 // scroll effects
 require('hilo')();
 
-var lunr = require('lunr');
-var fa = require('fetchagent');
-var lunrResultsRender = require('lunr-results-render');
+const lunr = require('lunr');
+const fa = require('fetchagent');
+const lunrResultsRender = require('lunr-results-render');
 
 fa
   .get(document.body.dataset.searchIndex)
@@ -13,17 +13,16 @@ fa
 /* global URLSearchParams */
 
 function getQuery() {
-  var urlParams = new URLSearchParams(window.location.search);
+  const urlParams = new URLSearchParams(window.location.search);
   return urlParams.get('q');
 }
 
 function search(si) {
-  var query = getQuery();
+  const query = getQuery();
   if (!query) {
     return;
   }
-  var index = lunr.Index.load(si.index);
-  var results = index.search(query);
+  const index = lunr.Index.load(si.index);
+  const results = index.search(query);
   lunrResultsRender(results, si.store);
 }
-

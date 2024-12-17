@@ -4,5 +4,5 @@
   "laxbreak": true,
   "browser": true,
   "browserify": true,
-  "esversion": 6
+  "esversion": 11
 }
