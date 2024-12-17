@@ -1,60 +1,55 @@
-var dataset = require('dataset');
-var classes = require('classes');
+const dataset = require('dataset');
+const classes = require('classes');
 
-/* globals Promise */
-
-var MAX_BOOKS = 3;
-
+const MAX_BOOKS = 3;
 
 function pickRandom(arr, limit) {
   if (limit < 1) {
     return [];
   }
-  var maxIndex = arr.length - limit;
+  const maxIndex = arr.length - limit;
   if (maxIndex < 1) {
     return arr;
   }
-  var index = Math.floor(Math.random() * maxIndex);
+  const index = Math.floor(Math.random() * maxIndex);
   return arr.slice(index, index + limit);
 }
 
-function books(keywordLists) {
-  var prefix = 'https://hogfish.code42day.com/api/books?keywords=';
+async function books(keywordLists) {
+  const prefix = 'https://hogfish.code42day.com/api/books?keywords=';
 
   function fromStringToArray(keywords) {
     return keywords
       .split(/['()\s]+/)
-      .filter(function(t) {
-        return t.length > 3 && !/byway|scenic|route|trail/i.test(t);
-      })
-      .map(encodeURIComponent).
-      join(',');
+      .filter(t => t.length > 3 && !/byway|scenic|route|trail/i.test(t))
+      .map(encodeURIComponent)
+      .join(',');
   }
 
-  return Promise
-  .all(
-    keywordLists.map(function(keywords) {
-      var url = prefix + fromStringToArray(keywords);
-      return fetch(url)
-        .then(function(res) { return res.json(); })
-        .catch(function() { return []; });
+  const results = await Promise.all(
+    keywordLists.map(async (keywords) => {
+      const url = prefix + fromStringToArray(keywords);
+      try {
+        const res = await fetch(url);
+        return await res.json();
+      } catch {
+        return [];
+      }
     })
-  )
-  .then(function(results) {
-    var
-      bywayBooks = pickRandom(results[0], MAX_BOOKS - 1),
-      stateBooks = pickRandom(results[1], MAX_BOOKS - bywayBooks.length);
+  );
 
-    return bywayBooks.concat(stateBooks);
-  });
+  const bywayBooks = pickRandom(results[0], MAX_BOOKS - 1);
+  const stateBooks = pickRandom(results[1], MAX_BOOKS - bywayBooks.length);
+
+  return bywayBooks.concat(stateBooks);
 }
 
 function bookImageUrl(book) {
-  return 'https://images-na.ssl-images-amazon.com/images/I/' + book.img + '._SX150_.jpg';
+  return `https://images-na.ssl-images-amazon.com/images/I/${book.img}._SX150_.jpg`;
 }
 
 function renderBook(el, book) {
-  var img = el.querySelector('.book img');
+  const img = el.querySelector('.book img');
   el.querySelector('.book a').setAttribute('href', book.link);
   img.setAttribute('src', bookImageUrl(book));
   img.setAttribute('alt', book.title);
@@ -64,10 +59,10 @@ function renderBook(el, book) {
 }
 
 function append(parent, books) {
-  var template = document.querySelector('.book-template .book');
+  const template = document.querySelector('.book-template .book');
 
-  books.forEach(function(book) {
-    var figure = renderBook(template.cloneNode(true), book);
+  books.forEach(book => {
+    const figure = renderBook(template.cloneNode(true), book);
     parent.appendChild(figure);
   });
   if (parent.childNodes.length) {
@@ -77,16 +72,16 @@ function append(parent, books) {
 }
 
 function fetchBooks() {
-  var name, state, parent = document.querySelector('.books[data-name]');
+  const parent = document.querySelector('.books[data-name]');
   if (!parent) {
     return;
   }
-  name = dataset(parent, 'name');
-  state = document.querySelector('.byway .state').textContent;
+  const name = dataset(parent, 'name');
+  const state = document.querySelector('.byway .state').textContent;
   if (!name) {
     return;
   }
-  books([name, state]).then(function(books) {
+  books([name, state]).then(books => {
     append(parent, books);
   });
 }
