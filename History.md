@@ -1,4 +1,10 @@
 
+2.4.7 / 2024-12-17
+==================
+
+ * externalize setting endpoint to books retrieval service
+ * update code to ES 11
+
 2.4.6 / 2024-12-15
 ==================
 
