@@ -41,7 +41,5 @@ html(lang='en')
     template#books-data(data-url=booksUrl)
     block templates
 
-    script(src=`https://cdn.polyfill.io/v2/polyfill.${js}?features=fetch`, defer)
-
     block scripts
       script(src=`/scripts/index.${js}?v=${package.version}`, defer)
