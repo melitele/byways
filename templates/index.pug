@@ -1,5 +1,7 @@
 extends layout
 
+include mixins
+
 mixin bywaysList(name, byways)
   section.byway-list(data-color=colors[name])
     header
@@ -21,9 +23,15 @@ block body
     )
     script(src="https://cdn.furkot.com/scripts/furkot-tripshot.min.js", defer)
 
+  section
+    .books.hidden(data-id='1426219059,1426221665,1426218850,1838691944,1788684184', data-max=5)
+
   section.states
     ul.flat-list
       for state in states
         li: a(href=state.url)= state.name
   for byways, name in designations
     +bywaysList(name, byways)
+
+  .templates.hidden
+    +bookTemplate()
