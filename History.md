@@ -1,4 +1,16 @@
 
+2.4.10 / 2024-12-24
+===================
+
+ * remove unused comment styling
+ * ensure margin between sections
+ * set map aspect ratio on smaller screens
+ * remove fetch polyfill
+ * divide websites associated with each byway into 3 sections
+ * display byway websites divided into sections
+ * display books on main and state pages
+ * minor changes of website names
+
 2.4.9 / 2024-12-21
 ==================
 
