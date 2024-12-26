@@ -63,6 +63,8 @@ body
   color var(--text-color)
   font-text()
   font-size 0.9em
+  display flex
+  flex-direction column
 
 header,
 footer
@@ -71,6 +73,9 @@ footer
 body > header,
 body > main
   padding 1em 1em
+
+body > main
+  flex 1
 
 body > footer
   padding .6em 1em
@@ -85,7 +90,7 @@ body > header
     transition font-size .3s ease-in-out
     color white
     text-transform uppercase
-    font-size 32px
+    font-size clamp(18px, 4vw, 32px)
     letter-spacing .2em
     line-height 1
 
@@ -396,13 +401,8 @@ body > footer
     padding .5em 5em
 
   body > header
-    fixed top
-    z-index 100
-
-  body > footer
-    transition transform .3s ease-in-out,
-      box-shadow .3s ease-in-out
-    fixed bottom
+    position fixed
+    top 0
     z-index 100
 
   body:not(.top) > header
@@ -410,13 +410,6 @@ body > footer
 
     a
       font-size 18px
-
-  body:not(.bottom) > footer
-    box-shadow 0 -2px 4px rgba(black, .5)
-    transform translateY(85%)
-
-    &:hover
-      transform translateY(0)
 
   body>main
     clearfix()
