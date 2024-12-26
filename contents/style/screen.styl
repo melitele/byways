@@ -343,8 +343,10 @@ body > footer
 .searchbox
   margin 1em auto
   max-width 700px
+  display flex
 
-  $button-width=6em
+  form
+    display contents
 
   input[type="search"],
   input[type="submit"]
@@ -358,16 +360,15 @@ body > footer
     font-family sans-serif
 
   input[type="search"]
+    flex 1
     background-color white
     color var(--primary-3)
     width 100%
-    margin-right (- $button-width)
-    padding-right $button-width + .5em
 
   input[type="submit"]
     background-color var(--secondary-4)
     color var(--text-color)
-    width $button-width
+    width 6em
 
     &:hover, &:active
       background-color var(--secondary-3)
