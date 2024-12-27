@@ -1,4 +1,10 @@
 
+2.4.11 / 2024-12-26
+===================
+
+ * add missing path, designations, ll and bounds attributes
+ * improve page layout
+
 2.4.10 / 2024-12-24
 ===================
 
