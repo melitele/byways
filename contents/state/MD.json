@@ -1,27 +1,6 @@
 {
   "template": "state",
   "name": "Maryland",
-  "byways": [
-    "69085",
-    "2271",
-    "60591",
-    "2269",
-    "69089",
-    "2261",
-    "2272",
-    "2260",
-    "2273",
-    "2265",
-    "78304",
-    "2263",
-    "2262",
-    "69083",
-    "2270",
-    "69091",
-    "40532",
-    "2275",
-    "2274"
-  ],
   "websites": [{
     "url": "https://www.roads.maryland.gov/mdotsha/pages/Index.aspx?PageId=97",
     "name": "Maryland Byways"

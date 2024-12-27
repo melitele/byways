@@ -1,17 +1,6 @@
 {
   "template": "state",
   "name": "Massachusetts",
-  "byways": [
-    "75243",
-    "2568",
-    "66285",
-    "13418",
-    "81478",
-    "2585",
-    "2569",
-    "13419",
-    "75246"
-  ],
   "websites": [{
     "url": "https://www.visitma.com/",
     "name": "Massachusetts Travel Guide"

@@ -1,22 +1,6 @@
 {
   "template": "state",
   "name": "Georgia",
-  "byways": [
-    "53911",
-    "53910",
-    "81456",
-    "81455",
-    "53912",
-    "2336",
-    "69743",
-    "2335",
-    "13245",
-    "70282",
-    "15724",
-    "13739",
-    "15766",
-    "72977"
-  ],
   "websites": [{
     "url": "https://www.dot.ga.gov/GDOT/Pages/ScenicByways.aspx",
     "name": "Georgia Byways"

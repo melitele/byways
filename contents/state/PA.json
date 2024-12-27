@@ -1,27 +1,6 @@
 {
   "template": "state",
   "name": "Pennsylvania",
-  "byways": [
-    "64111",
-    "64115",
-    "64112",
-    "81477",
-    "71427",
-    "71425",
-    "71426",
-    "2199",
-    "59818",
-    "2289",
-    "64113",
-    "12919",
-    "78512",
-    "46208",
-    "69076",
-    "12413",
-    "2322",
-    "76816",
-    "64114"
-  ],
   "websites": [{
     "url": "https://nsbfoundation.com/pennsylvania/",
     "name": "National Scenic Byway Foundation"

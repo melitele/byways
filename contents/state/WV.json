@@ -1,23 +1,6 @@
 {
   "template": "state",
   "name": "West Virginia",
-  "byways": [
-    "10353",
-    "10352",
-    "10354",
-    "15740",
-    "10346",
-    "10348",
-    "2460",
-    "2478",
-    "15738",
-    "10345",
-    "15741",
-    "15739",
-    "10355",
-    "10351",
-    "13753"
-  ],
   "websites": [{
     "url": "https://nsbfoundation.com/west-virginia/",
     "name": "National Scenic Byway Foundation"

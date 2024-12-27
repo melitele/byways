@@ -1,17 +1,6 @@
 {
   "template": "state",
   "name": "Nebraska",
-  "byways": [
-    "16471",
-    "16468",
-    "16431",
-    "16462",
-    "16472",
-    "16473",
-    "16469",
-    "16470",
-    "10790"
-  ],
   "websites": [{
     "url": "https://nsbfoundation.com/nebraska/",
     "name": "National Scenic Byway Foundation"

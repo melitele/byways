@@ -1,14 +1,6 @@
 {
   "template": "state",
   "name": "Tennessee",
-  "byways": [
-    "2251",
-    "76017",
-    "2245",
-    "2250",
-    "2288",
-    "2345"
-  ],
   "websites": [{
     "url": "https://nsbfoundation.com/tennessee/",
     "name": "National Scenic Byway Foundation"

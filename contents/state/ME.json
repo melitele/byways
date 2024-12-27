@@ -1,20 +1,6 @@
 {
   "template": "state",
   "name": "Maine",
-  "byways": [
-    "13791",
-    "11511",
-    "11515",
-    "71995",
-    "11512",
-    "11510",
-    "71996",
-    "13830",
-    "13792",
-    "71994",
-    "11513",
-    "11514"
-  ],
   "websites": [{
     "url": "https://www.exploremaine.org/byways/index.shtml",
     "name": "Maine Travel Guide"

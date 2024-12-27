@@ -1,18 +1,6 @@
 {
   "template": "state",
   "name": "North Dakota",
-  "byways": [
-    "69070",
-    "16407",
-    "16405",
-    "39531",
-    "75154",
-    "16408",
-    "57638",
-    "16406",
-    "16409",
-    "16404"
-  ],
   "websites": [{
     "url": "https://nsbfoundation.com/north-dakota/",
     "name": "National Scenic Byway Foundation"

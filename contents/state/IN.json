@@ -1,15 +1,6 @@
 {
   "template": "state",
   "name": "Indiana",
-  "byways": [
-    "81469",
-    "10423",
-    "81470",
-    "76130",
-    "2453",
-    "74703",
-    "74696"
-  ],
   "websites": [{
     "url": "https://www.visitindiana.com/",
     "name": "Indiana Travel Guide"

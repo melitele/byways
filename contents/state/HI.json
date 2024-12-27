@@ -1,13 +1,6 @@
 {
   "template": "state",
   "name": "Hawaii",
-  "byways": [
-    "13751",
-    "81480",
-    "81481",
-    "81305",
-    "81463"
-  ],
   "websites": [{
     "url": "https://nsbfoundation.com/hawaii/",
     "name": "National Scenic Byway Foundation"

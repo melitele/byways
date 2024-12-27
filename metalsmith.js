@@ -146,8 +146,37 @@ function collectById(files, metalsmith) {
     return result;
   }
 
+  function processByway(result, byway) {
+    const { id, states, includes } = byway;
+    if (states.length > 1 && includes?.length) {
+      states.forEach(function (st) {
+        const state = metadata.statesById[st];
+        state.multistateByways = state.multistateByways || [];
+        state.multistateByways.push(id);
+      });
+    }
+    else {
+      states.forEach(function (st) {
+        const state = metadata.statesById[st];
+        state.stateByways = state.stateByways || [];
+        state.stateByways.push(id);
+      });
+    }
+    return addBySlug(result, byway);
+  }
+
+  function compareByways(a, b) {
+    return metadata.bywaysById[a].name.localeCompare(metadata.bywaysById[b].name);
+  }
+  
+  function sortByways(state) {
+    state.stateByways.sort(compareByways);
+    state.multistateByways?.sort(compareByways);
+  }
+
   metadata.statesById = metadata.states.reduce(addBySlug, Object.create(null));
-  metadata.bywaysById = metadata.byways.reduce(addBySlug, Object.create(null));
+  metadata.bywaysById = metadata.byways.reduce(processByway, Object.create(null));
+  metadata.states.forEach(sortByways);
 }
 
 const ms = metalsmith(__dirname)

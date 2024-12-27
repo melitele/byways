@@ -1,15 +1,6 @@
 {
   "template": "state",
   "name": "Illinois",
-  "byways": [
-    "2248",
-    "13749",
-    "58612",
-    "58611",
-    "13750",
-    "10393",
-    "10392"
-  ],
   "websites": [{
     "url": "https://www.enjoyillinois.com/things-to-do/illinois-scenic-byways/",
     "name": "Illinois Travel Guide"

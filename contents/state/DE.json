@@ -1,11 +1,6 @@
 {
   "template": "state",
   "name": "Delaware",
-  "byways": [
-    "57779",
-    "61897",
-    "2334"
-  ],
   "websites": [{
     "url": "https://deldot.gov/Programs/byways/index.shtml",
     "name": "Delaware Byways"

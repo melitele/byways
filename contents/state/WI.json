@@ -1,13 +1,6 @@
 {
   "template": "state",
   "name": "Wisconsin",
-  "byways": [
-    "81450",
-    "2325",
-    "2249",
-    "2324",
-    "80920"
-  ],
   "websites": [{
     "url": "https://nsbfoundation.com/wisconsin/",
     "name": "National Scenic Byway Foundation"

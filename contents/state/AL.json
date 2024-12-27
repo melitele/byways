@@ -1,18 +1,6 @@
 {
   "template": "state",
   "name": "Alabama",
-  "byways": [
-    "2442",
-    "2440",
-    "2339",
-    "2558",
-    "2443",
-    "71948",
-    "2441",
-    "2051",
-    "2050",
-    "2057"
-  ],
   "websites": [{
     "url": "https://alabamabyways.com/",
     "name": "Alabama Byways"

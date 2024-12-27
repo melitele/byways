@@ -1,20 +1,6 @@
 {
   "template": "state",
   "name": "Virginia",
-  "byways": [
-    "44704",
-    "10327",
-    "10341",
-    "60441",
-    "60807",
-    "10335",
-    "78583",
-    "10299",
-    "2323",
-    "10304",
-    "60646",
-    "10300"
-  ],
   "websites": [{
     "url": "https://nsbfoundation.com/virginia/",
     "name": "National Scenic Byway Foundation"

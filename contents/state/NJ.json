@@ -1,15 +1,6 @@
 {
   "template": "state",
   "name": "New Jersey",
-  "byways": [
-    "80449",
-    "2463",
-    "2462",
-    "68569",
-    "68570",
-    "69815",
-    "80452"
-  ],
   "websites": [{
     "url": "https://nsbfoundation.com/new-jersey/",
     "name": "National Scenic Byway Foundation"

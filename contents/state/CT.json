@@ -1,11 +1,6 @@
 {
   "template": "state",
   "name": "Connecticut",
-  "byways": [
-    "2451",
-    "2452",
-    "2461"
-  ],
   "websites": [{
     "url": "https://www.ctvisit.com/",
     "name": "Connecticut Travel Guide"

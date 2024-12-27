@@ -1,17 +1,6 @@
 {
   "template": "state",
   "name": "Montana",
-  "byways": [
-    "2134",
-    "2138",
-    "68956",
-    "2139",
-    "2055",
-    "2135",
-    "2140",
-    "2136",
-    "2137"
-  ],
   "websites": [{
     "url": "https://www.visitmt.com/search?query=scenic+byway",
     "name": "Montana Travel Guide"

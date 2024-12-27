@@ -1,19 +1,6 @@
 {
   "template": "state",
   "name": "Kansas",
-  "byways": [
-    "2095",
-    "2096",
-    "43415",
-    "2266",
-    "81471",
-    "72337",
-    "12859",
-    "2338",
-    "54099",
-    "81451",
-    "59011"
-  ],
   "websites": [{
     "url": "https://www.travelks.com/things-to-do/byways-and-highways/",
     "name": "Kansas Travel Guide"

@@ -1,27 +1,6 @@
 {
   "template": "state",
   "name": "Wyoming",
-  "byways": [
-    "2167",
-    "2053",
-    "2466",
-    "81479",
-    "2342",
-    "2166",
-    "2168",
-    "2165",
-    "2290",
-    "2164",
-    "2174",
-    "2341",
-    "81448",
-    "11243",
-    "13403",
-    "2054",
-    "13404",
-    "2340",
-    "2052"
-  ],
   "websites": [{
     "url": "https://nsbfoundation.com/wyoming/",
     "name": "National Scenic Byway Foundation"

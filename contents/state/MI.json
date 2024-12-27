@@ -1,16 +1,6 @@
 {
   "template": "state",
   "name": "Michigan",
-  "byways": [
-    "100001",
-    "10780",
-    "13828",
-    "13755",
-    "10781",
-    "100002",
-    "10782",
-    "13754"
-  ],
   "websites": [{
     "url": "https://michiganhighways.org/index.html",
     "name": "Michigan Highways"

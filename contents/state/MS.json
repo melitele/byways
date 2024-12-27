@@ -1,16 +1,6 @@
 {
   "template": "state",
   "name": "Mississippi",
-  "byways": [
-    "81464",
-    "81466",
-    "64064",
-    "2212",
-    "62295",
-    "64069",
-    "81465",
-    "2150"
-  ],
   "websites": [{
     "url": "https://mdot.ms.gov/portal/scenic_byways_program",
     "name": "Mississippi Byways"

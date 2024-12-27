@@ -6,23 +6,25 @@ append title
   = "::" + name
 
 block description
-  - var bywaysStr = byways.map(id => bywaysById[id].name).join(', ');
+  - var bywaysStr = stateByways.map(id => bywaysById[id].name).join(', ');
   meta(name="description", content=`${name} most scenic roads: ${bywaysStr}.`)
 
-mixin bywaysList(name, byways)
+mixin bywaysList(byways, name)
   -
     var defaultColor = colors['Other Scenic Road'];
-  section.byway-list
-    header
-      h2= name
-    ul.flat-list
-      for id in byways
-        -
-          var byway = bywaysById[id];
-          var color = (byway.designations && colors[byway.designations[0]]) || defaultColor;
-        li: a(
-          href=byway.url
-        )= byway.name
+  if byways
+    section.byway-list
+      if name
+        header
+          h2= name
+      ul.flat-list
+        for id in byways
+          -
+            var byway = bywaysById[id];
+            var color = (byway.designations && colors[byway.designations[0]]) || defaultColor;
+          li: a(
+            href=byway.url
+          )= byway.name
 
 
 block body
@@ -39,7 +41,8 @@ block body
   section
     .books.hidden(data-name=name, data-keywords=name + ' Byways', data-max=5)
 
-  +bywaysList(name, byways)
+  +bywaysList(stateByways, name)
+  +bywaysList(multistateByways)
   +websiteList(websites)
 
   .templates.hidden

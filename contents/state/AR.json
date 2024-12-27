@@ -1,17 +1,6 @@
 {
   "template": "state",
   "name": "Arkansas",
-  "byways": [
-    "2155",
-    "10408",
-    "2152",
-    "2158",
-    "2157",
-    "2156",
-    "2160",
-    "2159",
-    "2154"
-  ],
   "websites": [{
     "url": "https://www.arkansas.com/",
     "name": "Arkansas Travel Guide"

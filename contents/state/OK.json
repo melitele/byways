@@ -1,15 +1,6 @@
 {
   "template": "state",
   "name": "Oklahoma",
-  "byways": [
-    "2346",
-    "6335",
-    "58540",
-    "58541",
-    "74113",
-    "2056",
-    "6334"
-  ],
   "websites": [{
     "url": "https://nsbfoundation.com/oklahoma/",
     "name": "National Scenic Byway Foundation"

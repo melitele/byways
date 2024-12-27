@@ -1,26 +1,6 @@
 {
   "template": "state",
   "name": "Louisiana",
-  "byways": [
-    "52924",
-    "2066",
-    "2067",
-    "52925",
-    "2454",
-    "2246",
-    "2069",
-    "2070",
-    "2074",
-    "2068",
-    "2073",
-    "2071",
-    "2075",
-    "2076",
-    "2077",
-    "2078",
-    "2072",
-    "2079"
-  ],
   "websites": [{
     "url": "https://byways.explorelouisiana.com/",
     "name": "Louisiana Byways"

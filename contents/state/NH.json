@@ -1,25 +1,6 @@
 {
   "template": "state",
   "name": "New Hampshire",
-  "byways": [
-    "2255",
-    "2254",
-    "2253",
-    "15789",
-    "15787",
-    "15801",
-    "15790",
-    "76111",
-    "15788",
-    "2458",
-    "15792",
-    "2252",
-    "15800",
-    "15798",
-    "15793",
-    "2256",
-    "15799"
-  ],
   "websites": [{
     "url": "https://nsbfoundation.com/new-hampshire/",
     "name": "National Scenic Byway Foundation"

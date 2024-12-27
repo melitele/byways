@@ -1,16 +1,6 @@
 {
   "template": "state",
   "name": "Vermont",
-  "byways": [
-    "53355",
-    "81468",
-    "2349",
-    "53360",
-    "72875",
-    "53358",
-    "81467",
-    "72908"
-  ],
   "websites": [{
     "url": "https://nsbfoundation.com/vermont/",
     "name": "National Scenic Byway Foundation"
