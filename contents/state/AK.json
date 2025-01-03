@@ -5,6 +5,12 @@
     "url": "https://dot.alaska.gov/stwdplng/scenic/index.shtml",
     "name": "Alaska Byways"
   }, {
+    "url": "https://www.adfg.alaska.gov/index.cfm?adfg=fishregulations.sport",
+    "name": "Alaska Sport Fishing Regulations"
+  }, {
+    "url": "https://www.alaska.org/things-to-do/scenic-drives",
+    "name": "Alaska Travel Guide"
+  }, {
     "url": "https://nsbfoundation.com/alaska/",
     "name": "National Scenic Byway Foundation"
   }, {
@@ -13,6 +19,9 @@
   }, {
     "url": "https://www.thearmchairexplorer.com/alaska/alaska_scenic_byways.php",
     "name": "The Armchair Explorer"
+  }, {
+    "url": "https://themilepost.com/route",
+    "name": "The Milepost Alaska Travel Guide"
   }, {
     "url": "https://en.wikipedia.org/wiki/List_of_Alaska_Scenic_Byways",
     "name": "Wikipedia"
