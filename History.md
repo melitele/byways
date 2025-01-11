@@ -1,4 +1,14 @@
 
+2.4.12 / 2025-01-10
+===================
+
+ * improve selected byways
+ * change remaining HTTP links to HTTPS
+ * better rounding of byway distance
+ * streamline byway paths
+ * dynamically generate list of byways per state
+ * restore sections 'includes' and 'part of' removed by mistake
+
 2.4.11 / 2024-12-26
 ===================
 
