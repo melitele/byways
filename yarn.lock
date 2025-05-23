@@ -480,11 +480,6 @@ css@^2.0.0:
     source-map-resolve "^0.5.2"
     urix "^0.1.0"
 
-dataset@^0.3.1:
-  version "0.3.2"
-  resolved "https://registry.yarnpkg.com/dataset/-/dataset-0.3.2.tgz#c7541247f5daf2bafd54d95d0be80036f5fbc811"
-  integrity sha512-O8wmsFJ8ZRSywXVQMf38COvYHq2Z8i1v638JrUd5OfYMyzSrYNOxoK6o8f9VyEE+U51euCfe+x0cNfdiVKthSw==
-
 debug@^2.2.0:
   version "2.6.9"
   resolved "https://registry.yarnpkg.com/debug/-/debug-2.6.9.tgz#5d128515df134ff327e90a4c93f4e077a536341f"

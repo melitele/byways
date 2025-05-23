@@ -1,8 +1,7 @@
-const dataset = require('dataset');
 const classes = require('classes');
 
 const MAX_BOOKS = 3;
-const endpoint = dataset(document.querySelector('#books-data'), 'url');
+const endpoint = document.querySelector('#books-data').dataset.url;
 
 function pickRandom(arr, verbatim, limit) {
   if (limit < 1) {
@@ -90,13 +89,13 @@ function fetchBooks() {
     return;
   }
   let list;
-  const id = dataset(parent, 'id');
+  const id = parent.dataset.id;
   if (id) {
     list = id.split(',').map(id => ({ id }));
   } else {
     list = [
-      { keywords: dataset(parent, 'keywords'), verbatim: true },
-      { keywords: dataset(parent, 'name') },
+      { keywords: parent.dataset.keywords, verbatim: true },
+      { keywords: parent.dataset.name },
       { keywords: document.querySelector('.byway .state')?.textContent }
     ].filter(el => el.keywords);
 
@@ -105,7 +104,7 @@ function fetchBooks() {
     }
   }
 
-  books(list, dataset(parent, 'max')).then(books => {
+  books(list, parent.dataset.max).then(books => {
     append(parent, books);
   });
 }
