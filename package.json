@@ -2,6 +2,7 @@
   "name": "byways",
   "version": "2.4.14",
   "description": "Content of the closed `byways.org` website hosted at [scenicbyways.info]",
+  "type": "module",
   "scripts": {
     "test": "make lint"
   },

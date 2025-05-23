@@ -1,13 +1,12 @@
-// scroll effects
-require('scroll-hilo')();
+import fa from 'fetchagent';
+import lunr from 'lunr';
+import lunrResultsRender from 'lunr-results-render';
+import hilo from 'scroll-hilo';
 
-const lunr = require('lunr');
-const fa = require('fetchagent');
-const lunrResultsRender = require('lunr-results-render');
+// scroll effects
+hilo();
 
 fa.get(document.body.dataset.searchIndex).json().then(search);
-
-/* global URLSearchParams */
 
 function getQuery() {
   const urlParams = new URLSearchParams(window.location.search);

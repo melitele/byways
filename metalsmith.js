@@ -1,15 +1,18 @@
-const metalsmith = require('metalsmith');
+import collectons from '@metalsmith/collections';
+import layouts from '@metalsmith/layouts';
+import esbuild from '@pirxpilot/metalsmith-esbuild';
+import lunr from '@pirxpilot/metalsmith-lunr-index';
+import metalsmith from 'metalsmith';
+import debug from 'metalsmith-debug';
+import define from 'metalsmith-define';
+import markdown from 'metalsmith-markdownit';
+import serve from 'metalsmith-serve';
+import stylus from 'metalsmith-stylus';
+import minimist from 'minimist';
 
-const collectons = require('@metalsmith/collections');
-const debug = require('metalsmith-debug');
-const define = require('metalsmith-define');
-const layouts = require('@metalsmith/layouts');
-const markdown = require('metalsmith-markdownit');
-const stylus = require('metalsmith-stylus');
-const lunr = require('@pirxpilot/metalsmith-lunr-index');
-const esbuild = require('@pirxpilot/metalsmith-esbuild');
+import packageJson from './package.json' with { type: 'json' };
 
-const { destination, port = 3040, preview = false } = require('minimist')(process.argv.slice(2));
+const { destination, port = 3040, preview = false } = minimist(process.argv.slice(2));
 
 /* exported locals */
 const locals = {
@@ -28,7 +31,7 @@ const locals = {
     'BLM Back Country Byway': '#007BFF',
     'Other Scenic Road': '#E3BE16'
   },
-  package: require('./package.json')
+  package: packageJson
 };
 
 const collectionsData = {
@@ -172,7 +175,7 @@ function collectById(_files, metalsmith) {
   metadata.states.forEach(sortByways);
 }
 
-const ms = metalsmith(__dirname)
+const ms = metalsmith(import.meta.dirname)
   .env({ NODE_ENV: process.env.NODE_ENV })
   .source('contents')
   .destination(destination)
@@ -219,7 +222,6 @@ const ms = metalsmith(__dirname)
   );
 
 if (preview) {
-  const serve = require('metalsmith-serve');
   ms.use(serve({ port }));
 }
 

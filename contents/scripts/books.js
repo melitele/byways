@@ -107,4 +107,4 @@ function fetchBooks() {
   });
 }
 
-module.exports = fetchBooks;
+export default fetchBooks;
