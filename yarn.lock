@@ -605,10 +605,10 @@ extend-shallow@^2.0.1:
   dependencies:
     is-extendable "^0.1.0"
 
-fetchagent@^2.0.0:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/fetchagent/-/fetchagent-2.1.1.tgz#2ee86c025cb70a96e42b712eae85d515c44aee50"
-  integrity sha512-q0n4Ki9Z+ERvk8FlMm36P0+rJaXkPHGfD4RIf0JiIArz+f4qmGsHWdlxpOM0YK+VYrkhd009SJzjiWhCEuQ2dQ==
+fetchagent@~3:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/fetchagent/-/fetchagent-3.0.0.tgz#97306b9f10d37e2b73dccaf29a2d3c1734759611"
+  integrity sha512-C9OLN6ZUxOqjkGF814ciaMmvJMYr98PvZrQdNxGN8bb2z8IH2zDZ3Q1SOcLLt6m9EnL7QY9pN0b8Svu/UX63ew==
 
 fill-range@^7.1.1:
   version "7.1.1"

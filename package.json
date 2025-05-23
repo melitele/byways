@@ -18,7 +18,7 @@
     "@metalsmith/layouts": "^2.5.1",
     "@pirxpilot/metalsmith-esbuild": "^1.0.0",
     "@pirxpilot/metalsmith-lunr-index": "^1.0.0",
-    "fetchagent": "^2.0.0",
+    "fetchagent": "~3",
     "jstransformer-pug": "^0.4.0",
     "lunr-results-render": "^1.0.0",
     "metalsmith": "^2.3.0",
