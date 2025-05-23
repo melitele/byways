@@ -1,5 +1,3 @@
-const classes = require('classes');
-
 const MAX_BOOKS = 3;
 const endpoint = document.querySelector('#books-data').dataset.url;
 
@@ -73,7 +71,7 @@ function append(parent, books) {
   });
   if (parent.childNodes.length) {
     // books are here!
-    classes(parent).remove('hidden');
+    parent.classList.remove('hidden');
   }
 }
 

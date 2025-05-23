@@ -17,7 +17,6 @@
     "@metalsmith/layouts": "^2.5.1",
     "@pirxpilot/metalsmith-esbuild": "^1.0.0",
     "@pirxpilot/metalsmith-lunr-index": "^1.0.0",
-    "component-classes": "^1.2.4",
     "fetchagent": "^2.0.0",
     "jstransformer-pug": "^0.4.0",
     "lunr-results-render": "^1.0.0",
@@ -32,7 +31,6 @@
     "yields-k": "^0.7.2"
   },
   "browser": {
-    "classes": "component-classes",
     "hilo": "scroll-hilo",
     "k": "yields-k"
   },
