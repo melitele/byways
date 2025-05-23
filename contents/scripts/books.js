@@ -17,20 +17,13 @@ function pickRandom(arr, verbatim, limit) {
 }
 
 async function books(list, maxBooks = MAX_BOOKS) {
-
   function fromStringToArray({ keywords, verbatim }) {
     if (verbatim) {
       keywords = keywords.split(',');
     } else {
-      keywords = keywords
-        .split(/['()\s]+/)
-        .filter(function (t) {
-          return t.length > 3 && !/byway|scenic|route|trail/i.test(t);
-        });
+      keywords = keywords.split(/['()\s]+/).filter(t => t.length > 3 && !/byway|scenic|route|trail/i.test(t));
     }
-    return keywords
-      .map(encodeURIComponent)
-      .join(',');
+    return keywords.map(encodeURIComponent).join(',');
   }
 
   async function doFetch(url) {
@@ -43,17 +36,15 @@ async function books(list, maxBooks = MAX_BOOKS) {
   }
 
   const results = await Promise.all(
-    list.map(async (options) => doFetch(endpoint + (options.id
-      ? '?id=' + options.id
-      : '?keywords=' + fromStringToArray(options))))
+    list.map(async options =>
+      doFetch(endpoint + (options.id ? `?id=${options.id}` : `?keywords=${fromStringToArray(options)}`))
+    )
   );
 
   let slots = maxBooks;
   let rLen = results.length - 1;
   return results.reduce((r, results, i) => {
-    results = Array.isArray(results)
-      ? pickRandom(results, list[i].verbatim, slots - rLen)
-      : [results];
+    results = Array.isArray(results) ? pickRandom(results, list[i].verbatim, slots - rLen) : [results];
     slots = maxBooks - results.length;
     rLen -= 1;
     return r.concat(results);
@@ -91,7 +82,8 @@ function fetchBooks() {
   if (!endpoint) {
     return;
   }
-  const parent = document.querySelector('.books[data-name]') ||
+  const parent =
+    document.querySelector('.books[data-name]') ||
     document.querySelector('.books[data-keywords]') ||
     document.querySelector('.books[data-id]');
   if (!parent) {
@@ -101,8 +93,7 @@ function fetchBooks() {
   const id = dataset(parent, 'id');
   if (id) {
     list = id.split(',').map(id => ({ id }));
-  }
-  else {
+  } else {
     list = [
       { keywords: dataset(parent, 'keywords'), verbatim: true },
       { keywords: dataset(parent, 'name') },
@@ -114,7 +105,7 @@ function fetchBooks() {
     }
   }
 
-  books(list, dataset(parent, 'max')).then(function (books) {
+  books(list, dataset(parent, 'max')).then(books => {
     append(parent, books);
   });
 }

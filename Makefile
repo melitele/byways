@@ -41,7 +41,10 @@ $(BUILD_DIR):
 	chown $(USER) $@
 
 lint: | node_modules
-	$(NODE_BIN)/jshint metalsmith.js $(SRC)
+	$(NODE_BIN)/biome ci
+
+format: | node_modules
+	$(NODE_BIN)/biome check --fix
 
 node_modules:
 	yarn && touch $@
@@ -52,5 +55,5 @@ dist: export NODE_ENV=production
 dist: clean check
 dist: build
 
-.PHONY: all preview build lint clean
+.PHONY: all preview build lint format clean
 

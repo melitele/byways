@@ -5,10 +5,7 @@ const lunr = require('lunr');
 const fa = require('fetchagent');
 const lunrResultsRender = require('lunr-results-render');
 
-fa
-  .get(document.body.dataset.searchIndex)
-  .json()
-  .then(search);
+fa.get(document.body.dataset.searchIndex).json().then(search);
 
 /* global URLSearchParams */
 

@@ -20,7 +20,6 @@
     "component-classes": "^1.2.4",
     "dataset": "^0.3.1",
     "fetchagent": "^2.0.0",
-    "jshint": "^2.8.0",
     "jstransformer-pug": "^0.4.0",
     "lunr-results-render": "^1.0.0",
     "metalsmith": "^2.3.0",
@@ -37,5 +36,8 @@
     "classes": "component-classes",
     "hilo": "scroll-hilo",
     "k": "yields-k"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^1.9.4"
   }
 }
