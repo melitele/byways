@@ -2,4 +2,4 @@
 require('./books')();
 
 // scroll effects
-require('hilo')();
+require('scroll-hilo')();

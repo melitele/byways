@@ -1,5 +1,5 @@
 // scroll effects
-require('hilo')();
+require('scroll-hilo')();
 
 const lunr = require('lunr');
 const fa = require('fetchagent');

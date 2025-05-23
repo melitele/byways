@@ -29,9 +29,6 @@
     "scroll-hilo": "^1.0.2",
     "swipe": "^1.7.7"
   },
-  "browser": {
-    "hilo": "scroll-hilo"
-  },
   "devDependencies": {
     "@biomejs/biome": "^1.9.4"
   }
