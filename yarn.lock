@@ -372,11 +372,6 @@ commander@^10.0.1:
   resolved "https://registry.yarnpkg.com/commander/-/commander-10.0.1.tgz#881ee46b4f77d1c1dccc5823433aa39b022cbe06"
   integrity sha512-y4Mg2tXshplEbSGzx7amzPwKKOCGuoSRP/CjEdwwk0FOGlUbq6lKuoyDZTNZkmxHdJtp54hdfY/JUrdL7Xfdug==
 
-component-bind@*:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/component-bind/-/component-bind-1.0.0.tgz#00c608ab7dcd93897c0009651b1d3a8e1e73bbd1"
-  integrity sha512-WZveuKPeKAG9qY+FkYDeADzdHyTYdIboXS59ixDeRJL5ZhxpqUnxSOwop4FQjMsiYm3/Or8cegVbpAHNA7pHxw==
-
 component-classes@^1.2.1:
   version "1.2.6"
   resolved "https://registry.yarnpkg.com/component-classes/-/component-classes-1.2.6.tgz#c642394c3618a4d8b0b8919efccbbd930e5cd691"
@@ -434,11 +429,6 @@ component-matches-selector@~0.1.6:
   dependencies:
     component-query "*"
     global-object "^1.0.0"
-
-component-os@*:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/component-os/-/component-os-0.0.1.tgz#959343be0d6843bb77712fe278f5ff7b5123296b"
-  integrity sha512-ZoGIVg1w3XGMnVM+ssMAUPvDofaI9rpXDSEAFlLICBkHg9SSv9CmB5EwvnwD18QcWNFjam5ccP+MRurFe0VZfw==
 
 component-query@*:
   version "0.0.3"
@@ -1367,26 +1357,3 @@ yaml-js@0.0.8:
   version "0.0.8"
   resolved "https://registry.yarnpkg.com/yaml-js/-/yaml-js-0.0.8.tgz#87cfa5a9613f48e26005420d6a8ee0da6fe8daec"
   integrity sha512-XCqDFUhDO3yhT+Rb/inT3uiC8ekx2lXHDgDeXY8V0Lgkx4yEhzhxraYQxtuajydIrx8L8KmF9OeKCDlyCjvnMQ==
-
-yields-k-sequence@*:
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/yields-k-sequence/-/yields-k-sequence-0.1.0.tgz#b7569acec6c5f594d67f36dfaa24a271c3804d3a"
-  integrity sha512-RloTyZsmFaim7lcHeGpBhUwne/tkgmM9YZ3Hd/WpmS0LjLDnpmQWlKxv4WLfWT4VIaCK6WJz8xV0NFH6TyutAg==
-  dependencies:
-    yields-keycode "*"
-
-yields-k@^0.7.2:
-  version "0.7.2"
-  resolved "https://registry.yarnpkg.com/yields-k/-/yields-k-0.7.2.tgz#97409a8036218da34fed6b6b4770fefb77e6dd00"
-  integrity sha512-nM0xeiFvqbl/6ujWFbBW/VFZ1Nx3Oim/oCNmpubODZ+dzIvr6jSMtRqTVzSQPY3ITJzClm8yAM7+86akRJTANA==
-  dependencies:
-    component-bind "*"
-    component-event "*"
-    component-os "*"
-    yields-k-sequence "*"
-    yields-keycode "*"
-
-yields-keycode@*:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/yields-keycode/-/yields-keycode-1.1.0.tgz#038a985866cbb6910e433ac5e28b8399dffc35df"
-  integrity sha512-5xkHkiEa8TRGlcDzOvVXrVhhLbla9WDFmHsN2tyTtFwxwCo7cpJdvOczvaUjSQKay3VuW5sV4jMtiesTKbZYXw==

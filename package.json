@@ -27,12 +27,10 @@
     "metalsmith-serve": "^0.0.7",
     "metalsmith-stylus": "^3.0.0",
     "scroll-hilo": "^1.0.2",
-    "swipe": "^1.7.7",
-    "yields-k": "^0.7.2"
+    "swipe": "^1.7.7"
   },
   "browser": {
-    "hilo": "scroll-hilo",
-    "k": "yields-k"
+    "hilo": "scroll-hilo"
   },
   "devDependencies": {
     "@biomejs/biome": "^1.9.4"
