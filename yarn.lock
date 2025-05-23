@@ -865,10 +865,10 @@ lodash.get@^4.4.2:
   resolved "https://registry.yarnpkg.com/lodash.get/-/lodash.get-4.4.2.tgz#2d177f652fa31e939b4438d5341499dfa3825e99"
   integrity sha512-z+Uw/vLuy6gQe8cfaFWD7p0wVv8fJl3mbzXh33RS+0oW2wvUqiRXiQ69gLWSLpgB5/6sU+r6BlQR0MBILadqTQ==
 
-lunr-results-render@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/lunr-results-render/-/lunr-results-render-1.0.0.tgz#5f4959cfa9bf82811e6111735e85cf2fa479938a"
-  integrity sha512-RYh/3t/APeV4vrjhdcn6EPdPFTbpz1p0iHUEpAAuAQnBKg/Gkm+0cNhmuFyOU8ZNVHQRivVthUWVCuFBzgyyLA==
+lunr-results-render@~2:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/lunr-results-render/-/lunr-results-render-2.0.1.tgz#060906be6ea9d3d09c54229b1b337021a67b1596"
+  integrity sha512-02l49mnQtxyC0HdGFKbX/+S5H0MpCLUBppxg83RLN3GkQ5/x1Vb0W5fnYb2JrB/OGwDvKN1UGFfWfPlpTQAs0g==
 
 lunr@^2.1.3:
   version "2.3.9"

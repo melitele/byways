@@ -20,7 +20,7 @@
     "@pirxpilot/metalsmith-lunr-index": "^1.0.0",
     "fetchagent": "~3",
     "jstransformer-pug": "^0.4.0",
-    "lunr-results-render": "^1.0.0",
+    "lunr-results-render": "~2",
     "metalsmith": "^2.3.0",
     "metalsmith-debug": "^1.2.0",
     "metalsmith-define": "^2.1.3",
