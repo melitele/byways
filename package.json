@@ -32,5 +32,9 @@
   },
   "devDependencies": {
     "@biomejs/biome": "^1.9.4"
+  },
+  "resolutions": {
+    "debug": "~4",
+    "stylus": "0.64.0"
   }
 }
