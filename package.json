@@ -1,6 +1,6 @@
 {
   "name": "byways",
-  "version": "2.4.14",
+  "version": "2.4.15",
   "description": "Content of the closed `byways.org` website hosted at [scenicbyways.info]",
   "scripts": {
     "test": "make lint"
