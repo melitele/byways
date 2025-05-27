@@ -1,39 +1,37 @@
-const metalsmith = require('metalsmith');
+import collectons from '@metalsmith/collections';
+import layouts from '@metalsmith/layouts';
+import esbuild from '@pirxpilot/metalsmith-esbuild';
+import lunr from '@pirxpilot/metalsmith-lunr-index';
+import metalsmith from 'metalsmith';
+import debug from 'metalsmith-debug';
+import define from 'metalsmith-define';
+import markdown from 'metalsmith-markdownit';
+import serve from 'metalsmith-serve';
+import stylus from 'metalsmith-stylus';
+import minimist from 'minimist';
 
-const collectons = require('@metalsmith/collections');
-const debug = require('metalsmith-debug');
-const define = require('metalsmith-define');
-const layouts = require('@metalsmith/layouts');
-const markdown = require('metalsmith-markdownit');
-const stylus = require('metalsmith-stylus');
-const lunr = require('@pirxpilot/metalsmith-lunr-index');
-const esbuild = require('@pirxpilot/metalsmith-esbuild');
+import packageJson from './package.json' with { type: 'json' };
 
-const {
-  destination,
-  port = 3040,
-  preview = false
-} = require('minimist')(process.argv.slice(2));
-
+const { destination, port = 3040, preview = false } = minimist(process.argv.slice(2));
 
 /* exported locals */
 const locals = {
   siteTitle: "America's Scenic Byways",
   siteDescription: "Descriptions, maps and links to related information for over 800 America's most scenic roads.",
-  siteUrl: "http://scenicbyways.info",
-  email: "contact@scenicbyways.info",
-  furkotUrl: process.env.FURKOT_URL || "https://trips.furkot.com",
+  siteUrl: 'http://scenicbyways.info',
+  email: 'contact@scenicbyways.info',
+  furkotUrl: process.env.FURKOT_URL || 'https://trips.furkot.com',
   booksUrl: process.env.BOOKS_URL,
   js: 'js',
   colors: {
-    "All-American Road": "#AB0534",
-    "National Scenic Byway": "#003768",
-    "National Forest Scenic Byway": "#006E24",
-    "Parkway": "#955A32",
-    "BLM Back Country Byway": "#007BFF",
-    "Other Scenic Road": "#E3BE16"
+    'All-American Road': '#AB0534',
+    'National Scenic Byway': '#003768',
+    'National Forest Scenic Byway': '#006E24',
+    Parkway: '#955A32',
+    'BLM Back Country Byway': '#007BFF',
+    'Other Scenic Road': '#E3BE16'
   },
-  package: require('./package.json'),
+  package: packageJson
 };
 
 const collectionsData = {
@@ -41,9 +39,8 @@ const collectionsData = {
   states: { pattern: ['state/*'], refer: false, sortBy: 'name' }
 };
 
-
 function setUrls(files) {
-  Object.entries(files).forEach(function ([path, file]) {
+  Object.entries(files).forEach(([path, file]) => {
     const url = path.replace(/\.md$/, '.html');
     file.url = `/${url}`;
     file.slug = path.split('/').pop().split('.')[0];
@@ -51,9 +48,9 @@ function setUrls(files) {
 }
 
 function handleYaml(files) {
-  Object.keys(files).forEach(function (path) {
+  Object.keys(files).forEach(path => {
     if (path.endsWith('.yaml')) {
-      let strippedPath = path.slice(0, -5);
+      const strippedPath = path.slice(0, -5);
       files[strippedPath] = files[path];
       delete files[path];
     }
@@ -61,20 +58,20 @@ function handleYaml(files) {
 }
 
 function handleJSON(files) {
-  Object.keys(files).forEach(function (path) {
+  Object.keys(files).forEach(path => {
     if (path.endsWith('.json')) {
-      let strippedPath = path.slice(0, -5);
-      let file = files[path];
+      const strippedPath = path.slice(0, -5);
+      const file = files[path];
       Object.assign(file, JSON.parse(file.contents.toString()));
       file.contents = Buffer.allocUnsafe(0);
-      files[strippedPath + '.html'] = files[path];
+      files[`${strippedPath}.html`] = files[path];
       delete files[path];
     }
   });
 }
 
 function adjustProperties(files) {
-  Object.values(files).forEach(function (file) {
+  Object.values(files).forEach(file => {
     if (file.path) {
       delete file.path;
     }
@@ -92,9 +89,9 @@ function adjustProperties(files) {
   });
 }
 
-function collectDesignations(files, metalsmith) {
+function collectDesignations(_files, metalsmith) {
   function bywaysByDesignation(byways, names) {
-    const designation2list = names.reduce(function (result, name) {
+    const designation2list = names.reduce((result, name) => {
       result[name] = [];
       return result;
     }, Object.create(null));
@@ -104,13 +101,13 @@ function collectDesignations(files, metalsmith) {
 
     byways
       .filter(byway => !byway['part of'])
-      .forEach(function (byway) {
+      .forEach(byway => {
         const { designations = [] } = byway;
 
         let addToOthers = true;
 
-        designations.forEach(function (dsg) {
-          let list = designation2list[dsg];
+        designations.forEach(dsg => {
+          const list = designation2list[dsg];
           if (list) {
             list.push(byway);
             addToOthers = false;
@@ -138,7 +135,7 @@ function collectDesignations(files, metalsmith) {
   metadata.designations = bywaysByDesignation(metadata.byways, names);
 }
 
-function collectById(files, metalsmith) {
+function collectById(_files, metalsmith) {
   const metadata = metalsmith.metadata();
 
   function addBySlug(result, item) {
@@ -149,14 +146,13 @@ function collectById(files, metalsmith) {
   function processByway(result, byway) {
     const { id, states, includes } = byway;
     if (states.length > 1 && includes?.length) {
-      states.forEach(function (st) {
+      states.forEach(st => {
         const state = metadata.statesById[st];
         state.multistateByways = state.multistateByways || [];
         state.multistateByways.push(id);
       });
-    }
-    else {
-      states.forEach(function (st) {
+    } else {
+      states.forEach(st => {
         const state = metadata.statesById[st];
         state.stateByways = state.stateByways || [];
         state.stateByways.push(id);
@@ -168,7 +164,7 @@ function collectById(files, metalsmith) {
   function compareByways(a, b) {
     return metadata.bywaysById[a].name.localeCompare(metadata.bywaysById[b].name);
   }
-  
+
   function sortByways(state) {
     state.stateByways.sort(compareByways);
     state.multistateByways?.sort(compareByways);
@@ -179,7 +175,7 @@ function collectById(files, metalsmith) {
   metadata.states.forEach(sortByways);
 }
 
-const ms = metalsmith(__dirname)
+const ms = metalsmith(import.meta.dirname)
   .env({ NODE_ENV: process.env.NODE_ENV })
   .source('contents')
   .destination(destination)
@@ -193,36 +189,45 @@ const ms = metalsmith(__dirname)
   .use(collectons(collectionsData))
   .use(collectDesignations)
   .use(collectById)
-  .use(stylus({
-    compress: true
-  }))
-  .use(esbuild({
-    entries: {
-      'scripts/index': 'contents/scripts/index.js',
-      'scripts/search': 'contents/scripts/search.js'
-    }
-  }))
-  .use(markdown({
-    html: true
-  }))
-  .use(lunr({
-    pattern: ['byway/*.html', 'about.html'],
-    refKey: 'url'
-  }))
-  .use(layouts({
-    directory: 'templates',
-    default: 'byway.pug',
-    pattern: ['**/*.html', '**/*.xml']
-  }));
+  .use(
+    stylus({
+      compress: true
+    })
+  )
+  .use(
+    esbuild({
+      entries: {
+        'scripts/index': 'contents/scripts/index.js',
+        'scripts/search': 'contents/scripts/search.js'
+      }
+    })
+  )
+  .use(
+    markdown({
+      html: true
+    })
+  )
+  .use(
+    lunr({
+      pattern: ['byway/*.html', 'about.html'],
+      refKey: 'url'
+    })
+  )
+  .use(
+    layouts({
+      directory: 'templates',
+      default: 'byway.pug',
+      pattern: ['**/*.html', '**/*.xml']
+    })
+  );
 
 if (preview) {
-  const serve = require('metalsmith-serve');
   ms.use(serve({ port }));
 }
 
 /* global console */
 
-ms.build(function (err) {
+ms.build(err => {
   if (err) {
     console.error(err);
     process.exit(1);
