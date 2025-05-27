@@ -13,9 +13,11 @@ html(lang='en')
     meta(name="msapplication-TileColor", content="#234F7F")
     link(rel="dns-prefetch", href="//trips.furkot.com")
     link(rel="dns-prefetch", href="//hogfish.code42day.com")
-    link(rel="dns-prefetch", href="//fonts.googleapis.com")
     link(rel="search", type="application/opensearchdescription+xml", href="/opensearch.xml", title="Scenic Byways")
-    link(rel='stylesheet', type='text/css', href='//fonts.googleapis.com/css?family=Arbutus+Slab|Capriola')
+
+    link(rel="preconnect", href="https://fonts.googleapis.com")
+    link(rel="preconnect", href="https://fonts.gstatic.com" crossorigin)
+    link(rel="stylesheet", href="https://fonts.googleapis.com/css2?family=Arbutus+Slab&family=Capriola&display=swap")
     link(rel='stylesheet', type='text/css', href=`/style/screen.css?v=${package.version}`)
 
   body.top.bottom(
