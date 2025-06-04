@@ -1,4 +1,19 @@
 
+2.4.16 / 2025-06-03
+===================
+
+ * update Moab byways
+ * update selected Colorado byways
+ * update track of Wildlife Loop Road Scenic Byway
+ * update track of Bayou Teche National Scenic Byway
+ * dependency update, remove unused
+ * transition to ESM format
+ * use `biome` as a linter and formatter
+ * remove unnecessary clearfix hack
+ * update google fonts references
+ * remove references to unused font formats
+ * fix footer on About page
+
 2.4.15 / 2025-05-24
 ===================
 
