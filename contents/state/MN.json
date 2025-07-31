@@ -2,6 +2,9 @@
   "template": "state",
   "name": "Minnesota",
   "websites": [{
+    "url": "https://www.dot.state.mn.us/scenicbyways/index.html",
+    "name": "Minnesota Scenic Byways"
+  }, {
     "url": "https://www.exploreminnesota.com/travel-styles/road-trips-scenic-byways",
     "name": "Minnesota Travel Guide"
   }, {
