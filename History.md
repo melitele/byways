@@ -1,4 +1,12 @@
 
+2.4.18 / 2025-10-27
+===================
+
+ * Marble Canyon Loop
+ * update Arizona
+ * update New Mexico
+ * update distance of Waters of the Dancing Sky Scenic Byway
+
 2.4.17 / 2025-07-31
 ===================
 

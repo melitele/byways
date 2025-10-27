@@ -1,6 +1,6 @@
 {
   "name": "byways",
-  "version": "2.4.17",
+  "version": "2.4.18",
   "description": "Content of the closed `byways.org` website hosted at [scenicbyways.info]",
   "type": "module",
   "scripts": {
