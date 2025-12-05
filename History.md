@@ -1,4 +1,11 @@
 
+2.4.19 / 2025-12-05
+===================
+
+ * update Upper Colorado River Scenic Byway
+ * add Tracks Across Borders Byway
+ * not officially recognized CO state byways - disclaimer
+
 2.4.18 / 2025-10-27
 ===================
 
