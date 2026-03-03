@@ -3,7 +3,6 @@ import layouts from '@metalsmith/layouts';
 import esbuild from '@pirxpilot/metalsmith-esbuild';
 import lunr from '@pirxpilot/metalsmith-lunr-index';
 import metalsmith from 'metalsmith';
-import debug from 'metalsmith-debug';
 import define from 'metalsmith-define';
 import markdown from 'metalsmith-markdownit';
 import minimist from 'minimist';
@@ -178,7 +177,6 @@ const ms = metalsmith(import.meta.dirname)
   .source('contents')
   .destination(destination)
   .clean(false)
-  .use(debug())
   .use(define(locals))
   .use(handleYaml)
   .use(handleJSON)
