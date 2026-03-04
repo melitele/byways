@@ -43,6 +43,9 @@
     },
     "rules": {
       "recommended": true,
+      "a11y": {
+        "useGenericFontNames": "off"
+      },
       "correctness": {
         "noUndeclaredDependencies": "error",
         "noUndeclaredVariables": "error",
@@ -65,7 +68,8 @@
         "noDelete": "off"
       },
       "suspicious": {
-        "noAssignInExpressions": "off"
+        "noAssignInExpressions": "off",
+        "noUselessEscapeInString": "off"
       }
     }
   }

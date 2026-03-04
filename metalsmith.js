@@ -6,7 +6,6 @@ import metalsmith from 'metalsmith';
 import debug from 'metalsmith-debug';
 import define from 'metalsmith-define';
 import markdown from 'metalsmith-markdownit';
-import stylus from 'metalsmith-stylus';
 import minimist from 'minimist';
 
 import packageJson from './package.json' with { type: 'json' };
@@ -189,15 +188,11 @@ const ms = metalsmith(import.meta.dirname)
   .use(collectDesignations)
   .use(collectById)
   .use(
-    stylus({
-      compress: true
-    })
-  )
-  .use(
     esbuild({
       entries: {
         'scripts/index': 'contents/scripts/index.js',
-        'scripts/search': 'contents/scripts/search.js'
+        'scripts/search': 'contents/scripts/search.js',
+        'style/screen': 'contents/style/screen.css'
       }
     })
   )
