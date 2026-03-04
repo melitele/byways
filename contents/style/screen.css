@@ -21,10 +21,6 @@
   --text-color: hsl(0, 0%, 100%);
 }
 
-* {
-  box-sizing: border-box;
-}
-
 .hidden {
   display: none;
 }
@@ -461,14 +457,14 @@ footer {
       padding: 1em 5em;
     }
 
-    & > footer {
-      padding: 0.5em 5em;
-    }
-
     & > header {
-      position: fixed;
+      position: sticky;
       top: 0;
       z-index: 100;
+    }
+
+    & > footer {
+      padding: 0.5em 5em;
     }
 
     &:not(.top) > header {
@@ -477,11 +473,6 @@ footer {
       a {
         font-size: 18px;
       }
-    }
-
-    & > main {
-      padding-top: 4em;
-      padding-bottom: 3em;
     }
   }
 
