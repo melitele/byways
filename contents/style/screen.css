@@ -121,7 +121,7 @@ footer {
       margin: 0 0.5em;
       color: hsla(0, 0%, 100%, 0.75);
       font-family: sans-serif;
-      content: "⬦";
+      content: "⬥";
     }
 
     &:last-of-type:after {
