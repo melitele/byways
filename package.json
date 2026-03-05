@@ -15,7 +15,7 @@
   "license": "MIT",
   "dependencies": {
     "@metalsmith/collections": "^1.2.1",
-    "@metalsmith/layouts": "~3",
+    "@metalsmith/layouts": "github:pirxpilot/layouts#5db3677",
     "@pirxpilot/metalsmith-esbuild": "^1.0.0",
     "@pirxpilot/metalsmith-lunr-index": "^1.0.0",
     "fetchagent": "~3",
