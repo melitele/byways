@@ -212,7 +212,8 @@ const ms = metalsmith(import.meta.dirname)
       directory: 'templates',
       default: 'byway.pug',
       pattern: ['**/*.html', '**/*.xml'],
-      transform: 'pug'
+      transform: 'pug',
+      extname: false
     })
   );
 
