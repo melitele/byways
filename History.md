@@ -1,4 +1,18 @@
 
+2.4.20 / 2026-03-05
+===================
+
+ * fix generating XML files
+ * use custom version of metalsmith layout
+ * modernize CSS reset
+ * stop using stylus
+ * remove unused EOT font format
+ * upgrade `@metalsmith/layouts` to ~3
+ * upgrade `biome` to 2.3.14
+ * upgrade `markdown-it` to ~14
+ * remove unsupported `metalsmith-serve`
+ * replace `yarn` with `pnpm`
+
 2.4.19 / 2025-12-05
 ===================
 
