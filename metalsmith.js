@@ -1,11 +1,10 @@
 import collectons from '@metalsmith/collections';
 import layouts from '@metalsmith/layouts';
+import markdown from '@metalsmith/markdown';
 import esbuild from '@pirxpilot/metalsmith-esbuild';
 import lunr from '@pirxpilot/metalsmith-lunr-index';
 import metalsmith from 'metalsmith';
-import debug from 'metalsmith-debug';
 import define from 'metalsmith-define';
-import markdown from 'metalsmith-markdownit';
 import minimist from 'minimist';
 
 import packageJson from './package.json' with { type: 'json' };
@@ -178,7 +177,6 @@ const ms = metalsmith(import.meta.dirname)
   .source('contents')
   .destination(destination)
   .clean(false)
-  .use(debug())
   .use(define(locals))
   .use(handleYaml)
   .use(handleJSON)
@@ -196,11 +194,7 @@ const ms = metalsmith(import.meta.dirname)
       }
     })
   )
-  .use(
-    markdown({
-      html: true
-    })
-  )
+  .use(markdown())
   .use(
     lunr({
       pattern: ['byway/*.html', 'about.html'],
