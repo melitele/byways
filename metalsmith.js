@@ -172,6 +172,12 @@ function collectById(_files, metalsmith) {
   metadata.states.forEach(sortByways);
 }
 
+const layoutOptions = {
+  directory: 'templates',
+  default: 'byway.pug',
+  transform: 'pug'
+};
+
 const ms = metalsmith(import.meta.dirname)
   .env({ NODE_ENV: process.env.NODE_ENV })
   .source('contents')
@@ -203,11 +209,15 @@ const ms = metalsmith(import.meta.dirname)
   )
   .use(
     layouts({
-      directory: 'templates',
-      default: 'byway.pug',
-      pattern: ['**/*.html', '**/*.xml'],
-      transform: 'pug',
-      extname: false
+      ...layoutOptions,
+      pattern: '**/*.html'
+    })
+  )
+  .use(
+    layouts({
+      ...layoutOptions,
+      pattern: '**/*.xml',
+      extname: '.xml'
     })
   );
 
