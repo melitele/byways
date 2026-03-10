@@ -1,4 +1,17 @@
 
+2.4.21 / 2026-03-09
+===================
+
+ * update Spirit Lake Memorial Highway
+ * update Mt. Hood Scenic Byway
+ * refer to the page maintained by state department of transportation as <State> Scenic Byways
+ * `National Scenic Byway Foundation` changed name to `National Scenic Byway Association`
+ * add Boreas Pass Auto Tour
+ * update Guanella Pass Road
+ * work around `@matalsmith/layout` limitations
+ * use `@metalsmith/markdown` instead of `metalsmith-markdownit`
+ * stop using `metalsmith-debug`
+
 2.4.20 / 2026-03-05
 ===================
 
