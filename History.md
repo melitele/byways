@@ -1,4 +1,9 @@
 
+2.4.22 / 2026-03-12
+===================
+
+ * add Elevenmile Canyon Scenic & Historic Auto Tour
+
 2.4.21 / 2026-03-09
 ===================
 
