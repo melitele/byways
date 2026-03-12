@@ -2,6 +2,9 @@
   "template": "state",
   "name": "Connecticut",
   "websites": [{
+    "url": "https://portal.ct.gov/dot/programs/connecticut-scenic-roads",
+    "name": "Connecticut Scenic Byways Program"
+  }, {
     "url": "https://www.ctvisit.com/",
     "name": "Connecticut Travel Guide"
   }, {

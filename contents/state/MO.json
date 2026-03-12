@@ -2,7 +2,10 @@
   "template": "state",
   "name": "Missouri",
   "websites": [{
-    "url": "https://www.visitmo.com/",
+    "url": "https://www.modot.org/scenic-byways",
+    "name": "Missouri Scenic Byways Program"
+  },{
+    "url": "https://www.visitmo.com/itineraries",
     "name": "Missouri Travel Guide"
   }, {
     "url": "https://nsbfoundation.com/missouri/",

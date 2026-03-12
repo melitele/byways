@@ -2,6 +2,9 @@
   "template": "state",
   "name": "Montana",
   "websites": [{
+    "url": "https://www.mdt.mt.gov/travinfo/scenic.aspx",
+    "name": "Montana Scenic Byways Program"
+  }, {
     "url": "https://www.visitmt.com/search?query=scenic+byway",
     "name": "Montana Travel Guide"
   }, {

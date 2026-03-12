@@ -8,8 +8,11 @@
     "url": "https://www.americanlegacytours.org/new-jersey/",
     "name": "National Travel Center"
   }, {
-    "url": "https://nj-dot.nj.gov/transportation/community/scenic/byways.shtm",
+    "url": "https://www.nj.gov/transportation/community/scenic/",
     "name": "New Jersey Scenic Byways Program"
+  }, {
+    "url": "https://visitnj.org/scenic-byways",
+    "name": "New Jersey Travel Guide"
   }, {
     "url": "https://www.scenic.org/state/new-jersey/",
     "name": "Scenic America"
