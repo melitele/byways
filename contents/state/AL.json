@@ -2,8 +2,11 @@
   "template": "state",
   "name": "Alabama",
   "websites": [{
-    "url": "https://alabamabyways.com/",
+    "url": "https://alabamabyways.org/",
     "name": "Alabama Scenic Byways Program"
+  }, {
+    "url": "https://alabama.travel/road-trips",
+    "name": "Alabama Travel Guide"
   }, {
     "url": "https://nsbfoundation.com/alabama/",
     "name": "National Scenic Byway Association"

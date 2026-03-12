@@ -2,6 +2,9 @@
   "template": "state",
   "name": "Hawaii",
   "websites": [{
+    "url": "https://www.gohawaii.com/experiences/sightseeing/scenic-byways",
+    "name": "Hawaii Travel Guide"
+  }, {
     "url": "https://nsbfoundation.com/hawaii/",
     "name": "National Scenic Byway Association"
   }, {

@@ -2,6 +2,9 @@
   "template": "state",
   "name": "Kentucky",
   "websites": [{
+    "url": "https://transportation.ky.gov/LocalPrograms/Pages/Scenic-Byways.aspx",
+    "name": "Kentucky Scenic Byways Program"
+  }, {
     "url": "https://www.kentuckytourism.com/",
     "name": "Kentucky Travel Guide"
   }, {

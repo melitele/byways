@@ -2,6 +2,9 @@
   "template": "state",
   "name": "California",
   "websites": [{
+    "url": "https://dot.ca.gov/programs/design/lap-landscape-architecture-and-community-livability/lap-liv-i-scenic-highways",
+    "name": "California Scenic Byways Program"
+  }, {
     "url": "https://www.visitcalifornia.com/road-trips/",
     "name": "California Travel Guide"
   }, {

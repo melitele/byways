@@ -2,10 +2,13 @@
   "template": "state",
   "name": "Michigan",
   "websites": [{
-    "url": "https://michiganhighways.org/index.html",
+    "url": "https://michiganhighways.org/other/byways.html",
     "name": "Michigan Highways"
   }, {
-    "url": "https://www.michigan.org/",
+    "url": "https://www.michigan.gov/mdot/travel/tourists/byways",
+    "name": "Michigan Scenic Byways Program"
+  }, {
+    "url": "https://www.michigan.org/explore-pure-michigan-byways",
     "name": "Michigan Travel Guide"
   }, {
     "url": "https://nsbfoundation.com/michigan/",
