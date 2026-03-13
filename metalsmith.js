@@ -25,8 +25,11 @@ const locals = {
     'National Scenic Byway': '#003768',
     'National Forest Scenic Byway': '#006E24',
     'National Parkway': '#955A32',
+    'Park Scenic Drive': '#955A32',
     'BLM Back Country Byway': '#007BFF',
-    'Other Scenic Road': '#E3BE16'
+    'State Scenic Byway': '#E3BE16',
+    'State Scenic Backway': '#7F7F7F',
+    'Other Scenic Road': '#7F7F7F'
   },
   package: packageJson
 };
@@ -116,6 +119,11 @@ function collectDesignations(_files, metalsmith) {
         }
       });
 
+    Object.entries(designation2list).forEach(([designation, list]) => {
+      if (!list.length) {
+        delete designation2list[designation];
+      }
+    });
     return designation2list;
   }
 
@@ -124,10 +132,17 @@ function collectDesignations(_files, metalsmith) {
     'All-American Road',
     'National Scenic Byway',
     'National Parkway',
+    'Park Scenic Drive',
     'National Forest Scenic Byway',
-    'BLM Back Country Byway',
-    'Other Scenic Road'
+    'BLM Back Country Byway'
   ];
+  metadata.states.forEach(({ name }) => {
+    names.push(`${name} State Scenic Byway`);
+    locals.colors[`${name} State Scenic Byway`] = locals.colors['State Scenic Byway'];
+    names.push(`${name} State Scenic Backway`);
+    locals.colors[`${name} State Scenic Backway`] = locals.colors['State Scenic Backway'];
+  });
+  names.push('Other Scenic Road');
 
   metadata.designations = bywaysByDesignation(metadata.byways, names);
 }
