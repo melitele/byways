@@ -3,7 +3,7 @@
   "name": "Mississippi",
   "websites": [{
     "url": "https://mdot.ms.gov/portal/scenic_byways_program",
-    "name": "Mississippi Scenic Byways"
+    "name": "Mississippi Scenic Byways Program"
   }, {
     "url": "https://visitmississippi.org/",
     "name": "Mississippi Travel Guide"
@@ -13,6 +13,9 @@
   }, {
     "url": "https://www.americanlegacytours.org/mississippi/",
     "name": "National Travel Center"
+  }, {
+    "url": "https://www.scenic.org/state/mississippi/",
+    "name": "Scenic America"
   }, {
     "url": "https://www.thearmchairexplorer.com/mississippi/mississippi-scenic-byways.php",
     "name": "The Armchair Explorer"

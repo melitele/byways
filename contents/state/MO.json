@@ -2,7 +2,10 @@
   "template": "state",
   "name": "Missouri",
   "websites": [{
-    "url": "https://www.visitmo.com/",
+    "url": "https://www.modot.org/scenic-byways",
+    "name": "Missouri Scenic Byways Program"
+  },{
+    "url": "https://www.visitmo.com/itineraries",
     "name": "Missouri Travel Guide"
   }, {
     "url": "https://nsbfoundation.com/missouri/",
@@ -10,6 +13,9 @@
   }, {
     "url": "https://www.americanlegacytours.org/missouri/",
     "name": "National Travel Center"
+  }, {
+    "url": "https://www.scenic.org/state/missouri/",
+    "name": "Scenic America"
   }, {
     "url": "https://www.thearmchairexplorer.com/missouri/missouri-scenic-byways.php",
     "name": "The Armchair Explorer"

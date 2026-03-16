@@ -3,7 +3,7 @@
   "name": "Arizona",
   "websites": [{
     "url": "https://azdot.gov/about/historic-and-scenic-roads",
-    "name": "Arizona Scenic Byways"
+    "name": "Arizona Scenic Byways Program"
   }, {
     "url": "https://azstateparks.com/",
     "name": "Arizona State Parks & Trails"
@@ -16,6 +16,9 @@
   }, {
     "url": "https://www.americanlegacytours.org/arizona/",
     "name": "National Travel Center"
+  }, {
+    "url": "https://www.scenic.org/state/arizona/",
+    "name": "Scenic America"
   }, {
     "url": "https://www.americansouthwest.net/arizona/index.shtml",
     "name": "The American Southwest"

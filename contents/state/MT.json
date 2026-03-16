@@ -2,6 +2,9 @@
   "template": "state",
   "name": "Montana",
   "websites": [{
+    "url": "https://www.mdt.mt.gov/travinfo/scenic.aspx",
+    "name": "Montana Scenic Byways Program"
+  }, {
     "url": "https://www.visitmt.com/search?query=scenic+byway",
     "name": "Montana Travel Guide"
   }, {
@@ -10,6 +13,9 @@
   }, {
     "url": "https://www.americanlegacytours.org/montana/",
     "name": "National Travel Center"
+  }, {
+    "url": "https://www.scenic.org/state/montana/",
+    "name": "Scenic America"
   }, {
     "url": "https://www.thearmchairexplorer.com/montana/montana-scenic-byways.php",
     "name": "The Armchair Explorer"

@@ -3,7 +3,7 @@
   "name": "Louisiana",
   "websites": [{
     "url": "https://byways.explorelouisiana.com/",
-    "name": "Louisiana Scenic Byways"
+    "name": "Louisiana Scenic Byways Program"
   }, {
     "url": "https://www.explorelouisiana.com",
     "name": "Louisiana Travel Guide"
@@ -13,6 +13,9 @@
   }, {
     "url": "https://www.americanlegacytours.org/louisiana/",
     "name": "National Travel Center"
+  }, {
+    "url": "https://www.scenic.org/state/louisiana/",
+    "name": "Scenic America"
   }, {
     "url": "https://www.thearmchairexplorer.com/louisiana/louisiana-scenic-byways.php",
     "name": "The Armchair Explorer"

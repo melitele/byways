@@ -24,7 +24,7 @@ const locals = {
     'All-American Road': '#AB0534',
     'National Scenic Byway': '#003768',
     'National Forest Scenic Byway': '#006E24',
-    Parkway: '#955A32',
+    'National Parkway': '#955A32',
     'BLM Back Country Byway': '#007BFF',
     'Other Scenic Road': '#E3BE16'
   },
@@ -123,7 +123,7 @@ function collectDesignations(_files, metalsmith) {
   const names = [
     'All-American Road',
     'National Scenic Byway',
-    'Parkway',
+    'National Parkway',
     'National Forest Scenic Byway',
     'BLM Back Country Byway',
     'Other Scenic Road'

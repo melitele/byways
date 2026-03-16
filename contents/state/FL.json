@@ -3,13 +3,19 @@
   "name": "Florida",
   "websites": [{
     "url": "https://floridascenichighways.com/",
-    "name": "Florida Scenic Byways"
+    "name": "Florida Scenic Byways Program"
+  }, {
+    "url": "https://www.visitflorida.com/travel-ideas/articles/driving-to-florida-road-trips/",
+    "name": "Florida Travel Guide"
   }, {
     "url": "https://nsbfoundation.com/florida/",
     "name": "National Scenic Byway Association"
   }, {
     "url": "https://www.americanlegacytours.org/florida/",
     "name": "National Travel Center"
+  }, {
+    "url": "https://www.scenic.org/state/florida/",
+    "name": "Scenic America"
   }, {
     "url": "https://www.thearmchairexplorer.com/florida/florida-scenic-byways.php",
     "name": "The Armchair Explorer"

@@ -2,14 +2,20 @@
   "template": "state",
   "name": "Alabama",
   "websites": [{
-    "url": "https://alabamabyways.com/",
-    "name": "Alabama Scenic Byways"
+    "url": "https://alabamabyways.org/",
+    "name": "Alabama Scenic Byways Program"
+  }, {
+    "url": "https://alabama.travel/road-trips",
+    "name": "Alabama Travel Guide"
   }, {
     "url": "https://nsbfoundation.com/alabama/",
     "name": "National Scenic Byway Association"
   }, {
     "url": "https://www.americanlegacytours.org/alabama/",
     "name": "National Travel Center"
+  }, {
+    "url": "https://www.scenic.org/state/alabama/",
+    "name": "Scenic America"
   }, {
     "url": "https://www.thearmchairexplorer.com/alabama/scenic_byways.php",
     "name": "The Armchair Explorer"

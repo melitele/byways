@@ -2,7 +2,7 @@
   "template": "state",
   "name": "Massachusetts",
   "websites": [{
-    "url": "https://www.visitma.com/",
+    "url": "https://www.visitma.com/things-to-do/history-heritage/heritage-trails-byways/",
     "name": "Massachusetts Travel Guide"
   }, {
     "url": "https://nsbfoundation.com/massachusetts/",
@@ -10,6 +10,9 @@
   }, {
     "url": "https://www.americanlegacytours.org/massachusetts/",
     "name": "National Travel Center"
+  }, {
+    "url": "https://www.scenic.org/state/massachusetts/",
+    "name": "Scenic America"
   }, {
     "url": "https://www.thearmchairexplorer.com/massachusetts/massachusetts-scenic-byways.php",
     "name": "The Armchair Explorer"

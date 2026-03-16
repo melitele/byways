@@ -3,7 +3,7 @@
   "name": "Alaska",
   "websites": [{
     "url": "https://dot.alaska.gov/stwdplng/scenic/index.shtml",
-    "name": "Alaska Scenic Byways"
+    "name": "Alaska Scenic Byways Program"
   }, {
     "url": "https://www.adfg.alaska.gov/index.cfm?adfg=fishregulations.sport",
     "name": "Alaska Sport Fishing Regulations"
@@ -16,6 +16,9 @@
   }, {
     "url": "https://www.americanlegacytours.org/alaska/",
     "name": "National Travel Center"
+  }, {
+    "url": "https://www.scenic.org/state/alaska/",
+    "name": "Scenic America"
   }, {
     "url": "https://www.thearmchairexplorer.com/alaska/alaska_scenic_byways.php",
     "name": "The Armchair Explorer"

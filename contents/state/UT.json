@@ -8,14 +8,23 @@
     "url": "https://www.americanlegacytours.org/utah/",
     "name": "National Travel Center"
   }, {
+    "url": "https://www.scenic.org/state/utah/",
+    "name": "Scenic America"
+  }, {
     "url": "https://www.americansouthwest.net/utah/index.shtml",
     "name": "The American Southwest"
   }, {
     "url": "https://www.thearmchairexplorer.com/utah/utah-scenic-byways.php",
     "name": "The Armchair Explorer"
   }, {
-    "url": "https://www.utah.com/things-to-do/scenic-drives/",
+    "url": "https://travel.utah.gov/scenic-byways/",
+    "name": "Utah Scenic Byways Program"
+  }, {
+    "url": "https://www.visitutah.com/things-to-do/road-trips/scenic-byways",
     "name": "Utah Travel Guide"
+  }, {
+    "url": "https://www.utah.com/things-to-do/scenic-drives/",
+    "name": "Utah.com Travel Site"
   }, {
     "url": "https://en.wikipedia.org/wiki/List_of_Utah_Scenic_Byways",
     "name": "Wikipedia"

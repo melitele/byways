@@ -2,6 +2,9 @@
   "template": "state",
   "name": "Kentucky",
   "websites": [{
+    "url": "https://transportation.ky.gov/LocalPrograms/Pages/Scenic-Byways.aspx",
+    "name": "Kentucky Scenic Byways Program"
+  }, {
     "url": "https://www.kentuckytourism.com/",
     "name": "Kentucky Travel Guide"
   }, {
@@ -10,6 +13,9 @@
   }, {
     "url": "https://www.americanlegacytours.org/kentucky/",
     "name": "National Travel Center"
+  }, {
+    "url": "https://www.scenic.org/state/kentucky/",
+    "name": "Scenic America"
   }, {
     "url": "https://www.thearmchairexplorer.com/kentucky/kentucky-scenic-byways.php",
     "name": "The Armchair Explorer"

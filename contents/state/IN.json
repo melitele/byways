@@ -2,7 +2,10 @@
   "template": "state",
   "name": "Indiana",
   "websites": [{
-    "url": "https://www.visitindiana.com/",
+    "url": "https://www.in.gov/indot/public-involvement/public-involvement/planning-efforts-at-indot/indiana-scenic-byways/",
+    "name": "Indiana Scenic Byways Program"
+  }, {
+    "url": "https://visitindiana.in.gov/road-trips/",
     "name": "Indiana Travel Guide"
   }, {
     "url": "https://nsbfoundation.com/indiana/",
@@ -10,6 +13,9 @@
   }, {
     "url": "https://www.americanlegacytours.org/indiana/",
     "name": "National Travel Center"
+  }, {
+    "url": "https://www.scenic.org/state/indiana/",
+    "name": "Scenic America"
   }, {
     "url": "https://www.thearmchairexplorer.com/indiana/indiana-scenic-byways.php",
     "name": "The Armchair Explorer"

@@ -3,7 +3,7 @@
   "name": "Colorado",
   "websites": [{
     "url": "https://www.codot.gov/travel/colorado-byways",
-    "name": "Colorado Scenic Byways"
+    "name": "Colorado Scenic Byways Program"
   }, {
     "url": "https://www.colorado.com/colorados-scenic-historic-byways",
     "name": "Colorado Travel Guide"
@@ -16,6 +16,9 @@
   }, {
     "url": "https://www.americanlegacytours.org/colorado/",
     "name": "National Travel Center"
+  }, {
+    "url": "https://www.scenic.org/state/colorado/",
+    "name": "Scenic America"
   }, {
     "url": "https://www.americansouthwest.net/colorado/index.shtml",
     "name": "The American Southwest"

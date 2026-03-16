@@ -8,10 +8,13 @@
     "url": "https://www.americanlegacytours.org/west-virginia/",
     "name": "National Travel Center"
   }, {
+    "url": "https://www.scenic.org/state/westvirginia/",
+    "name": "Scenic America"
+  }, {
     "url": "https://www.thearmchairexplorer.com/west-virginia/scenic-byways.php",
     "name": "The Armchair Explorer"
   }, {
-    "url": "https://wvtourism.com/things-to-do/arts-culture-history/scenic-routes/",
+    "url": "https://wvtourism.com/things-to-do/arts-culture-history/scenic-routes/byways/",
     "name": "West Virginia Travel Guide"
   }]
 }
