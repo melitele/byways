@@ -1,4 +1,25 @@
 
+2.4.23 / 2026-03-16
+===================
+
+ * add missing and remove unrecognized state designation to state scenic byways
+ * change designation Parkway to National Parkway
+ * classify Michigan scenic byways as Michigan State Scenic Byway for consistency with other states
+ * classify Kentucky scenic byways as Kentucky State Scenic Byway for consistency with other states
+ * classify Arizona scenic byways as Arizona State Scenic Byway for consistency with other states
+ * classify New Hampshire scenic byways as New Hampshire State Scenic Byway for consistency with other states
+ * classify Colorado scenic byways as Colorado State Scenic Byway for consistency with other states
+ * classify New Mexico scenic byways as New Mexico State Scenic Byway for consistency with other states
+ * classify Delaware scenic byways as Delaware State Scenic Byway for consistency with other states
+ * classify California scenic byways as California State Scenic Byway for consistency with other states
+ * classify Florida scenic byways as Florida State Scenic Byway for consistency with other states
+ * designation "Park Scenic Drive" meaning scenic drive in a national park or monument
+ * add missing links to byway programs to byway descriptors
+ * add links to byway pages maintained by state departments of transportation and state tourism departments missing in state descriptors
+ * refer to pages from state department of transportation as <State> Scenic Byways Program
+ * refer to Utah.com as travel site
+ * add link to non-profit byways advocacy Scenic America to all states
+
 2.4.22 / 2026-03-12
 ===================
 
