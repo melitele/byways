@@ -1,4 +1,9 @@
 
+2.4.24 / 2026-03-16
+===================
+
+ * list state scenic byways separately on the main page
+
 2.4.23 / 2026-03-16
 ===================
 
