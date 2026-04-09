@@ -212,7 +212,8 @@ const ms = metalsmith(import.meta.dirname)
         'scripts/index': 'contents/scripts/index.js',
         'scripts/search': 'contents/scripts/search.js',
         'style/screen': 'contents/style/screen.css'
-      }
+      },
+      target: 'safari16'
     })
   )
   .use(markdown())
