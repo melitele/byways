@@ -1,4 +1,10 @@
 
+2.4.26 / 2026-04-22
+===================
+
+ * Mosquito Pass Auto Tour
+ * minor additions to Boreas Pass Auto Tour
+
 2.4.25 / 2026-04-09
 ===================
 
