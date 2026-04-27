@@ -1,4 +1,10 @@
 
+2.4.27 / 2026-04-27
+===================
+
+ * scenic drives in Dinosaur National Monument
+ * update path of Mosquito Pass Auto Tour
+
 2.4.26 / 2026-04-22
 ===================
 
