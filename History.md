@@ -1,4 +1,14 @@
 
+2.4.28 / 2026-05-28
+===================
+
+ * Dry Lakes Scenic Backway
+ * Johnson Canyon Scenic Backway
+ * update Scenic Byway 12
+ * match Utah official scenic byway names
+ * match Utah official scenic backway names
+ * add link to list of Utah Scenic Backways
+
 2.4.27 / 2026-04-27
 ===================
 
