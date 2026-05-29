@@ -1,4 +1,10 @@
 
+2.5.0 / 2026-05-29
+==================
+
+ * display byway designations on byway page
+ * list byways divided by designation on state pages
+
 2.4.28 / 2026-05-28
 ===================
 
