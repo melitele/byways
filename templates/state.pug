@@ -6,29 +6,32 @@ append title
   = "::" + name
 
 block description
-  - var bywaysStr = stateByways.map(id => bywaysById[id].name).join(', ');
+  -
+   const bywaysStr = Object.values(stateByways).reduce((result, byways) => {
+      byways.forEach(id => result.push(bywaysById[id].name));
+      return result;
+    }, []).join(', ');
   meta(name="description", content=`${name} most scenic roads: ${bywaysStr}.`)
 
-mixin bywaysList(byways, name)
-  -
-    var defaultColor = colors['Other Scenic Road'];
-  if byways
-    section.byway-list
-      if name
-        header
-          h2= name
-      ul.flat-list
-        for id in byways
-          -
-            var byway = bywaysById[id];
-            var color = (byway.designations && colors[byway.designations[0]]) || defaultColor;
-          li: a(
-            href=byway.url
-          )= byway.name
+mixin bywaysList(byways)
+  ul.flat-list
+    for id in byways
+      - const byway = bywaysById[id];
+      li: a(href=byway.url)= byway.name
 
+mixin bywaysByDesignation(name, byways)
+  section.byway-list(data-color=colors[name])
+    header
+      h2= name
+      .color-tag(style=`background-color: ${ colors[name] };`)
+    +bywaysList(byways)
 
 block body
   include searchbox
+
+  section.byway
+    header
+      h1= name
 
   section.map
     iframe.furkot-tripshot-widget(src=furkotUrl + '/widget/byways/' + slug,
@@ -41,8 +44,11 @@ block body
   section
     .books.hidden(data-name=name, data-keywords=name + ' Byways', data-max=5)
 
-  +bywaysList(stateByways, name)
-  +bywaysList(multistateByways)
+  for byways, name in stateByways
+    +bywaysByDesignation(name, byways)
+  if multistateByways
+    section.byway-list
+      +bywaysList(multistateByways)
   +websiteList(websites)
 
   .templates.hidden
