@@ -158,6 +158,13 @@ footer {
   border: 2px solid hsl(0, 0%, 100%);
 }
 
+.designation .color-tag {
+  position: relative;
+  display: inline-block;
+  margin-right: 0.3em;
+  vertical-align: text-top;
+}
+
 .byway,
 .about {
   line-height: 1.5;
