@@ -8,6 +8,14 @@ mixin stateList(states)
       - var state = statesById[id];
       li.state: a(href=state.url)= state.name
 
+mixin designationList(designations)
+  section.byway-list
+    ul.flat-list
+      for name in designations
+        li.designation
+          .color-tag(style=`background-color: ${ colors[name] };`)
+          span= name
+
 append title
   = "::" + name
 
@@ -39,6 +47,7 @@ block body
     )
     script(src="https://cdn.furkot.com/scripts/furkot-tripshot.min.js", defer)
 
+  +designationList(designations)
   +websiteList(organization)
   +websiteList(websites)
   +websiteList(attractions)

@@ -89,6 +89,15 @@ function adjustProperties(files) {
   });
 }
 
+const names = [
+  'All-American Road',
+  'National Scenic Byway',
+  'National Parkway',
+  'Park Scenic Drive',
+  'National Forest Scenic Byway',
+  'BLM Back Country Byway'
+];
+
 function collectDesignations(_files, metalsmith) {
   function bywaysByDesignation(byways, names) {
     const designation2list = names.reduce((result, name) => {
@@ -128,14 +137,6 @@ function collectDesignations(_files, metalsmith) {
   }
 
   const metadata = metalsmith.metadata();
-  const names = [
-    'All-American Road',
-    'National Scenic Byway',
-    'National Parkway',
-    'Park Scenic Drive',
-    'National Forest Scenic Byway',
-    'BLM Back Country Byway'
-  ];
   metadata.states.forEach(({ name }) => {
     names.push(`${name} State Scenic Byway`);
     locals.colors[`${name} State Scenic Byway`] = locals.colors['State Scenic Byway'];
@@ -156,18 +157,20 @@ function collectById(_files, metalsmith) {
   }
 
   function processByway(result, byway) {
-    const { id, states, includes } = byway;
-    if (states.length > 1 && includes?.length) {
-      states.forEach(st => {
-        const state = metadata.statesById[st];
-        state.multistateByways = state.multistateByways || [];
-        state.multistateByways.push(id);
+    byway.designations ??= [names.at(-1)];
+    const { id, states, designations } = byway;
+    if (states.length === 1) {
+      const state = metadata.statesById[states[0]];
+      state.stateByways ??= {};
+      designations.forEach(dsg => {
+        state.stateByways[dsg] ??= [];
+        state.stateByways[dsg].push(id);
       });
     } else {
       states.forEach(st => {
         const state = metadata.statesById[st];
-        state.stateByways = state.stateByways || [];
-        state.stateByways.push(id);
+        state.multistateByways ??= [];
+        state.multistateByways.push(id);
       });
     }
     return addBySlug(result, byway);
@@ -178,8 +181,15 @@ function collectById(_files, metalsmith) {
   }
 
   function sortByways(state) {
-    state.stateByways.sort(compareByways);
-    state.multistateByways?.sort(compareByways);
+    const { stateByways, multistateByways } = state;
+    state.stateByways = {};
+    names.forEach(name => {
+      if (stateByways[name]) {
+        stateByways[name].sort(compareByways);
+        state.stateByways[name] = stateByways[name];
+      }
+    });
+    multistateByways?.sort(compareByways);
   }
 
   metadata.statesById = metadata.states.reduce(addBySlug, Object.create(null));
