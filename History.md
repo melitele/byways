@@ -1,4 +1,15 @@
 
+2.5.1 / 2026-06-07
+==================
+
+ * East Fork of the Sevier Scenic Backway
+ * update Markagunt High Plateau Scenic Byway
+ * update Utah's Patchwork Parkway National Scenic Byway
+ * update Cedar Breaks Scenic Byway
+ * update Kolob Reservoir Road Scenic Backway
+ * fix link to Hole in the Rock Backway
+ * change BLM link to byway page from attraction to organization heading
+
 2.5.0 / 2026-05-29
 ==================
 
