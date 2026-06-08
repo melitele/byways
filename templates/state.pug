@@ -42,7 +42,7 @@ block body
     script(src="https://cdn.furkot.com/scripts/furkot-tripshot.min.js", defer)
 
   section
-    .books.hidden(data-name=name, data-keywords=name + ' Byways', data-max=5)
+    .books.hidden(data-name=name, data-keywords=name + ' Byways', data-id=books, data-max=5)
 
   for byways, name in stateByways
     +bywaysByDesignation(name, byways)
