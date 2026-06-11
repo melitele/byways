@@ -1,4 +1,4 @@
-import collectons from '@metalsmith/collections';
+import collections from '@metalsmith/collections';
 import layouts from '@metalsmith/layouts';
 import markdown from '@metalsmith/markdown';
 import esbuild from '@pirxpilot/metalsmith-esbuild';
@@ -213,8 +213,15 @@ const ms = metalsmith(import.meta.dirname)
   .use(handleJSON)
   .use(adjustProperties)
   .use(setUrls)
-  .use(collectons(collectionsData))
-  .use(collectDesignations)
+  .use(collections(collectionsData));
+
+const path = process.env.OPTIONAL_PLUGIN_PATH;
+if (path) {
+  const module = await import(path);
+  ms.use(module.default);
+}
+
+ms.use(collectDesignations)
   .use(collectById)
   .use(
     esbuild({
