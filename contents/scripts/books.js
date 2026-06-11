@@ -39,12 +39,15 @@ async function books(list, maxBooks = MAX_BOOKS) {
   );
 
   let slots = maxBooks;
-  let rLen = results.length - 1;
   return results.reduce((r, results, i) => {
-    results = Array.isArray(results) ? pickRandom(results, list[i].verbatim, slots - rLen) : [results];
-    slots = maxBooks - results.length;
-    rLen -= 1;
-    return r.concat(results);
+    results = Array.isArray(results) ? pickRandom(results, list[i].verbatim, slots) : [results];
+    results.forEach(book => {
+      if (!r.find(b => b.id === book.id || b.title.substring(0, 40) === book.title.substring(0, 40))) {
+        r.push(book);
+      }
+    });
+    slots = maxBooks - r.length;
+    return r;
   }, []);
 }
 
@@ -75,6 +78,12 @@ function append(parent, books) {
   }
 }
 
+function stateKeywords(state) {
+  if (state) {
+    return `${state} Byways`;
+  }
+}
+
 function fetchBooks() {
   if (!endpoint) {
     return;
@@ -86,23 +95,27 @@ function fetchBooks() {
   if (!parent) {
     return;
   }
-  let list;
+  const maxBooks = parent.dataset.max ?? MAX_BOOKS;
+  let list = [];
   const id = parent.dataset.id;
   if (id) {
     list = id.split(',').map(id => ({ id }));
-  } else {
-    list = [
-      { keywords: parent.dataset.keywords, verbatim: true },
-      { keywords: parent.dataset.name },
-      { keywords: document.querySelector('.byway .state')?.textContent }
-    ].filter(el => el.keywords);
+  }
+  if (list.length < maxBooks) {
+    list = list.concat(
+      [
+        { keywords: parent.dataset.keywords, verbatim: true },
+        { keywords: parent.dataset.name },
+        { keywords: stateKeywords(document.querySelector('.byway .state')?.textContent), verbatim: true }
+      ].filter(el => el.keywords)
+    );
 
     if (!list.length) {
       return;
     }
   }
 
-  books(list, parent.dataset.max).then(books => {
+  books(list, maxBooks).then(books => {
     append(parent, books);
   });
 }
