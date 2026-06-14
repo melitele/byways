@@ -1,4 +1,12 @@
 
+2.6.1 / 2026-06-13
+==================
+
+ * option to override links to Furkot trip planner
+ * fix state list float clearing
+ * use consistent 16 / 9 aspect ratio for a map
+ * use full diamond as a separator
+
 2.6.0 / 2026-06-13
 ==================
 
