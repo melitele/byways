@@ -39,6 +39,5 @@ amazon.com.
 [2012 transportation bill]: http://www.fhwa.dot.gov/MAP21/
 [FHWA]: http://www.fhwa.dot.gov/byways/
 [creators]: https://humans.furkot.com/
-[Furkot]: https://furkot.com
 [github]: https://github.com/melitele/byways
 [email]: mailto:contact@scenicbyways.info

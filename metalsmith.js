@@ -33,6 +33,7 @@ const locals = {
   },
   package: packageJson
 };
+locals.furkotLink = process.env.FURKOT_LINK || locals.furkotUrl;
 
 const collectionsData = {
   byways: { pattern: ['byway/*'], refer: false, sortBy: 'name' },
@@ -233,7 +234,13 @@ ms.use(collectDesignations)
       target: 'safari16'
     })
   )
-  .use(markdown())
+  .use(
+    markdown({
+      globalRefs: {
+        Furkot: locals.furkotLink
+      }
+    })
+  )
   .use(
     lunr({
       pattern: ['byway/*.html', 'about.html'],
