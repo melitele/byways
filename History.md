@@ -1,4 +1,16 @@
 
+2.6.0 / 2026-06-13
+==================
+
+ * support optional metalsmith plugin
+ * associate National Geographic Scenic Highways and Byways with relevant byways
+ * associate Road Trip USA with relevant byways
+ * add state-specific books to states
+ * associate National Geographic Scenic Highways and Byways with all states
+ * identify books by ISBN
+ * improve selecting relevant books
+ * refer to Bryce Canyon Country as Garfield County Visitor Guide
+
 2.5.1 / 2026-06-07
 ==================
 
