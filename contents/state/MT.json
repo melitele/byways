@@ -2,10 +2,13 @@
   "template": "state",
   "name": "Montana",
   "websites": [{
+    "url": "https://discoveringmontana.com/?s=scenic+byway",
+    "name": "Discovering Montana Travel Guide"
+  }, {
     "url": "https://www.mdt.mt.gov/travinfo/scenic.aspx",
     "name": "Montana Scenic Byways Program"
   }, {
-    "url": "https://www.visitmt.com/search?query=scenic+byway",
+    "url": "https://visitmt.com/search?keyword=scenic+byway",
     "name": "Montana Travel Guide"
   }, {
     "url": "https://nsbfoundation.com/montana/",
