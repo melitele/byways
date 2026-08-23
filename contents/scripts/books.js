@@ -1,4 +1,4 @@
-const MAX_BOOKS = 3;
+const MAX_BOOKS = 4;
 const endpoint = document.querySelector('#books-data').dataset.url;
 
 function pickRandom(arr, verbatim, limit) {
@@ -84,6 +84,16 @@ function stateKeywords(state) {
   }
 }
 
+function getMaxBooks(dataset) {
+  if (!dataset.max) {
+    return MAX_BOOKS;
+  }
+  if (typeof dataset.max === 'string') {
+    return Number.parseInt(dataset.max, 10);
+  }
+  return dataset.max;
+}
+
 function fetchBooks() {
   if (!endpoint) {
     return;
@@ -95,7 +105,7 @@ function fetchBooks() {
   if (!parent) {
     return;
   }
-  const maxBooks = parent.dataset.max ?? MAX_BOOKS;
+  const maxBooks = getMaxBooks(parent.dataset);
   let list = [];
   const id = parent.dataset.id;
   if (id) {
