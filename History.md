@@ -1,4 +1,16 @@
 
+2.6.3 / 2026-08-23
+==================
+
+ * update Mount Blue Sky Scenic Byway
+ * update Top of the Rockies
+ * update West Elk Loop
+ * associate Scenic Driving books with states
+ * update Beartooth Highway
+ * update list of Montana travel guides
+ * link Lonely Planet Yellowstone guide to Chief Hoseph Scenic Highway
+ * display even number of books
+
 2.6.2 / 2026-06-24
 ==================
 
